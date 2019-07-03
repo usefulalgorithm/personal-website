@@ -138,6 +138,11 @@ article .header {
     float: left;
     font-size: 1.8rem;
   }
+  .comments {
+    padding-top: 5px;
+    border-top: 2px solid;
+    margin-top: 60px;
+  }
 }
 
 img {
