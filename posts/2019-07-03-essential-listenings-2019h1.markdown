@@ -12,7 +12,7 @@ title: 'Essential Listenings, 2019 H1'
 
   ![](https://f4.bcbits.com/img/a3038890076_10.jpg)
 
-  這什麼... prog vaporwave? 奇怪的東西，話說那midi鼓真的是太假了吧XD
+  這什麼... prog vaporwave? 奇怪的東西，話說那midi鼓也太假了吧XD
 
 ### Lizzo - Cuz I Love You
 
@@ -36,7 +36,7 @@ title: 'Essential Listenings, 2019 H1'
 
   ![](https://f4.bcbits.com/img/a0692764491_10.jpg)
 
-  還不錯，整體的調性陰暗的電子音樂
+  還不錯，整體調性偏陰暗的電子音樂
 
 ### King Midas Sound - Solitude
 
@@ -85,7 +85,7 @@ title: 'Essential Listenings, 2019 H1'
 
   ![](https://f4.bcbits.com/img/a1933006973_16.jpg)
 
-  實驗饒舌？巴爾第摩怎麼都出一堆饒舌怪咖，jpegmafia印象中也是那邊來的...
+  實驗饒舌？巴爾第摩怎麼都出一堆饒舌怪咖，JPEGMAFIA印象中也是那邊來的...
   這張專輯的前面真的是怪到爆，後面就感覺有點沒勁了
 
 ### Sunn O))) - Life Metal
@@ -104,13 +104,19 @@ title: 'Essential Listenings, 2019 H1'
 
   之前我一直不知道他到底為啥會被捧成這樣... 這張聽了之後比較知道了，還蠻不錯的
 
+### Earth - Full Upon the Burning Lips
+
+  ![](https://f4.bcbits.com/img/a1577721055_10.jpg)
+
+  這張感覺比較小品一點，不像之前的那麼波瀾壯闊... 但也還行
+
 ## 8 / 10
 
 ### Holly Herndon - Proto
 
   ![](https://f4.bcbits.com/img/a2284061690_10.jpg)
 
-  你覺得不好聽的話一定是你的問題...
+  你覺得不好聽的話一定是你的問題
 
 ### Dolphin Midwives - Liminal Garden
 
@@ -157,14 +163,14 @@ title: 'Essential Listenings, 2019 H1'
 
   ![](https://f4.bcbits.com/img/a3737130004_10.jpg)
 
-  本質上來說我還是很喜歡後搖ㄉ
+  本質上來說我還是很喜歡後搖的
 
 ### Xiu Xiu - Girl with Basket of Fruit
 
   ![](https://f4.bcbits.com/img/a1307546879_10.jpg)
 
   我以前一直覺得要馬是我真的不懂這個樂團在幹嘛，不然就是他們自己也不知道自己在幹嘛。
-  這張專輯證明了之前是只有我不知道他們在幹嘛而已...
+  這張專輯證明了是前者...
 
 ### Tyler, The Creator - IGOR
 
@@ -247,8 +253,14 @@ title: 'Essential Listenings, 2019 H1'
 
 ## 9 / 10
 
+### Bellows - Sander
+
+  ![](https://f4.bcbits.com/img/a3774331912_10.jpg)
+
+  這張第一首真的是完全擊中我要害，上半年聽過算是前幾名喜歡的歌了... 長度也適中，相當推薦！
+
 ### Springhead Works - Craven Faults
 
   ![](https://f4.bcbits.com/img/a0569864499_10.jpg)
 
-  Very ethreal... very nice
+  Very ethereal... very nice
