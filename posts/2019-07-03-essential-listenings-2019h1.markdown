@@ -187,6 +187,14 @@ comments: true
 
   ![](https://f4.bcbits.com/img/a0859243491_10.jpg)
 
+### Alameda 5 - Eurodrome
+
+  ![](https://f4.bcbits.com/img/a2398951548_10.jpg)
+
+  有些歌會覺得這是King Crimson吧？不是說抄得很像，而是如果King
+  Crimson今年出了一張唱片應該會聽起來就是這樣。另外他們的廠牌Instant
+  Classic是我個人覺得很會挑的牌子，之前出的幾張純樂器專輯也真的是相當好聽
+
 ## 9 / 10
 
 ### Meitei - Komachi
