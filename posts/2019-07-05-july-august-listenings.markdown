@@ -114,7 +114,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Juan Wauters - La Onda de Juan Pablo
 
-  ![]()
+  ![](https://f4.bcbits.com/img/0014759211_10.jpg)
 
   The arrangements in this album are actually much more complex than what I
   perceived when I first listened to it. I think this is definitely an album
@@ -403,8 +403,7 @@ which albums I spent more time listening to and which I didn't...
 
   [8/10]
 
-### Robert Aiki Aubrey Lowe & Ariel Kalma - FRKWYS Vol. 12: We Know Each Other
-Somehow
+### Robert Aiki Aubrey Lowe & Ariel Kalma - FRKWYS Vol. 12: We Know Each Other Somehow
 
   ![](https://f4.bcbits.com/img/0004460243_10.jpg)
 

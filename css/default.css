@@ -43,6 +43,10 @@ h2 {
   font-size: 2rem;
 }
 
+h3 {
+  text-align: center;
+}
+
 article .header {
   font-size: 1.4rem;
   font-style: italic;
@@ -143,8 +147,15 @@ article .header {
     text-align: right;
   }
   img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     border: 40px;
     width: 320px;
+  }
+  figcaption {
+    text-align: center;
+    margin-top: 18px;
   }
   .logo {
     margin: 0;
