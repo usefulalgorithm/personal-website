@@ -2,7 +2,7 @@
 title: 2019 July / August Listenings
 layout: post
 comments: true
-tags: music
+tags: music and stuff
 ---
 
 This post will be continuously updated. From my comments you can probably tell

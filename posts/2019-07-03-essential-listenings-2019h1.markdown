@@ -1,8 +1,8 @@
 ---
-categories: 'music and stuff'
 layout: post
 title: 'Essential Listenings, 2019 H1'
 comments: true
+tags: music and stuff
 ---
 
 # LPs
