@@ -12,7 +12,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Coil - Theme From the Gay Man's Guide to Safer Sex
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2171007331_16.jpg)
 
   I alway thought Coil was kinda like Throbbing Gristle, the kind of band that
   does dark industrial music or something similar, but this album is in fact
@@ -257,7 +257,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Big K.R.I.T. - K.R.I.T. IZ HERE
 
-  ![]()
+  ![](https://static.hiphopdx.com/2019/06/krit-iz-here.jpg)
 
   If this is your first time listening to Big K.R.I.T. then it's prolly a good
   idea to start with this album. Otherwise this album is basically identical to
@@ -310,7 +310,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### False - Portent
   
-  ![]()
+  ![](https://f4.bcbits.com/img/a3620678273_16.jpg)
 
   I almost fell asleep...
 
@@ -406,13 +406,13 @@ which albums I spent more time listening to and which I didn't...
 ### Robert Aiki Aubrey Lowe & Ariel Kalma - FRKWYS Vol. 12: We Know Each Other
 Somehow
 
-  ![]()
+  ![](https://f4.bcbits.com/img/0004460243_10.jpg)
 
   [8/10]
 
 ### Adriana Lopez - Anonymity of Grey
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a0190095383_10.jpg)
 
   Very decent techno music. The first songs is very outstanding... I really like
   how the main rhythmic beeps are interwined throughout the song.
