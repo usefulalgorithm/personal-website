@@ -146,7 +146,7 @@ article .header {
 
 @media (min-width: 640px) {
   body {
-    width: 60rem;
+    width: 60%;
     margin: 0 auto;
     padding: 0;
   }
