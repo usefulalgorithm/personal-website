@@ -5,6 +5,27 @@ import           Hakyll
 
 
 --------------------------------------------------------------------------------
+myFeedConfiguration :: FeedConfiguration
+myFeedConfiguration = FeedConfiguration
+    { feedTitle       = "Blog without Organs"
+    , feedDescription = "Just a regular good ol fashioned blog feed"
+    , feedAuthorName  = "Tsung-Ju Lii"
+    , feedAuthorEmail = "usefulalgorithm@gmail.com"
+    , feedRoot        = "http://usefulalgorithm.github.io"
+    }
+
+type FeedRenderer =
+    FeedConfiguration
+    -> Context String
+    -> [Item String]
+    -> Compiler (Item String)
+
+feedCompiler :: FeedRenderer -> Compiler (Item String)
+feedCompiler renderer =
+    renderer myFeedConfiguration feedCtx
+        =<< fmap (take 10) . recentFirst
+        =<< loadAllSnapshots "posts/*" "content"
+
 main :: IO ()
 main = hakyll $ do
     match "images/*" $ do
@@ -28,6 +49,7 @@ main = hakyll $ do
         route $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/post.html"    (postCtxWithTags tags)
+            >>= saveSnapshot "content"
             >>= loadAndApplyTemplate "templates/default.html" (postCtxWithTags tags)
             >>= relativizeUrls
 
@@ -62,6 +84,14 @@ main = hakyll $ do
 
     match "templates/*" $ compile templateBodyCompiler
 
+    create ["atom.xml"] $ do
+	route idRoute
+	compile (feedCompiler renderAtom)
+
+    create ["rss.xml"] $ do
+	route idRoute
+	compile (feedCompiler renderRss)
+
     tagsRules tags $ \tag pattern -> do
         route idRoute
         compile $ do
@@ -84,3 +114,6 @@ postCtx =
 
 postCtxWithTags :: Tags -> Context String
 postCtxWithTags tags = tagsField "tags" tags `mappend` postCtx
+
+feedCtx :: Context String
+feedCtx = postCtx <> bodyField "description"
