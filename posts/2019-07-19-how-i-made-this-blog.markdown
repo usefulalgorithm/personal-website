@@ -86,8 +86,8 @@ Bulbasaur](http://www.rhizomes.net/issue5/poke/bulbasaur.html)。這個應該是
 點煩的是Disqus一定要註冊才能用，就... 不在意的話可以用，我個人的話如果以後有空
 閒的話是會想換個留言外掛來用就是了。照著官方說明做完之後，
 `templates/default.html`裡面應該會有一個`<comments>`部分，可以自己在
-`css/default.css`裡面調整一下，然後以後發文的時候記得markdown的metadata裡面記得
-要加`comments: true`。
+`css/default.css`裡面調整一下，然後以後發文的時候markdown的metadata裡面記得要加
+`comments: true`。
 
 ### Tags
 
