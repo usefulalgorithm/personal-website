@@ -10,6 +10,14 @@ which albums I spent more time listening to and which I didn't...
 
 ## 2019 Releases
 
+### Deaf Center - Low Distance
+
+  ![]()
+
+  Bleak ambient music
+
+  [8.9/10]
+
 ### Coil - Theme From the Gay Man's Guide to Safer Sex
 
   ![](https://f4.bcbits.com/img/a2171007331_16.jpg)
@@ -28,8 +36,25 @@ which albums I spent more time listening to and which I didn't...
 
   [8.6/10]
 
+### James Ruskin - Reality Broadcast Off
+
+  ![]()
+
+  How techno should be done... great stuff.
+
+  [8.6/10]
+
+### Sim Hutchins, Dale Cornish - Decouple \]\[ Series
+
+  ![]()
+
+  Druk Pak is easily one of my favorite techno songs in a long time.
+  Deconstructed techno music?
+
+  [8.5/10]
+
 ### The Dead C - Rare Ravers
-  
+
   ![](https://f4.bcbits.com/img/a3862347839_10.jpg)
 
   Sometimes when you grow tired of stuff that is too pronounced, too focused,
@@ -42,11 +67,27 @@ which albums I spent more time listening to and which I didn't...
 
   [8.2/10]
 
+### Valiska - Numbers
+
+  ![]()
+
+  Awesome slow electronica / ambient music
+
+  [8.2/10]
+
 ### Slauson Malone - A Quiet Farwell, Twenty Sixteen to Twenty Eighteen
 
   ![](https://f4.bcbits.com/img/a3550078679_10.jpg)
 
   Jazzy hip hop最近應該超多人做，但做得好的人多不多又是另一回事了... 這張很好聽
+
+  [8.2/10]
+
+### They Hate Change - Clearwater
+
+  ![]()
+
+  This is the second Deathbomb release in this list.
 
   [8.2/10]
 
@@ -66,7 +107,7 @@ which albums I spent more time listening to and which I didn't...
   sounds like a more refined, more nuanced version of the kind of rap music that
   Run the Jewels has been dishing out. Aside from the instruments, one really
   have to take time to listen to what Billy Woods is rapping about to fully
-  appreciate this album. 
+  appreciate this album.
 
   [8/10]
 
@@ -101,8 +142,16 @@ which albums I spent more time listening to and which I didn't...
 
   [8/10]
 
+### Scrolls - Rent We Ate
+
+  ![]()
+
+  This is the third Deathbomb release on this list.
+
+  [8/10]
+
 ### AMAZONDOTCOM - Mirror River
-  
+
   ![](https://f4.bcbits.com/img/a1233505055_10.jpg)
 
   Pretty intense club music. People say it's experimental club music /
@@ -123,6 +172,22 @@ which albums I spent more time listening to and which I didn't...
 
   [7.9/10]
 
+### Rainer Veil - Vanity
+
+  ![]()
+
+  Bright, nice techno music. In Gold Mills is pretty good. Very vibrant.
+
+  [7.9/10]
+
+### Lifted - 2
+
+  ![]()
+
+  Jazzy electronic music / ambient. Pretty good!
+
+  [7.8/10]
+
 ### Rejoicer - Heavy Smoke
 
   ![](https://f4.bcbits.com/img/a0718154544_10.jpg)
@@ -141,6 +206,31 @@ which albums I spent more time listening to and which I didn't...
   Filthy rap music... I dig it.
 
   [7.8/10]
+
+### machina - archepelago
+
+  ![]()
+
+  Glitched out poppy techno. Or is it techno-ish K-pop? Either way this is a
+  pretty interesting album. Cool stuff.
+
+  [7.7/10]
+
+### Mary LAttimore, Mac McCaughan - New Rain Duets
+
+  ![]()
+
+  Decent ambient album. Harps + synths.
+
+  [7.6/10]
+
+### Loop LF - Natural XT EP
+
+  ![]()
+
+  Drum n' bass with a tropical vibe.
+
+  [7.6/10]
 
 ### DJ Marcelle / Another Nice Mess - One Place For the First Time
 
@@ -193,6 +283,55 @@ which albums I spent more time listening to and which I didn't...
 
   [7.6/10]
 
+### Ernest Berk - Electronic Music for Two Ballets
+
+  ![]()
+
+  Dark experimental electronic music. Should definitely try to find the footages of the two ballets.
+
+  [7.6/10]
+
+### Shifted - The Light Touch
+
+  ![]()
+
+  Afrobeat / techno
+
+  [7.5/10]
+
+### Motohiko Hamase - \#Notes of Forestry
+
+  ![]()
+
+  Chill new age / ambient / modern classical.
+
+  [7.5/10]
+
+### Kode9 - Diggin In The Carts Remixes
+
+  ![]()
+
+  Kode9 reworks one of my favorite releases from last year. Last year's was
+  better.
+
+  [7.5/10]
+
+### Clay Rendering - California Black Vows
+
+  ![]()
+
+  At times jangly, at times soft gothic indie rock. Not bad.
+
+  [7.5/10]
+
+### Max D - Many Any
+
+  ![]()
+
+  Cool breakbeat music with a twist.
+
+  [7.4/10]
+
 ### Paisiel - Paisiel
 
   ![](https://f4.bcbits.com/img/a1009686272_10.jpg)
@@ -224,14 +363,62 @@ which albums I spent more time listening to and which I didn't...
 
   [7.4/10]
 
+### Ondo Fudd - Eyes Glide Through the Oxide
+
+  ![]()
+
+  Upbeat techno music
+
+  [7.3/10]
+
+### Spellling - Mazy Fly
+
+  ![]()
+
+  Pitchfork says this album sounds very haunting and reeks of terror... well I
+  really think they're exagerating a bit too much here, but this album does have
+  a dark undertone. While I do think this album could probably be a little more
+  adventurous and probably incorporate more esoteric elements like even stranger
+  compostion or more bizarre sound samples, I would say this is still a pretty
+  enjoyable album and is not all that difficult to get into.
+
+  [7.3/10]
+
+### Uboa - The Origin of My Depression
+
+  ![]()
+
+  Moody experimental / noise album. Lots of shrieks in this one.
+
+  [7.2/10]
+
+### Eomac - Reconnect Remixes
+
+  ![]()
+
+  Weirded-out techno music
+
+  [7.1/10]
+
 ### 海豚刑警 - 豚愛特攻隊
 
   ![](https://cfstatic.streetvoice.com/music_albums/ir/uk/iruka527/wwJtdbdbuQcimQwuVZqVWB.jpg)
 
-  本島年度indie rock巨作，老實說我覺得聽起來好歡樂... 如果有多一點的fuzz
-  、再聲嘶力竭一點，可能我會比較喜歡吧？不過我覺得這張絕對是今年聽過最給力的中文專輯了。
+  I don't know... maybe it's my problem that I don't really enjoy this album
+  that much? I feel like the overall sound of the album is just too cheerful and
+  trying too hard to appeal to post-millenials, or maybe there isn't even any
+  trying because they're themselves post-millenials? I guess what I'm trying to
+  say is, the songs are really well structured and nicely produced, and the
+  musicianship on this album is unreal (it's very good), but it's the overall
+  sound / mood / aesthetics that I don't find myself a huge fan of.
 
-  [7.2/10]
+  [7/10]
+
+### STUDIO MULE - BGM
+
+  ![]()
+
+  Reworks of Japanese new age / electronica musics from the last century.
 
 ### Blood Orange - Angel's Pulse
 
@@ -251,7 +438,7 @@ which albums I spent more time listening to and which I didn't...
   ![](https://f4.bcbits.com/img/a3371710779_10.jpg)
 
   只有吉他的後搖，我感覺很像很久以前聽Hell的某張EP的一首歌，也是只有吉他clean
-  tone在那邊彈。雖說不是很特別的作品，但也是蠻好聽的... 
+  tone在那邊彈。雖說不是很特別的作品，但也是蠻好聽的...
 
   [7/10]
 
@@ -297,7 +484,7 @@ which albums I spent more time listening to and which I didn't...
   中規中矩吧？電音專輯有更好聽的就是了。
 
   [6.4/10]
-  
+
 ### Oozing Wound - High Anxiety
 
   ![](https://f4.bcbits.com/img/a0319864493_10.jpg)
@@ -305,16 +492,40 @@ which albums I spent more time listening to and which I didn't...
   樂器部分相當給力... 很爽的龐克 &
   很帶感的sludge，但主唱的唱法我實在是不喜歡。如果是叫Jane Doe時期的Jacob
   Bannon來唱的話應該還蠻適合的
-  
+
   [6.2/10]
 
+### Dj Python - Derretirse
+
+  ![]()
+
+  Festive techno music.
+
+### Russian Circles - Blood Year
+
+  ![]()
+
+  Definitely not their best album. Pales in comparison to their older stuff,
+  songs were much less fun and the riffs weren't as crushing.
+
+  [6.1/10]
+
 ### False - Portent
-  
+
   ![](https://f4.bcbits.com/img/a3620678273_16.jpg)
 
   I almost fell asleep...
 
   [6.1/10]
+
+### Lingua Ignota - CALIGULA
+
+  ![]()
+
+  Experimental music that's not really experimental. More like a mashup of black
+  metal and chant music.
+
+  [6/10]
 
 ### Pavel Milyakov - La Maison De La Mort
 
@@ -337,6 +548,16 @@ which albums I spent more time listening to and which I didn't...
   coherent. And then the soft parts, while pretty catchy, do not seem to possess
   that grasping feel in the more melodic moments in the albums I just mentioned.
   Pile is a great band, but this album is definitely not their strongest.
+
+  [6/10]
+
+### Sadistik - Haunted Gardens
+
+  ![]()
+
+  Hip hop reviewers seem to dig this album a lot... I feel like the
+  instrumentals sound too much soft EDM-ish, and the flow isn't really all that
+  refreshing.
 
   [6/10]
 
@@ -375,13 +596,29 @@ which albums I spent more time listening to and which I didn't...
 
 ## Non-2019 Releases
 
+### Kaoru Inoue - Em Paz
+
+  ![]()
+
+  Groovy Japanese new age ambient music.
+
+  [7.3/10]
+
+### HKE - Charming Devil
+
+  ![]()
+
+  Xiu Xiu + Wreck in Reference
+
+  [7.5/10]
+
 ### Tom Carter - Long Time Underground
 
   ![](https://f4.bcbits.com/img/a1525902077_10.jpg)
 
   迷幻搖滾吉他大作，相當不錯
 
-  [7.8/10]
+  [7.6/10]
 
 ### Auspicious Family - Gruff Sequences for Dancefloor
 
@@ -394,6 +631,31 @@ which albums I spent more time listening to and which I didn't...
   pretty enjoyable album.
 
   [7.6/10]
+
+### Yutaka Hirose - Nova + 4
+
+  ![]()
+
+  Ambient / environmental music. Probably need to listen to it for a few more
+  times...
+
+  [7.6/10]
+
+###  Dynamo - Außen Vor
+
+  ![]()
+
+  Spacey, grainy techno music.
+
+  [7.8/10]
+
+### Serpent Column - Ornuthi Thalassa
+
+  ![]()
+
+  I'm glad to have finally found some new metal tracks that are interesting enough to listen to... to me it's a bit too organized and the melodic parts are at times a bit too much of a cliche, but it's heavy and a lot of fun to listen to.
+
+  [7.9/10]
 
 ### Sturgill Simpson - Metamodern Sounds in Country Music
 
@@ -409,6 +671,22 @@ which albums I spent more time listening to and which I didn't...
 
   [8/10]
 
+### Migurl Angel Tolosa - Ephimeral
+
+  ![]()
+
+  Decent ambient with dark undertone.
+
+  [8/10]
+
+### Nick Malkin - Slow Day on Brilliant Drive
+
+  ![]()
+
+  Gorgeous ambient music. Lots of different textures laid out in the tracks.
+
+  [8.2/10]
+
 ### Adriana Lopez - Anonymity of Grey
 
   ![](https://f4.bcbits.com/img/a0190095383_10.jpg)
@@ -418,6 +696,32 @@ which albums I spent more time listening to and which I didn't...
 
   [8.3/10]
 
+### 75 Dollar Bill - Wooden Bag
+
+  ![]()
+
+  [8.5/10]
+
+### F.U.S.E. - Dimension Intrusion
+
+  ![]()
+
+  Exquisite acid house / ambient techno.
+
+  [8.5/10]
+
+### David Sylvian - Secrets of the Beehive
+
+  ![]()
+
+  I used to always think Japan sounds like a band that'd play hard rock / hair
+  metal, now I know I was gravely mistaken. This album is from the frontman of
+  the said band, and how to call this music... adult contemporary? Art pop?
+  Either way this album is a great pleasure to the ears. I really like how
+  ferocious and dissonant the piano goes in the song Mother and Child.
+
+  [8.5/10]
+
 ### Lupe Fiasco - Testuo & Youth
 
   ![](https://hiphop-n-more.com/wp-content/uploads/2018/01/lupe-fiasco-tetsuo-youth-masterpiece.jpg)
@@ -425,3 +729,19 @@ which albums I spent more time listening to and which I didn't...
   Lupe Fiasco有這麼好聽喔...
 
   [8.6/10]
+
+### Ellen Arkbro - For Organ and Brass
+
+  ![]()
+
+  Very soothing modern composition.
+
+  [8.8/10]
+
+### David Sylvian - Blemish
+
+  ![]()
+
+  MASTERPIECE
+
+  [9.5/10]
