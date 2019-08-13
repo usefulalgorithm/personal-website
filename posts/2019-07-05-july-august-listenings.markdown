@@ -12,7 +12,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Deaf Center - Low Distance
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2385192584_10.jpg)
 
   Bleak ambient music
 
@@ -38,7 +38,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### James Ruskin - Reality Broadcast Off
 
-  ![]()
+  ![](https://imagescdn.juno.co.uk/full/CS736508-01A-BIG.jpg)
 
   How techno should be done... great stuff.
 
@@ -46,7 +46,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Sim Hutchins, Dale Cornish - Decouple \]\[ Series
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3134738562_10.jpg)
 
   Druk Pak is easily one of my favorite techno songs in a long time.
   Deconstructed techno music?
@@ -69,7 +69,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Valiska - Numbers
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2228578431_10.jpg)
 
   Awesome slow electronica / ambient music
 
@@ -85,7 +85,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### They Hate Change - Clearwater
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2459938142_16.jpg)
 
   This is the second Deathbomb release in this list.
 
@@ -144,7 +144,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Scrolls - Rent We Ate
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a0815959662_16.jpg)
 
   This is the third Deathbomb release on this list.
 
@@ -174,7 +174,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Rainer Veil - Vanity
 
-  ![]()
+  ![](https://assets.boomkat.com/spree/products/585307/large/LOVE112_Distribution_Preview.jpg)
 
   Bright, nice techno music. In Gold Mills is pretty good. Very vibrant.
 
@@ -182,7 +182,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Lifted - 2
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1134738786_10.jpg)
 
   Jazzy electronic music / ambient. Pretty good!
 
@@ -209,16 +209,16 @@ which albums I spent more time listening to and which I didn't...
 
 ### machina - archepelago
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2138185720_10.jpg)
 
   Glitched out poppy techno. Or is it techno-ish K-pop? Either way this is a
   pretty interesting album. Cool stuff.
 
   [7.7/10]
 
-### Mary LAttimore, Mac McCaughan - New Rain Duets
+### Mary Lattimore, Mac McCaughan - New Rain Duets
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a4170954872_10.jpg)
 
   Decent ambient album. Harps + synths.
 
@@ -226,7 +226,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Loop LF - Natural XT EP
 
-  ![]()
+  ![](https://assets.boomkat.com/spree/products/597880/large/5050580717428.jpg)
 
   Drum n' bass with a tropical vibe.
 
@@ -285,7 +285,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Ernest Berk - Electronic Music for Two Ballets
 
-  ![]()
+  ![](https://assets.boomkat.com/spree/products/599193/large/A10341T000001VW93J_T55982476580054.jpg)
 
   Dark experimental electronic music. Should definitely try to find the footages of the two ballets.
 
@@ -293,7 +293,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Shifted - The Light Touch
 
-  ![]()
+  ![](https://www.residentadvisor.net/images/reviews/2019/satoem004-shifted.jpg)
 
   Afrobeat / techno
 
@@ -301,7 +301,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Motohiko Hamase - \#Notes of Forestry
 
-  ![]()
+  ![](https://i2.wp.com/www.fondsound.com/wp-content/uploads/2017/07/notes.jpg?resize=600%2C592&ssl=1)
 
   Chill new age / ambient / modern classical.
 
@@ -309,7 +309,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Kode9 - Diggin In The Carts Remixes
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3564288879_10.jpg)
 
   Kode9 reworks one of my favorite releases from last year. Last year's was
   better.
@@ -318,7 +318,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Clay Rendering - California Black Vows
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1232528430_10.jpg)
 
   At times jangly, at times soft gothic indie rock. Not bad.
 
@@ -326,7 +326,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Max D - Many Any
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a4057813475_10.jpg)
 
   Cool breakbeat music with a twist.
 
@@ -365,7 +365,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Ondo Fudd - Eyes Glide Through the Oxide
 
-  ![]()
+  ![](https://assets.boomkat.com/spree/products/597529/large/5050580718432.jpg)
 
   Upbeat techno music
 
@@ -373,7 +373,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Spellling - Mazy Fly
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2827815398_10.jpg)
 
   Pitchfork says this album sounds very haunting and reeks of terror... well I
   really think they're exagerating a bit too much here, but this album does have
@@ -386,7 +386,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Uboa - The Origin of My Depression
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2013031149_10.jpg)
 
   Moody experimental / noise album. Lots of shrieks in this one.
 
@@ -394,7 +394,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Eomac - Reconnect Remixes
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2800386727_10.jpg)
 
   Weirded-out techno music
 
@@ -416,7 +416,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### STUDIO MULE - BGM
 
-  ![]()
+  ![](https://assets.boomkat.com/spree/products/577505/large/STUDIOMUL018CD_CU.jpg)
 
   Reworks of Japanese new age / electronica musics from the last century.
 
@@ -497,13 +497,13 @@ which albums I spent more time listening to and which I didn't...
 
 ### Dj Python - Derretirse
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a4220994179_10.jpg)
 
   Festive techno music.
 
 ### Russian Circles - Blood Year
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2119011724_10.jpg)
 
   Definitely not their best album. Pales in comparison to their older stuff,
   songs were much less fun and the riffs weren't as crushing.
@@ -520,7 +520,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Lingua Ignota - CALIGULA
 
-  ![]()
+  ![](https://f4.bcbits.com/img/0016347175_10.jpg)
 
   Experimental music that's not really experimental. More like a mashup of black
   metal and chant music.
@@ -553,7 +553,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Sadistik - Haunted Gardens
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a0371222980_10.jpg)
 
   Hip hop reviewers seem to dig this album a lot... I feel like the
   instrumentals sound too much soft EDM-ish, and the flow isn't really all that
@@ -598,7 +598,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Kaoru Inoue - Em Paz
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2066179906_10.jpg)
 
   Groovy Japanese new age ambient music.
 
@@ -606,7 +606,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### HKE - Charming Devil
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a0258224435_10.jpg)
 
   Xiu Xiu + Wreck in Reference
 
@@ -622,7 +622,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Auspicious Family - Gruff Sequences for Dancefloor
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2498354954_10.jpg)
 
   I like the rhythmic patterns in this record. It's got a controlled texture to
   it and I kinda dig it. One problem I find with this album is the balance of
@@ -634,7 +634,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Yutaka Hirose - Nova + 4
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1492586588_10.jpg)
 
   Ambient / environmental music. Probably need to listen to it for a few more
   times...
@@ -643,7 +643,7 @@ which albums I spent more time listening to and which I didn't...
 
 ###  Dynamo - Außen Vor
 
-  ![]()
+  ![](https://assets.boomkat.com/spree/products/601332/large/original.jpg)
 
   Spacey, grainy techno music.
 
@@ -651,7 +651,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Serpent Column - Ornuthi Thalassa
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2385401846_10.jpg)
 
   I'm glad to have finally found some new metal tracks that are interesting enough to listen to... to me it's a bit too organized and the melodic parts are at times a bit too much of a cliche, but it's heavy and a lot of fun to listen to.
 
@@ -673,7 +673,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Migurl Angel Tolosa - Ephimeral
 
-  ![]()
+  ![](https://auralaggravation.files.wordpress.com/2017/05/miguel-angel-tolosa-e28093-ephimeral.jpg)
 
   Decent ambient with dark undertone.
 
@@ -681,7 +681,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Nick Malkin - Slow Day on Brilliant Drive
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1565566786_10.jpg)
 
   Gorgeous ambient music. Lots of different textures laid out in the tracks.
 
@@ -698,13 +698,13 @@ which albums I spent more time listening to and which I didn't...
 
 ### 75 Dollar Bill - Wooden Bag
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3670685822_10.jpg)
 
   [8.5/10]
 
 ### F.U.S.E. - Dimension Intrusion
 
-  ![]()
+  ![](https://d1rgjmn2wmqeif.cloudfront.net/r/b/20985-1.jpg)
 
   Exquisite acid house / ambient techno.
 
@@ -712,7 +712,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### David Sylvian - Secrets of the Beehive
 
-  ![]()
+  ![](http://www.davidsylvian.com/images09/discography/david_sylvian_secrets_of_the_beehive.jpg)
 
   I used to always think Japan sounds like a band that'd play hard rock / hair
   metal, now I know I was gravely mistaken. This album is from the frontman of
@@ -732,7 +732,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### Ellen Arkbro - For Organ and Brass
 
-  ![]()
+  ![](https://payload.cargocollective.com/1/18/597173/12719714/SUB021-3000x3000_2500_c.png)
 
   Very soothing modern composition.
 
@@ -740,7 +740,7 @@ which albums I spent more time listening to and which I didn't...
 
 ### David Sylvian - Blemish
 
-  ![]()
+  ![](http://www.davidsylvian.com/images09/discography/david_sylvian_blemish.jpg)
 
   MASTERPIECE
 
