@@ -44,6 +44,22 @@ which albums I spent more time listening to and which I didn't...
 
   [8.6/10]
 
+### Shura - forevher
+
+  ![](https://f4.bcbits.com/img/a0862750546_10.jpg)
+
+  This one is a real doozie. Do not miss out!
+
+  [8.6/10]
+
+### Jay Som - Anak Ko
+
+  ![](https://f4.bcbits.com/img/a1017312610_10.jpg)
+
+  Indie pop, funky at times and serene at some other. I love the instrumentals on this thing.
+
+  [8.6/10]
+
 ### Sim Hutchins, Dale Cornish - Decouple \]\[ Series
 
   ![](https://f4.bcbits.com/img/a3134738562_10.jpg)
@@ -91,11 +107,35 @@ which albums I spent more time listening to and which I didn't...
 
   [8.2/10]
 
+### Special Request - Vortex
+
+  ![](https://www.residentadvisor.net/images/reviews/2019/artwork_specialrequest-ra-cover.jpg)
+
+  Raving, gnarly techno music. Love it!
+
+  [8.1/10]
+
 ### Caterina Barbieri - Ecstatic Computation
 
   ![](https://f4.bcbits.com/img/a3979650195_10.jpg)
 
   對這種真的是沒啥抵抗力... 好好聽...
+
+  [8/10]
+
+### M. Sage - Catch a Blessing
+
+  ![](https://assets.boomkat.com/spree/products/580050/large/192641279720.jpg)
+
+  Great ambient music, lots of fun and lots of texture. If only I had a vinyl player at home...
+
+  [8.1/10]
+
+### Laura Cannell, Polly Wright - Sing as the Crow Flies
+
+  ![](https://assets.boomkat.com/spree/products/598747/large/5056321602008_T10_Image.jpg)
+
+  Sublime vocal improv modern composition music. I thought I don't like this type of music, but boy was I gravely mistaken...
 
   [8/10]
 
@@ -147,6 +187,14 @@ which albums I spent more time listening to and which I didn't...
   ![](https://f4.bcbits.com/img/a0815959662_16.jpg)
 
   This is the third Deathbomb release on this list.
+
+  [8/10]
+
+### Oli XL - Rogue Intruder, Soul Enhancer
+
+  ![](https://f4.bcbits.com/img/a0344252331_10.jpg)
+
+  Stellar electronic album. The slightly muffled vocals are pretty dope.
 
   [8/10]
 
@@ -299,6 +347,14 @@ which albums I spent more time listening to and which I didn't...
 
   [7.5/10]
 
+### Marie Davidson - Chasing the Light / Work It (Soulwax Remix) x Lara (Daniel Avery Remix)
+
+  ![](https://www.residentadvisor.net/images/reviews/2019/marie-davidson-soulwax.jpg)
+
+  I like this much more than I like Marie Davidson's solo output.
+
+  [7.5/10]
+
 ### Motohiko Hamase - \#Notes of Forestry
 
   ![](https://i2.wp.com/www.fondsound.com/wp-content/uploads/2017/07/notes.jpg?resize=600%2C592&ssl=1)
@@ -346,6 +402,14 @@ which albums I spent more time listening to and which I didn't...
 
   [7.4/10]
 
+### Shadi - You Can't Hear Me
+
+  ![](https://f4.bcbits.com/img/a1495478041_16.jpg)
+
+  Another weird hip hop album from Deathbomb Arc. Some songs have instrumentals that sound like old jazz fusion jams, but overall the flows and beats are not as neat as other releases from the label.
+
+  [7.4/10]
+
 ### Blockhead - Free Sweatpants
 
   ![](https://f4.bcbits.com/img/a3456573677_10.jpg)
@@ -362,6 +426,22 @@ which albums I spent more time listening to and which I didn't...
   現在再聽就覺得，還不錯，但今年有聽到更好聽的饒舌音樂...
 
   [7.4/10]
+
+### Rod Modell - Captagon
+
+  ![](https://2hmivxeex38xwini1gzpzavh-wpengine.netdna-ssl.com/wp-content/uploads/Tresor-Records-artwork-740x740.jpg)
+
+  Chilling dub techno.
+
+  [7.4/10]
+
+### Wreck and Reference - Absolute Still Life
+
+  ![](https://f4.bcbits.com/img/a0991512656_10.jpg)
+
+  This time they sound tamer and more chilled out then their previous efforts.
+
+  [7.3/10]
 
 ### Ondo Fudd - Eyes Glide Through the Oxide
 
@@ -384,11 +464,27 @@ which albums I spent more time listening to and which I didn't...
 
   [7.3/10]
 
+### Nina Kravitz - Stranno Stranno Neobjatno
+
+  ![](https://www.deejay.de/images/xl/2/2/935822b.jpg)
+
+  Ok techno music.
+
+  [7.2/10]
+
 ### Uboa - The Origin of My Depression
 
   ![](https://f4.bcbits.com/img/a2013031149_10.jpg)
 
   Moody experimental / noise album. Lots of shrieks in this one.
+
+  [7.2/10]
+
+### Departure Chandelier - The Black Crest of Death, The Gold Wreath of War
+
+  ![](https://f4.bcbits.com/img/a0880863526_10.jpg)
+
+  USBM. Intro and outro are both stellar. The longer songs are ok.
 
   [7.2/10]
 
@@ -419,6 +515,8 @@ which albums I spent more time listening to and which I didn't...
   ![](https://assets.boomkat.com/spree/products/577505/large/STUDIOMUL018CD_CU.jpg)
 
   Reworks of Japanese new age / electronica musics from the last century.
+
+  [7/10]
 
 ### Blood Orange - Angel's Pulse
 
@@ -477,6 +575,22 @@ which albums I spent more time listening to and which I didn't...
 
   [6.8/10]
 
+### Haiku Salut - The General
+
+  ![](https://f4.bcbits.com/img/a3349974514_10.jpg)
+
+  Glithy beats and piano and synthesizer. Soundtrack to some movie. I don't like the pianos in this one, too cliche.
+
+  [6.5/10]
+
+### Kornél Kovács - Stockholm Marathon
+
+  ![](https://f4.bcbits.com/img/a1532244425_10.jpg)
+
+  I'm not that big on pop house / house pop or stuff like that. But I gotta admit some songs like Atlas Nights and Rocks are pretty decent.
+
+  [6.5/10]
+
 ### Buttechno - Minimal Cuts
 
   ![](https://f4.bcbits.com/img/a1118849427_10.jpg)
@@ -501,12 +615,22 @@ which albums I spent more time listening to and which I didn't...
 
   Festive techno music.
 
+  [6.2/10]
+
 ### Russian Circles - Blood Year
 
   ![](https://f4.bcbits.com/img/a2119011724_10.jpg)
 
   Definitely not their best album. Pales in comparison to their older stuff,
   songs were much less fun and the riffs weren't as crushing.
+
+  [6.1/10]
+
+### Tool - Fear Inoculum
+
+  ![](https://townsquare.media/site/295/files/2019/08/ToolFI.jpg)
+
+  Meh... 拖台錢
 
   [6.1/10]
 
@@ -518,12 +642,19 @@ which albums I spent more time listening to and which I didn't...
 
   [6.1/10]
 
+### Tralala Blip - Eat My Codes If Your Light Falls
+
+  ![](https://f4.bcbits.com/img/a1755122266_10.jpg)
+
+  I don't like pop electronica. This sounds very 00's-ish.
+
+  [6/10]
+
 ### Lingua Ignota - CALIGULA
 
   ![](https://f4.bcbits.com/img/0016347175_10.jpg)
 
-  Experimental music that's not really experimental. More like a mashup of black
-  metal and chant music.
+  Experimental music that's not really experimental. More like a mashup of black metal and chant music.
 
   [6/10]
 
@@ -531,8 +662,7 @@ which albums I spent more time listening to and which I didn't...
 
   ![](https://www.residentadvisor.net/images/reviews/2019/bh057_lamaisondelamort.jpg)
 
-  Songs I like: FFF, Moon Pad。有些歌切得好斷... 不錯的ambient music，整體來說還行？但不聽可能也不會怎麼樣。
-  搞這張的就是上面那位Buttechno，可以聽得出來這張的電音感還是有的
+  Songs I like: FFF, Moon Pad。有些歌切得好斷... 不錯的ambient music，整體來說還行？但不聽可能也不會怎麼樣。搞這張的就是上面那位Buttechno，可以聽得出來這張的電音感還是有的
 
   [6/10]
 
@@ -540,14 +670,8 @@ which albums I spent more time listening to and which I didn't...
 
   ![](https://f4.bcbits.com/img/a0120018546_10.jpg)
 
-  Their older stuff, like Dripping and You're Better Than This, are much better
-  in terms of song structures and dynamics. In this one I feel that the harder
-  hitting parts are kinda rushed together - they're there not because of a
-  previous build up or to signify some sort of mood shift, instead they feel
-  more like fragments, segments of riffs and do not really sound all that
-  coherent. And then the soft parts, while pretty catchy, do not seem to possess
-  that grasping feel in the more melodic moments in the albums I just mentioned.
-  Pile is a great band, but this album is definitely not their strongest.
+  Their older stuff, like Dripping and You're Better Than This, are much better in terms of song structures and dynamics. In this one I feel that the harder hitting parts are kinda rushed together - they're there not because of a previous build up or to signify some sort of mood shift, instead they feel more like fragments, segments of riffs and do not really sound all that
+  coherent. And then the soft parts, while pretty catchy, do not seem to possess that grasping feel in the more melodic moments in the albums I just mentioned. Pile is a great band, but this album is definitely not their strongest.
 
   [6/10]
 
@@ -555,9 +679,7 @@ which albums I spent more time listening to and which I didn't...
 
   ![](https://f4.bcbits.com/img/a0371222980_10.jpg)
 
-  Hip hop reviewers seem to dig this album a lot... I feel like the
-  instrumentals sound too much soft EDM-ish, and the flow isn't really all that
-  refreshing.
+  Hip hop reviewers seem to dig this album a lot... I feel like the instrumentals sound too much soft EDM-ish, and the flow isn't really all that refreshing.
 
   [6/10]
 
@@ -565,24 +687,23 @@ which albums I spent more time listening to and which I didn't...
 
   ![](https://images.squarespace-cdn.com/content/v1/5983631ff5e231bc4fda24b4/1561002770870-9WYN3T5Q8IQ8RYH2ZGKX/ke17ZwdGBToddI8pDm48kEWEftExrEqI2RLJ8_a08PNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIGK6sJ7fnfWnpcjO8mkpvc6Yy82nHUnVxx6O7zoeDINQKMshLAGzx4R3EDFOm1kBS/Clarity_Cover.jpg?format=750w)
 
-  不是啊，同樣的音樂類型Rina Sawayama為啥就做得這麼好聽，Kim
-  Petra就可以做得這麼水... 其實不算差，但我覺得是也可以不用聽啦...
+  不是啊，同樣的音樂類型Rina Sawayama為啥就做得這麼好聽，Kim Petra就可以做得這麼水... 其實不算差，但我覺得是也可以不用聽啦...
 
   [5/10]
+
+### Sadness - Circle of Veins
+
+  ![](https://f4.bcbits.com/img/a0667265189_10.jpg)
+
+  ... black metal + 00s-ish electro pop + indie pop. Pretty yucky if you ask me...
+
+  [4.5/10]
 
 ### Gus Dapperton - Where Polly People Go to Read
 
   ![](https://resources.tidal.com/images/1793a27b/13fd/4358/b864/0d4f3703f7c5/1280x1280.jpg)
 
-  The dude's going to play in Taiwan... one thing for sure is that you won't see
-  me at the show. I really do not comprehend why people even listen to this
-  stuff, to me this record is more like a cut 'n paste of some of the blandest,
-  most watered-down moments from several relevant indie genres: dream pop, indie
-  rock, synth pop, alternative r&b, the list can go on but I suppose you already
-  get the idea. To be fair some bass lines in some tracks are pretty flashy, but
-  the dude's voice is just too obnoxious for me to actually remember which songs
-  have better instrumentals.  All in all I really don't think very highly of
-  this musical project.
+  The dude's going to play in Taiwan... one thing for sure is that you won't see me at the show. I really do not comprehend why people even listen to this stuff, to me this record is more like a cut 'n paste of some of the blandest, most watered-down moments from several relevant indie genres: dream pop, indie rock, synth pop, alternative r&b, the list can go on but I suppose you already get the idea. To be fair some bass lines in some tracks are pretty flashy, but the dude's voice is just too obnoxious for me to actually remember which songs have better instrumentals.  All in all I really don't think very highly of this musical project.
 
   [4.4/10]
 
@@ -612,6 +733,14 @@ which albums I spent more time listening to and which I didn't...
 
   [7.5/10]
 
+### Milieu - Remodelled
+
+  ![](https://i.scdn.co/image/84ae0127d6fae3dd1b249d4358330b8f20b77aa0)
+
+  IDM / ambient electronic. In some songs the drums are way too loud so keep in mind to turn down the volume a little bit.
+
+  [7.5/10]
+
 ### Tom Carter - Long Time Underground
 
   ![](https://f4.bcbits.com/img/a1525902077_10.jpg)
@@ -624,11 +753,7 @@ which albums I spent more time listening to and which I didn't...
 
   ![](https://f4.bcbits.com/img/a2498354954_10.jpg)
 
-  I like the rhythmic patterns in this record. It's got a controlled texture to
-  it and I kinda dig it. One problem I find with this album is the balance of
-  the sounds in some of the songs, like the ride cymbal bells on Waxen Folds is
-  actually distractingly loud when listened on my earphones. Still this is a
-  pretty enjoyable album.
+  I like the rhythmic patterns in this record. It's got a controlled texture to it and I kinda dig it. One problem I find with this album is the balance of the sounds in some of the songs, like the ride cymbal bells on Waxen Folds is actually distractingly loud when listened on my earphones. Still this is a pretty enjoyable album.
 
   [7.6/10]
 
@@ -636,8 +761,7 @@ which albums I spent more time listening to and which I didn't...
 
   ![](https://f4.bcbits.com/img/a1492586588_10.jpg)
 
-  Ambient / environmental music. Probably need to listen to it for a few more
-  times...
+  Ambient / environmental music. Probably need to listen to it for a few more times...
 
   [7.6/10]
 
@@ -649,6 +773,14 @@ which albums I spent more time listening to and which I didn't...
 
   [7.8/10]
 
+### Lionmilk - Depths of Madness
+
+  ![](https://f4.bcbits.com/img/a4091677493_10.jpg)
+
+  Pretty chill RnB. I like the instrumentals on this one a lot.
+
+  [7.8/10]
+
 ### Serpent Column - Ornuthi Thalassa
 
   ![](https://f4.bcbits.com/img/a2385401846_10.jpg)
@@ -656,6 +788,14 @@ which albums I spent more time listening to and which I didn't...
   I'm glad to have finally found some new metal tracks that are interesting enough to listen to... to me it's a bit too organized and the melodic parts are at times a bit too much of a cliche, but it's heavy and a lot of fun to listen to.
 
   [7.9/10]
+
+### Hecq - Chansons de geste
+
+  ![](https://f4.bcbits.com/img/a2812245094_10.jpg)
+
+  Think William Basinski, Philip Jeck and the Caretaker. Haunting droney low fidelity ambient music.
+
+  [8/10]
 
 ### Sturgill Simpson - Metamodern Sounds in Country Music
 
@@ -679,6 +819,14 @@ which albums I spent more time listening to and which I didn't...
 
   [8/10]
 
+### Colored Music - Individual Beauty
+
+  ![](https://imagescdn.juno.co.uk/full/CS691646-01A-BIG.jpg)
+
+  Japanese new wave / jazz funk / art rock.
+
+  [8.1/10]
+
 ### Nick Malkin - Slow Day on Brilliant Drive
 
   ![](https://f4.bcbits.com/img/a1565566786_10.jpg)
@@ -691,8 +839,7 @@ which albums I spent more time listening to and which I didn't...
 
   ![](https://f4.bcbits.com/img/a0190095383_10.jpg)
 
-  Very decent techno music. The first songs is very outstanding... I really like
-  how the main rhythmic beeps are interwined throughout the song.
+  Very decent techno music. The first songs is very outstanding... I really like how the main rhythmic beeps are interwined throughout the song.
 
   [8.3/10]
 
@@ -714,11 +861,7 @@ which albums I spent more time listening to and which I didn't...
 
   ![](http://www.davidsylvian.com/images09/discography/david_sylvian_secrets_of_the_beehive.jpg)
 
-  I used to always think Japan sounds like a band that'd play hard rock / hair
-  metal, now I know I was gravely mistaken. This album is from the frontman of
-  the said band, and how to call this music... adult contemporary? Art pop?
-  Either way this album is a great pleasure to the ears. I really like how
-  ferocious and dissonant the piano goes in the song Mother and Child.
+  I used to always think Japan sounds like a band that'd play hard rock / hair metal, now I know I was gravely mistaken. This album is from the frontman of the said band, and how to call this music... adult contemporary? Art pop? Either way this album is a great pleasure to the ears. I really like how ferocious and dissonant the piano goes in the song Mother and Child.
 
   [8.5/10]
 
