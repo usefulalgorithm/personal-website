@@ -8,24 +8,12 @@ tags: hakyll, haskell
 ![One day I'll start a company where all programmers have to code in Brainfuck...](https://i.warosu.org/data/g/img/0647/55/1518802013131.jpg)
 
 ## Why Hakyll?
-  
-一直以來都蠻想學一下[Haskell](https://www.haskell.org/)，但又太懶沒真的認真學過
-或是拿來做什麼正事... 最近事情沒那麼多，想說重新來摸一下，但光是看[Real World
-Haskell](http://cnhaskell.com/)或是[Learn You a Haskell for Great
-Good](http://learnyouahaskell.com/)來學好像又有點沒啥實感的樣子，就想說不如挑簡
-單一點的事情來做。然後我一直都想學下怎樣自己架個部落格，所以...
 
-一開始是打算拿另一個也是用Haskell實作的網路框架
-[Yesod](https://www.yesodweb.com/)來刻一個，但是摸了一陣覺得Yesod對於Haskell語言
-熟悉度的門檻還是稍微高一些，於是就拿Hakyll來用了。Hakyll基本上跟Jekyll的原理差不
-多，只要寫寫markdown文檔，下幾個指令，丟給伺服器就差不多了。很久以前有嘗試用過
-Jekyll，但是那時候比較嫩一點，又不是很想認真搞懂元件跟功能之間的關係，就沒有繼續
-碰了。目前個人使用Hakyll的感覺是所有的邏輯都可以整合在一個地方，印象中Jekyll還有
-一些需要自己去調整的東西，比起來Hakyll的整體使用經驗對我來說順蠻多的。當然有那種
-根本不用開命令列就可以架Jekyll的作法，但我的重點就是要自己做啊... 所以不考慮。至
-於在實際操作上，Haskell的code其實一旦習慣了就還蠻好懂的，整個程式的邏輯很清楚，
-要加什麼特別神奇的功能我想應該也是有辦法做到的。社群裡面大師也很多，基本上有什麼
-不會的Google一下都可以找到解答。
+一直以來都蠻想學一下[Haskell](https://www.haskell.org/)，但又太懶沒真的認真學過或是拿來做什麼正事... 最近事情沒那麼多，想說重新來摸一下，但光是看[Real World
+Haskell](http://cnhaskell.com/)或是[Learn You a Haskell for Great
+Good](http://learnyouahaskell.com/)來學好像又有點沒啥實感的樣子，就想說不如挑簡單一點的事情來做。然後我一直都想學下怎樣自己架個部落格，所以...
+
+一開始是打算拿另一個也是用Haskell實作的網路框架[Yesod](https://www.yesodweb.com/)來刻一個，但是摸了一陣覺得Yesod對於Haskell語言熟悉度的門檻還是稍微高一些，於是就拿Hakyll來用了。Hakyll基本上跟Jekyll的原理差不多，只要寫寫markdown文檔，下幾個指令，丟給伺服器就差不多了。很久以前有嘗試用過Jekyll，但是那時候比較嫩一點，又不是很想認真搞懂元件跟功能之間的關係，就沒有繼續碰了。目前個人使用Hakyll的感覺是所有的邏輯都可以整合在一個地方，印象中Jekyll還有一些需要自己去調整的東西，比起來Hakyll的整體使用經驗對我來說順蠻多的。當然有那種根本不用開命令列就可以架Jekyll的作法，但我的重點就是要自己做啊... 所以不考慮。至於在實際操作上，Haskell的code其實一旦習慣了就還蠻好懂的，整個程式的邏輯很清楚，要加什麼特別神奇的功能我想應該也是有辦法做到的。社群裡面大師也很多，基本上有什麼不會的Google一下都可以找到解答。
 
 ## How?
 
