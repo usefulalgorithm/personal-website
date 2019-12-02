@@ -62,3 +62,7 @@ babam.cc:13:50: sorry, unimplemented: non-trivial designated initializers not su
 ```
 
 So, yeah, at least `g++` doesn't deal with designated initializers that are out of order.
+
+### `lower_bound` vs. `find_if`
+
+Do not use `lower_bound` on unsorted stuff. Unexpected things will definitely happen. To find an element in a structure that is not sorted, use `find_if`. I didn't bother to read the explanations on cppreference and then got stuck on an easy problem on leetcode for like 30 minutes because of this...
