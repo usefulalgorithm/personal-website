@@ -66,3 +66,22 @@ So, yeah, at least `g++` doesn't deal with designated initializers that are out 
 ### `lower_bound` vs. `find_if`
 
 Do not use `lower_bound` on unsorted stuff. Unexpected things will definitely happen. To find an element in a structure that is not sorted, use `find_if`. I didn't bother to read the explanations on cppreference and then got stuck on an easy problem on leetcode for like 30 minutes because of this...
+
+### Function Parameters Can Be Without Identifiers
+
+This is valid C++ code:
+
+```c++
+void foo (int) {
+  // do stuff without the passed in parameter
+}
+
+// ...
+
+void bar () {
+  foo(1);
+  foo(2);
+}
+```
+
+As long as `foo` doesn't actually use the `int` parameter, this is fine. Moreover this saves us the effort of having to name a variable we don't need whatsoever, and the compiler wouldn't warn against a named but unused variable.
