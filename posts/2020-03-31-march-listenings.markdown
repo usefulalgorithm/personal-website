@@ -55,6 +55,22 @@ tags: music and stuff
 
   [8.4/10]
 
+### Horse Lords - The Common Task
+
+  ![](https://f4.bcbits.com/img/a3789063721_10.jpg)
+
+  Microtonal math rock. Truly an underrated band. Camille thinks it's super annoying though.
+
+  [8.4/10]
+
+### Nicolas Jaar - Cenizas
+
+  ![](https://f4.bcbits.com/img/a2503291994_10.jpg)
+
+  While not really familiar with the stuff he put out under his own name, the AAL album from last month was spectacular in every aspect. This album is on the same level as the said AAL album: both are equally arresting and gnarly, but this one has more contrasts in tonalities and features more playful lead lines, like those pentatonic synth lines on Gocce.
+
+  [8.3/10]
+
 ### Sega Bodega - Salvador
 
   ![](https://f4.bcbits.com/img/a1813181346_10.jpg)
@@ -87,20 +103,6 @@ tags: music and stuff
 
   [8.2/10]
 
-### Nicolas Jaar - Cenizas
-
-  ![](https://f4.bcbits.com/img/a2503291994_10.jpg)
-
-  TODO
-
-  [8.2/10]
-
-### Jacaszek - Music For Film
-
-  ![](https://f4.bcbits.com/img/a0158359268_10.jpg)
-
-  TODO
-
 ### Pantha Du Prince - Conference Of Trees
 
   ![](https://www.residentadvisor.net/images/reviews/2020/conferenceoftrees.jpg)
@@ -132,6 +134,14 @@ tags: music and stuff
   Pretty decent vaporwave.
 
   [7.9/10]
+
+### Jacaszek - Music For Film
+
+  ![](https://f4.bcbits.com/img/a0158359268_10.jpg)
+
+  Haunting dark ambient. Not like one of those spooky dark ambient tunes that achieves nearly nothing music-wise, this one is bleak yet thoroughly enjoyable.
+
+  [7.8/10]
 
 ### Vladislav Delay - Rakka
 
