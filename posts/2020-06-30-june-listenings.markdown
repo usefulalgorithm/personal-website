@@ -411,8 +411,8 @@ tags: music and stuff
 
   Found through a post in The Flenser Facebook group. Dazzling alternative rock... gothic dream pop.
 
-  [8.3/10
-]
+  [8.3/10]
+
 ### Sister Grotto - You Don't Have To Be A House To Be Haunted
 
   ![](https://f4.bcbits.com/img/a0524247984_10.jpg)
