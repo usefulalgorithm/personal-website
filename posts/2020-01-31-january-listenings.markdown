@@ -1,5 +1,5 @@
 ---
-title: 2020 January Listenings
+title: 2020 July Listenings
 layout: post
 comments: true
 tags: music and stuff
