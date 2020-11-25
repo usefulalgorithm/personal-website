@@ -39,6 +39,14 @@ tags: music and stuff
 
   [8.3/10]
 
+### Adrianne Lenker - Songs
+
+  ![](https://f4.bcbits.com/img/a1829975877_10.jpg)
+
+  Simplistic folk songs. Very stripped down album, yet it is an album that becomes increasingly engaging as you play it on repeat. 真的好聽
+
+  [8.3/10]
+
 ### Emma Ruth Rundle, Thou - May Our Chambers Be Full
 
   ![](https://f4.bcbits.com/img/a3696645020_10.jpg)
@@ -60,6 +68,14 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a4245032904_10.jpg)
 
   Jan Jelinek's alter ego does some dreamy ambient music sampled from alleged pop songs... GES wrote some stuff on their Bandcamp page, pretty interesting read.
+
+  [8.1/10]
+
+### Moor Jewelry - True Opera
+
+  ![](https://f4.bcbits.com/img/a0058014362_10.jpg)
+  
+  Noise rock / no wave + Moor Mother. I honestly don't know how one would describe Moor Mother's musical output in a word. Maybe spoken word poetry with experimental jazz instrumentals? But Mental Jewelry totally slays on this album.
 
   [8.1/10]
 
@@ -127,6 +143,14 @@ tags: music and stuff
 
   [7.6/10]
 
+### Aesop Rock - Spirit World Field Guide
+
+  ![](https://f4.bcbits.com/img/a4186608441_10.jpg)
+
+  Abstract hip-hop. I actually think the beats on this album are pretty dope, but his voice sounds a bit thin and distracting. 
+
+  [7.5/10]
+
 ### Gaika - Seguridad
 
   ![](https://f4.bcbits.com/img/a1567384387_10.jpg)
@@ -150,6 +174,14 @@ tags: music and stuff
   Soothing cinematic ambient / post-rock / field recording. It's like music you'd hear at a museum and you'd be like, "the music is alright", and then you get on with the rest of the exhibition without really paying attention to the music.
 
   [7.0/10]
+
+### Orchid Mantis - Far From This World
+
+  ![](https://f4.bcbits.com/img/a0449516437_10.jpg)
+
+  A more shoegaze-y Real Estate. Pretty sounds, not a lot of originality IMO.
+
+  [6.9/10]
 
 ### Yo La Tengo - Sleepless Nights
 
@@ -201,6 +233,14 @@ tags: music and stuff
 
   [8.5/10]
 
+### Basic Channel - Quadrant Dub
+
+  ![](https://assets.boomkat.com/spree/products/490231/large/BC.jpg)
+
+  Dub techno. 買不到了...
+
+  [8.4/10]
+
 ### Function - Existenz
 
   ![](https://assets.boomkat.com/spree/products/617992/large/0666017339726.jpg)
@@ -208,6 +248,14 @@ tags: music and stuff
   House. Though this album is over an hour long it never feels stagnating. Love this one
 
   [8.1/10]
+
+### Yatta - Wahala
+
+  ![](https://f4.bcbits.com/img/a2748418002_10.jpg)
+
+  Kinda feel like Mhysa's album from earlier this year. Experimental spoke n word... or cut-up music?
+
+  [7.7/10]
 
 ### Rothko - Severed Tense
 
