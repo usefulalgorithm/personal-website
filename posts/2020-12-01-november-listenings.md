@@ -249,7 +249,7 @@ tags: music and stuff
 
 ### Liturgy - Origin Of The Alimonies
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1229338581_10.jpg)
 
   Black metal opera. There's a trap song at the end of the album. I mean the more aggressive sections are pretty cool, but the entire thing doesn't make a lot of sense without context. Maybe I'll appreciate it more when I get the album...
 
