@@ -15,11 +15,35 @@ tags: music and stuff
 
   [8.5/10]
 
+### Grand River - Blink A Few Times To Clear Your Eyes
+
+  ![](https://f4.bcbits.com/img/a4151932139_10.jpg)
+
+  Ambient. 超好聽，貝多熊可考慮進一下。Another magnificent release from Editions Mego.
+
+  [8.6/10]
+
+### Ana Roxanne - Because Of A Flower
+
+  ![](https://f4.bcbits.com/img/a3771205071_10.jpg)
+
+  Not really that into her debut stuff but this one is golden. Mellow, ethereal ambinent / indietronica.
+
+  [8.4/10]
+
 ### Bill Callahan - Gold Record
 
   ![](https://f4.bcbits.com/img/a3941009329_10.jpg)
 
   Blues / country / folk. This one is a lot of fun to listen to, and the songs are super catchy. I think I like this one even more than Shepherd. 開始就在那邊說 "Hello I'm Johnny Cash"， LMAO
+
+  [8.4/10]
+
+### Faceless Burial - Speciation
+
+  ![](https://f4.bcbits.com/img/a1236080079_10.jpg)
+
+  Ass-kicking death metal. Good stuff.
 
   [8.4/10]
 
@@ -51,7 +75,7 @@ tags: music and stuff
 
   ![](https://f4.bcbits.com/img/a3696645020_10.jpg)
 
-  Another classic from Thou & Co. Somehow it feels like a grunge album...
+  Another cool release from Thou & Co. Somehow it feels like a grunge album...
 
   [8.2/10]
 
@@ -63,19 +87,19 @@ tags: music and stuff
 
   [8.2/10]
 
-### Gesellschaft Zur Emanzipation Des Samples - Anthology Of American Pop Music
-
-  ![](https://f4.bcbits.com/img/a4245032904_10.jpg)
-
-  Jan Jelinek's alter ego does some dreamy ambient music sampled from alleged pop songs... GES wrote some stuff on their Bandcamp page, pretty interesting read.
-
-  [8.1/10]
-
 ### Moor Jewelry - True Opera
 
   ![](https://f4.bcbits.com/img/a0058014362_10.jpg)
-  
+
   Noise rock / no wave + Moor Mother. I honestly don't know how one would describe Moor Mother's musical output in a word. Maybe spoken word poetry with experimental jazz instrumentals? But Mental Jewelry totally slays on this album.
+
+  [8.1/10]
+
+### Takayuki Shiraishi - Anthologia
+
+  ![](https://f4.bcbits.com/img/a4085966366_10.jpg)
+
+  Playful house & mellow beats with krautrock influences.
 
   [8.1/10]
 
@@ -87,6 +111,14 @@ tags: music and stuff
 
   [8.1/10]
 
+### Various Artists - Pop Ambient 2021
+
+  ![](https://f4.bcbits.com/img/a4261532536_10.jpg)
+
+  輕鬆無負擔
+
+  [8.1/10]
+
 ### Staraya Derevnya - Inwards Opened The Floor
 
   ![](https://f4.bcbits.com/img/a2213521169_10.jpg)
@@ -95,13 +127,13 @@ tags: music and stuff
 
   [8.0/10]
 
-### Bongripper - Glaciers
+### Nadja - Tsukihoshihi
 
-  ![](https://f4.bcbits.com/img/a2538693043_10.jpg)
+  ![](https://assets.boomkat.com/spree/products/696106/large/Nadja-Tsukihoshihi.jpg)
 
-  Meditative heavy music. 超不金屬，感覺是那種宿醉窩在床上會聽到睡著的類型
+  Obscure Japanese city pop / funk album unearthed. 好聽
 
-  [8.0/10]
+  [7.9/10]
 
 ### John Frusciante - Maya
 
@@ -119,11 +151,19 @@ tags: music and stuff
 
   [7.8/10]
 
-### Yellow - 浮世擊
+### FFT - Month / Sacrifice
 
-  ![](https://i.kfs.io/album/global/89289396,3v1/fit/500x500.jpg)
+  ![](https://f4.bcbits.com/img/a1902000038_10.jpg)
 
-  Acid jazz / R&B. 除了 Meniere's Buzzing 跟獨上C樓之外，每首歌都編得很好 (那兩首我真的不愛... ) 樂手真的是 played out of their minds，鼓跟貝斯演奏到飛天
+  趙正媛說這是 Nicolas Jaar 嗎？我是覺得不到太像...
+
+  [7.7/10]
+
+### Gesellschaft Zur Emanzipation Des Samples - Anthology Of American Pop Music
+
+  ![](https://f4.bcbits.com/img/a4245032904_10.jpg)
+
+  Jan Jelinek's alter ego does some dreamy ambient music sampled from alleged pop songs... GES wrote some stuff on their Bandcamp page, pretty interesting read.
 
   [7.7/10]
 
@@ -135,6 +175,14 @@ tags: music and stuff
 
   [7.6/10]
 
+### Dirty Projector - 5 EPs
+
+  ![](https://f4.bcbits.com/img/a2921336825_10.jpg)
+
+  Pretty catchy indie roc compilation. So the 5 EPs all sound pretty different, the first being folky, the second more indietronica, the third has a bit of Brazilian folk vibe going on, but then the entire project still feels very coherent. However I'm not really that into indie music right now...
+
+  [7.6/10]
+
 ### Mort Garson - Music From Patch Cord Productions
 
   ![](https://f4.bcbits.com/img/a1023002208_10.jpg)
@@ -143,13 +191,29 @@ tags: music and stuff
 
   [7.6/10]
 
+### Yellow - 浮世擊
+
+  ![](https://i.kfs.io/album/global/89289396,3v1/fit/500x500.jpg)
+
+  Acid jazz / R&B. 除了 Meniere's Buzzing 跟獨上C樓之外，每首歌都編得很好 (那兩首我真的不愛... ) 樂手真的是 played out of their minds，鼓跟貝斯演奏到飛天。不過還是不太耐聽...
+
+  [7.5/10]
+
 ### Aesop Rock - Spirit World Field Guide
 
   ![](https://f4.bcbits.com/img/a4186608441_10.jpg)
 
-  Abstract hip-hop. I actually think the beats on this album are pretty dope, but his voice sounds a bit thin and distracting. 
+  Abstract hip-hop. I actually think the beats on this album are pretty dope, but his voice sounds a bit thin and distracting.
 
   [7.5/10]
+
+### Cabaret Voltaire - Shadow Of Fear
+
+  ![](https://f4.bcbits.com/img/a1757556983_10.jpg)
+
+  I've played this album a bunch at the new job... but I'd suggest sticking with their older, more memorable stuff.
+
+  [7.4/10]
 
 ### Gaika - Seguridad
 
@@ -175,6 +239,22 @@ tags: music and stuff
 
   [7.0/10]
 
+### Bongripper - Glaciers
+
+  ![](https://f4.bcbits.com/img/a2538693043_10.jpg)
+
+  Meditative heavy music. 超不金屬，感覺是那種宿醉窩在床上會聽到睡著的類型
+
+  [7.0/10]
+
+### Liturgy - Origin Of The Alimonies
+
+  ![]()
+
+  Black metal opera. There's a trap song at the end of the album. I mean the more aggressive sections are pretty cool, but the entire thing doesn't make a lot of sense without context. Maybe I'll appreciate it more when I get the album...
+
+  [7.0/10]
+
 ### Orchid Mantis - Far From This World
 
   ![](https://f4.bcbits.com/img/a0449516437_10.jpg)
@@ -189,7 +269,7 @@ tags: music and stuff
 
   YTL does soothing country covers.
 
-  [6.8/10]
+  [6.5/10]
 
 ### The Killers - Imploding The Mirage
 
@@ -225,6 +305,12 @@ tags: music and stuff
 
 ## Non-2020 Releases
 
+### Ovum - Ascension
+
+  ![](https://f4.bcbits.com/img/a0165312225_10.jpg)
+
+  [10/10]
+
 ### Jake Muir
 
   ![](https://f4.bcbits.com/img/a3144064782_10.jpg)
@@ -256,6 +342,14 @@ tags: music and stuff
   Kinda feel like Mhysa's album from earlier this year. Experimental spoke n word... or cut-up music?
 
   [7.7/10]
+
+### Sky H1 - Motion
+
+  ![](https://f4.bcbits.com/img/a2975947196_10.jpg)
+
+  Synth heavy ambient. Pretty good.
+
+  [7.6/10]
 
 ### Rothko - Severed Tense
 
