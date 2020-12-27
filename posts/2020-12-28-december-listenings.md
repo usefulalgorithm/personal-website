@@ -9,7 +9,7 @@ tags: music and stuff
 
 ### William Basinski - Lamentations
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2967895462_10.jpg)
 
   [9.1/10]
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
 ### Jessie Ware - What's Your Pleasure?
 
-  ![]()
+  ![](https://static.stereogum.com/uploads/2020/06/jessie-ware-1593205314.jpeg)
 
   Awesome city pop.
 
@@ -63,7 +63,7 @@ tags: music and stuff
 
 ### Loma - Don’t Shy Away
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3976337506_10.jpg)
 
   Gloomy, minimalistic indie pop. Brian eno played on the last track. 好聽
 
@@ -71,15 +71,23 @@ tags: music and stuff
 
 ### The Koreantown Oddity - Little Dominiques Nosebleed
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1484090135_16.jpg)
 
   Dope jazz-hop.
 
   [8.3/10]
 
+### Drew McDowall - Agalma
+
+  ![](https://f4.bcbits.com/img/a3339804330_10.jpg)
+
+  Modern classical / ambient. Drew McDowall assembled an all-star crew for this project - Kali Malone, Caterini Barbieri, all of them artists I'm really looking forward to their future artisitc endeavors. As for this album it is a very mystical album. Like it.
+
+  [8.3/10]
+
 ### MIKE - Weight Of The World
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1764027466_16.jpg)
 
   Very enjoyable lo-fi hip-hop. Reminds me of Madvillainy for some reason.
 
@@ -95,7 +103,7 @@ tags: music and stuff
 
 ### Sturgil Simpson - Cuttin' Grass Vol. 2
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1334122426_10.jpg)
 
   Great bluegrass / country music by one of the genre's most consistent artists.
 
@@ -103,7 +111,7 @@ tags: music and stuff
 
 ### They hate change - 666 Central Ave.
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1792643548_10.jpg)
 
   Kings of bedroom drum n bass rap are still on their streak.
 
@@ -119,7 +127,7 @@ tags: music and stuff
 
 ### JPEGMAFIA - EP!
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2219405675_10.jpg)
 
   Pretty good but this feels more like a treaser to something.
 
@@ -127,7 +135,7 @@ tags: music and stuff
 
 ### 萬能青年旅店 - 冀西南林路行
 
-  ![]()
+  ![](https://blow.streetvoice.com/wp-content/uploads/2020/12/132418123_208354917527943_7734680450421899002_o-768x768.jpg)
 
   Jazz rock / folk rock / prog. This album feels like one single song played in different speed, chords, and interspersed with solos. Or just a really really long song? Either way I find this album less enticing than their first album, but then it is indeed a well-crafted album.
 
@@ -135,9 +143,17 @@ tags: music and stuff
 
   [7.8/10]
 
+### Kelly Moran & Prurient - Chain Reaction At Dusk
+
+  ![](https://f4.bcbits.com/img/a0924858981_10.jpg)
+
+  Kelly Moran's stuff on this one is on point, but Prurient's isn't as interesting. Kelly Moran next full-length album when?
+
+  [7.7/10]
+
 ### Riki - Riki
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a0220070547_16.jpg)
 
   Synth pop / retrowave. Pretty old school stuff.
 
@@ -145,7 +161,7 @@ tags: music and stuff
 
 ### Unwed sailor - Look Alive
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3154750242_10.jpg)
 
   Instrumental post punk? Danceable post rock? Either way the album started out pretty refreshing but gradually lost its shine. Nevertheless it’s a pretty interesting release I’ll say.
 
@@ -153,7 +169,7 @@ tags: music and stuff
 
 ### Inter Arma - Garber Days Revisited
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3768799376_16.jpg)
 
   Established doom metal band does a cover album. March Of The Pigs is pretty dope.
 
@@ -177,15 +193,23 @@ tags: music and stuff
 
 ### Various Artists - Nick Luscombe Presents Tokyo Dreaming
 
-  ![]()
+  ![](https://d1c4rk9le5opln.cloudfront.net/7b342bc1b5e5f95c5bb4c6e32799d88c.jpg)
 
   Lotsa Japanese music big names are in this compilation, but a lot of them are outdated pop music with soaring lead guitar solos.
 
   [6.7/10]
 
+### Ruby Fatale - 彼岸
+
+  ![](https://i.kfs.io/album/global/89167859,0v1/fit/500x500.jpg)
+
+  OK IDM, none of the tracks really stands out though IMO.
+
+  [6.7/10]
+
 ### Pinegrove - Marigold
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3643784525_10.jpg)
 
   DCFC-ish indie rock. Last track is a pretty expansive drone / post rock track but others are just ok.
 
@@ -193,7 +217,7 @@ tags: music and stuff
 
 ### Kid Cudi - Man On The Moon III: The Chosen
 
-  ![]()
+  ![](https://static.highsnobiety.com/thumbor/DcghSQivI_KbG6EGmt5R3kQer2E=/1600x1600/static.highsnobiety.com/wp-content/uploads/2020/12/11163845/kid-cudi-man-moon-iii-chosen-main.jpg)
 
   Even his best album to date sounds only OK-ish.
 
@@ -201,7 +225,7 @@ tags: music and stuff
 
 ### Pallbearer - Forgotten Days
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3740156325_10.jpg)
 
   Its all down tuned doom metal in a minor with clean vocals. I’d say it’s definitely on the boring side.
 
