@@ -9,15 +9,15 @@ tags: music and stuff
 
 ### Floating Points, Pharoah Sanders, London Symphony Orchestra - Promises
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2975740667_16.jpg)
 
   <3 <3 <3
 
-  [8.6/10]
+  [8.8/10]
 
 ### Elori Saxi - The Blue Of Distance
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a0876555243_16.jpg)
 
   Modern composition / new age. I can play this all day.
 
@@ -33,7 +33,7 @@ tags: music and stuff
 
 ### slowthai - Tyron
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3407863222_16.jpg)
 
   UK grime / trap. I think this is the first hip-hop release from this year that I actually enjoy...
 
@@ -49,15 +49,15 @@ tags: music and stuff
 
 ### Various Artists - Somewhere Between: Mutant Pop, Electronic Minimalism & Shadow Sounds Of Japan 1980 - 1988
 
-  ![]()
+  ![](https://light-in-the-attic.s3.amazonaws.com/uploads/release_image/27230/image/large_550_tmp_2F1606864266006-r1san12d54-adfc234df546e9172aacd4ae7f41cb30_2Flita183_3000px_72dpi.jpg)
 
   Wife said she had a nightmare when I played this whiloe she was sleeping. Mystical left-field pop songs.
 
-  [7.4/10]
+  [7.7/10]
 
 ### William Doyle - Great Spans Of Muddy Time
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2916077999_16.jpg)
 
   While not as mesmerizing as his late 2019 album, this album is more droning and dissonant.
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
 ### Lana Del Rey - Chemtrails Over The Country Club
 
-  ![]()
+  ![](https://static01.nyt.com/images/2021/03/23/arts/22lana-review2/merlin_185244795_c1f8a625-ede8-4f19-b2ce-53d1250cef3c-jumbo.jpg)
 
   The only one who gets a pass for singing like they're breathing is named Kate Bush.
 
@@ -75,7 +75,7 @@ tags: music and stuff
 
 ### Daniel Lentz, Ian William Craig - FRKWYS Vol. 16: In a Word
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1153639401_16.jpg)
 
   [8.7/10]
 
@@ -97,7 +97,7 @@ tags: music and stuff
 
 ### Robert Hood - Mirror Man
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1230317271_16.jpg)
 
   Dude may be old but dude be goin' on strong as ever.
 
@@ -113,15 +113,15 @@ tags: music and stuff
 
 ### Sam Prekop - Comma
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2706703589_16.jpg)
 
   Minimalistic indietronica / pop-techno by former member of The Sea And The Cake. Pretty approachable stuff.
 
   [7.7/10]
 
-### SKillkills - Chunk
+### skillkills - Chunk
 
-  ![]()
+  ![](https://i.kfs.io/album/global/69814697,0v1/fit/500x500.jpg)
 
   Off-kilter alternative hip-hop. Fun to listen to.
 
@@ -129,7 +129,7 @@ tags: music and stuff
 
 ### Mark Lanegan - Straight Songs Of Sorrow
 
-  ![]()
+  ![](http://undertheradarmag.com/uploads/review_images/Mark_Lanegan_Straight_Songs_of_Sorrow_review_under_the_radar.jpg)
 
   Wife hates this QQ, the song Internal Hourglass Discussion is pretty decent though.
 
@@ -139,25 +139,17 @@ tags: music and stuff
 
 ### Karenn - Grapefruit Regret
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3722103088_10.jpg)
 
   彈跳 techno，很讚
 
   [8.3/10]
 
-### Hakushi Hasegawa - Air Ni Ni
-
-  ![](https://coolestsound.jp/im/blog/480/http://images.amazon.com/images/I/81eBNBTVnlL._SL1430_.jpg)
-
-  []
-
-## 2018 Releases
-
 ## 2017 Releases
 
 ### Jazz Doummunisters - Cupid & Bataille, Dirty Microphone
 
-  ![]()
+  ![](https://i.kfs.io/album/global/26100153,2v1/fit/500x500.jpg)
 
   Weird spoken-word / jazz-hop by two Japanese middle aged men. One of them played in Cowboy Bebop's OST and Ground Zero, the other is a columnist and (I think) a visiting scholar in Keio university. Really weird stuff, but in the best way possible.
 
@@ -167,7 +159,7 @@ tags: music and stuff
 
 ### Moe And Ghosts x 空間現代 - Rap Phenomenon
 
-  ![]()
+  ![](https://img.discogs.com/itK6xhwAALZoVeZGfoYNHzIqmYA=/fit-in/600x600/filters:strip_icc():format(webp):mode_rgb():quality(90)/discogs-images/R-12486345-1536244664-8075.jpeg.jpg)
 
   Math rock-noise-rap? 感覺有點像玉手初美
 
