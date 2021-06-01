@@ -7,14 +7,6 @@ tags: music and stuff
 
 ## 2021 Releases
 
-### Perc - Bitter Music
-
-  ![](https://f4.bcbits.com/img/a0083396422_10.jpg)
-
-  Industrial techno. Makes you want to party really hard even if you're trapped in the apartment.
-
-  [8.6/10]
-
 ### Cities Aviv - The Crashing Sound of How It Goes
 
   ![](https://f4.bcbits.com/img/a2628284613_16.jpg)
@@ -274,6 +266,14 @@ tags: music and stuff
   [7.4/10]
 
 ## 2017 Releases
+
+### Perc - Bitter Music
+
+  ![](https://f4.bcbits.com/img/a0083396422_10.jpg)
+
+  Industrial techno. Makes you want to party really hard even if you're trapped in the apartment.
+
+  [8.6/10]
 
 ### Rafael Anton Irisarri - The Shameless Years
 
