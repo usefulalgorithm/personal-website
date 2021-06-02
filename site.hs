@@ -85,12 +85,12 @@ main = hakyll $ do
     match "templates/*" $ compile templateBodyCompiler
 
     create ["atom.xml"] $ do
-	route idRoute
-	compile (feedCompiler renderAtom)
+        route idRoute
+        compile (feedCompiler renderAtom)
 
     create ["rss.xml"] $ do
-	route idRoute
-	compile (feedCompiler renderRss)
+        route idRoute
+        compile (feedCompiler renderRss)
 
     tagsRules tags $ \tag pattern -> do
         route idRoute
