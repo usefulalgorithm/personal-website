@@ -7,6 +7,14 @@ tags: music and stuff
 
 ## 2021 Releases
 
+### Colleen - The Tunnel and the Clearing
+
+  ![]()
+
+  I can listen to this all day. Shadowy, soft electronic / ambient.
+
+  [8.8/10]
+
 ### Black Midi - Cavalcade
 
   ![]()
@@ -14,6 +22,14 @@ tags: music and stuff
   I like this more than their debut album. Or maybe it's because I'm not really familiar with that one... Chaotic, all-over-the-place (in the nicest sense of the word) math-rock.
 
   [8.1/10]
+
+### Loraine James - Reflection
+
+  ![]()
+
+  TBH I like her stunning debut from two years ago more than this one. This one just feels more tame, less wonky and freakish. But it's still pretty good though.
+
+  [7.8/10]
 
 ### Jimmy Edgar - Cheetah Bend
 
@@ -32,6 +48,14 @@ tags: music and stuff
   Who would not like this...
 
   [8.6/10]
+
+### LA Timpa - Modern Antics in a Deserted Place
+
+  ![](https://f4.bcbits.com/img/a0921754968_16.jpg)
+
+  Dreamy bedroom avant-pop. I like it.
+
+  [8.5/10]
 
 ## 2019 Releases
 
