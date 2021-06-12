@@ -5,9 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-## 2021 Releases
-
-### Colleen - The Tunnel and the Clearing
+## Colleen - The Tunnel and the Clearing
 
   ![]()
 
@@ -15,7 +13,7 @@ tags: music and stuff
 
   [8.8/10]
 
-### Black Midi - Cavalcade
+## Black Midi - Cavalcade
 
   ![]()
 
@@ -23,7 +21,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Loraine James - Reflection
+## Loraine James - Reflection
 
   ![]()
 
@@ -31,7 +29,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Jimmy Edgar - Cheetah Bend
+## Jimmy Edgar - Cheetah Bend
 
   ![]()
 
@@ -39,9 +37,7 @@ tags: music and stuff
 
   [6.5/10]
 
-## 2020 Releases
-
-### Khotin - Finds You Well
+## Khotin - Finds You Well
 
   ![]()
 
@@ -49,7 +45,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### LA Timpa - Modern Antics in a Deserted Place
+## LA Timpa - Modern Antics in a Deserted Place
 
   ![](https://f4.bcbits.com/img/a0921754968_16.jpg)
 
@@ -57,9 +53,7 @@ tags: music and stuff
 
   [8.5/10]
 
-## 2019 Releases
-
-### Various Artists - 𝑔𝓁𝒶𝓂𝑜𝓊𝓇°
+## Various Artists - 𝑔𝓁𝒶𝓂𝑜𝓊𝓇°
 
   ![](https://f4.bcbits.com/img/a1179243115_16.jpg)
 
@@ -67,9 +61,7 @@ tags: music and stuff
 
   [8.3/10]
 
-## 2017 Releases
-
-### Bedwetter - Vol. 1: Flick Your Tongue Against Your Teeth and Describe the Present
+## Bedwetter - Vol. 1: Flick Your Tongue Against Your Teeth and Describe the Present
 
   ![]()
 
