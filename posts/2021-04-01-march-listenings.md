@@ -5,7 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-### Floating Points, Pharoah Sanders, London Symphony Orchestra - Promises
+## Floating Points, Pharoah Sanders, London Symphony Orchestra - Promises
 
   ![](https://f4.bcbits.com/img/a2975740667_16.jpg)
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
   [8.8/10]
 
-### Elori Saxi - The Blue Of Distance
+## Elori Saxi - The Blue Of Distance
 
   ![](https://f4.bcbits.com/img/a0876555243_16.jpg)
 
@@ -25,7 +25,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Emeka Ogboh - Beyond The Yellow Haze
+## Emeka Ogboh - Beyond The Yellow Haze
 
   ![](https://f4.bcbits.com/img/a4036206990_16.jpg)
 
@@ -35,7 +35,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### slowthai - Tyron
+## slowthai - Tyron
 
   ![](https://f4.bcbits.com/img/a3407863222_16.jpg)
 
@@ -45,7 +45,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Dialect - Under~Between
+## Dialect - Under~Between
 
   ![](https://f4.bcbits.com/img/a1547261430_10.jpg)
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Various Artists - Somewhere Between: Mutant Pop, Electronic Minimalism & Shadow Sounds Of Japan 1980 - 1988
+## Various Artists - Somewhere Between: Mutant Pop, Electronic Minimalism & Shadow Sounds Of Japan 1980 - 1988
 
   ![](https://light-in-the-attic.s3.amazonaws.com/uploads/release_image/27230/image/large_550_tmp_2F1606864266006-r1san12d54-adfc234df546e9172aacd4ae7f41cb30_2Flita183_3000px_72dpi.jpg)
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### William Doyle - Great Spans Of Muddy Time
+## William Doyle - Great Spans Of Muddy Time
 
   ![](https://f4.bcbits.com/img/a2916077999_16.jpg)
 
@@ -75,7 +75,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Lana Del Rey - Chemtrails Over The Country Club
+## Lana Del Rey - Chemtrails Over The Country Club
 
   ![](https://static01.nyt.com/images/2021/03/23/arts/22lana-review2/merlin_185244795_c1f8a625-ede8-4f19-b2ce-53d1250cef3c-jumbo.jpg)
 
@@ -85,7 +85,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### Daniel Lentz, Ian William Craig - FRKWYS Vol. 16: In a Word
+## Daniel Lentz, Ian William Craig - FRKWYS Vol. 16: In a Word
 
   ![](https://f4.bcbits.com/img/a1153639401_16.jpg)
 
@@ -93,7 +93,7 @@ tags: music and stuff
 
   Release date: 2020-11-20
 
-### Priscilla Ermel - Origens Da Luz
+## Priscilla Ermel - Origens Da Luz
 
   ![](https://f4.bcbits.com/img/a0933860178_10.jpg)
 
@@ -103,7 +103,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Curd Duca - Waves 1
+## Curd Duca - Waves 1
 
   ![](https://f4.bcbits.com/img/a3962599587_16.jpg)
 
@@ -113,7 +113,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Robert Hood - Mirror Man
+## Robert Hood - Mirror Man
 
   ![](https://f4.bcbits.com/img/a1230317271_16.jpg)
 
@@ -123,7 +123,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Higher Intelligence Agency - Discatron
+## Higher Intelligence Agency - Discatron
 
   ![](https://f4.bcbits.com/img/a3618311456_16.jpg)
 
@@ -133,7 +133,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Sam Prekop - Comma
+## Sam Prekop - Comma
 
   ![](https://f4.bcbits.com/img/a2706703589_16.jpg)
 
@@ -143,7 +143,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### skillkills - Chunk
+## skillkills - Chunk
 
   ![](https://i.kfs.io/album/global/69814697,0v1/fit/500x500.jpg)
 
@@ -153,7 +153,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Mark Lanegan - Straight Songs Of Sorrow
+## Mark Lanegan - Straight Songs Of Sorrow
 
   ![](http://undertheradarmag.com/uploads/review_images/Mark_Lanegan_Straight_Songs_of_Sorrow_review_under_the_radar.jpg)
 
@@ -163,7 +163,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Karenn - Grapefruit Regret
+## Karenn - Grapefruit Regret
 
   ![](https://f4.bcbits.com/img/a3722103088_10.jpg)
 
@@ -173,7 +173,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Jazz Doummunisters - Cupid & Bataille, Dirty Microphone
+## Jazz Doummunisters - Cupid & Bataille, Dirty Microphone
 
   ![](https://i.kfs.io/album/global/26100153,2v1/fit/500x500.jpg)
 
@@ -183,7 +183,7 @@ tags: music and stuff
 
   [8.8/10]
 
-### Moe And Ghosts x 空間現代 - Rap Phenomenon
+## Moe And Ghosts x 空間現代 - Rap Phenomenon
 
   ![](https://img.discogs.com/itK6xhwAALZoVeZGfoYNHzIqmYA=/fit-in/600x600/filters:strip_icc():format(webp):mode_rgb():quality(90)/discogs-images/R-12486345-1536244664-8075.jpeg.jpg)
 

@@ -5,7 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-### Cities Aviv - The Crashing Sound of How It Goes
+## Cities Aviv - The Crashing Sound of How It Goes
 
   ![](https://f4.bcbits.com/img/a2628284613_16.jpg)
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Various Artists - Arc Mountain
+## Various Artists - Arc Mountain
 
   ![](https://f4.bcbits.com/img/a0546538577_10.jpg)
 
@@ -25,7 +25,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Maxwell Sterling - Turn Of Phrase
+## Maxwell Sterling - Turn Of Phrase
 
   ![](https://f4.bcbits.com/img/a3828781441_10.jpg)
 
@@ -35,7 +35,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Matt Sweeney, Bonnie Prince Billy - Superwolves
+## Matt Sweeney, Bonnie Prince Billy - Superwolves
 
   ![](https://f4.bcbits.com/img/a0108661361_16.jpg)
 
@@ -45,7 +45,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Lost Girls - Menneskekollektivet
+## Lost Girls - Menneskekollektivet
 
   ![](https://f4.bcbits.com/img/a4284969468_16.jpg)
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Minotaur Shock - Qi
+## Minotaur Shock - Qi
 
   ![](https://f4.bcbits.com/img/a0194644400_16.jpg)
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Brockhampton - Roadrunner: New Light, New Machine
+## Brockhampton - Roadrunner: New Light, New Machine
 
   ![](https://f4.bcbits.com/img/a1442007424_16.jpg)
 
@@ -75,7 +75,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Yukika - Timeabout,
+## Yukika - Timeabout,
 
   ![](https://i.kfs.io/album/global/112778807,0v1/fit/500x500.jpg)
 
@@ -85,7 +85,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Mark Fell, Will Guthrie - Infoldings / Diffractions
+## Mark Fell, Will Guthrie - Infoldings / Diffractions
 
   ![](https://assets.boomkat.com/spree/products/707609/large/cover.jpg)
 
@@ -95,7 +95,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Leon Vynehall - Rare, Forever
+## Leon Vynehall - Rare, Forever
 
   ![](https://f4.bcbits.com/img/a2269452384_16.jpg)
 
@@ -105,7 +105,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Vatican Shadows - SR71 Blackbird Survivors
+## Vatican Shadows - SR71 Blackbird Survivors
 
   ![](https://f4.bcbits.com/img/a3503910663_16.jpg)
 
@@ -115,7 +115,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Masayoshi Fujita - Bird Ambience
+## Masayoshi Fujita - Bird Ambience
 
   ![](https://f4.bcbits.com/img/a1668984311_10.jpg)
 
@@ -125,7 +125,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Lucinda Chua - Antidotes 2
+## Lucinda Chua - Antidotes 2
 
   ![](https://f4.bcbits.com/img/a2842462965_16.jpg)
 
@@ -135,7 +135,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Sons Of Kemet - Black To The Future
+## Sons Of Kemet - Black To The Future
 
   ![](https://static.stereogum.com/uploads/2021/03/Sons-Of-Kemet-Black-To-The-Future-1617108370-870x870.jpg)
 
@@ -145,7 +145,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### KMRU - Logue
+## KMRU - Logue
 
   ![](https://f4.bcbits.com/img/a0566108909_16.jpg)
 
@@ -155,7 +155,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Caterina Barbieri - Fantas Variations
+## Caterina Barbieri - Fantas Variations
 
   ![](https://f4.bcbits.com/img/a0910258159_16.jpg)
 
@@ -165,7 +165,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### U-zhaan, 環Roy, Chinza Dopeness - Tanoshimi
+## U-zhaan, 環Roy, Chinza Dopeness - Tanoshimi
 
   ![](https://st.cdjapan.co.jp/pictures/l/15/06/GDHV-5.jpg?v=1)
 
@@ -175,7 +175,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Scuare - Phenomenal
+## Scuare - Phenomenal
 
   ![](https://f4.bcbits.com/img/a4251320593_16.jpg)
 
@@ -185,7 +185,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Burial, Blackdown - Shock Power Of Love EP
+## Burial, Blackdown - Shock Power Of Love EP
 
   ![](https://f4.bcbits.com/img/a2090865224_16.jpg)
 
@@ -195,7 +195,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### Fly Pan Am - Frontera
+## Fly Pan Am - Frontera
 
   ![](https://f4.bcbits.com/img/a0118475710_10.jpg)
 
@@ -205,7 +205,7 @@ tags: music and stuff
 
   [6.7/10]
 
-### Flying Lotus - Yasuke
+## Flying Lotus - Yasuke
 
   ![](https://f4.bcbits.com/img/a1425932528_16.jpg)
 
@@ -215,7 +215,7 @@ tags: music and stuff
 
   [6.3/10]
 
-### Telex - This Is Telex
+## Telex - This Is Telex
 
   ![](https://f4.bcbits.com/img/a3581257954_16.jpg)
 
@@ -225,7 +225,7 @@ tags: music and stuff
 
   [6.1/10]
 
-### th1r3en, Pharoahe Monch - A Magnificent Day For An Exorcism
+## th1r3en, Pharoahe Monch - A Magnificent Day For An Exorcism
 
   ![](https://f4.bcbits.com/img/a3094508516_10.jpg)
 
@@ -235,7 +235,7 @@ tags: music and stuff
 
   [6.0/10]
 
-### Gruff Rhys - Seeking New Gods
+## Gruff Rhys - Seeking New Gods
 
   ![](https://f4.bcbits.com/img/a0412016282_16.jpg)
 
@@ -245,7 +245,7 @@ tags: music and stuff
 
   [3.0/10]
 
-### Methods Body - Methods Body
+## Methods Body - Methods Body
 
   ![](https://f4.bcbits.com/img/a3719333503_10.jpg)
 
@@ -255,7 +255,7 @@ tags: music and stuff
 
   [8.8/10]
 
-### Jay Electronica - A Written Testimony
+## Jay Electronica - A Written Testimony
 
   ![](https://www.nme.com/wp-content/uploads/2020/03/A-Written-Testimony-400x400.jpg)
 
@@ -265,7 +265,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Oliver Coates - skins n slime
+## Oliver Coates - skins n slime
 
   ![](https://f4.bcbits.com/img/a2959948621_16.jpg)
 
@@ -275,7 +275,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Teller Bank$ - The Grotesque & Beautiful
+## Teller Bank$ - The Grotesque & Beautiful
 
   ![](https://f4.bcbits.com/img/a3363847409_16.jpg)
 
@@ -285,7 +285,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Even Less Friends - Starlow
+## Even Less Friends - Starlow
 
   ![](https://f4.bcbits.com/img/a0823800873_16.jpg)
 
@@ -295,7 +295,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### KMRU, Ian Urbina - burmaa
+## KMRU, Ian Urbina - burmaa
 
   ![](https://f4.bcbits.com/img/a3207540692_16.jpg)
 
@@ -305,7 +305,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Blessedassistant, Iceberg Theory - The Hierophant
+## Blessedassistant, Iceberg Theory - The Hierophant
 
   ![](https://e.snmc.io/i/600/w/d0c55240115560fd011810805a93fdfb/8596717/iceberg-theory-and-blessedassistant-the-hierophant-Cover-Art.jpg)
 
@@ -315,7 +315,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Rav - I'm On To Me
+## Rav - I'm On To Me
 
   ![](https://f4.bcbits.com/img/a4216569109_16.jpg)
 
@@ -325,7 +325,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Perc - Bitter Music
+## Perc - Bitter Music
 
   ![](https://f4.bcbits.com/img/a0083396422_10.jpg)
 
@@ -335,7 +335,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Rafael Anton Irisarri - The Shameless Years
+## Rafael Anton Irisarri - The Shameless Years
 
   ![](https://f4.bcbits.com/img/a1391879650_16.jpg)
 
@@ -345,7 +345,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Bataille Solaire - Documentaires
+## Bataille Solaire - Documentaires
 
   ![](https://f4.bcbits.com/img/a4228260437_16.jpg)
 
@@ -355,7 +355,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Jessika Kenney, Eyvind Kang - The Face of the Earth
+## Jessika Kenney, Eyvind Kang - The Face of the Earth
 
   ![](https://f4.bcbits.com/img/a2194281496_16.jpg)
 

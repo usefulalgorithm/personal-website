@@ -5,7 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-### Oval - Scis
+## Oval - Scis
 
   ![](https://f4.bcbits.com/img/a4083662746_10.jpg)
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Pulse Emitter - Swirlings
+## Pulse Emitter - Swirlings
 
   ![](https://f4.bcbits.com/img/a1864280355_10.jpg)
 
@@ -25,7 +25,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Robert Haigh - Black Sarabande
+## Robert Haigh - Black Sarabande
 
   ![](https://f4.bcbits.com/img/a0107173197_10.jpg)
 
@@ -35,7 +35,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Bohren & Der Club Of Gore - Patchouli Blue
+## Bohren & Der Club Of Gore - Patchouli Blue
 
   ![](https://assets.boomkat.com/spree/products/634772/large/5400863020415.jpg)
 
@@ -45,7 +45,7 @@ tags: music and stuff
 
   [6.9/10]
 
-### Pink Siifu, Yungmorpheus - Bag Talk
+## Pink Siifu, Yungmorpheus - Bag Talk
 
   ![](https://f4.bcbits.com/img/a0496189813_10.jpg)
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### Tim Hecker - Ravedeath, 1972
+## Tim Hecker - Ravedeath, 1972
 
   ![](https://f4.bcbits.com/img/a0510617657_10.jpg)
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
   [9.5/10]
 
-### Pan Sonic - Gravitoni
+## Pan Sonic - Gravitoni
 
   ![](https://assets.boomkat.com/spree/products/537886/large/original.jpg)
 
@@ -75,7 +75,7 @@ tags: music and stuff
 
   [9.0/10]
 
-### William Doyle - Your Wilderness Revisited
+## William Doyle - Your Wilderness Revisited
 
   ![](https://f4.bcbits.com/img/a3666599105_10.jpg)
 
@@ -85,7 +85,7 @@ tags: music and stuff
 
   [8.7/10]
 
-### Ben Vince - Assimilation
+## Ben Vince - Assimilation
 
   ![](https://assets.boomkat.com/spree/products/583221/large/402942cf-6faa-4e51-8a5f-4050dd796098.jpg)
 
@@ -95,7 +95,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### The Humble Bee, Offthesky - All Other Voices Gone, Only Yours Remains
+## The Humble Bee, Offthesky - All Other Voices Gone, Only Yours Remains
 
   ![](https://f4.bcbits.com/img/a2880909587_10.jpg)
 
@@ -105,7 +105,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Lonker See - One Eye Sees Red
+## Lonker See - One Eye Sees Red
 
   ![](https://f4.bcbits.com/img/a1430861470_10.jpg)
 
@@ -115,7 +115,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Alameda 4 - Czarna Woda
+## Alameda 4 - Czarna Woda
 
   ![](https://f4.bcbits.com/img/a2925472005_10.jpg)
 
@@ -125,7 +125,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### WaqWaq Kingdom - Essaka Hoisa
+## WaqWaq Kingdom - Essaka Hoisa
 
   ![](https://f4.bcbits.com/img/a1465058605_10.jpg)
 
@@ -135,7 +135,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Gavilán Rayna Russom - The Envoy
+## Gavilán Rayna Russom - The Envoy
 
   ![](https://f4.bcbits.com/img/a0906545349_10.jpg)
 
@@ -145,7 +145,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Lana Del Rey - Norman Fucking Rockwell!
+## Lana Del Rey - Norman Fucking Rockwell!
 
   ![](https://1.bp.blogspot.com/-lbdkiYpAzA4/XWhKEi_bCrI/AAAAAAAAI30/LveJx-VEX6Atia8M33dImwzQ4dTJSLkoACKgBGAs/s1600/Norman%2BFucking%2BRockwell%2Bcover.jpg)
 
@@ -155,7 +155,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### New Rome - New Rome
+## New Rome - New Rome
 
   ![](https://f4.bcbits.com/img/a1402570501_10.jpg)
 
@@ -165,7 +165,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Barker - Utility
+## Barker - Utility
 
   ![](https://f4.bcbits.com/img/a0601319089_10.jpg)
 
@@ -175,7 +175,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Matana Roberts - Coin Coin Chapter Four: Memphis
+## Matana Roberts - Coin Coin Chapter Four: Memphis
 
   ![](https://f4.bcbits.com/img/a1718811731_10.jpg)
 
@@ -185,7 +185,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Sporting Life - Black Diamond
+## Sporting Life - Black Diamond
 
   ![](https://f4.bcbits.com/img/a1752543133_10.jpg)
 
@@ -195,7 +195,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### ARRM - ARRM
+## ARRM - ARRM
 
   ![](https://f4.bcbits.com/img/a2158674641_10.jpg)
 
@@ -205,7 +205,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Michael O'Shea - Michael O'Shea
+## Michael O'Shea - Michael O'Shea
 
   ![](https://f4.bcbits.com/img/a1998091602_10.jpg)
 
@@ -215,7 +215,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Vilod - The Clouds Know
+## Vilod - The Clouds Know
 
   ![](https://f4.bcbits.com/img/a2700897246_10.jpg)
 
@@ -225,7 +225,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Iron Curtis - And The Temper
+## Iron Curtis - And The Temper
 
   ![](https://www.residentadvisor.net/images/reviews/2019/office-recordings-016.jpg)
 
@@ -235,7 +235,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Lana Del Rabies - Shadow World
+## Lana Del Rabies - Shadow World
 
   ![](https://f4.bcbits.com/img/a3737811119_10.jpg)
 
@@ -245,7 +245,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Danny Scott Lane - How To Empty A Cup
+## Danny Scott Lane - How To Empty A Cup
 
   ![](https://f4.bcbits.com/img/a0233451470_10.jpg)
 
@@ -255,7 +255,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Abul Mogard - Kimberlin (Original Soundtrack)
+## Abul Mogard - Kimberlin (Original Soundtrack)
 
   ![](https://f4.bcbits.com/img/a2225624457_10.jpg)
 
@@ -265,7 +265,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Floating Spectrum - A Point Between
+## Floating Spectrum - A Point Between
 
   ![](https://f4.bcbits.com/img/a3850174220_10.jpg)
 
@@ -275,7 +275,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Emanuele Errante - This World
+## Emanuele Errante - This World
 
   ![](https://f4.bcbits.com/img/a1427059738_10.jpg)
 
@@ -285,7 +285,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Complete Walkthru - Scrolls
+## Complete Walkthru - Scrolls
 
   ![](https://www.residentadvisor.net/images/reviews/2019/nmbrs58_scrolls.jpg)
 
@@ -295,7 +295,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Deafkids - metaprogramação
+## Deafkids - metaprogramação
 
   ![](https://f4.bcbits.com/img/a2129317632_10.jpg)
 
@@ -305,7 +305,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Shapednoise - Aesthesis
+## Shapednoise - Aesthesis
 
   ![](https://f4.bcbits.com/img/a0198816392_10.jpg)
 
@@ -315,7 +315,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Vaura - Sables
+## Vaura - Sables
 
   ![](https://f4.bcbits.com/img/a0021407334_10.jpg)
 
@@ -325,7 +325,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Música Esporádica, Suso Saiz, Orquesta De Las Nubes - Música Esporádica
+## Música Esporádica, Suso Saiz, Orquesta De Las Nubes - Música Esporádica
 
   ![](https://f4.bcbits.com/img/a1368347896_10.jpg)
 
@@ -335,7 +335,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Yamaneko - Spirals Heaven Wide
+## Yamaneko - Spirals Heaven Wide
 
   ![](https://f4.bcbits.com/img/a3100669743_10.jpg)
 
@@ -345,7 +345,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Frail Body - A Brief Memoriam
+## Frail Body - A Brief Memoriam
 
   ![](https://f4.bcbits.com/img/a2056835776_10.jpg)
 
@@ -355,7 +355,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Serpent Column - Mirror In Darkness
+## Serpent Column - Mirror In Darkness
 
   ![](https://f4.bcbits.com/img/a1281885549_10.jpg)
 
@@ -365,7 +365,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Moor Mother - Analog Fluids Of Sonic Black Holes
+## Moor Mother - Analog Fluids Of Sonic Black Holes
 
   ![](https://f4.bcbits.com/img/a3357508316_10.jpg)
 
@@ -375,7 +375,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Ebo Taylor - Yen Ara
+## Ebo Taylor - Yen Ara
 
   ![](https://f4.bcbits.com/img/a3400302884_10.jpg)
 
@@ -385,7 +385,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Pursuit Grooves - Bess
+## Pursuit Grooves - Bess
 
   ![](https://f4.bcbits.com/img/a0369363636_10.jpg)
 
@@ -395,7 +395,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Adrian Corker - Music For Lock Grooves
+## Adrian Corker - Music For Lock Grooves
 
   ![](https://f4.bcbits.com/img/a2356483879_10.jpg)
 
@@ -405,7 +405,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Nanook Of The North - Nanook Of The North
+## Nanook Of The North - Nanook Of The North
 
   ![](https://f4.bcbits.com/img/a2969107164_10.jpg)
 
@@ -415,7 +415,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Rutger Hauser - The Swim
+## Rutger Hauser - The Swim
 
   ![](https://f4.bcbits.com/img/a1159167283_10.jpg)
 
@@ -425,7 +425,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Long Distance Poison - Technical Mentality
+## Long Distance Poison - Technical Mentality
 
   ![](https://f4.bcbits.com/img/a1348289634_10.jpg)
 
@@ -435,7 +435,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Stara Rzeka - Zamknęły Się Oczy Ziemi
+## Stara Rzeka - Zamknęły Się Oczy Ziemi
 
   ![](https://f4.bcbits.com/img/a0662020444_10.jpg)
 
@@ -445,7 +445,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Teebs - Anicca
+## Teebs - Anicca
 
   ![](https://assets.boomkat.com/spree/products/611601/large/669158542529_T16_Image.jpg)
 
@@ -455,7 +455,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Various Artists - Kulør 001
+## Various Artists - Kulør 001
 
   ![](https://f4.bcbits.com/img/a2459561552_10.jpg)
 
@@ -465,7 +465,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Brockhampton - Ginger
+## Brockhampton - Ginger
 
   ![](https://images.genius.com/6556a7bc436345dc5a0ebd14a7008317.1000x1000x1.jpg)
 
@@ -475,7 +475,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Solange - When I Get Home
+## Solange - When I Get Home
 
   ![](https://1.bp.blogspot.com/-u-0AZvurUmM/XIT26Rpf72I/AAAAAAAADSg/MTtu3wAoW2U1szo4uxuRWH4vfeJKIzbjgCLcBGAs/s1600/solange.jpg)
 
@@ -485,7 +485,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Vegyn - Only Diamonds Cut Diamonds
+## Vegyn - Only Diamonds Cut Diamonds
 
   ![](https://f4.bcbits.com/img/a1731975402_10.jpg)
 
@@ -495,7 +495,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Function - Incubation
+## Function - Incubation
 
   ![](https://f4.bcbits.com/img/a3802197456_10.jpg)
 
@@ -505,7 +505,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Lightning Bolt - Sonic Citadel
+## Lightning Bolt - Sonic Citadel
 
   ![](https://f4.bcbits.com/img/a1376325179_10.jpg)
 
@@ -515,7 +515,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Sassy J - Patchwork (Compiled By Sassy J)
+## Sassy J - Patchwork (Compiled By Sassy J)
 
   ![](https://f4.bcbits.com/img/a3563154826_10.jpg)
 
@@ -525,7 +525,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Kristen - LAS
+## Kristen - LAS
 
   ![](https://f4.bcbits.com/img/a3807245309_10.jpg)
 
@@ -535,7 +535,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Cybernetic Witch Cult - Absurdum Ad Nauseam
+## Cybernetic Witch Cult - Absurdum Ad Nauseam
 
   ![](https://f4.bcbits.com/img/a2580184939_10.jpg)
 
@@ -545,7 +545,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Chihei Hatakeyama - Forgotten Hill
+## Chihei Hatakeyama - Forgotten Hill
 
   ![](https://f4.bcbits.com/img/a1056042565_10.jpg)
 
@@ -555,7 +555,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Herbert - I Hadn't Known (I Only Heard) / So Now...
+## Herbert - I Hadn't Known (I Only Heard) / So Now...
 
   ![](https://www.residentadvisor.net/images/reviews/2019/acj130d-herbert.jpg)
 
@@ -565,7 +565,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Magda Drozd - Songs For Plants
+## Magda Drozd - Songs For Plants
 
   ![](https://f4.bcbits.com/img/a0122269552_10.jpg)
 
@@ -575,7 +575,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Double Mixte - Romance Noire
+## Double Mixte - Romance Noire
 
   ![](https://assets.boomkat.com/spree/products/631138/large/Screen_Shot_2020-01-15_at_11.12.30.png)
 
@@ -585,7 +585,7 @@ tags: music and stuff
 
   [7.1/10]
 
-### Jacques Greene - Dawn Chorus
+## Jacques Greene - Dawn Chorus
 
   ![](https://f4.bcbits.com/img/a1021184255_10.jpg)
 
@@ -595,7 +595,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Ekin Fil - Language
+## Ekin Fil - Language
 
   ![](https://f4.bcbits.com/img/a1682616191_10.jpg)
 
@@ -605,7 +605,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### TNGHT - II
+## TNGHT - II
 
   ![](https://d1rgjmn2wmqeif.cloudfront.net/r/g/145138-3.jpg)
 
@@ -615,7 +615,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Pelada - Movimiento Para Cambio
+## Pelada - Movimiento Para Cambio
 
   ![](https://f4.bcbits.com/img/a1829602387_10.jpg)
 
@@ -625,7 +625,7 @@ tags: music and stuff
 
   [6.9/10]
 
-### Elizabeth Colour Wheel - Nocebo
+## Elizabeth Colour Wheel - Nocebo
 
   ![](https://f4.bcbits.com/img/a3877463937_10.jpg)
 
@@ -635,7 +635,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### Caroline Polachek - Pang
+## Caroline Polachek - Pang
 
   ![](https://media.pitchfork.com/photos/5dab2245515e4800080952a6/1:1/w_600/PANG_Full%20(1).png)
 
@@ -645,7 +645,7 @@ tags: music and stuff
 
   [6.7/10]
 
-### Gaika - Machine
+## Gaika - Machine
 
   ![](https://d1rgjmn2wmqeif.cloudfront.net/r/g/65532.jpg)
 
@@ -655,7 +655,7 @@ tags: music and stuff
 
   [6.6/10]
 
-### Thomas Brinkmann - Raupenbahn
+## Thomas Brinkmann - Raupenbahn
 
   ![](https://assets.boomkat.com/spree/products/615434/large/5050580724945.jpg)
 
@@ -665,7 +665,7 @@ tags: music and stuff
 
   [6.5/10]
 
-### Death Cab For Cutie - The Blue EP
+## Death Cab For Cutie - The Blue EP
 
   ![](https://f4.bcbits.com/img/a1947057987_10.jpg)
 
@@ -675,7 +675,7 @@ tags: music and stuff
 
   [6.0/10]
 
-### S-Type - Beat
+## S-Type - Beat
 
   ![](https://assets.boomkat.com/spree/products/609326/large/5060384616780.jpg)
 
@@ -685,7 +685,7 @@ tags: music and stuff
 
   [5.5/10]
 
-### Anoice - Ghost In The Clocks
+## Anoice - Ghost In The Clocks
 
   ![](https://f4.bcbits.com/img/a0992141441_10.jpg)
 

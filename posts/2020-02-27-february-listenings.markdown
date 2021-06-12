@@ -5,7 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-### Beatrice Dillon - Workaround
+## Beatrice Dillon - Workaround
 
   ![](https://f4.bcbits.com/img/a3649766278_10.jpg)
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
   [8.8/10]
 
-### Jeff Parker - Suite For Max Brown
+## Jeff Parker - Suite For Max Brown
 
   ![](https://f4.bcbits.com/img/a0572868824_10.jpg)
 
@@ -25,7 +25,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### They Hate Change - Maneuvers
+## They Hate Change - Maneuvers
 
   ![](https://f4.bcbits.com/img/a2255902797_10.jpg)
 
@@ -35,7 +35,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Kush Jones - Strictly 4 My Cdjz 6
+## Kush Jones - Strictly 4 My Cdjz 6
 
   ![](https://f4.bcbits.com/img/a1014025339_10.jpg)
 
@@ -45,7 +45,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Against All Logic - 2017 - 2019
+## Against All Logic - 2017 - 2019
 
   ![](https://f4.bcbits.com/img/a2976584337_10.jpg)
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Deantoni Parks - Silver Cord
+## Deantoni Parks - Silver Cord
 
   ![](https://assets.boomkat.com/spree/products/626977/large/669158543793_T14_Image.jpg)
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Smagghe & Cross - 1819
+## Smagghe & Cross - 1819
 
   ![](https://www.residentadvisor.net/images/reviews/2020/offen012-smagghe-cross.jpg)
 
@@ -75,7 +75,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Desire Marea - Desire
+## Desire Marea - Desire
 
   ![](https://s3.amazonaws.com/factmag-images/wp-content/uploads/2020/01/Desire-Sir-Zanele-Muholi.jpg)
 
@@ -85,7 +85,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Panopticon - Panopticon
+## Panopticon - Panopticon
 
   ![](https://f4.bcbits.com/img/a3781745981_10.jpg)
 
@@ -95,7 +95,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Denzel Curry, Kenny Beats - Unlocked
+## Denzel Curry, Kenny Beats - Unlocked
 
   ![](https://thefader-res.cloudinary.com/private_images/w_1260,c_limit,f_auto,q_auto:best/Unlocked_Artworkjpg_uo1beb/i-unlocked-i-cover-art.jpg)
 
@@ -105,7 +105,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Dark Arts - Reflections In A Rear View Mirror
+## Dark Arts - Reflections In A Rear View Mirror
 
   ![](https://f4.bcbits.com/img/a3474975538_10.jpg)
 
@@ -115,7 +115,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### The Homesick - The Big Exercise
+## The Homesick - The Big Exercise
 
   ![](https://f4.bcbits.com/img/a2644140349_10.jpg)
 
@@ -125,7 +125,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### 熱寫生 - 豆皮少年
+## 熱寫生 - 豆皮少年
 
   ![](https://f4.bcbits.com/img/a3217953210_10.jpg)
 
@@ -137,7 +137,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Drive-By Truckers - The Unraveling
+## Drive-By Truckers - The Unraveling
 
   ![](https://www.drivebytruckers.com/images/DBT_TheUnraveling_cover.jpeg)
 
@@ -147,7 +147,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### James Ruskin - Consumer Patterns
+## James Ruskin - Consumer Patterns
 
   ![](https://geo-static.traxsource.com/files/images/22e2aa3a1ac63720afe780f3fb01e903.jpg)
 
@@ -157,7 +157,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Frail Hands - Parted / Departed / Apart
+## Frail Hands - Parted / Departed / Apart
 
   ![](https://f4.bcbits.com/img/a2733057836_10.jpg)
 
@@ -167,7 +167,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Bonny Light Horseman - Bonny Light Horseman
+## Bonny Light Horseman - Bonny Light Horseman
 
   ![](https://static.stereogum.com/uploads/2019/10/Bonny-Light-Horseman-LP-Artwork-1571196492-640x640.jpg)
 
@@ -177,7 +177,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Lonker See - Hamza
+## Lonker See - Hamza
 
   ![](https://f4.bcbits.com/img/a0139542278_10.jpg)
 
@@ -187,7 +187,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Bill Fay - Countless Branches
+## Bill Fay - Countless Branches
 
   ![](https://f4.bcbits.com/img/a1738625698_10.jpg)
 
@@ -197,7 +197,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Bambara - Stray
+## Bambara - Stray
 
   ![](https://f4.bcbits.com/img/a2336052892_10.jpg)
 
@@ -207,7 +207,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Peder Mannerfelt - Like We Never Existed
+## Peder Mannerfelt - Like We Never Existed
 
   ![](https://f4.bcbits.com/img/a4019137786_10.jpg)
 
@@ -217,7 +217,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Rebecca Foon - Waxing Moon
+## Rebecca Foon - Waxing Moon
 
   ![](https://f4.bcbits.com/img/a3997338466_10.jpg)
 
@@ -227,7 +227,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Midori Hirano - Invisible Island
+## Midori Hirano - Invisible Island
 
   ![](https://f4.bcbits.com/img/a3276440537_10.jpg)
 
@@ -237,7 +237,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Villaelvin - Headroof
+## Villaelvin - Headroof
 
   ![](https://f4.bcbits.com/img/a1552065819_10.jpg)
 
@@ -247,7 +247,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### yMusic - Ecstatic Science
+## yMusic - Ecstatic Science
 
   ![](https://f4.bcbits.com/img/a4002038969_10.jpg)
 
@@ -257,7 +257,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Men With Secrets - Psycho Romance And Other Spooky Ballads
+## Men With Secrets - Psycho Romance And Other Spooky Ballads
 
   ![](https://f4.bcbits.com/img/a0566571908_10.jpg)
 
@@ -267,7 +267,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Wire - Mind Hive
+## Wire - Mind Hive
 
   ![](https://assets.boomkat.com/spree/products/618185/large/A10341T000001ZSQUF_T58365864620054.jpg)
 
@@ -277,7 +277,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Holy Fuck - Deleter
+## Holy Fuck - Deleter
 
   ![](https://cdn2.thelineofbestfit.com/images/made/images/remote/https_cdn2.thelineofbestfit.com/media/2014/holy_fuck_deleter_600_600.jpg)
 
@@ -287,7 +287,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Mac Miller - Circles
+## Mac Miller - Circles
 
   ![](https://images.genius.com/f5528ff2f79b8c9aaf79f41beaea2379.1000x1000x1.jpg)
 
@@ -297,7 +297,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Katie Gately - Loom
+## Katie Gately - Loom
 
   ![](https://f4.bcbits.com/img/a0297936693_10.jpg)
 
@@ -307,7 +307,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Laughing Ears - Metamorphosis
+## Laughing Ears - Metamorphosis
 
   ![](https://f4.bcbits.com/img/a3904599830_10.jpg)
 
@@ -317,7 +317,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Palm - Violets Are Blue
+## Palm - Violets Are Blue
 
   ![](https://m.media-amazon.com/images/I/A1l3ViwMPRL._SS500_.jpg)
 
@@ -327,7 +327,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### Axebreaker - The White Sepulcher
+## Axebreaker - The White Sepulcher
 
   ![](https://f4.bcbits.com/img/a2302006320_10.jpg)
 
@@ -337,7 +337,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### Hyukoh - Through Love
+## Hyukoh - Through Love
 
   ![](https://res.cloudinary.com/jerrick/image/upload/fl_progressive,q_auto,w_1024/5e32c90bc935ad001e25f85b.jpg)
 
@@ -347,7 +347,7 @@ tags: music and stuff
 
   [6.7/10]
 
-### Tame Impala - The Slow Rush
+## Tame Impala - The Slow Rush
 
   ![](https://www.magneticmag.com/.image/t_share/MTcwNDIzNDk1MTE5ODczNzI2/tame-impala-the-slow-rush.jpg)
 
@@ -357,7 +357,7 @@ tags: music and stuff
 
   [6.3/10]
 
-### Of Montreal - UR FUN
+## Of Montreal - UR FUN
 
   ![](https://f4.bcbits.com/img/a0305341859_10.jpg)
 
@@ -367,7 +367,7 @@ tags: music and stuff
 
   [6.3/10]
 
-### Grimes - Miss Anthropocene
+## Grimes - Miss Anthropocene
 
   ![](https://www.magneticmag.com/.image/t_share/MTcwNjI3MzgzOTI4MzAwODA2/miss-anthropocene-grimes.jpg)
 
@@ -377,7 +377,7 @@ tags: music and stuff
 
   [5.3/10]
 
-### Wild Nothing - Laughing Gas
+## Wild Nothing - Laughing Gas
 
   ![](https://f4.bcbits.com/img/a0013477499_10.jpg)
 
@@ -387,7 +387,7 @@ tags: music and stuff
 
   [5.0/10]
 
-### HMLTD - West Of Eden
+## HMLTD - West Of Eden
 
   ![](https://f4.bcbits.com/img/a4007437190_10.jpg)
 
@@ -397,7 +397,7 @@ tags: music and stuff
 
   [4.2/10]
 
-### Envy - The Fallen Crimson
+## Envy - The Fallen Crimson
 
   ![](https://f4.bcbits.com/img/a3033651578_10.jpg)
 
@@ -407,7 +407,7 @@ tags: music and stuff
 
   [3.1/10]
 
-### Poppy - I Disagree
+## Poppy - I Disagree
 
   ![](https://i2.wp.com/fulfillthedreams.com/wp-content/uploads/2020/01/poppy-i-disagree2.jpg?w=600&ssl=1)
 
@@ -417,7 +417,7 @@ tags: music and stuff
 
   [3.0/10]
 
-### Infinite Body - Carve Out The Face Of My God
+## Infinite Body - Carve Out The Face Of My God
 
   ![](https://f4.bcbits.com/img/a3887783794_10.jpg)
 
@@ -427,7 +427,7 @@ tags: music and stuff
 
   [8.7/10]
 
-### Terry Allen - Juarez
+## Terry Allen - Juarez
 
   ![](https://f4.bcbits.com/img/a1688601064_10.jpg)
 
@@ -437,7 +437,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Raime - Planted
+## Raime - Planted
 
   ![](https://f4.bcbits.com/img/a2506814874_10.jpg)
 
@@ -447,7 +447,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Jon Hassell - Aka / Darbari / Java
+## Jon Hassell - Aka / Darbari / Java
 
   ![](https://img.discogs.com/_rK6CK5qh3lv3pBwrLJtJCVjiwU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4077149-1399437507-2366.jpeg.jpg)
 
@@ -457,7 +457,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Hieroglyphic Being - Synth Expressionism / Rhythmic Cubism
+## Hieroglyphic Being - Synth Expressionism / Rhythmic Cubism
 
   ![](https://f4.bcbits.com/img/a1966538054_10.jpg)
 
@@ -467,7 +467,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Gregg Kowalsky - Through The Cardial Window
+## Gregg Kowalsky - Through The Cardial Window
 
   ![](https://f4.bcbits.com/img/a1464067562_10.jpg)
 
@@ -477,7 +477,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Burnt Friedman - Anthology (1980-2017)
+## Burnt Friedman - Anthology (1980-2017)
 
   ![](https://f4.bcbits.com/img/a2697645180_10.jpg)
 
@@ -487,7 +487,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Resavoir - Resavoir
+## Resavoir - Resavoir
 
   ![](https://f4.bcbits.com/img/a3483430988_10.jpg)
 
@@ -497,7 +497,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### DJ Loser - Urban Survival Anthems
+## DJ Loser - Urban Survival Anthems
 
   ![](https://f4.bcbits.com/img/a0589392525_10.jpg)
 
@@ -507,7 +507,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### 808 State - Transmission Suite
+## 808 State - Transmission Suite
 
   ![](https://assets.boomkat.com/spree/products/600602/large/192641346002.jpg)
 
@@ -517,7 +517,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Eartheater, LEYA - Angel Lust
+## Eartheater, LEYA - Angel Lust
 
   ![](https://f4.bcbits.com/img/a1612061757_10.jpg)
 
@@ -527,7 +527,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Mary Halvorson, John Dieterich - A Tangle Of Stars
+## Mary Halvorson, John Dieterich - A Tangle Of Stars
 
   ![](https://f4.bcbits.com/img/a1069136414_10.jpg)
 
@@ -537,7 +537,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Callisto - Guidance Is Internal: Part 1
+## Callisto - Guidance Is Internal: Part 1
 
   ![](https://www.residentadvisor.net/images/reviews/2019/gdrlp614pt1-callisto.jpg)
 
@@ -547,7 +547,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Jamael Dean - Black Space Tapes
+## Jamael Dean - Black Space Tapes
 
   ![](https://f4.bcbits.com/img/a3558194189_10.jpg)
 
@@ -557,7 +557,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Incredible Self Confidence - Worm
+## Incredible Self Confidence - Worm
 
   ![](https://f4.bcbits.com/img/a1469299802_10.jpg)
 
@@ -567,7 +567,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Mukqs - SD Biomix
+## Mukqs - SD Biomix
 
   ![](https://f4.bcbits.com/img/a3334948153_10.jpg)
 
@@ -577,7 +577,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Toiret Status - Omaru
+## Toiret Status - Omaru
 
   ![](https://f4.bcbits.com/img/a3832512729_10.jpg)
 
@@ -587,7 +587,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Emma-Jean Thackray - Ley Lines
+## Emma-Jean Thackray - Ley Lines
 
   ![](https://f4.bcbits.com/img/a1155722084_10.jpg)
 
@@ -597,7 +597,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Konduku - White Heron
+## Konduku - White Heron
 
   ![](https://f4.bcbits.com/img/a1407035881_10.jpg)
 
@@ -607,7 +607,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Mount Eerie - Lost Wisdom, Pt. 2
+## Mount Eerie - Lost Wisdom, Pt. 2
 
   ![](https://f4.bcbits.com/img/a1948435923_10.jpg)
 
@@ -619,7 +619,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Vanishing Twin - The Age Of Immunology
+## Vanishing Twin - The Age Of Immunology
 
   ![](https://f4.bcbits.com/img/a0730128530_10.jpg)
 
@@ -629,7 +629,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Helm - Chemical Flowers
+## Helm - Chemical Flowers
 
   ![](https://f4.bcbits.com/img/a0642313595_10.jpg)
 
@@ -639,7 +639,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Meemo Comma - Sleepmoss
+## Meemo Comma - Sleepmoss
 
   ![](https://f4.bcbits.com/img/a0608266849_10.jpg)
 
@@ -649,7 +649,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Easy Changes - Miki Biasion
+## Easy Changes - Miki Biasion
 
   ![](https://m.media-amazon.com/images/I/91spxfN7TiL._SS500_.jpg)
 
@@ -659,7 +659,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Buddy Collette Septet - Polynesia
+## Buddy Collette Septet - Polynesia
 
   ![](https://www.forcedexposure.com/App_Themes/Default/Images/product_images/close_up/j/JBH082LP_CU.jpg)
 
@@ -669,7 +669,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Stephen Mallinder - Um Dada
+## Stephen Mallinder - Um Dada
 
   ![](https://f4.bcbits.com/img/a2495642916_10.jpg)
 
@@ -679,7 +679,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Shin Guard - 2020
+## Shin Guard - 2020
 
   ![](https://f4.bcbits.com/img/a0865477608_10.jpg)
 
@@ -689,7 +689,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Sandunes - 11:11
+## Sandunes - 11:11
 
   ![](https://f4.bcbits.com/img/a4219961450_10.jpg)
 
@@ -699,7 +699,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Amulets - Between Distant And Remote
+## Amulets - Between Distant And Remote
 
   ![](https://f4.bcbits.com/img/a3104907031_10.jpg)
 
@@ -709,7 +709,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### John Daly - Sea And Sky
+## John Daly - Sea And Sky
 
   ![](https://www.residentadvisor.net/images/reviews/2009/wm50206.jpg)
 
@@ -719,7 +719,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Duster - Duster
+## Duster - Duster
 
   ![](https://static.stereogum.com/uploads/2019/12/duster-duster-1575822594-640x640.jpg)
 
@@ -729,7 +729,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Hilary Woods - Colt
+## Hilary Woods - Colt
 
   ![](https://f4.bcbits.com/img/a2679926846_10.jpg)
 
@@ -739,7 +739,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Fifths Of Seven - Spry From Bitter Anise Folds
+## Fifths Of Seven - Spry From Bitter Anise Folds
 
   ![](https://f4.bcbits.com/img/a2413326129_10.jpg)
 
@@ -749,7 +749,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Sami Baha - Free For All
+## Sami Baha - Free For All
 
   ![](https://f4.bcbits.com/img/a1325866688_10.jpg)
 
@@ -759,7 +759,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### William Bonney - All Ten
+## William Bonney - All Ten
 
   ![](https://f4.bcbits.com/img/a1755545238_10.jpg)
 
@@ -769,7 +769,7 @@ tags: music and stuff
 
   [6.6/10]
 
-### Chromatics - Closer To Grey
+## Chromatics - Closer To Grey
 
   ![](https://assets.boomkat.com/spree/products/620283/large/CHROMATICS_-_CLOSER_TO_GREY.jpg)
 
@@ -779,7 +779,7 @@ tags: music and stuff
 
   [6.5/10]
 
-### Ka5sh - Big Pink Loser
+## Ka5sh - Big Pink Loser
 
   ![](https://f4.bcbits.com/img/a2380239695_10.jpg)
 

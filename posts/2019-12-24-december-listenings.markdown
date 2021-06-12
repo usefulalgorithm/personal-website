@@ -5,7 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-### Boreal Massif - We All Have An Impact
+## Boreal Massif - We All Have An Impact
 
   ![](https://f4.bcbits.com/img/a1762938884_10.jpg)
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
   [9.1/10]
 
-### Rakta - Faina Comum
+## Rakta - Faina Comum
 
   ![](https://f4.bcbits.com/img/a1035379182_10.jpg)
 
@@ -25,7 +25,7 @@ tags: music and stuff
 
   [8.8/10]
 
-### Jansport J, Haz Solo - Solo Sport
+## Jansport J, Haz Solo - Solo Sport
 
   ![](https://f4.bcbits.com/img/a3142408396_10.jpg)
 
@@ -35,7 +35,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Jefre Cantu-Ledesma - Tracing Back The Radiance
+## Jefre Cantu-Ledesma - Tracing Back The Radiance
 
   ![](https://f4.bcbits.com/img/a3175138111_10.jpg)
 
@@ -45,7 +45,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### 非 / 密閉空間 - Flow, Gesture, And Spaces
+## 非 / 密閉空間 - Flow, Gesture, And Spaces
 
   ![](https://i.kfs.io/album/tw/64731388,2v1/fit/500x500.jpg)
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Takafumi Matsubara - Strange, Beautiful And Fast
+## Takafumi Matsubara - Strange, Beautiful And Fast
 
   ![](https://f4.bcbits.com/img/a4198574042_10.jpg)
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Lanark Artefax - Corra Linn
+## Lanark Artefax - Corra Linn
 
   ![](https://f4.bcbits.com/img/a3624869432_10.jpg)
 
@@ -75,7 +75,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Dysrhythmia - Terminal Threshold
+## Dysrhythmia - Terminal Threshold
 
   ![](https://f4.bcbits.com/img/a3804832551_10.jpg)
 
@@ -85,7 +85,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Seefeel - Peel Session
+## Seefeel - Peel Session
 
   ![](https://assets.boomkat.com/spree/products/623608/large/0801061363536.jpg)
 
@@ -95,7 +95,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Lee Gamble - Exhaust
+## Lee Gamble - Exhaust
 
   ![](https://f4.bcbits.com/img/a2082088332_10.jpg)
 
@@ -105,7 +105,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Abyssal - A Beacon In The Husk
+## Abyssal - A Beacon In The Husk
 
   ![](https://f4.bcbits.com/img/a3980645541_10.jpg)
 
@@ -115,7 +115,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Ana Frango Elétrico - Little Electric Chicken Heart
+## Ana Frango Elétrico - Little Electric Chicken Heart
 
   ![](https://f4.bcbits.com/img/a4050772611_16.jpg?crop)
 
@@ -125,7 +125,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### AGF - Commissioned Work
+## AGF - Commissioned Work
 
   ![](https://f4.bcbits.com/img/a2360054500_10.jpg)
 
@@ -135,7 +135,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Drowse - Light Mirror
+## Drowse - Light Mirror
 
   ![](https://f4.bcbits.com/img/a2383173063_10.jpg)
 
@@ -145,7 +145,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Seba Kaapstad - Thina
+## Seba Kaapstad - Thina
 
   ![](https://f4.bcbits.com/img/a0366879916_10.jpg)
 
@@ -155,7 +155,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Madteo - Dropped Out Sunshine
+## Madteo - Dropped Out Sunshine
 
   ![](https://f4.bcbits.com/img/a2962940628_10.jpg)
 
@@ -165,7 +165,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Carla Dal Forno - Look Up Sharp
+## Carla Dal Forno - Look Up Sharp
 
   ![](https://f4.bcbits.com/img/a3854602498_10.jpg)
 
@@ -175,7 +175,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Black To Comm - Before After
+## Black To Comm - Before After
 
   ![](https://f4.bcbits.com/img/a0529846829_10.jpg)
 
@@ -185,7 +185,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Ziúr - ATØ
+## Ziúr - ATØ
 
   ![](https://planet.mu/wp-content/uploads/2019/07/ZIQ415_ZIUR_ATO-1400px.jpg)
 
@@ -195,7 +195,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Fabulous Diamonds - Plain Songs
+## Fabulous Diamonds - Plain Songs
 
   ![](https://f4.bcbits.com/img/a0411989243_10.jpg)
 
@@ -205,7 +205,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Lafidki, Ayankoko, Pisitakun - Dângrêk Mountains
+## Lafidki, Ayankoko, Pisitakun - Dângrêk Mountains
 
   ![](https://f4.bcbits.com/img/a0784955889_10.jpg)
 
@@ -215,7 +215,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Giant Swan - Giant Swan
+## Giant Swan - Giant Swan
 
   ![](https://f4.bcbits.com/img/a2998490938_10.jpg)
 
@@ -225,7 +225,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Johanna Knutsson, Karen Gwyer - Oscillate Tracks 003
+## Johanna Knutsson, Karen Gwyer - Oscillate Tracks 003
 
   ![](https://f4.bcbits.com/img/a2546455870_10.jpg)
 
@@ -235,7 +235,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Arp Frique, Americo Brito - Radio Verde
+## Arp Frique, Americo Brito - Radio Verde
 
   ![](https://f4.bcbits.com/img/a2898558337_10.jpg)
 
@@ -245,7 +245,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### The Body - Remixed
+## The Body - Remixed
 
   ![](https://f4.bcbits.com/img/a3554547958_10.jpg)
 
@@ -255,7 +255,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Masahiro Sugaya - Horizon, Volume 1
+## Masahiro Sugaya - Horizon, Volume 1
 
   ![](https://f4.bcbits.com/img/a4080698552_10.jpg)
 
@@ -265,7 +265,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Steven Warwick - MOI
+## Steven Warwick - MOI
 
   ![](https://f4.bcbits.com/img/a2880522752_10.jpg)
 
@@ -275,7 +275,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Various Artists - Earthen: A Cold Spring Sampler
+## Various Artists - Earthen: A Cold Spring Sampler
 
   ![](https://f4.bcbits.com/img/a2397096860_10.jpg)
 
@@ -285,7 +285,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Al-Doe, Spanish Ran - Doña Blanca
+## Al-Doe, Spanish Ran - Doña Blanca
 
   ![](https://i.kfs.io/album/global/57961305,1v1/fit/500x500.jpg)
 
@@ -295,7 +295,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Scorn - Cafe Mor
+## Scorn - Cafe Mor
 
   ![](https://f4.bcbits.com/img/a2789900179_10.jpg)
 
@@ -305,7 +305,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Konradsen - Saints And Sebastian Stories
+## Konradsen - Saints And Sebastian Stories
 
   ![](https://f4.bcbits.com/img/a3632032337_10.jpg)
 
@@ -315,7 +315,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Duckwrth - The Falling Man
+## Duckwrth - The Falling Man
 
   ![](https://i.kfs.io/album/global/54787914,3v1/fit/500x500.jpg)
 
@@ -325,7 +325,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Chikano, Granddad Woolly - KanoDadda: Exprmnt VII
+## Chikano, Granddad Woolly - KanoDadda: Exprmnt VII
 
   ![](https://f4.bcbits.com/img/a2524893803_10.jpg)
 
@@ -335,7 +335,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Bersarin Quartett - Methoden Und Maschinen
+## Bersarin Quartett - Methoden Und Maschinen
 
   ![](https://f4.bcbits.com/img/a1552853243_10.jpg)
 
@@ -345,7 +345,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Alessandro Cortini - Volume Massimo
+## Alessandro Cortini - Volume Massimo
 
   ![](https://assets.boomkat.com/spree/products/597250/large/LP_art_cortini.jpg)
 
@@ -355,7 +355,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Aphex Twin - Peel Session 2
+## Aphex Twin - Peel Session 2
 
   ![](https://assets.boomkat.com/spree/products/623687/large/0801061362638.jpg)
 
@@ -365,7 +365,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Shanti Celeste - Tangerine
+## Shanti Celeste - Tangerine
 
   ![](https://f4.bcbits.com/img/a3345289868_10.jpg)
 
@@ -375,7 +375,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Doon Kanda - Labyrinth
+## Doon Kanda - Labyrinth
 
   ![](https://f4.bcbits.com/img/a4276364278_10.jpg)
 
@@ -385,7 +385,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Chai - PUNK
+## Chai - PUNK
 
   ![](https://static.stereogum.com/uploads/2019/03/chai-punk-1551977764-640x640.jpg)
 
@@ -395,7 +395,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Coucou Chloe - Naughty Dog
+## Coucou Chloe - Naughty Dog
 
   ![](https://f4.bcbits.com/img/a0502307230_10.jpg)
 
@@ -405,7 +405,7 @@ tags: music and stuff
 
   [6.9/10]
 
-### Olga Wojciechowska - Infinite Distances
+## Olga Wojciechowska - Infinite Distances
 
   ![](https://f4.bcbits.com/img/a1270095556_10.jpg)
 
@@ -415,7 +415,7 @@ tags: music and stuff
 
   [6.9/10]
 
-### Boris - Love & Evol
+## Boris - Love & Evol
 
   ![](https://f4.bcbits.com/img/a0108178099_10.jpg)
 
@@ -425,7 +425,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### An Isolated Mind - I'm Losing Myself
+## An Isolated Mind - I'm Losing Myself
 
   ![](https://f4.bcbits.com/img/a1536396312_10.jpg)
 
@@ -435,7 +435,7 @@ tags: music and stuff
 
   [6.7/10]
 
-### Have A Nice Life - Sea Of Worry
+## Have A Nice Life - Sea Of Worry
 
   ![](https://f4.bcbits.com/img/a0533396970_10.jpg)
 
@@ -445,7 +445,7 @@ tags: music and stuff
 
   [6.7/10]
 
-### Kevin Abstract - Arizona Baby
+## Kevin Abstract - Arizona Baby
 
   ![](https://static.hiphopdx.com/2019/04/kevin-abstract-ARIZONA_baby-cover.jpg)
 
@@ -455,7 +455,7 @@ tags: music and stuff
 
   [6.5/10]
 
-### clipping. - There Existed An Addiction To Blood
+## clipping. - There Existed An Addiction To Blood
 
   ![](https://f4.bcbits.com/img/a3980257472_10.jpg)
 
@@ -465,7 +465,7 @@ tags: music and stuff
 
   [6.0/10]
 
-### Departure Chandelier - Antichrist Rise To Power
+## Departure Chandelier - Antichrist Rise To Power
 
   ![](https://f4.bcbits.com/img/a2190019156_10.jpg)
 
@@ -475,7 +475,7 @@ tags: music and stuff
 
   [6.0/10]
 
-### Ameer Vann - Emmanuel
+## Ameer Vann - Emmanuel
 
   ![](https://images.genius.com/634edb7eda6be03f93708f14c18b8597.1200x1200x1.jpg)
 
@@ -485,7 +485,7 @@ tags: music and stuff
 
   [5.0/10]
 
-### 魏如萱 - 藏著並不等於遺忘
+## 魏如萱 - 藏著並不等於遺忘
 
   ![](https://i.kfs.io/album/global/65830151,0v1/fit/500x500.jpg)
 
@@ -497,7 +497,7 @@ tags: music and stuff
 
   [3.3/10]
 
-### 持修 - 房間裡的大象
+## 持修 - 房間裡的大象
 
   ![](https://i.kfs.io/album/global/65889785,1v2/fit/500x500.jpg)
 
@@ -507,7 +507,7 @@ tags: music and stuff
 
   [0.3/10]
 
-### Chris Orrick - Portraits
+## Chris Orrick - Portraits
 
   ![](https://f4.bcbits.com/img/a0843384458_10.jpg)
 
@@ -517,7 +517,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Lye By Mistake - Fea Jur
+## Lye By Mistake - Fea Jur
 
   ![](https://www.progarchives.com/progressive_rock_discography_covers/4499/cover_5437102292016_r.jpg)
 
@@ -527,7 +527,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Regis - Necklace Of Bites
+## Regis - Necklace Of Bites
 
   ![](https://f4.bcbits.com/img/a2174825016_10.jpg)
 
@@ -537,7 +537,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Roy Montgomery - Scenes From The South Island
+## Roy Montgomery - Scenes From The South Island
 
   ![](https://f4.bcbits.com/img/a2362647538_10.jpg)
 

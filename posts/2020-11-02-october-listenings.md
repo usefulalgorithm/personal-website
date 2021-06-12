@@ -5,7 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-### Ai Aso - The Faintest Hint
+## Ai Aso - The Faintest Hint
 
   ![](https://f4.bcbits.com/img/a0454863500_10.jpg)
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
   [8.8/10]
 
-### Offthesky, The Humble Bee - We Were The Hum Of Dreams
+## Offthesky, The Humble Bee - We Were The Hum Of Dreams
 
   ![](https://f4.bcbits.com/img/a2954905639_10.jpg)
 
@@ -25,7 +25,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Theo Parrish - Wuddaji
+## Theo Parrish - Wuddaji
 
   ![](https://assets.boomkat.com/spree/products/693840/large/195497216338.jpg)
 
@@ -35,7 +35,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Thy Catafalque - Naiv
+## Thy Catafalque - Naiv
 
   ![](https://f4.bcbits.com/img/a4087607355_10.jpg)
 
@@ -45,7 +45,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Numinos - Grain
+## Numinos - Grain
 
   ![](https://f4.bcbits.com/img/a4082254971_10.jpg)
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Uniform - Shame
+## Uniform - Shame
 
   ![](https://f4.bcbits.com/img/a2171488218_10.jpg)
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Chris Korda - Polymeter
+## Chris Korda - Polymeter
 
   ![](https://f4.bcbits.com/img/a1648763879_10.jpg)
 
@@ -75,7 +75,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Piezo - Perdu
+## Piezo - Perdu
 
   ![](https://f4.bcbits.com/img/a1294869624_10.jpg)
 
@@ -85,7 +85,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Actress - Karma & Desire
+## Actress - Karma & Desire
 
   ![](https://f4.bcbits.com/img/a0151587480_10.jpg)
 
@@ -95,7 +95,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Legowelt - Unconditional Contours
+## Legowelt - Unconditional Contours
 
   ![](https://f4.bcbits.com/img/a0057107890_10.jpg)
 
@@ -105,7 +105,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### The Alchemist - A Doctor, Painter & An Alchemist Walk Into A Bar
+## The Alchemist - A Doctor, Painter & An Alchemist Walk Into A Bar
 
   ![](https://ssla.ulximg.com/image/750x750/cover/1601668114_dd954c3b67432ce00368175f109aa7d0.jpg/9143170803c316a0fc7ce196016f8a1b/1601668114_1229c15e7bb420044ff7ee2607262974.jpg)
 
@@ -115,7 +115,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### 24 Carat Black - III
+## 24 Carat Black - III
 
   ![](https://f4.bcbits.com/img/a2207261787_10.jpg)
 
@@ -125,7 +125,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Autechre - Sign
+## Autechre - Sign
 
   ![](https://f4.bcbits.com/img/a3617801006_10.jpg)
 
@@ -135,7 +135,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Hen Ogledd - Free Humans
+## Hen Ogledd - Free Humans
 
   ![](https://f4.bcbits.com/img/a3764153151_10.jpg)
 
@@ -145,7 +145,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Nothing - The Great Dismal
+## Nothing - The Great Dismal
 
   ![](https://f4.bcbits.com/img/a0776236328_10.jpg)
 
@@ -155,7 +155,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Flora Yin Wong - Holy Palm
+## Flora Yin Wong - Holy Palm
 
   ![](https://assets.boomkat.com/spree/products/701609/large/image_1.jpg)
 
@@ -165,7 +165,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Christoph De Babalon, Mark - Split
+## Christoph De Babalon, Mark - Split
 
   ![](https://f4.bcbits.com/img/a1820255708_10.jpg)
 
@@ -175,7 +175,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Shlohmo - Heaven Inc.
+## Shlohmo - Heaven Inc.
 
   ![](https://f4.bcbits.com/img/a0981824285_10.jpg)
 
@@ -185,7 +185,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### VoidCeremony - Entropic Reflections Continuum: Dimensional Unravel
+## VoidCeremony - Entropic Reflections Continuum: Dimensional Unravel
 
   ![](https://f4.bcbits.com/img/a3337286041_10.jpg)
 
@@ -195,7 +195,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Conway The Machine, The Alchemist - Lulu
+## Conway The Machine, The Alchemist - Lulu
 
   ![](https://static.stereogum.com/uploads/2020/03/Conway-Lulu-1585578044-640x640.jpg)
 
@@ -205,7 +205,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### HHY & The Kampala Unit - Lithium Blast
+## HHY & The Kampala Unit - Lithium Blast
 
   ![](https://f4.bcbits.com/img/a2203733261_10.jpg)
 
@@ -215,7 +215,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### David Lord - Forest Standards Vol.2
+## David Lord - Forest Standards Vol.2
 
   ![](https://f4.bcbits.com/img/a3003088689_10.jpg)
 
@@ -225,7 +225,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Skyzoo, Dumbo Station - The Bluest Note
+## Skyzoo, Dumbo Station - The Bluest Note
 
   ![](https://f4.bcbits.com/img/a1901073134_10.jpg)
 
@@ -235,7 +235,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Further Reductions - Array
+## Further Reductions - Array
 
   ![](https://f4.bcbits.com/img/a0237270363_10.jpg)
 
@@ -245,7 +245,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Eartheater - Phoenix: Flames Are Dew Upon My Skin
+## Eartheater - Phoenix: Flames Are Dew Upon My Skin
 
   ![](https://f4.bcbits.com/img/a0334989270_10.jpg)
 
@@ -255,7 +255,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Sparkle Division - To Feel Embraced
+## Sparkle Division - To Feel Embraced
 
   ![](https://f4.bcbits.com/img/a3173190976_10.jpg)
 
@@ -265,7 +265,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Hotspring - Obit For Sunshade
+## Hotspring - Obit For Sunshade
 
   ![](https://f4.bcbits.com/img/a2374708642_10.jpg)
 
@@ -275,7 +275,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Blakk Harbor - A Modern Dialect
+## Blakk Harbor - A Modern Dialect
 
   ![](https://f4.bcbits.com/img/a0993995187_10.jpg)
 
@@ -285,7 +285,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Atsushi Yano - Whole Rotta Love
+## Atsushi Yano - Whole Rotta Love
 
   ![](https://f4.bcbits.com/img/a0290430600_10.jpg)
 
@@ -295,7 +295,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Andrew Wasylyk - Fugitive Light And Themes Of Consolation
+## Andrew Wasylyk - Fugitive Light And Themes Of Consolation
 
   ![](https://f4.bcbits.com/img/a1552946345_10.jpg)
 
@@ -305,7 +305,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Illingsworth - I'm In The Studio, Call Me Back
+## Illingsworth - I'm In The Studio, Call Me Back
 
   ![](https://f4.bcbits.com/img/a1412764521_10.jpg)
 
@@ -315,7 +315,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Open Mike Eagle - Anime, Trauma And Divorce
+## Open Mike Eagle - Anime, Trauma And Divorce
 
   ![](https://f4.bcbits.com/img/a2791754576_10.jpg)
 
@@ -325,7 +325,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Various Artists - The Storm Of Life
+## Various Artists - The Storm Of Life
 
   ![](https://f4.bcbits.com/img/a3214912077_10.jpg)
 
@@ -335,7 +335,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Boof - Rebirth Of Gerberdaisy
+## Boof - Rebirth Of Gerberdaisy
 
   ![](https://f4.bcbits.com/img/a2451786639_10.jpg)
 
@@ -345,7 +345,7 @@ tags: music and stuff
 
   [7.1/10]
 
-### Jaga Jazzist - Pyramid
+## Jaga Jazzist - Pyramid
 
   ![](https://f4.bcbits.com/img/a0354821378_10.jpg)
 
@@ -355,7 +355,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Bell Witch, Aerial Ruin - Stygian Bough Volume I
+## Bell Witch, Aerial Ruin - Stygian Bough Volume I
 
   ![](https://f4.bcbits.com/img/a0339555290_10.jpg)
 
@@ -365,7 +365,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### clipping. - Visions Of Bodies Being Burned
+## clipping. - Visions Of Bodies Being Burned
 
   ![](https://f4.bcbits.com/img/a0034985728_10.jpg)
 
@@ -375,7 +375,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Call Super - Every Mouth Teeth Missing
+## Call Super - Every Mouth Teeth Missing
 
   ![](https://f4.bcbits.com/img/a0629227771_10.jpg)
 
@@ -385,7 +385,7 @@ tags: music and stuff
 
   [6.9/10]
 
-### Defeated Sanity - The Sanguinary Impetus
+## Defeated Sanity - The Sanguinary Impetus
 
   ![](https://technicaldeathmetal.org/wp-content/uploads/2020/05/Cover2.jpg)
 
@@ -395,7 +395,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### Sen Morimoto - Sen Morimoto
+## Sen Morimoto - Sen Morimoto
 
   ![](https://f4.bcbits.com/img/a3559778958_10.jpg)
 
@@ -405,7 +405,7 @@ tags: music and stuff
 
   [6.6/10]
 
-### Róisín Murphy - Róisín Machine
+## Róisín Murphy - Róisín Machine
 
   ![](https://i.guim.co.uk/img/media/854cddbc9562ed5e64766b6819ec22e26643400e/0_0_1500_1500/master/1500.jpg?width=1920&quality=85&auto=format&fit=max&s=7e1cebac80c5046651c90a84dd3ab80b)
 
@@ -415,7 +415,7 @@ tags: music and stuff
 
   [6.5/10]
 
-### 逃走鮑伯 - 逃走鮑伯
+## 逃走鮑伯 - 逃走鮑伯
 
   ![](https://i.kfs.io/album/global/90069753,0v1/fit/500x500.jpg)
 
@@ -425,7 +425,7 @@ tags: music and stuff
 
   [6.3/10]
 
-### Oneohtrix Point Never - Magic Oneohtrix Point Never
+## Oneohtrix Point Never - Magic Oneohtrix Point Never
 
   ![](https://f4.bcbits.com/img/a1131233095_10.jpg)
 
@@ -435,7 +435,7 @@ tags: music and stuff
 
   [6.0/10]
 
-### Touché Amoré - Lament
+## Touché Amoré - Lament
 
   ![](https://f4.bcbits.com/img/a2343181796_10.jpg)
 
@@ -445,7 +445,7 @@ tags: music and stuff
 
   [5.0/10]
 
-### Jónsi - Shiver
+## Jónsi - Shiver
 
   ![](https://f4.bcbits.com/img/a2440992834_10.jpg)
 
@@ -455,7 +455,7 @@ tags: music and stuff
 
   [4.4/10]
 
-### Dorian Electra - My Agenda
+## Dorian Electra - My Agenda
 
   ![](https://i.kfs.io/album/global/89928469,0v1/fit/500x500.jpg)
 
@@ -465,7 +465,7 @@ tags: music and stuff
 
   [4.0/10]
 
-### Testament - Titans Of Creation
+## Testament - Titans Of Creation
 
   ![](https://www.metalsucks.net/wp-content/uploads/2020/01/Testament-Titans-of-Creation-Hi-Res-800x800.jpg)
 
@@ -475,7 +475,7 @@ tags: music and stuff
 
   [2.0/10]
 
-### Yellow Swans - Going Places
+## Yellow Swans - Going Places
 
   ![](https://f4.bcbits.com/img/a0551233675_10.jpg)
 
@@ -485,7 +485,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Milton Nascimento, Lô Borges - Clube Da Esquina
+## Milton Nascimento, Lô Borges - Clube Da Esquina
 
   ![](https://personaunesp.com.br/wp-content/uploads/2017/09/lo-borges-e-milton-nascimento-clube-da-esquina-1972.jpg)
 
@@ -495,7 +495,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Pub - Do You Ever Regret Pantomime?
+## Pub - Do You Ever Regret Pantomime?
 
   ![](https://f4.bcbits.com/img/a2108186735_10.jpg)
 
@@ -505,7 +505,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Goldmund - Corduroy Road
+## Goldmund - Corduroy Road
 
   ![](https://f4.bcbits.com/img/a2040606007_10.jpg)
 
@@ -515,7 +515,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Deaf Center - Owl Splinters
+## Deaf Center - Owl Splinters
 
   ![](https://f4.bcbits.com/img/a1072533720_10.jpg)
 
@@ -525,7 +525,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Domu - Return Of The Rogue
+## Domu - Return Of The Rogue
 
   ![](https://imagescdn.junodownload.com/full/CS1206532-02A-BIG.jpg)
 
@@ -535,7 +535,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Asha Puthil - Asha Puthil
+## Asha Puthil - Asha Puthil
 
   ![](https://images.roughtrade.com/product/images/files/000/190/309/hero/Asha_Puthli_s_t.jpg?1583188733)
 
@@ -545,7 +545,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Brother/Ghost - Buried
+## Brother/Ghost - Buried
 
   ![](https://f4.bcbits.com/img/a0270936662_10.jpg)
 
@@ -555,7 +555,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Logos - Imperial Flood
+## Logos - Imperial Flood
 
   ![](https://f4.bcbits.com/img/a1336970424_10.jpg)
 
@@ -565,7 +565,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Dara Tucker - The Seven Colors
+## Dara Tucker - The Seven Colors
 
   ![](https://f4.bcbits.com/img/a3066338101_10.jpg)
 
@@ -575,7 +575,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### New Sector Movements - Download This
+## New Sector Movements - Download This
 
   ![](https://lastfm.freetls.fastly.net/i/u/300x300/c77479e61c304261c2938f30ba8e5dc8.png)
 
@@ -585,7 +585,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Varg2™ - Fuck Varg
+## Varg2™ - Fuck Varg
 
   ![](https://f4.bcbits.com/img/a3830798287_10.jpg)
 
@@ -595,7 +595,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Kai Whiston - No World Eternal
+## Kai Whiston - No World Eternal
 
   ![](https://f4.bcbits.com/img/a2361357436_10.jpg)
 

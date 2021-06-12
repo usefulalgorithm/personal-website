@@ -5,7 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-### Pavel Milyakov & Bendik Giske - Pavel Milyakov & Bendik Giske
+## Pavel Milyakov & Bendik Giske - Pavel Milyakov & Bendik Giske
 
   ![](https://assets.boomkat.com/spree/products/729232/large/7072822375010_T70860909550054.jpeg)
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
   [8.9/10]
 
-### Godspeed You! Black Emperor - G_d's Pee AT STATE'S END!
+## Godspeed You! Black Emperor - G_d's Pee AT STATE'S END!
 
   ![](https://f4.bcbits.com/img/a1526103098_10.jpg)
 
@@ -25,7 +25,7 @@ tags: music and stuff
 
   [8.8/10]
 
-### Armand Hammer, The Alchemist - Haram
+## Armand Hammer, The Alchemist - Haram
 
   ![](https://f4.bcbits.com/img/a0731622909_16.jpg)
 
@@ -35,7 +35,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Amulets - Blooming
+## Amulets - Blooming
 
   ![](https://f4.bcbits.com/img/a0112182832_10.jpg)
 
@@ -45,7 +45,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Various Artists - La Ola Interior (Spanish Ambient & Acid Exotism: 1983 - 1990)
+## Various Artists - La Ola Interior (Spanish Ambient & Acid Exotism: 1983 - 1990)
 
   ![](https://f4.bcbits.com/img/a0240779806_16.jpg)
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Vladislav Delay - Rakka II
+## Vladislav Delay - Rakka II
 
   ![](https://f4.bcbits.com/img/a3232196382_16.jpg)
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### PDP III - Piled Up On A Couple Of Doves
+## PDP III - Piled Up On A Couple Of Doves
 
   ![](https://f4.bcbits.com/img/a2069705276_16.jpg)
 
@@ -75,7 +75,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Minimal Violence - Phase Two
+## Minimal Violence - Phase Two
 
   ![](https://f4.bcbits.com/img/a1514079938_10.jpg)
 
@@ -85,7 +85,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Stereolab - Electrically Possessed [Switched On Volume 4]
+## Stereolab - Electrically Possessed [Switched On Volume 4]
 
   ![](https://f4.bcbits.com/img/a2789169459_16.jpg)
 
@@ -95,7 +95,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Benny The Butcher, Harry Fraud - The Plugs I Met 2
+## Benny The Butcher, Harry Fraud - The Plugs I Met 2
 
   ![](https://spectrumculture.com/wp-content/uploads/2021/04/benny-the-butcher-plugs-2.jpeg)
 
@@ -105,7 +105,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Feu! Chatterton - Palais d'argile
+## Feu! Chatterton - Palais d'argile
 
   ![](http://feuchatterton.fr/media/coverpalaisdargile.jpg)
 
@@ -115,7 +115,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Various Artists - Vertige II
+## Various Artists - Vertige II
 
   ![](https://f4.bcbits.com/img/a2632155551_16.jpg)
 
@@ -125,7 +125,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Andy Stott - Never The Right Time
+## Andy Stott - Never The Right Time
 
   ![](https://imgproxy.ra.co/_/w:484/rt:fill/L2ltYWdlcy9yZXZpZXdzLzIwMjEvYW5keS1zdG90dC1uZXZlci1jb3Zlci5qcGc)
 
@@ -135,7 +135,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### IU - Lilac
+## IU - Lilac
 
   ![](https://beatsperminute.com/wp-content/uploads/2021/03/iu-lilac.jpg)
 
@@ -145,7 +145,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Xiu Xiu - OH NO
+## Xiu Xiu - OH NO
 
   ![](https://f4.bcbits.com/img/a1974308725_16.jpg)
 
@@ -155,7 +155,7 @@ tags: music and stuff
 
   [6.5/10]
 
-### Dinosaur Jr. - Sweep It Into Space
+## Dinosaur Jr. - Sweep It Into Space
 
   ![](https://f4.bcbits.com/img/a4116362403_16.jpg)
 
@@ -165,7 +165,7 @@ tags: music and stuff
 
   [5.8/10]
 
-### Wode - Burn In Many Mirrors
+## Wode - Burn In Many Mirrors
 
   ![](https://f4.bcbits.com/img/a1584589851_16.jpg)
 
@@ -175,7 +175,7 @@ tags: music and stuff
 
   [5.8/10]
 
-### Benny The Butcher - The Plugs I Met
+## Benny The Butcher - The Plugs I Met
 
   ![](https://images.genius.com/42d166e02680e89cd762e503316fc637.939x939x1.jpg)
 
@@ -185,7 +185,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Zenker Brothers - Cosmic Transmission
+## Zenker Brothers - Cosmic Transmission
 
   ![](https://f4.bcbits.com/img/a1128404085_16.jpg)
 
@@ -195,7 +195,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Hakushi Hasegawa - Air Ni Ni
+## Hakushi Hasegawa - Air Ni Ni
 
   ![](https://i.kfs.io/album/global/74251293,1v1/fit/500x500.jpg)
 
@@ -205,7 +205,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Razen - Robot Brujo 
+## Razen - Robot Brujo 
 
   ![](https://f4.bcbits.com/img/a3718083895_10.jpg)
 
@@ -215,7 +215,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Teresa Winter - What The Night Is For
+## Teresa Winter - What The Night Is For
 
   ![](https://assets.boomkat.com/spree/products/535957/large/RAVE025_distribution-preview.jpg)
 
@@ -225,7 +225,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### To Rococo Rot - The Amateur View
+## To Rococo Rot - The Amateur View
 
   ![](https://f4.bcbits.com/img/a0917538881_16.jpg)
 

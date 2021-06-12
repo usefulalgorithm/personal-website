@@ -5,7 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-### 百合花 - 燒金蕉
+## 百合花 - 燒金蕉
 
   ![](https://miro.medium.com/max/3790/1*l-qKcyohmV7gMipoRhqYUQ.jpeg)
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
   [9.0/10]
 
-### Telefon Tel Aviv - Dreams Are Not Enough
+## Telefon Tel Aviv - Dreams Are Not Enough
 
   ![](https://f4.bcbits.com/img/a2086685438_10.jpg)
 
@@ -25,7 +25,7 @@ tags: music and stuff
 
   [8.8/10]
 
-### Richard Dawson - 2020
+## Richard Dawson - 2020
 
   ![](https://f4.bcbits.com/img/a3287790004_10.jpg)
 
@@ -35,7 +35,7 @@ tags: music and stuff
 
   [8.7/10]
 
-### Minor Pieces - The Heavy Steps Of Dreaming
+## Minor Pieces - The Heavy Steps Of Dreaming
 
   ![](https://f4.bcbits.com/img/a1496124931_10.jpg)
 
@@ -45,7 +45,7 @@ tags: music and stuff
 
   [8.7/10]
 
-### Proc Fiskal - Shleekit Doss
+## Proc Fiskal - Shleekit Doss
 
   ![](https://f4.bcbits.com/img/a3307474250_10.jpg)
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Loraine James - For You And I
+## Loraine James - For You And I
 
   ![](https://f4.bcbits.com/img/a2645680614_10.jpg)
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Maria w Horn - Epistasis
+## Maria w Horn - Epistasis
 
   ![](https://f4.bcbits.com/img/a3612208464_10.jpg)
 
@@ -75,7 +75,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Ernest Hood - Neighborhoods
+## Ernest Hood - Neighborhoods
 
   ![](https://f4.bcbits.com/img/a2835522924_10.jpg)
 
@@ -85,7 +85,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### DJ Spinna - 1997 Beat Tape
+## DJ Spinna - 1997 Beat Tape
 
   ![](https://f4.bcbits.com/img/a0114450960_10.jpg)
 
@@ -95,7 +95,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Weatherday - Come In
+## Weatherday - Come In
 
   ![](https://f4.bcbits.com/img/a0151687412_10.jpg)
 
@@ -105,7 +105,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### HTRK - Venus in Leo
+## HTRK - Venus in Leo
 
   ![](https://f4.bcbits.com/img/a0618472637_10.jpg)
 
@@ -115,7 +115,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### S S S S - Walls, Corridors, Baffles
+## S S S S - Walls, Corridors, Baffles
 
   ![](https://f4.bcbits.com/img/a4122414895_10.jpg)
 
@@ -125,7 +125,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Floating Points - Crush
+## Floating Points - Crush
 
   ![](https://f4.bcbits.com/img/a3345010396_10.jpg)
 
@@ -135,7 +135,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Sana Obruent - End Game
+## Sana Obruent - End Game
 
   ![](https://f4.bcbits.com/img/a3077986276_10.jpg)
 
@@ -145,7 +145,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Toshifumi Hinata - Broken Belief
+## Toshifumi Hinata - Broken Belief
 
   ![](http://testpressing.org/wp-content/uploads/2019/09/unnamed-4-768x768.jpg)
 
@@ -155,7 +155,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Danny Brown - uknowhatimsayin¿
+## Danny Brown - uknowhatimsayin¿
 
   ![](https://d1rgjmn2wmqeif.cloudfront.net/r/b/140897-2.jpg)
 
@@ -165,7 +165,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Cult Of Luna - A Dawn to Fear
+## Cult Of Luna - A Dawn to Fear
 
   ![](https://f4.bcbits.com/img/a2342486250_10.jpg)
 
@@ -175,7 +175,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Sote - Parallel Persia
+## Sote - Parallel Persia
 
   ![](https://f4.bcbits.com/img/a3975343313_10.jpg)
 
@@ -185,7 +185,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Old Man Saxon, Cer Spence - Goldman Sax
+## Old Man Saxon, Cer Spence - Goldman Sax
 
   ![](https://f4.bcbits.com/img/a1494436940_10.jpg)
 
@@ -195,7 +195,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Ka Baird - Respires
+## Ka Baird - Respires
 
   ![](https://f4.bcbits.com/img/a2898589848_10.jpg)
 
@@ -205,7 +205,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Afrodeutsche - Break Before Make
+## Afrodeutsche - Break Before Make
 
   ![](https://assets.boomkat.com/spree/products/600024/large/8718723104838.jpg)
 
@@ -215,7 +215,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Pessimist, Karim Maas - Pessimist & Karim Maas
+## Pessimist, Karim Maas - Pessimist & Karim Maas
 
   ![](https://f4.bcbits.com/img/a1492866913_10.jpg)
 
@@ -225,7 +225,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Klein - Lifetime
+## Klein - Lifetime
 
   ![](https://f4.bcbits.com/img/a1340978567_10.jpg)
 
@@ -235,7 +235,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Air Max '97 - Ice Bridge
+## Air Max '97 - Ice Bridge
 
   ![](https://f4.bcbits.com/img/a0267856238_10.jpg)
 
@@ -245,7 +245,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Philippe Cam - Rotterdam
+## Philippe Cam - Rotterdam
 
   ![](https://assets.boomkat.com/spree/products/603138/large/4250472405223.jpg)
 
@@ -255,7 +255,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Carl Gari, Abdullah Miniawy - Whities 023 (The Act of Falling from the 8th Floor)
+## Carl Gari, Abdullah Miniawy - Whities 023 (The Act of Falling from the 8th Floor)
 
   ![](https://f4.bcbits.com/img/a2637908581_10.jpg)
 
@@ -265,7 +265,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Yosi Horikawa - Spaces
+## Yosi Horikawa - Spaces
 
   ![](https://f4.bcbits.com/img/a0610644959_10.jpg)
 
@@ -275,7 +275,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Equip - Nocturne Catacombs
+## Equip - Nocturne Catacombs
 
   ![](https://f4.bcbits.com/img/a3953437667_10.jpg)
 
@@ -285,7 +285,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Deathprod - Occulting Disk
+## Deathprod - Occulting Disk
 
   ![](https://f4.bcbits.com/img/a0621828397_10.jpg)
 
@@ -295,7 +295,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Tribe Of Colin - Age of Aquarius
+## Tribe Of Colin - Age of Aquarius
 
   ![](https://assets.boomkat.com/spree/products/611708/large/194491290054.jpg)
 
@@ -305,7 +305,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Comit - Remote Viewing
+## Comit - Remote Viewing
 
   ![](https://f4.bcbits.com/img/a2918465713_10.jpg)
 
@@ -315,7 +315,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### J Rick - No Retreat No Surrender
+## J Rick - No Retreat No Surrender
 
   ![](https://www.clashmusic.com/sites/default/files/field/image/unnamed%20%281%29_18.png)
 
@@ -325,7 +325,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Topdown Dialectic - Vol. 2
+## Topdown Dialectic - Vol. 2
 
   ![](https://www.residentadvisor.net/images/reviews/2019/peak11-topdown-dialectic.jpg)
 
@@ -335,7 +335,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Stavros Gasparatos - Rage Park
+## Stavros Gasparatos - Rage Park
 
   ![](https://f4.bcbits.com/img/a2735971627_10.jpg)
 
@@ -345,7 +345,7 @@ tags: music and stuff
 
   [7.1/10]
 
-### Mestozi - Peak Communication
+## Mestozi - Peak Communication
 
   ![](https://f4.bcbits.com/img/a0166495010_10.jpg)
 
@@ -355,7 +355,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Claro Intelecto - Forgotten Wasteland
+## Claro Intelecto - Forgotten Wasteland
 
   ![](https://f4.bcbits.com/img/a2387742971_10.jpg)
 
@@ -365,7 +365,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Mark Lanegan - Somebody's Knocking
+## Mark Lanegan - Somebody's Knocking
 
   ![](https://soundblab.com/images/news/mark-lanegan-band-somebodys-knocking.jpg)
 
@@ -375,7 +375,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Bonnie "Prince" Billy, Bryce Dessner, eighth blackbird - When We Are Inhuman
+## Bonnie "Prince" Billy, Bryce Dessner, eighth blackbird - When We Are Inhuman
 
   ![](https://assets.boomkat.com/spree/products/593348/large/656605346281_T55408666000054.jpg)
 
@@ -385,7 +385,7 @@ tags: music and stuff
 
   [6.9/10]
 
-### Danny Scott Lane - How to Empty a Cup
+## Danny Scott Lane - How to Empty a Cup
 
   ![](https://f4.bcbits.com/img/a0233451470_10.jpg)
 
@@ -395,7 +395,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### Angel Olsen - All Mirrors
+## Angel Olsen - All Mirrors
 
   ![](https://f4.bcbits.com/img/a3622966212_10.jpg)
 
@@ -405,7 +405,7 @@ tags: music and stuff
 
   [6.7/10]
 
-### Bakongo - Momoweb / Disposition / Goulbap
+## Bakongo - Momoweb / Disposition / Goulbap
 
   ![](https://f4.bcbits.com/img/a2362363052_10.jpg)
 
@@ -415,7 +415,7 @@ tags: music and stuff
 
   [6.7/10]
 
-### slowthai - Nothing Great About Britain
+## slowthai - Nothing Great About Britain
 
   ![](https://f4.bcbits.com/img/a0401638712_10.jpg)
 
@@ -425,7 +425,7 @@ tags: music and stuff
 
   [6.5/10]
 
-### Wilco - Ode to Joy
+## Wilco - Ode to Joy
 
   ![](https://f4.bcbits.com/img/a2448959823_10.jpg)
 
@@ -435,7 +435,7 @@ tags: music and stuff
 
   [6.5/10]
 
-### DIIV - Deceiver
+## DIIV - Deceiver
 
   ![](http://exclaim.ca/images/diiv_deceiver_album_art_2019.png)
 
@@ -445,7 +445,7 @@ tags: music and stuff
 
   [6.1/10]
 
-### Thaiboy Digital - Legendary Member
+## Thaiboy Digital - Legendary Member
 
   ![](https://images.genius.com/749a22e8b967eaff05ef149090199719.1000x1000x1.jpg)
 
@@ -455,7 +455,7 @@ tags: music and stuff
 
   [5.8/10]
 
-### Opeth - In Cauda Venenum
+## Opeth - In Cauda Venenum
 
   ![](https://i0.wp.com/metalinjection.net/wp-content/uploads/2019/09/Opeth-In-Cauda-Venenum.jpg?fit=700%2C700&ssl=1)
 
@@ -465,7 +465,7 @@ tags: music and stuff
 
   [4.6/10]
 
-### 當代電影大師 - 狀態
+## 當代電影大師 - 狀態
 
   ![](https://i.kfs.io/album/global/63748330,0v1/fit/500x500.jpg)
 
@@ -475,7 +475,7 @@ tags: music and stuff
 
   [4.4/10]
 
-### Kanye West - Jesus Is King
+## Kanye West - Jesus Is King
 
   ![](https://app.hiphopdx.com/app/uploads/2019/10/9bb46e99-8101-4578-9603-6fd014dc8dd0-e1572023071212.jpg)
 
@@ -485,7 +485,7 @@ tags: music and stuff
 
   [4.0/10]
 
-### Fabulous Diamonds - Commercial Music
+## Fabulous Diamonds - Commercial Music
 
   ![](https://f4.bcbits.com/img/a1559392827_10.jpg)
 
@@ -495,7 +495,7 @@ tags: music and stuff
 
   [9.0/10]
 
-### Madteo - Noi No
+## Madteo - Noi No
 
   ![](https://assets.boomkat.com/spree/products/117331/large/original.jpg)
 
@@ -505,7 +505,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Soccer Mommy - Clean
+## Soccer Mommy - Clean
 
   ![](https://f4.bcbits.com/img/a1223441986_10.jpg)
 
@@ -515,7 +515,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Pan Sonic - Aaltopiri
+## Pan Sonic - Aaltopiri
 
   ![](https://assets.boomkat.com/spree/products/383924/large/0724387436756_T14941618400054.jpg)
 
@@ -525,7 +525,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Sarn - Postmodern Trash
+## Sarn - Postmodern Trash
 
   ![](https://f4.bcbits.com/img/a1946254583_10.jpg)
 
@@ -535,7 +535,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Jóhann Jóhannsson - Virðulegu Forsetar
+## Jóhann Jóhannsson - Virðulegu Forsetar
 
   ![](https://assets.boomkat.com/spree/products/168625/large/virdulegu-forsetar-johann-johannson.jpg)
 

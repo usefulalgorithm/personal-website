@@ -5,7 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-### Shame - Drunk Tank Pink
+## Shame - Drunk Tank Pink
 
   ![](https://f4.bcbits.com/img/a1778017841_16.jpg)
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Viagra Boys - Welfare Jazz
+## Viagra Boys - Welfare Jazz
 
   ![](https://theartsdesk.com/sites/default/files/mastimages/viagra.jpg)
 
@@ -25,7 +25,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Ed Balloon - I Hate It Here
+## Ed Balloon - I Hate It Here
 
   ![](https://f4.bcbits.com/img/a3092409783_16.jpg)
 
@@ -35,7 +35,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Various Artists - Virtual Dreams: Ambient Explorations In The House & Techno Age, 1993-1997
+## Various Artists - Virtual Dreams: Ambient Explorations In The House & Techno Age, 1993-1997
 
   ![](https://f4.bcbits.com/img/a2481278726_16.jpg)
 
@@ -45,7 +45,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### R.A.P. Ferreira, Scallops Hotel - Bob's Son
+## R.A.P. Ferreira, Scallops Hotel - Bob's Son
 
   ![](https://f4.bcbits.com/img/a0738960096_16.jpg)
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Portrayal Of Guilt - Garden Of Despair
+## Portrayal Of Guilt - Garden Of Despair
 
   ![](https://f4.bcbits.com/img/a2229746778_16.jpg)
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
   [6.2/10]
 
-### (G)I-DLE - I Burn
+## (G)I-DLE - I Burn
 
   ![](https://image.bugsm.co.kr/album/images/1000/40240/4024084.jpg)
 
@@ -75,7 +75,7 @@ tags: music and stuff
 
   [6.1/10]
 
-### Holly Childs & Gediminas Žygus - Hydrangea
+## Holly Childs & Gediminas Žygus - Hydrangea
 
   ![](https://f4.bcbits.com/img/a3255552807_10.jpg)
 
@@ -85,7 +85,7 @@ tags: music and stuff
 
   [8.7/10]
 
-### Jabu - Sweet Company
+## Jabu - Sweet Company
 
   ![](https://f4.bcbits.com/img/a1268063597_10.jpg)
 
@@ -95,7 +95,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Xyla - Ways
+## Xyla - Ways
 
   ![](https://f4.bcbits.com/img/a0138336818_10.jpg)
 
@@ -105,7 +105,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Christoph De Babalon - Recurring Horrors
+## Christoph De Babalon - Recurring Horrors
 
   ![](https://f4.bcbits.com/img/a2207075376_16.jpg)
 
@@ -115,7 +115,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Serpente - Fe / Vazio
+## Serpente - Fe / Vazio
 
   ![](https://f4.bcbits.com/img/a0801417094_10.jpg)
 
@@ -125,7 +125,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Various Artists - Alterity
+## Various Artists - Alterity
 
   ![](https://f4.bcbits.com/img/a4229211258_10.jpg)
 
@@ -135,7 +135,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### 青葉市子 - Windswept Adan
+## 青葉市子 - Windswept Adan
 
   ![](https://f4.bcbits.com/img/a2741010406_10.jpg)
 
@@ -145,7 +145,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Michalis Moschoutis - Classical Mechanics
+## Michalis Moschoutis - Classical Mechanics
 
   ![](https://f4.bcbits.com/img/a1571756739_10.jpg)
 
@@ -155,7 +155,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Hideki Umezawa - Andrew Peklar - Two Views Of Amami Oshima
+## Hideki Umezawa - Andrew Peklar - Two Views Of Amami Oshima
 
   ![](https://f4.bcbits.com/img/a1125457222_16.jpg)
 
@@ -165,7 +165,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Leila - Like Weather
+## Leila - Like Weather
 
   ![](https://f4.bcbits.com/img/a1255524799_16.jpg)
 
@@ -175,7 +175,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Jessy Lanza - All The Time
+## Jessy Lanza - All The Time
 
   ![](https://f4.bcbits.com/img/a3307067049_16.jpg)
 
@@ -185,7 +185,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Ill Considered - Ill Considered VIII
+## Ill Considered - Ill Considered VIII
 
   ![](https://f4.bcbits.com/img/a3407957639_16.jpg)
 
@@ -195,7 +195,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Robbie Basho - Selections From Song Of The Avatars: The Lost Master Tapes
+## Robbie Basho - Selections From Song Of The Avatars: The Lost Master Tapes
 
   ![](https://f4.bcbits.com/img/a2505370611_16.jpg)
 
@@ -205,7 +205,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Twins - Soon
+## Twins - Soon
 
   ![](https://f4.bcbits.com/img/a1551146331_16.jpg)
 
@@ -215,7 +215,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Moor Mother, billy woods - Brass
+## Moor Mother, billy woods - Brass
 
   ![](https://f4.bcbits.com/img/a2253407346_16.jpg)
 
@@ -225,7 +225,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Repetitor - Prazan prostor među nama koji može i da ne postoji
+## Repetitor - Prazan prostor među nama koji može i da ne postoji
 
   ![](https://f4.bcbits.com/img/a3647542142_10.jpg)
 
@@ -235,7 +235,7 @@ tags: music and stuff
 
    [6.7/10]
 
-### Primitive Ignorant - Sikh Punk
+## Primitive Ignorant - Sikh Punk
 
   ![](https://f4.bcbits.com/img/a3522276063_16.jpg)
 
@@ -245,7 +245,7 @@ tags: music and stuff
 
   [6.4/10]
 
-### The Golden Filter - Autonomy
+## The Golden Filter - Autonomy
 
   ![](https://f4.bcbits.com/img/a0304938507_16.jpg)
 
@@ -255,7 +255,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Omni - Deluxe
+## Omni - Deluxe
 
   ![](https://f4.bcbits.com/img/a2690277979_16.jpg)
 

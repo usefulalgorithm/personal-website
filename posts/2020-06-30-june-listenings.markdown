@@ -5,7 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-### Freddie Gibbs, The Alchemist - Alfredo
+## Freddie Gibbs, The Alchemist - Alfredo
 
   ![](https://consequenceofsound.net/wp-content/uploads/2020/05/freddie-gibbs-alfredo-album-cover-artwork.jpg)
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Teleplasmiste - To Kiss Earth Goodbye
+## Teleplasmiste - To Kiss Earth Goodbye
 
   ![](https://f4.bcbits.com/img/a4141007913_10.jpg)
 
@@ -25,7 +25,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Vague Imaginaires - L'Île Sous l'Eau
+## Vague Imaginaires - L'Île Sous l'Eau
 
   ![](https://f4.bcbits.com/img/a3889322653_10.jpg)
 
@@ -35,7 +35,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### The Soft Pink Truth - Shall We Go On Sinning So That Grace May Increase?
+## The Soft Pink Truth - Shall We Go On Sinning So That Grace May Increase?
 
   ![](https://assets.boomkat.com/spree/products/646732/large/519_3000_300dpi.jpg)
 
@@ -45,7 +45,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Laura Cannell - The Earth With Her Crowns
+## Laura Cannell - The Earth With Her Crowns
 
   ![](https://f4.bcbits.com/img/a4252231064_10.jpg)
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Rafael Anton Irisarri - Peripeteia
+## Rafael Anton Irisarri - Peripeteia
 
   ![](https://f4.bcbits.com/img/a0984423617_10.jpg)
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Kenny Segal, Serengeti - Ajai
+## Kenny Segal, Serengeti - Ajai
 
   ![](https://f4.bcbits.com/img/a3329203013_10.jpg)
 
@@ -75,7 +75,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Apparat - Soundtracks: Dämonen
+## Apparat - Soundtracks: Dämonen
 
   ![](https://assets.boomkat.com/spree/products/667668/large/880918250687.jpg)
 
@@ -85,7 +85,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Cucina Povera & Haron - Plafond 6
+## Cucina Povera & Haron - Plafond 6
 
   ![](https://f4.bcbits.com/img/a1921734470_10.jpg)
 
@@ -95,7 +95,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Wrekmeister Harmonies - We Love To Look At The Carnage
+## Wrekmeister Harmonies - We Love To Look At The Carnage
 
   ![](https://f4.bcbits.com/img/a3609393215_10.jpg)
 
@@ -105,7 +105,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### African Head Charge - Churchucal Chant Of The Iyabinghi
+## African Head Charge - Churchucal Chant Of The Iyabinghi
 
   ![](https://f4.bcbits.com/img/a2278629704_10.jpg)
 
@@ -115,7 +115,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Okkyung Lee - Yeo-Neun
+## Okkyung Lee - Yeo-Neun
 
   ![](https://f4.bcbits.com/img/a1261012283_16.jpg)
 
@@ -125,7 +125,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Iszlai - Jazzamped
+## Iszlai - Jazzamped
 
   ![](https://f4.bcbits.com/img/a3484501500_10.jpg)
 
@@ -135,7 +135,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Mong Tong 夢東  - Mystery 秘神
+## Mong Tong 夢東  - Mystery 秘神
 
   ![](https://f4.bcbits.com/img/a1294176001_10.jpg)
 
@@ -147,7 +147,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Thou - Blessings Of The Highest Order
+## Thou - Blessings Of The Highest Order
 
   ![](https://f4.bcbits.com/img/a3085129957_10.jpg)
 
@@ -157,7 +157,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Dom & Roland - Lost In The Moment
+## Dom & Roland - Lost In The Moment
 
   ![](https://f4.bcbits.com/img/a2753795463_10.jpg)
 
@@ -167,7 +167,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Warmth - Life
+## Warmth - Life
 
   ![](https://f4.bcbits.com/img/a4022266253_10.jpg)
 
@@ -177,7 +177,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Psychic Graveyard - A Bluebird Vacation
+## Psychic Graveyard - A Bluebird Vacation
 
   ![](https://f4.bcbits.com/img/a1537609369_10.jpg)
 
@@ -187,7 +187,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Preservation - Eastern Medicine, Western Illness
+## Preservation - Eastern Medicine, Western Illness
 
   ![](https://f4.bcbits.com/img/a2634380911_10.jpg)
 
@@ -197,7 +197,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Deena Abdelwahed - Dhakar
+## Deena Abdelwahed - Dhakar
 
   ![](https://f4.bcbits.com/img/a0404421982_10.jpg)
 
@@ -207,7 +207,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Sean McCann, Matthew Sullivan, Alex Twomey - Saturday Night
+## Sean McCann, Matthew Sullivan, Alex Twomey - Saturday Night
 
   ![](https://f4.bcbits.com/img/a0875155731_10.jpg)
 
@@ -217,7 +217,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Military Genius - Deep Web
+## Military Genius - Deep Web
 
   ![](https://f4.bcbits.com/img/a1209257225_10.jpg)
 
@@ -227,7 +227,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Plone - Puzzlewood
+## Plone - Puzzlewood
 
   ![](https://f4.bcbits.com/img/a1061089243_10.jpg)
 
@@ -237,7 +237,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Run The Jewels - RTJ4
+## Run The Jewels - RTJ4
 
   ![](https://static.stereogum.com/uploads/2020/05/RTJ4-1590775540-640x640.jpg)
 
@@ -247,7 +247,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Backxwash - God Has Nothing To Do With This Leave Him Out Of It
+## Backxwash - God Has Nothing To Do With This Leave Him Out Of It
 
   ![](https://f4.bcbits.com/img/a3260782780_10.jpg)
 
@@ -257,7 +257,7 @@ tags: music and stuff
 
   [7.1/10]
 
-### White Boy Scream - Bakunawa
+## White Boy Scream - Bakunawa
 
   ![](https://f4.bcbits.com/img/a0504539128_10.jpg)
 
@@ -267,7 +267,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Aquarian - The Snake That Eats Itself
+## Aquarian - The Snake That Eats Itself
 
   ![](https://f4.bcbits.com/img/a1738082704_10.jpg)
 
@@ -277,7 +277,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Golden Retriever, Chuck Johnson - Rain Shadow
+## Golden Retriever, Chuck Johnson - Rain Shadow
 
   ![](https://f4.bcbits.com/img/a2756347128_10.jpg)
 
@@ -287,7 +287,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Xibalba - Años En Infierno
+## Xibalba - Años En Infierno
 
   ![](https://f4.bcbits.com/img/a3734492064_10.jpg)
 
@@ -297,7 +297,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Noveller - Arrow
+## Noveller - Arrow
 
   ![](https://f4.bcbits.com/img/a0872154092_10.jpg)
 
@@ -307,7 +307,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Zaliva-D - Immorality
+## Zaliva-D - Immorality
 
   ![](https://f4.bcbits.com/img/a3967255954_10.jpg)
 
@@ -317,7 +317,7 @@ tags: music and stuff
 
   [6.9/10]
 
-### Hideto Sasaki, Toshiyuki Sekine Quartet + 1 - Stop Over
+## Hideto Sasaki, Toshiyuki Sekine Quartet + 1 - Stop Over
 
   ![](https://www.bbemusic.com/user-files/uploads/bfi_thumb/BBE589_Hideto_Sasaki_Toshiyuki_Sekine_Quartet_Stop_Over_WEB-39o6ohh8rzkzjmgnhlqtc0.jpg)
 
@@ -327,7 +327,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### Daniel Davies - Signals
+## Daniel Davies - Signals
 
   ![](https://f4.bcbits.com/img/a0029799677_10.jpg)
 
@@ -337,7 +337,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### Tom Misch, Yussef Dayes - What Kinda Music
+## Tom Misch, Yussef Dayes - What Kinda Music
 
   ![](https://i.kfs.io/album/global/72627814,0v1/fit/500x500.jpg)
 
@@ -347,7 +347,7 @@ tags: music and stuff
 
   [6.5/10]
 
-### Deerhoof - Future Teenage Cave Artists
+## Deerhoof - Future Teenage Cave Artists
 
   ![](https://f4.bcbits.com/img/a1363025862_10.jpg)
 
@@ -357,7 +357,7 @@ tags: music and stuff
 
   [6.5/10]
 
-### Cremation - Dissolution Of Balance
+## Cremation - Dissolution Of Balance
 
   ![](https://f4.bcbits.com/img/a0577138435_10.jpg)
 
@@ -367,7 +367,7 @@ tags: music and stuff
 
   [6.2/10]
 
-### Squarepusher - Be Up A Hello
+## Squarepusher - Be Up A Hello
 
   ![](https://d1rgjmn2wmqeif.cloudfront.net/r/g/156722-3.jpg)
 
@@ -377,7 +377,7 @@ tags: music and stuff
 
   [6.1/10]
 
-### Elisabeth Elektra - Mercurial
+## Elisabeth Elektra - Mercurial
 
   ![](https://f4.bcbits.com/img/a1693312227_10.jpg)
 
@@ -387,7 +387,7 @@ tags: music and stuff
 
   [6.0/10]
 
-### Umbra Vitae - Shadow Of Life
+## Umbra Vitae - Shadow Of Life
 
   ![](https://f4.bcbits.com/img/a2123712630_10.jpg)
 
@@ -397,7 +397,7 @@ tags: music and stuff
 
   [5.8/10]
 
-### Elder - Omens
+## Elder - Omens
 
   ![](https://static.stereogum.com/uploads/2020/04/unnamed-42-1587415754-640x641.jpg)
 
@@ -407,7 +407,7 @@ tags: music and stuff
 
   [5.3/10]
 
-### Mrs. Piss - Self-Surgery
+## Mrs. Piss - Self-Surgery
 
   ![](https://f4.bcbits.com/img/a4118909094_10.jpg)
 
@@ -417,7 +417,7 @@ tags: music and stuff
 
   [4.2/10]
 
-### Car Seat Headrest - Making A Door Less Open
+## Car Seat Headrest - Making A Door Less Open
 
   ![](https://f4.bcbits.com/img/a2320259247_10.jpg)
 
@@ -427,7 +427,7 @@ tags: music and stuff
 
   [4.0/10]
 
-### 雨のパレード - Borderless
+## 雨のパレード - Borderless
 
   ![](https://i.ibb.co/184K5x4/2981611583293365.jpg)
 
@@ -437,7 +437,7 @@ tags: music and stuff
 
   [3.5/10]
 
-### Theseus忒修斯 - 南國再見，南國
+## Theseus忒修斯 - 南國再見，南國
 
   ![](https://lh4.googleusercontent.com/KdhSqVshWNRexFfBZd6sCbsHR_Jnn2m-klA1S44EecLKruWMIA8xABYkdFNnAjahIinoVawSAr5yXbd-HbmlVfuE-rXRCba2x1QiVII9jVu1BL3iKuIBg4WiX9fwMoWJq90SDiVn)
 
@@ -449,7 +449,7 @@ tags: music and stuff
 
   [3.0/10]
 
-### Sibylle Baier - Colour Green
+## Sibylle Baier - Colour Green
 
   ![](https://f4.bcbits.com/img/a4286059798_10.jpg)
 
@@ -459,7 +459,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Ol' Dirty Bastard - Return To The 36 Chambers: The Dirty Version
+## Ol' Dirty Bastard - Return To The 36 Chambers: The Dirty Version
 
   ![](http://s3.amazonaws.com/quietus_production/images/articles/17525/odb_album_cover_1427592675_crop_550x546.jpg)
 
@@ -469,7 +469,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Tara Clerkin - Hello
+## Tara Clerkin - Hello
 
   ![](https://f4.bcbits.com/img/a0123009822_10.jpg)
 
@@ -479,7 +479,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Gianluca Iadema - Aphàiresis
+## Gianluca Iadema - Aphàiresis
 
   ![](https://f4.bcbits.com/img/a3890747873_10.jpg)
 
@@ -489,7 +489,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Shasta Cults - Shasta Cults
+## Shasta Cults - Shasta Cults
 
   ![](https://f4.bcbits.com/img/a0958177700_10.jpg)
 
@@ -499,7 +499,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Cranes - Loved
+## Cranes - Loved
 
   ![](http://4.bp.blogspot.com/-jN5w1Dm9qgc/ULTwuu66EKI/AAAAAAAAGnE/6Y4tRfeOnN0/s1600/R-1459562-1221328326.jpeg)
 
@@ -509,7 +509,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Sister Grotto - You Don't Have To Be A House To Be Haunted
+## Sister Grotto - You Don't Have To Be A House To Be Haunted
 
   ![](https://f4.bcbits.com/img/a0524247984_10.jpg)
 
@@ -519,7 +519,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Segue - Pacifica
+## Segue - Pacifica
 
   ![](https://f4.bcbits.com/img/a0999171123_10.jpg)
 
@@ -529,7 +529,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Sprain - Sprain
+## Sprain - Sprain
 
   ![](https://f4.bcbits.com/img/a0800356589_10.jpg)
 
@@ -539,7 +539,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Toshiyuki Miyama and The New Herd & Masahiko Sato - Canto Of Libra
+## Toshiyuki Miyama and The New Herd & Masahiko Sato - Canto Of Libra
 
   ![](http://2.bp.blogspot.com/-Uei-Jq95WXw/U3Dzke432oI/AAAAAAAAFN0/FlPWIMUoOiU/s1600/Front.jpg)
 
@@ -549,7 +549,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Angel Bat Dawid - The Oracle
+## Angel Bat Dawid - The Oracle
 
   ![](https://f4.bcbits.com/img/a2808259986_10.jpg)
 
@@ -559,7 +559,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### The Utopia Strong - The Utopia Strong
+## The Utopia Strong - The Utopia Strong
 
   ![](https://f4.bcbits.com/img/a1353731745_10.jpg)
 
@@ -569,7 +569,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Jay Glass Dubs - Plegnic
+## Jay Glass Dubs - Plegnic
 
   ![](https://f4.bcbits.com/img/a0002768935_10.jpg)
 
@@ -579,7 +579,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Sunburned Hand Of The Man - Jaybird
+## Sunburned Hand Of The Man - Jaybird
 
   ![](https://f4.bcbits.com/img/a4196041260_10.jpg)
 
@@ -589,7 +589,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Boldy James, The Alchemist - The Price Of Tea In China
+## Boldy James, The Alchemist - The Price Of Tea In China
 
   ![](https://miro.medium.com/max/1080/1*ksjXkNxBWnTohnEUQwYXJg.jpeg)
 
@@ -599,7 +599,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Bull Of Apis Bull Of Bronze - Offerings Of Flesh And Gold
+## Bull Of Apis Bull Of Bronze - Offerings Of Flesh And Gold
 
   ![](https://f4.bcbits.com/img/a0968115711_10.jpg)
 
@@ -609,7 +609,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Jay Daniel - Tala
+## Jay Daniel - Tala
 
   ![](https://assets.boomkat.com/spree/products/543959/large/14263411337bb6b66da0c9b4cbb1c52b.jpg)
 
@@ -619,7 +619,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### The Disposable Heroes Of Hiphoprisy - Hypocrisy Is The Greatest Luxury
+## The Disposable Heroes Of Hiphoprisy - Hypocrisy Is The Greatest Luxury
 
   ![](http://s3.amazonaws.com/quietus_production/images/articles/22080/hiphoprisy_1490555801_crop_550x544.jpg)
 
@@ -629,7 +629,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Jay Glass Dubs - The Safest Dub
+## Jay Glass Dubs - The Safest Dub
 
   ![](https://assets.boomkat.com/spree/products/520218/large/192562740880.jpg)
 
@@ -639,7 +639,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Aco - Trad
+## Aco - Trad
 
   ![](https://i.kfs.io/album/hk/2031792,1v4/fit/500x500.jpg)
 
@@ -649,7 +649,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Interstellar Funk - Caves Of Steel
+## Interstellar Funk - Caves Of Steel
 
   ![](https://www.residentadvisor.net/images/reviews/2017/if_bh_ep.jpg)
 
@@ -659,7 +659,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Bjarki - Happy Earthday
+## Bjarki - Happy Earthday
 
   ![](https://f4.bcbits.com/img/a3460159777_10.jpg)
 
@@ -669,7 +669,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Mare - Mare
+## Mare - Mare
 
   ![](https://f4.bcbits.com/img/a4065718920_10.jpg)
 
@@ -679,7 +679,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Veytra - In Dreamlike States
+## Veytra - In Dreamlike States
 
   ![](https://f4.bcbits.com/img/a3399876917_10.jpg)
 
@@ -689,7 +689,7 @@ tags: music and stuff
 
   [6.0/10]
 
-### Mortality Rate - You Were The Gasoline
+## Mortality Rate - You Were The Gasoline
 
   ![](https://f4.bcbits.com/img/a1310924490_10.jpg)
 

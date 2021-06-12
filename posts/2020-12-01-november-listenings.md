@@ -5,7 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-### Krallice - Mass Cathexis
+## Krallice - Mass Cathexis
 
   ![](https://f4.bcbits.com/img/a0574786205_10.jpg)
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Grand River - Blink A Few Times To Clear Your Eyes
+## Grand River - Blink A Few Times To Clear Your Eyes
 
   ![](https://f4.bcbits.com/img/a4151932139_10.jpg)
 
@@ -25,7 +25,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Ana Roxanne - Because Of A Flower
+## Ana Roxanne - Because Of A Flower
 
   ![](https://f4.bcbits.com/img/a3771205071_10.jpg)
 
@@ -35,7 +35,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Bill Callahan - Gold Record
+## Bill Callahan - Gold Record
 
   ![](https://f4.bcbits.com/img/a3941009329_10.jpg)
 
@@ -45,7 +45,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Faceless Burial - Speciation
+## Faceless Burial - Speciation
 
   ![](https://f4.bcbits.com/img/a1236080079_10.jpg)
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### MJ Guider - Sour Cherry Bell
+## MJ Guider - Sour Cherry Bell
 
   ![](https://f4.bcbits.com/img/a0751049823_10.jpg)
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Various Artists - Blue Note Re:imagined
+## Various Artists - Blue Note Re:imagined
 
   ![](https://soundarchitecture.nl/image/cache/catalog/cgz-mx-800x800.jpg)
 
@@ -75,7 +75,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Adrianne Lenker - Songs
+## Adrianne Lenker - Songs
 
   ![](https://f4.bcbits.com/img/a1829975877_10.jpg)
 
@@ -85,7 +85,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Emma Ruth Rundle, Thou - May Our Chambers Be Full
+## Emma Ruth Rundle, Thou - May Our Chambers Be Full
 
   ![](https://f4.bcbits.com/img/a3696645020_10.jpg)
 
@@ -95,7 +95,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Ireen Amnes - In The Land Of Silence
+## Ireen Amnes - In The Land Of Silence
 
   ![](https://f4.bcbits.com/img/a1151879061_10.jpg)
 
@@ -105,7 +105,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Moor Jewelry - True Opera
+## Moor Jewelry - True Opera
 
   ![](https://f4.bcbits.com/img/a0058014362_10.jpg)
 
@@ -115,7 +115,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Takayuki Shiraishi - Anthologia
+## Takayuki Shiraishi - Anthologia
 
   ![](https://f4.bcbits.com/img/a4085966366_10.jpg)
 
@@ -125,7 +125,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Botanist - Photosynthesis
+## Botanist - Photosynthesis
 
   ![](https://f4.bcbits.com/img/a3403110590_10.jpg)
 
@@ -135,7 +135,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Various Artists - Pop Ambient 2021
+## Various Artists - Pop Ambient 2021
 
   ![](https://f4.bcbits.com/img/a4261532536_10.jpg)
 
@@ -145,7 +145,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Staraya Derevnya - Inwards Opened The Floor
+## Staraya Derevnya - Inwards Opened The Floor
 
   ![](https://f4.bcbits.com/img/a2213521169_10.jpg)
 
@@ -155,7 +155,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Nadja - Tsukihoshihi
+## Nadja - Tsukihoshihi
 
   ![](https://assets.boomkat.com/spree/products/696106/large/Nadja-Tsukihoshihi.jpg)
 
@@ -165,7 +165,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### John Frusciante - Maya
+## John Frusciante - Maya
 
   ![](https://f4.bcbits.com/img/a0769422831_10.jpg)
 
@@ -175,7 +175,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Goldmund - The Time It Takes
+## Goldmund - The Time It Takes
 
   ![](https://f4.bcbits.com/img/a2394416331_10.jpg)
 
@@ -185,7 +185,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### FFT - Month / Sacrifice
+## FFT - Month / Sacrifice
 
   ![](https://f4.bcbits.com/img/a1902000038_10.jpg)
 
@@ -195,7 +195,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Gesellschaft Zur Emanzipation Des Samples - Anthology Of American Pop Music
+## Gesellschaft Zur Emanzipation Des Samples - Anthology Of American Pop Music
 
   ![](https://f4.bcbits.com/img/a4245032904_10.jpg)
 
@@ -205,7 +205,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Maarja Nuut & Ruum - World Inverted
+## Maarja Nuut & Ruum - World Inverted
 
   ![](https://f4.bcbits.com/img/a3213908701_10.jpg)
 
@@ -215,7 +215,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Dirty Projector - 5 EPs
+## Dirty Projector - 5 EPs
 
   ![](https://f4.bcbits.com/img/a2921336825_10.jpg)
 
@@ -225,7 +225,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Mort Garson - Music From Patch Cord Productions
+## Mort Garson - Music From Patch Cord Productions
 
   ![](https://f4.bcbits.com/img/a1023002208_10.jpg)
 
@@ -235,7 +235,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Yellow - 浮世擊
+## Yellow - 浮世擊
 
   ![](https://i.kfs.io/album/global/89289396,3v1/fit/500x500.jpg)
 
@@ -245,7 +245,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Aesop Rock - Spirit World Field Guide
+## Aesop Rock - Spirit World Field Guide
 
   ![](https://f4.bcbits.com/img/a4186608441_10.jpg)
 
@@ -255,7 +255,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Cabaret Voltaire - Shadow Of Fear
+## Cabaret Voltaire - Shadow Of Fear
 
   ![](https://f4.bcbits.com/img/a1757556983_10.jpg)
 
@@ -265,7 +265,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Gaika - Seguridad
+## Gaika - Seguridad
 
   ![](https://f4.bcbits.com/img/a1567384387_10.jpg)
 
@@ -275,7 +275,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Angel Ho - Alla Prima
+## Angel Ho - Alla Prima
 
   ![](https://f4.bcbits.com/img/a1026556242_10.jpg)
 
@@ -285,7 +285,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Loscil - Faults, Coasts, Lines
+## Loscil - Faults, Coasts, Lines
 
   ![](https://f4.bcbits.com/img/a3883473497_10.jpg)
 
@@ -295,7 +295,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Bongripper - Glaciers
+## Bongripper - Glaciers
 
   ![](https://f4.bcbits.com/img/a2538693043_10.jpg)
 
@@ -305,7 +305,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Liturgy - Origin Of The Alimonies
+## Liturgy - Origin Of The Alimonies
 
   ![](https://f4.bcbits.com/img/a1229338581_10.jpg)
 
@@ -315,7 +315,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Orchid Mantis - Far From This World
+## Orchid Mantis - Far From This World
 
   ![](https://f4.bcbits.com/img/a0449516437_10.jpg)
 
@@ -325,7 +325,7 @@ tags: music and stuff
 
   [6.9/10]
 
-### Yo La Tengo - Sleepless Nights
+## Yo La Tengo - Sleepless Nights
 
   ![](https://assets.boomkat.com/spree/products/688868/large/Unknown.jpg)
 
@@ -335,7 +335,7 @@ tags: music and stuff
 
   [6.5/10]
 
-### The Killers - Imploding The Mirage
+## The Killers - Imploding The Mirage
 
   ![](https://www.thekillersmusic.com/sites/g/files/aaj4551/f/styles/suzuki_breakpoints_image_mobile-lg_sq/public/release/202008/ab67616d0000b273cda9b715df60a7d8fe0a9d62.jpg?itok=H7STFLl1)
 
@@ -345,7 +345,7 @@ tags: music and stuff
 
   [5.2/10]
 
-### Mammal Hands - Captured Spirits
+## Mammal Hands - Captured Spirits
 
   ![](https://f4.bcbits.com/img/a2396058704_10.jpg)
 
@@ -355,7 +355,7 @@ tags: music and stuff
 
   [5.0/10]
 
-### Cloudkicker - Solitude
+## Cloudkicker - Solitude
 
   ![](https://f4.bcbits.com/img/a3216428789_10.jpg)
 
@@ -365,7 +365,7 @@ tags: music and stuff
 
   [4.3/10]
 
-### Mr. Bungle - The Raging Wrath Of The Easter Bunny Demo
+## Mr. Bungle - The Raging Wrath Of The Easter Bunny Demo
 
   ![](https://f4.bcbits.com/img/a4225317696_10.jpg)
 
@@ -375,7 +375,7 @@ tags: music and stuff
 
   [3.8/10]
 
-### Ovum - Ascension
+## Ovum - Ascension
 
   ![](https://f4.bcbits.com/img/a0165312225_10.jpg)
 
@@ -383,7 +383,7 @@ tags: music and stuff
 
   Release date: 2021-06-02
 
-### Jake Muir - Lady's Mantle
+## Jake Muir - Lady's Mantle
 
   ![](https://f4.bcbits.com/img/a3144064782_10.jpg)
 
@@ -393,7 +393,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Basic Channel - Quadrant Dub
+## Basic Channel - Quadrant Dub
 
   ![](https://assets.boomkat.com/spree/products/490231/large/BC.jpg)
 
@@ -403,7 +403,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Function - Existenz
+## Function - Existenz
 
   ![](https://assets.boomkat.com/spree/products/617992/large/0666017339726.jpg)
 
@@ -413,7 +413,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Yatta - Wahala
+## Yatta - Wahala
 
   ![](https://f4.bcbits.com/img/a2748418002_10.jpg)
 
@@ -423,7 +423,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Sky H1 - Motion
+## Sky H1 - Motion
 
   ![](https://f4.bcbits.com/img/a2975947196_10.jpg)
 
@@ -433,7 +433,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Rothko - Severed Tense
+## Rothko - Severed Tense
 
   ![](https://f4.bcbits.com/img/a0670180781_10.jpg)
 
@@ -443,7 +443,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Roska - Perception
+## Roska - Perception
 
   ![](https://f4.bcbits.com/img/a0471374843_10.jpg)
 
@@ -453,7 +453,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Battles - Juice B Crypts
+## Battles - Juice B Crypts
 
   ![](https://d1rgjmn2wmqeif.cloudfront.net/r/g/139767-1.jpg)
 
@@ -463,7 +463,7 @@ tags: music and stuff
 
   [6.7/10]
 
-### Bruce Haack - The Electric Lucifer
+## Bruce Haack - The Electric Lucifer
 
   ![](https://f4.bcbits.com/img/a2881262270_10.jpg)
 

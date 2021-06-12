@@ -5,7 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-### They Hate Change - Juices Run Clear
+## They Hate Change - Juices Run Clear
 
   ![](https://f4.bcbits.com/img/a0570189926_10.jpg)
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
   [9.0/10]
 
-### Kali Malone - The Sacrificial Code
+## Kali Malone - The Sacrificial Code
 
   ![](https://f4.bcbits.com/img/a0547092622_10.jpg)
 
@@ -25,7 +25,7 @@ tags: music and stuff
 
   [8.9/10]
 
-### Anne Imhof - Faust
+## Anne Imhof - Faust
 
   ![](https://f4.bcbits.com/img/a4173800633_10.jpg)
 
@@ -35,7 +35,7 @@ tags: music and stuff
 
   [8.8/10]
 
-### Tomoyoshi Date, Stijn Hüwels - Hochu-Ekki-Tou
+## Tomoyoshi Date, Stijn Hüwels - Hochu-Ekki-Tou
 
   ![](https://f4.bcbits.com/img/a3708394965_10.jpg)
 
@@ -45,7 +45,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Ed Balloon - The Dubs
+## Ed Balloon - The Dubs
 
   ![](https://f4.bcbits.com/img/a2796550103_10.jpg)
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Charli XCX - Charli
+## Charli XCX - Charli
 
   ![](https://images.genius.com/40058c4339d76fbfc501bec53d9a26cd.1000x1000x1.jpg)
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### H-Fusion - H-Fusion
+## H-Fusion - H-Fusion
 
   ![](https://assets.boomkat.com/spree/products/545983/large/0804551303777.jpg)
 
@@ -75,7 +75,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### The Comet Is Coming - Trust In The Lifeforce Of The Deep Mystery
+## The Comet Is Coming - Trust In The Lifeforce Of The Deep Mystery
 
   ![](https://media.pitchfork.com/photos/5c6c54786f31fa3d12a68c6f/1:1/w_600/CometIsComing_TrustInTheLifeforce.jpg)
 
@@ -85,7 +85,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Ellen Arkbro - CHORDS
+## Ellen Arkbro - CHORDS
 
   ![](https://f4.bcbits.com/img/a0633098293_10.jpg)
 
@@ -95,7 +95,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Norihito Suda, Stijn Hüwels - Sansui
+## Norihito Suda, Stijn Hüwels - Sansui
 
   ![](https://f4.bcbits.com/img/a1734029736_10.jpg)
 
@@ -105,7 +105,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Burial - Claustro / State Forest
+## Burial - Claustro / State Forest
 
   ![](https://f4.bcbits.com/img/a2252348569_10.jpg)
 
@@ -115,7 +115,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Solar X - Xrated
+## Solar X - Xrated
 
   ![](https://f4.bcbits.com/img/a3050085367_10.jpg)
 
@@ -125,7 +125,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Leo Svirsky - River Without Banks
+## Leo Svirsky - River Without Banks
 
   ![](https://f4.bcbits.com/img/a1390018712_10.jpg)
 
@@ -135,7 +135,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Mach-Hommy - Wap Konn Jòj!
+## Mach-Hommy - Wap Konn Jòj!
 
   ![](https://static.stereogum.com/uploads/2019/06/Mach-Hommy-Wap-Konn-Joj-1561389000-640x640.jpeg)
 
@@ -145,7 +145,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Felicia Atkinson - The Flower And The Vessel
+## Felicia Atkinson - The Flower And The Vessel
 
   ![](https://f4.bcbits.com/img/a3253079313_10.jpg)
 
@@ -155,7 +155,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Mister Lies - Mister Lies
+## Mister Lies - Mister Lies
 
   ![](https://f4.bcbits.com/img/a2008434017_10.jpg)
 
@@ -165,7 +165,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Jane Weaver - Loops In The Secret Society
+## Jane Weaver - Loops In The Secret Society
 
   ![](https://f4.bcbits.com/img/a1449748852_10.jpg)
 
@@ -175,7 +175,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### SOPHIE - OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM
+## SOPHIE - OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM
 
   ![](https://images.genius.com/46a1fb41b885991354734d2ea01a145d.1000x1000x1.jpg)
 
@@ -185,7 +185,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Octo Octa - Resonant Body
+## Octo Octa - Resonant Body
 
   ![](https://f4.bcbits.com/img/a2005771687_10.jpg)
 
@@ -197,7 +197,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### JPEGMAFIA - All My Heroes Are Cornballs
+## JPEGMAFIA - All My Heroes Are Cornballs
 
   ![](https://f4.bcbits.com/img/a0372272145_10.jpg)
 
@@ -207,7 +207,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Ekin Fil - Heavy
+## Ekin Fil - Heavy
 
   ![](https://f4.bcbits.com/img/a0766026964_10.jpg)
 
@@ -217,7 +217,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Plaid - Polymer
+## Plaid - Polymer
 
   ![](https://www.residentadvisor.net/images/reviews/2019/warplp303-plaid.jpg)
 
@@ -227,7 +227,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Iona Fortune - Tao Of I Volume 2
+## Iona Fortune - Tao Of I Volume 2
 
   ![](https://f4.bcbits.com/img/a1337714215_10.jpg)
 
@@ -237,7 +237,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Leila Bordreuil - Headflush
+## Leila Bordreuil - Headflush
 
   ![](https://f4.bcbits.com/img/a3276332867_10.jpg)
 
@@ -247,7 +247,7 @@ tags: music and stuff
 
   [7.1/10]
 
-### BABii - HiiDE
+## BABii - HiiDE
 
   ![](https://f4.bcbits.com/img/a3556179400_10.jpg)
 
@@ -257,7 +257,7 @@ tags: music and stuff
 
   [7.1/10]
 
-### Kcin - Sleeplessness And Hopelessness I
+## Kcin - Sleeplessness And Hopelessness I
 
   ![](https://headphonecommute.com/app/uploads/2019/09/kcin-sleeplessness-and-hopelessness-i-full-res-cover-art-1436x1436.jpg)
 
@@ -267,7 +267,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Dis Fantasy - Dis Fantasy
+## Dis Fantasy - Dis Fantasy
 
   ![](https://f4.bcbits.com/img/a2034638259_10.jpg)
 
@@ -277,7 +277,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Kindness - Something Like A War
+## Kindness - Something Like A War
 
   ![](https://f4.bcbits.com/img/a1335257435_10.jpg)
 
@@ -287,7 +287,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### DJ Haram - Grace EP
+## DJ Haram - Grace EP
 
   ![](https://f4.bcbits.com/img/a0205550859_10.jpg)
 
@@ -297,7 +297,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### François J. Bonnet & Stephen O'Malley - Cylene
+## François J. Bonnet & Stephen O'Malley - Cylene
 
   ![](https://f4.bcbits.com/img/a3711314863_10.jpg)
 
@@ -307,7 +307,7 @@ tags: music and stuff
 
   [6.5/10]
 
-### Kedr Livanskiy - Your Need
+## Kedr Livanskiy - Your Need
 
   ![](https://f4.bcbits.com/img/a1100809650_10.jpg)
 
@@ -317,7 +317,7 @@ tags: music and stuff
 
   [6.2/10]
 
-### Organ Tapes - Hunger In Me Living
+## Organ Tapes - Hunger In Me Living
 
   ![](https://f4.bcbits.com/img/a1759705776_10.jpg)
 
@@ -327,7 +327,7 @@ tags: music and stuff
 
   [6.0/10]
 
-### IDK - Is He Real?
+## IDK - Is He Real?
 
   ![](https://images.complex.com/complex/images/c_limit,dpr_auto,q_90,w_720/fl_lossy,pg_1/gohzl92of5eglu52cade/idk-is-he-real)
 
@@ -337,7 +337,7 @@ tags: music and stuff
 
   [5.5/10]
 
-### Lite - Multiple
+## Lite - Multiple
 
   ![](https://f4.bcbits.com/img/a0528657661_10.jpg)
 
@@ -347,7 +347,7 @@ tags: music and stuff
 
   [5.5/10]
 
-### w00dy - RNBW
+## w00dy - RNBW
 
   ![](https://f4.bcbits.com/img/a0273375760_10.jpg)
 
@@ -357,7 +357,7 @@ tags: music and stuff
 
   [9.0/10]
 
-### Sugar - No Sex Only Feelings
+## Sugar - No Sex Only Feelings
 
   ![](https://f4.bcbits.com/img/a3780403567_10.jpg)
 
@@ -367,7 +367,7 @@ tags: music and stuff
 
   [8.9/10]
 
-### Pan-American - For Waiting, For Chasing
+## Pan-American - For Waiting, For Chasing
 
   ![](https://f4.bcbits.com/img/a1620538680_10.jpg)
 
@@ -377,7 +377,7 @@ tags: music and stuff
 
   [8.7/10]
 
-### Sunareht - Sagas
+## Sunareht - Sagas
 
   ![](https://f4.bcbits.com/img/a2694597869_10.jpg)
 
@@ -387,7 +387,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### True Neutral Crew - Soft Rules
+## True Neutral Crew - Soft Rules
 
   ![](https://f4.bcbits.com/img/a1921858756_10.jpg)
 
@@ -397,7 +397,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Niagara - Apologia
+## Niagara - Apologia
 
   ![](https://f4.bcbits.com/img/a1277755584_10.jpg)
 
@@ -407,7 +407,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Elucid - Save Yourself
+## Elucid - Save Yourself
 
   ![](https://f4.bcbits.com/img/a1988935017_10.jpg)
 
@@ -417,7 +417,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### They Hate Change - Cycles
+## They Hate Change - Cycles
 
   ![](https://f4.bcbits.com/img/a0468250147_10.jpg)
 
@@ -427,7 +427,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Topdown Dialectic - Topdown Dialectic
+## Topdown Dialectic - Topdown Dialectic
 
   ![](https://imagescdn.juno.co.uk/full/CS697951-01A-BIG.jpg)
 
@@ -437,7 +437,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### P.E.E. - i win me over.
+## P.E.E. - i win me over.
 
   ![](https://f4.bcbits.com/img/a1973795421_10.jpg)
 
@@ -447,7 +447,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Stanislav Tolkachev - Why Are You So Frightened
+## Stanislav Tolkachev - Why Are You So Frightened
 
   ![](https://f4.bcbits.com/img/0011514446_10.jpg)
 
@@ -457,7 +457,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Fauxe - Ikhlas
+## Fauxe - Ikhlas
 
   ![](https://f4.bcbits.com/img/a0282088231_10.jpg)
 
@@ -467,7 +467,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### P. Adrix - Álbum Desconhecido
+## P. Adrix - Álbum Desconhecido
 
   ![](https://f4.bcbits.com/img/a3271702577_10.jpg)
 
@@ -477,7 +477,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Swarvy - Anti-Anxiety
+## Swarvy - Anti-Anxiety
 
   ![](https://f4.bcbits.com/img/a0569440674_10.jpg)
 
@@ -487,7 +487,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### D.Dan - Covert Operation
+## D.Dan - Covert Operation
 
   ![](https://f4.bcbits.com/img/a3995439538_10.jpg)
 
@@ -497,7 +497,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Naaahhh - Themes
+## Naaahhh - Themes
 
   ![](https://f4.bcbits.com/img/a1142999029_10.jpg)
 

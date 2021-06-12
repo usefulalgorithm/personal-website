@@ -5,7 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-### Ian William Craig - Red Sun Through Smoke
+## Ian William Craig - Red Sun Through Smoke
 
   ![](https://f4.bcbits.com/img/a0602461506_10.jpg)
 
@@ -13,7 +13,7 @@ tags: music and stuff
 
   Release date: 2020-03-20
 
-### Zelienople - Hold You Up
+## Zelienople - Hold You Up
 
   ![](https://f4.bcbits.com/img/a1453379665_10.jpg)
 
@@ -23,7 +23,7 @@ tags: music and stuff
 
   [8.8/10]
 
-### Loke Rahbek, Frederik Valentin - Elephant
+## Loke Rahbek, Frederik Valentin - Elephant
 
   ![](https://assets.boomkat.com/spree/products/631281/large/5056321606037_T9_Image.jpg)
 
@@ -33,7 +33,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Racine - Quelque Chose Tombe
+## Racine - Quelque Chose Tombe
 
   ![](https://f4.bcbits.com/img/a1237396031_10.jpg)
 
@@ -43,7 +43,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Alex Zhang Hungtai, Tseng Kuo Hung - Longone
+## Alex Zhang Hungtai, Tseng Kuo Hung - Longone
 
   ![](https://f4.bcbits.com/img/a0351757436_10.jpg)
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### The Fear Ratio - They Can't Be Saved
+## The Fear Ratio - They Can't Be Saved
 
   ![](https://assets.boomkat.com/spree/products/647257/large/180046.jpg)
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Horse Lords - The Common Task
+## Horse Lords - The Common Task
 
   ![](https://f4.bcbits.com/img/a3789063721_10.jpg)
 
@@ -75,7 +75,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Nicolas Jaar - Cenizas
+## Nicolas Jaar - Cenizas
 
   ![](https://f4.bcbits.com/img/a2503291994_10.jpg)
 
@@ -85,7 +85,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Sega Bodega - Salvador
+## Sega Bodega - Salvador
 
   ![](https://f4.bcbits.com/img/a1813181346_10.jpg)
 
@@ -95,7 +95,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Le Berger - Our Imagined Self Importance
+## Le Berger - Our Imagined Self Importance
 
   ![](https://f4.bcbits.com/img/a0274843584_10.jpg)
 
@@ -105,7 +105,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Mhysa - Nevaeh
+## Mhysa - Nevaeh
 
   ![](https://f4.bcbits.com/img/a0262016756_10.jpg)
 
@@ -115,7 +115,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Dan Deacon - Mystic Familiar
+## Dan Deacon - Mystic Familiar
 
   ![](https://f4.bcbits.com/img/a4042660897_10.jpg)
 
@@ -125,7 +125,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Pantha Du Prince - Conference Of Trees
+## Pantha Du Prince - Conference Of Trees
 
   ![](https://www.residentadvisor.net/images/reviews/2020/conferenceoftrees.jpg)
 
@@ -135,7 +135,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### The Flashbulb - Our Simulacra
+## The Flashbulb - Our Simulacra
 
   ![](https://f4.bcbits.com/img/a3919388862_10.jpg)
 
@@ -145,7 +145,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Psypiritual, The Lasso - Kirlian
+## Psypiritual, The Lasso - Kirlian
 
   ![](https://f4.bcbits.com/img/a4287813658_10.jpg)
 
@@ -155,7 +155,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Star Searchers - Avatar Blue
+## Star Searchers - Avatar Blue
 
   ![](https://www.residentadvisor.net/images/reviews/2020/spencer-clark-avatar-disc-1.jpg)
 
@@ -165,7 +165,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Jacaszek - Music For Film
+## Jacaszek - Music For Film
 
   ![](https://f4.bcbits.com/img/a0158359268_10.jpg)
 
@@ -175,7 +175,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Vladislav Delay - Rakka
+## Vladislav Delay - Rakka
 
   ![](https://f4.bcbits.com/img/a4178395027_10.jpg)
 
@@ -185,7 +185,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Odious Mortem - Synesthesia
+## Odious Mortem - Synesthesia
 
   ![](https://f4.bcbits.com/img/a2066931582_10.jpg)
 
@@ -195,7 +195,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Soccer Mommy - Color Theory
+## Soccer Mommy - Color Theory
 
   ![](https://f4.bcbits.com/img/a1272225382_10.jpg)
 
@@ -205,7 +205,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Leo Takami - Felis Catus And Silence
+## Leo Takami - Felis Catus And Silence
 
   ![](https://f4.bcbits.com/img/a2234149689_10.jpg)
 
@@ -215,7 +215,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Caribou - Suddenly
+## Caribou - Suddenly
 
   ![](https://f4.bcbits.com/img/a0092738776_10.jpg)
 
@@ -225,7 +225,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Vyva Melinkolya - Violet
+## Vyva Melinkolya - Violet
 
   ![](https://f4.bcbits.com/img/a2426150941_10.jpg)
 
@@ -235,7 +235,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Hilary Woods - Birthmarks
+## Hilary Woods - Birthmarks
 
   ![](https://f4.bcbits.com/img/a0751402972_10.jpg)
 
@@ -245,7 +245,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Intronaut - Fluid Existential Inversions
+## Intronaut - Fluid Existential Inversions
 
   ![](https://f4.bcbits.com/img/a0798790118_10.jpg)
 
@@ -255,7 +255,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Electric Sewer Age - Contemplating Nothingness
+## Electric Sewer Age - Contemplating Nothingness
 
   ![](https://f4.bcbits.com/img/a3947479471_10.jpg)
 
@@ -265,7 +265,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Real Estate - The Main Thing
+## Real Estate - The Main Thing
 
   ![](https://cdn2.thelineofbestfit.com/images/made/images/remote/https_cdn2.thelineofbestfit.com/media/2014/realestate2020_600_600.jpg)
 
@@ -275,7 +275,7 @@ tags: music and stuff
 
   [6.4/10]
 
-### U.S. Girls - Heavy Light
+## U.S. Girls - Heavy Light
 
   ![](https://img.apmcdn.org/bf931f2cf1233937a6a7086658f8a3ea4a2dd62d/square/134d10-20200315-u-s-girls-heavy-light.jpg)
 
@@ -285,7 +285,7 @@ tags: music and stuff
 
   [6.3/10]
 
-### Tycho - Simulcast
+## Tycho - Simulcast
 
   ![](https://f4.bcbits.com/img/a0814976382_10.jpg)
 
@@ -295,7 +295,7 @@ tags: music and stuff
 
   [6.0/10]
 
-### Code Orange - Underneath
+## Code Orange - Underneath
 
   ![](https://static.stereogum.com/uploads/2020/03/Code-Orange-Underneath-1584110637-640x640.jpg)
 
@@ -305,7 +305,7 @@ tags: music and stuff
 
   [5.0/10]
 
-### Wouter Van Veldhoven - Verzamelen I
+## Wouter Van Veldhoven - Verzamelen I
 
   ![](https://f4.bcbits.com/img/a3532158011_10.jpg)
 
@@ -315,7 +315,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Zelienople - Pajama Avenue
+## Zelienople - Pajama Avenue
 
   ![](https://f4.bcbits.com/img/a2365234277_10.jpg)
 
@@ -325,7 +325,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Vatican Shadow - American Flesh For Violence
+## Vatican Shadow - American Flesh For Violence
 
   ![](https://f4.bcbits.com/img/a3140786244_10.jpg)
 
@@ -335,7 +335,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### juneunit - juneunit
+## juneunit - juneunit
 
   ![](https://f4.bcbits.com/img/a2633268519_10.jpg)
 
@@ -345,7 +345,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### 輕描淡寫 - 小圈子
+## 輕描淡寫 - 小圈子
 
   ![](https://f4.bcbits.com/img/a2023712235_10.jpg)
 
@@ -355,7 +355,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### R Beny - Echo's Verse
+## R Beny - Echo's Verse
 
   ![](https://f4.bcbits.com/img/a3862941831_10.jpg)
 
@@ -365,7 +365,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### SØS Gunver Ryberg - Entangled
+## SØS Gunver Ryberg - Entangled
 
   ![](https://f4.bcbits.com/img/a0214594627_10.jpg)
 
@@ -375,7 +375,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Lawrence - Films & Windows
+## Lawrence - Films & Windows
 
   ![](https://www.residentadvisor.net/images/reviews/2013/diallrecords-p029.jpg)
 
@@ -385,7 +385,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Brunnen - The Garden Of Perpetual Dreams
+## Brunnen - The Garden Of Perpetual Dreams
 
   ![](https://f4.bcbits.com/img/a3647639307_10.jpg)
 
@@ -395,7 +395,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Tony Njoku - Your Psyche's Rainbow Panorama
+## Tony Njoku - Your Psyche's Rainbow Panorama
 
   ![](https://f4.bcbits.com/img/a0418619536_10.jpg)
 
@@ -405,7 +405,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Roll The Dice - Until Silence
+## Roll The Dice - Until Silence
 
   ![](https://f4.bcbits.com/img/a0521118482_10.jpg)
 
@@ -415,7 +415,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Thantifaxath - Void Masquerading As Matter
+## Thantifaxath - Void Masquerading As Matter
 
   ![](https://f4.bcbits.com/img/a0453052198_10.jpg)
 
@@ -425,7 +425,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Pye Corner Audio - Dark Phase
+## Pye Corner Audio - Dark Phase
 
   ![](https://f4.bcbits.com/img/a4147046831_10.jpg)
 
@@ -435,7 +435,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Mavi - Let The Sun Talk
+## Mavi - Let The Sun Talk
 
   ![](https://f4.bcbits.com/img/a1907726501_10.jpg)
 
@@ -445,7 +445,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Somaticae - Catharsis
+## Somaticae - Catharsis
 
   ![](https://f4.bcbits.com/img/a3293112239_10.jpg)
 
@@ -455,7 +455,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Sudan Archives - Sudan Archives
+## Sudan Archives - Sudan Archives
 
   ![](https://f4.bcbits.com/img/a0032157402_10.jpg)
 
@@ -465,7 +465,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Oto No Wa: Selected Sounds Of Japan 1988-2018
+## Oto No Wa: Selected Sounds Of Japan 1988-2018
 
   ![](https://f4.bcbits.com/img/a0474477010_10.jpg)
 
@@ -475,7 +475,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Nautilis - Are You An Axolotl
+## Nautilis - Are You An Axolotl
 
   ![](https://f4.bcbits.com/img/a3115017679_10.jpg)
 
@@ -485,7 +485,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Edmund Finnis, Galya Bisengalieva, Robert Ames - Edmund Finnis: Brother
+## Edmund Finnis, Galya Bisengalieva, Robert Ames - Edmund Finnis: Brother
 
   ![](https://f4.bcbits.com/img/a1005232417_10.jpg)
 
@@ -495,7 +495,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Yukari - Echo
+## Yukari - Echo
 
   ![](https://f4.bcbits.com/img/a1000991114_10.jpg)
 
@@ -505,7 +505,7 @@ tags: music and stuff
 
   [7.1/10]
 
-### Kitty - Haha, I'm Sorry
+## Kitty - Haha, I'm Sorry
 
   ![](https://f4.bcbits.com/img/a3139124931_10.jpg)
 

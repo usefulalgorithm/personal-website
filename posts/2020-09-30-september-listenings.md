@@ -5,7 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-### Duval Timothy - Help
+## Duval Timothy - Help
 
   ![](https://f4.bcbits.com/img/a3770508916_16.jpg)
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
   [9.0/10]
 
-### KMRU - Peel
+## KMRU - Peel
 
   ![](https://f4.bcbits.com/img/a0125806975_10.jpg)
 
@@ -25,7 +25,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Sprain - As Lost Through Collision
+## Sprain - As Lost Through Collision
 
   ![](https://f4.bcbits.com/img/a2571838157_10.jpg)
 
@@ -35,7 +35,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Nicolas Jaar - Telas
+## Nicolas Jaar - Telas
 
   ![](https://f4.bcbits.com/img/a4200207258_10.jpg)
 
@@ -45,7 +45,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Anna Von Hausswolff - All Thoughts Fly
+## Anna Von Hausswolff - All Thoughts Fly
 
   ![](https://f4.bcbits.com/img/a3179211438_10.jpg)
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Moses Sumney - græ
+## Moses Sumney - græ
 
   ![](https://f4.bcbits.com/img/a2251086377_10.jpg)
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Sarah Davachi - Cantus, Descant
+## Sarah Davachi - Cantus, Descant
 
   ![](https://f4.bcbits.com/img/a2370665043_10.jpg)
 
@@ -75,7 +75,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Fleet Foxes - Shore
+## Fleet Foxes - Shore
 
   ![](https://f4.bcbits.com/img/a1639001071_10.jpg)
 
@@ -85,7 +85,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Ghostpoet - I Grow Tired But Dare Not Fall Asleep
+## Ghostpoet - I Grow Tired But Dare Not Fall Asleep
 
   ![](https://f4.bcbits.com/img/a0645315485_10.jpg)
 
@@ -95,7 +95,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Lafawndah - The Fifth Season
+## Lafawndah - The Fifth Season
 
   ![](https://f4.bcbits.com/img/a3332710928_10.jpg)
 
@@ -105,7 +105,7 @@ tags: music and stuff
 
   [8.2/10]
 
-###  Blacksea Não Maya - Máquina de Vénus
+##  Blacksea Não Maya - Máquina de Vénus
 
   ![](https://f4.bcbits.com/img/a2146924715_10.jpg)
 
@@ -115,7 +115,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Vatican Shadow - Persian Pillars Of The Gasoline Era
+## Vatican Shadow - Persian Pillars Of The Gasoline Era
 
   ![](https://f4.bcbits.com/img/a0126924501_10.jpg)
 
@@ -125,7 +125,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Phelimuncasi - Phelimuncasi: 2013-2019
+## Phelimuncasi - Phelimuncasi: 2013-2019
 
   ![](https://f4.bcbits.com/img/a0500182775_10.jpg)
 
@@ -135,7 +135,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Roméo Poirier - Hotel Nota
+## Roméo Poirier - Hotel Nota
 
   ![](https://f4.bcbits.com/img/a0861858360_10.jpg)
 
@@ -145,7 +145,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Otto - Clam Day
+## Otto - Clam Day
 
   ![](https://f4.bcbits.com/img/a0431904602_10.jpg)
 
@@ -155,7 +155,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Sevdaliza - Shabrang
+## Sevdaliza - Shabrang
 
   ![](https://www.residentadvisor.net/images/reviews/2020/sevdaliza_shabrang.jpg)
 
@@ -165,7 +165,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Elaquent - Forever Is A Pretty Long Time
+## Elaquent - Forever Is A Pretty Long Time
 
   ![](https://f4.bcbits.com/img/a3443214996_10.jpg)
 
@@ -175,7 +175,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Anz - Loos In Twos
+## Anz - Loos In Twos
 
   ![](https://f4.bcbits.com/img/a1003079422_10.jpg)
 
@@ -185,7 +185,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Silvia Tarozzi - Mi Specchio E Rifletto
+## Silvia Tarozzi - Mi Specchio E Rifletto
 
   ![](https://f4.bcbits.com/img/a1080321341_10.jpg)
 
@@ -195,7 +195,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Harmonious Thelonious - Plong
+## Harmonious Thelonious - Plong
 
   ![](https://f4.bcbits.com/img/a1418690317_10.jpg)
 
@@ -205,7 +205,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### JK Flesh - Depersonalization
+## JK Flesh - Depersonalization
 
   ![](https://f4.bcbits.com/img/a1144601650_10.jpg)
 
@@ -215,7 +215,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### M. Takara & Carla Boregas - Linha D'Água
+## M. Takara & Carla Boregas - Linha D'Água
 
   ![](https://f4.bcbits.com/img/a2256005509_10.jpg)
 
@@ -225,7 +225,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Tangents - Timeslips
+## Tangents - Timeslips
 
   ![](https://f4.bcbits.com/img/a3680952533_10.jpg)
 
@@ -235,7 +235,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Dos Monos - Dos Siki
+## Dos Monos - Dos Siki
 
   ![](https://cdn.shopify.com/s/files/1/0017/7143/8178/products/DBA242_WebCover_1024x1024@2x.jpg?v=1595551078)
 
@@ -245,7 +245,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Dark0 - Zero2
+## Dark0 - Zero2
 
   ![](https://f4.bcbits.com/img/a2004089459_10.jpg)
 
@@ -255,7 +255,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Serena Isioma - Sensitive
+## Serena Isioma - Sensitive
 
   ![](https://f4.bcbits.com/img/a2441652941_10.jpg)
 
@@ -265,7 +265,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Protomartyr - Ultimate Success Today
+## Protomartyr - Ultimate Success Today
 
   ![](https://f4.bcbits.com/img/a1390858493_10.jpg)
 
@@ -275,7 +275,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Fenne Lily - Breach
+## Fenne Lily - Breach
 
   ![](https://f4.bcbits.com/img/a0281909161_10.jpg)
 
@@ -285,7 +285,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Spirit Possession - Spirit Possession
+## Spirit Possession - Spirit Possession
 
   ![](https://f4.bcbits.com/img/a0461618833_10.jpg)
 
@@ -295,7 +295,7 @@ tags: music and stuff
 
   [7.4/10/10]
 
-### Charlotte Dos Santos - Harvest Time
+## Charlotte Dos Santos - Harvest Time
 
   ![](https://imagescdn.juno.co.uk/full/CS767104-01A-BIG.jpg)
 
@@ -305,7 +305,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Tricky - Fall To Pieces
+## Tricky - Fall To Pieces
 
   ![](https://f4.bcbits.com/img/a2429396272_10.jpg)
 
@@ -315,7 +315,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Viscerals
+## Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Viscerals
 
   ![](https://f4.bcbits.com/img/a2969374032_10.jpg)
 
@@ -325,7 +325,7 @@ tags: music and stuff
 
   [7.1/10]
 
-### Lucrecia Dalt - No Era Sólida
+## Lucrecia Dalt - No Era Sólida
 
   ![](https://f4.bcbits.com/img/a0939535455_10.jpg)
 
@@ -335,7 +335,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Princess Nokia - Everything Sucks
+## Princess Nokia - Everything Sucks
 
   ![](https://northerntransmissions.com/wp-content/uploads/2020/02/unnamed-2020-02-27T125026.734.jpg)
 
@@ -345,7 +345,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### A. G. Cook - 7G
+## A. G. Cook - 7G
 
   ![](https://f4.bcbits.com/img/a2301019621_10.jpg)
 
@@ -355,7 +355,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Serpentwithfeet - Apparition
+## Serpentwithfeet - Apparition
 
   ![](https://f4.bcbits.com/img/a3801340988_10.jpg)
 
@@ -365,7 +365,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### Stanley J. Zappa - Muster Point
+## Stanley J. Zappa - Muster Point
 
   ![](https://f4.bcbits.com/img/a4118009565_10.jpg)
 
@@ -375,7 +375,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### Marie Davidson, L’Œil Nu - Renegade Breakdown
+## Marie Davidson, L’Œil Nu - Renegade Breakdown
 
   ![](https://f4.bcbits.com/img/a0479925975_10.jpg)
 
@@ -385,7 +385,7 @@ tags: music and stuff
 
   [6.6/10]
 
-### Insect Ark - The Vanishing
+## Insect Ark - The Vanishing
 
   ![](https://f4.bcbits.com/img/a2549609707_10.jpg)
 
@@ -395,7 +395,7 @@ tags: music and stuff
 
   [6.5/10]
 
-### El Ten Eleven - Shimmered
+## El Ten Eleven - Shimmered
 
   ![](https://f4.bcbits.com/img/a0920540357_10.jpg)
 
@@ -405,7 +405,7 @@ tags: music and stuff
 
   [6.3/10]
 
-### Sufjan Stevens - The Ascension
+## Sufjan Stevens - The Ascension
 
   ![](https://static1.squarespace.com/static/5ed9a6e4ac98c616d2691cea/t/5ef95fcbe2b6dd59a61b438e/1593401304883/AKR150---Digital-Cover-Art_3000.jpg)
 
@@ -415,7 +415,7 @@ tags: music and stuff
 
   [6.2/10]
 
-### Osees - Protean Threat
+## Osees - Protean Threat
 
   ![](https://f4.bcbits.com/img/a0956843629_10.jpg)
 
@@ -425,7 +425,7 @@ tags: music and stuff
 
   [6.1/10]
 
-### Dua Lipa - Future Nostalgia
+## Dua Lipa - Future Nostalgia
 
   ![](https://i0.wp.com/fulfillthedreams.com/wp-content/uploads/2020/02/dua-lipa-future-nostalgia.jpg?fit=600%2C600&ssl=1)
 
@@ -435,7 +435,7 @@ tags: music and stuff
 
   [6.0/10]
 
-### Deftones - Ohms
+## Deftones - Ohms
 
   ![](https://www.nme.com/wp-content/uploads/2020/08/deftones_ohms_Art_2000-696x696.jpg)
 
@@ -445,7 +445,7 @@ tags: music and stuff
 
   [5.5/10]
 
-### Long Fin Killie - Houdini
+## Long Fin Killie - Houdini
 
   ![](https://imagescdn.junodownload.com/full/CS2917187-02A-BIG.jpg)
 
@@ -455,7 +455,7 @@ tags: music and stuff
 
   [9.4/10]
 
-### St. Germain - Tourist
+## St. Germain - Tourist
 
   ![](https://bilborecords.be/sites/default/files/styles/large/public/St%20Germain%20-%20Tourist.jpg?itok=mtg-c0FJ)
 
@@ -465,7 +465,7 @@ tags: music and stuff
 
   [9.3/10]
 
-### Eric B. & Rakim - Paid In Full
+## Eric B. & Rakim - Paid In Full
 
   ![](https://cdn11.bigcommerce.com/s-x9mj03usar/images/stencil/500x659/products/258/480/R-106617-1387590846-7818.jpeg__10369.1533411463.jpg?c=2)
 
@@ -475,7 +475,7 @@ tags: music and stuff
 
   [8.9/10]
 
-### Laika - Sounds Of The Satellites
+## Laika - Sounds Of The Satellites
 
   ![](https://2.bp.blogspot.com/-KFbnqYkpK-c/XC6xesODXaI/AAAAAAAAXY4/9O8l8lC1r9of1Li9cTmuznYBjvosPXjAQCLcBGAs/s640/Sounds%2Bof%2Bthe%2BSatellites%2Bcover.jpg)
 
@@ -485,7 +485,7 @@ tags: music and stuff
 
   [8.9/10]
 
-### Billy Woods - Today, I Wrote Nothing
+## Billy Woods - Today, I Wrote Nothing
 
   ![](https://f4.bcbits.com/img/a3391638186_10.jpg)
 
@@ -495,7 +495,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Halo Maud - Je Suis Une Île
+## Halo Maud - Je Suis Une Île
 
   ![](https://f4.bcbits.com/img/0015552528_10.jpg)
 
@@ -505,7 +505,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Moodymann - Forevernevermore
+## Moodymann - Forevernevermore
 
   ![](https://assets.boomkat.com/spree/products/158689/large/original.jpg)
 
@@ -515,7 +515,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Caleb Giles - Under The Shade
+## Caleb Giles - Under The Shade
 
   ![](https://f4.bcbits.com/img/a0770026891_10.jpg)
 
@@ -525,7 +525,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Kaidi Tatham - In Search Of Hope
+## Kaidi Tatham - In Search Of Hope
 
   ![](https://f4.bcbits.com/img/a0668307539_10.jpg)
 
@@ -535,7 +535,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### David Lord - Forest Standards, Vol.1
+## David Lord - Forest Standards, Vol.1
 
   ![](https://f4.bcbits.com/img/a2612420669_10.jpg)
 
@@ -545,7 +545,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Vatican Shadow - Remember Your Black Day
+## Vatican Shadow - Remember Your Black Day
 
   ![](https://www.residentadvisor.net/images/reviews/2013/hospitalproductions-399new.jpg)
 
@@ -555,7 +555,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### DJ Nigga Fox - Cartas Na Manga
+## DJ Nigga Fox - Cartas Na Manga
 
   ![](https://f4.bcbits.com/img/a0294933821_10.jpg)
 
@@ -565,7 +565,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Ka - Grief Pedigree
+## Ka - Grief Pedigree
 
   ![](https://www.runforcover.dk/shared/53/277/lper-ka-grief-pedigree-lp_460x634m.jpg)
 
@@ -575,7 +575,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### The House Of Love - The House Of Love
+## The House Of Love - The House Of Love
 
   ![](https://i.kfs.io/album/global/39165530,0v1/fit/500x500.jpg)
 
@@ -585,7 +585,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Mariss Nadler, Stephen Brodsky - Droneflower
+## Mariss Nadler, Stephen Brodsky - Droneflower
 
   ![](https://f4.bcbits.com/img/a0575450462_10.jpg)
 
@@ -595,7 +595,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Minxus - Pabulum
+## Minxus - Pabulum
 
   ![](https://img.discogs.com/BsO37MyVRl1SDumxfm5aVJ9eKXM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4253246-1359809586-9255.jpeg.jpg)
 
@@ -605,7 +605,7 @@ tags: music and stuff
 
   [7.1/10]
 
-### Billy Woods - Terror Management
+## Billy Woods - Terror Management
 
   ![](https://f4.bcbits.com/img/a2551338764_10.jpg)
 
@@ -615,7 +615,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Vansire - Angel Youth
+## Vansire - Angel Youth
 
   ![](https://f4.bcbits.com/img/a4148952378_10.jpg)
 
@@ -625,7 +625,7 @@ tags: music and stuff
 
   [6.9/10]
 
-### Rui Ho - In Pursuit Of The Sun
+## Rui Ho - In Pursuit Of The Sun
 
   ![](https://f4.bcbits.com/img/a1017539249_10.jpg)
 
@@ -635,7 +635,7 @@ tags: music and stuff
 
   [6.1/10]
 
-### 夢離子 - Time Flows By
+## 夢離子 - Time Flows By
 
   ![](https://i.kfs.io/album/global/64390784,0v1/fit/500x500.jpg)
 

@@ -5,7 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-### Ulla - Tumbling Towards A Wall
+## Ulla - Tumbling Towards A Wall
 
   ![](https://f4.bcbits.com/img/a1005525194_10.jpg)
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Various Artists - Still In My Arms: Compiled By Bayu And Moopie
+## Various Artists - Still In My Arms: Compiled By Bayu And Moopie
 
   ![](https://f4.bcbits.com/img/a0585522844_10.jpg)
 
@@ -25,7 +25,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Jonny Nash, Suzanne Kraft - A Heart So White
+## Jonny Nash, Suzanne Kraft - A Heart So White
 
   ![](https://f4.bcbits.com/img/a1695544876_10.jpg)
 
@@ -35,7 +35,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Charli XCX - How I'm Feeling Now
+## Charli XCX - How I'm Feeling Now
 
   ![](https://static.stereogum.com/uploads/2020/05/charli-xcx-how-im-feeling-now-1589503694-640x640.jpeg)
 
@@ -45,7 +45,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Chekov - Aerated
+## Chekov - Aerated
 
   ![](https://f4.bcbits.com/img/a3632878726_10.jpg)
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### 問題總部 It's Your Fault - User Guide: I
+## 問題總部 It's Your Fault - User Guide: I
 
   ![](https://i.kfs.io/album/global/76721148,0v1/fit/500x500.jpg)
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Tilman Robinson - Culturecide
+## Tilman Robinson - Culturecide
 
   ![](https://f4.bcbits.com/img/a0439618363_10.jpg)
 
@@ -75,7 +75,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Jasmine Infiniti - BXTCH SLÄP
+## Jasmine Infiniti - BXTCH SLÄP
 
   ![](https://f4.bcbits.com/img/a0029141894_10.jpg)
 
@@ -85,7 +85,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Perfume Genius - Some Dream
+## Perfume Genius - Some Dream
 
   ![](https://i.guim.co.uk/img/media/aed23f21a0d4a8283d1ca185a30dce134ae2dd74/0_0_4000_4000/master/4000.jpg?width=1920&quality=85&auto=format&fit=max&s=ce47349b929335dc5423431273b73e32)
 
@@ -95,7 +95,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Green-House - Six Songs For Invisible Gardens
+## Green-House - Six Songs For Invisible Gardens
 
   ![](https://assets.boomkat.com/spree/products/651988/large/659457528232_T60891436340054.jpg)
 
@@ -105,7 +105,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Rose City Band - Summerlong
+## Rose City Band - Summerlong
 
   ![](https://f4.bcbits.com/img/a2872831322_10.jpg)
 
@@ -115,7 +115,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Grischa Lichtenberger - Kamihan; il y a péril en la demeure
+## Grischa Lichtenberger - Kamihan; il y a péril en la demeure
 
   ![](https://f4.bcbits.com/img/a3059143319_10.jpg)
 
@@ -125,7 +125,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Valium Aggelein - Black Moon
+## Valium Aggelein - Black Moon
 
   ![](https://assets.boomkat.com/spree/products/660619/large/825764121330_T63803731710054.jpg)
 
@@ -135,7 +135,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Serpent Column - Endless Detainment
+## Serpent Column - Endless Detainment
 
   ![](https://f4.bcbits.com/img/a4283829553_10.jpg)
 
@@ -145,7 +145,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Quelle Chris, Chris Keys - Innocent Country 2
+## Quelle Chris, Chris Keys - Innocent Country 2
 
   ![](https://f4.bcbits.com/img/a4089595447_10.jpg)
 
@@ -155,7 +155,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Minor Science - Second Language
+## Minor Science - Second Language
 
   ![](https://f4.bcbits.com/img/a4059916052_10.jpg)
 
@@ -165,7 +165,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Pale Cocoon - Mayu
+## Pale Cocoon - Mayu
 
   ![](https://f4.bcbits.com/img/a4062070235_10.jpg)
 
@@ -175,7 +175,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Karkhana - Bitter Balls
+## Karkhana - Bitter Balls
 
   ![](https://f4.bcbits.com/img/a1833468420_10.jpg)
 
@@ -185,7 +185,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Oranssi Pazuzu - Mestarin Kynsi
+## Oranssi Pazuzu - Mestarin Kynsi
 
   ![](https://f4.bcbits.com/img/a2961622067_10.jpg)
 
@@ -195,7 +195,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Andy Shauf - The Neon Skyline
+## Andy Shauf - The Neon Skyline
 
   ![](https://f4.bcbits.com/img/a4225912332_10.jpg)
 
@@ -205,7 +205,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Yair Elazar Glotman, Mats Erlandsson - Emanate
+## Yair Elazar Glotman, Mats Erlandsson - Emanate
 
   ![](https://f4.bcbits.com/img/a2824797970_10.jpg)
 
@@ -215,7 +215,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Andrea - Ritorno
+## Andrea - Ritorno
 
   ![](https://f4.bcbits.com/img/a1881818397_10.jpg)
 
@@ -225,7 +225,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Aksak Maboul - Figures
+## Aksak Maboul - Figures
 
   ![](https://f4.bcbits.com/img/a2005130713_10.jpg)
 
@@ -235,7 +235,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Kaitlyn Aurelia Smith - The Mosaic Of Transformation
+## Kaitlyn Aurelia Smith - The Mosaic Of Transformation
 
   ![](https://f4.bcbits.com/img/a1243554562_10.jpg)
 
@@ -245,7 +245,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Hanya - Sea Shoes
+## Hanya - Sea Shoes
 
   ![](https://f4.bcbits.com/img/a0381091872_10.jpg)
 
@@ -255,7 +255,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Nine Inch Nails - Ghosts V: Together
+## Nine Inch Nails - Ghosts V: Together
 
   ![](https://static.stereogum.com/uploads/2020/03/cover-1585229753-640x640.jpg)
 
@@ -265,7 +265,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Various Artists - Transition, Vol. 1
+## Various Artists - Transition, Vol. 1
 
   ![](https://f4.bcbits.com/img/a2642026405_10.jpg)
 
@@ -275,7 +275,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Ka - Descendants Of Cain
+## Ka - Descendants Of Cain
 
   ![](https://consequenceofsound.net/wp-content/uploads/2020/05/Descendants-of-Cain-by-Ka-album-artwork-cover-art.jpg)
 
@@ -285,7 +285,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Zoe Reddy - Wavelength
+## Zoe Reddy - Wavelength
 
   ![](https://f4.bcbits.com/img/a0995389788_10.jpg)
 
@@ -295,7 +295,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Phillip Sollmann - Monophonie
+## Phillip Sollmann - Monophonie
 
   ![](https://f4.bcbits.com/img/a0449943279_10.jpg)
 
@@ -305,7 +305,7 @@ tags: music and stuff
 
   [6.9/10]
 
-### Night Gestalt - Sudden Rituals, Vol. 1
+## Night Gestalt - Sudden Rituals, Vol. 1
 
   ![](https://f4.bcbits.com/img/a2710154354_10.jpg)
 
@@ -315,7 +315,7 @@ tags: music and stuff
 
   [6.7/10]
 
-### Dijon - How Do You Feel About Getting Married?
+## Dijon - How Do You Feel About Getting Married?
 
   ![](https://pbs.twimg.com/media/EYE7tdaUcAAaAtO.jpg)
 
@@ -325,7 +325,7 @@ tags: music and stuff
 
   [6.1/10]
 
-### Roger Eno, Brian Eno - Mixing Colours
+## Roger Eno, Brian Eno - Mixing Colours
 
   ![](https://i.kfs.io/album/global/69363387,0v1/fit/500x500.jpg)
 
@@ -335,7 +335,7 @@ tags: music and stuff
 
   [6.0/10]
 
-### Manes - Young Skeleton
+## Manes - Young Skeleton
 
   ![](https://againstpr.com/wp-content/uploads/2020/03/Manes-YS-frontcover-web.jpg)
 
@@ -345,7 +345,7 @@ tags: music and stuff
 
   [5.5/10]
 
-### Daisy Mortem - Faits Divers
+## Daisy Mortem - Faits Divers
 
   ![](https://f4.bcbits.com/img/a3349999770_10.jpg)
 
@@ -355,7 +355,7 @@ tags: music and stuff
 
   [4.0/10]
 
-### Virginia Astley - Hope In A Darkened Heart
+## Virginia Astley - Hope In A Darkened Heart
 
   ![](https://2.bp.blogspot.com/-uGlhvVmLagY/VedFXOIGXmI/AAAAAAAANFs/EiQbRpmR9vk/s640/Hope-In-A-Darkened-Heart-cover.jpg)
 
@@ -365,7 +365,7 @@ tags: music and stuff
 
   [8.7/10]
 
-### Kemistry & Storm - DJ-Kicks
+## Kemistry & Storm - DJ-Kicks
 
   ![](https://f4.bcbits.com/img/a2669994688_10.jpg)
 
@@ -375,7 +375,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Joseph Shabason - Anne
+## Joseph Shabason - Anne
 
   ![](https://f4.bcbits.com/img/a2725261594_10.jpg)
 
@@ -385,7 +385,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Braveyoung - Misery And Pride
+## Braveyoung - Misery And Pride
 
   ![](https://f4.bcbits.com/img/a1654784503_10.jpg)
 
@@ -395,7 +395,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Various Artists - Heterotopia
+## Various Artists - Heterotopia
 
   ![](https://f4.bcbits.com/img/a0640576583_10.jpg)
 
@@ -405,7 +405,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Planning For Burial - Leaving
+## Planning For Burial - Leaving
 
   ![](https://f4.bcbits.com/img/a3327608028_10.jpg)
 
@@ -415,7 +415,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Celestial Trax - Listen, Hear, Know, Become, Be
+## Celestial Trax - Listen, Hear, Know, Become, Be
 
   ![](https://f4.bcbits.com/img/a3304883158_10.jpg)
 
@@ -425,7 +425,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Frédéric D. Oberland - Labyrinth
+## Frédéric D. Oberland - Labyrinth
 
   ![](https://f4.bcbits.com/img/a2634989933_10.jpg)
 
@@ -435,7 +435,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Winterquilt - Hymn
+## Winterquilt - Hymn
 
   ![](https://f4.bcbits.com/img/a2900120191_10.jpg)
 

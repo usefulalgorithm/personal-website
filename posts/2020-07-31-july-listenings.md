@@ -5,7 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-### Bing & Ruth - Species
+## Bing & Ruth - Species
 
   ![](https://f4.bcbits.com/img/a3322349797_10.jpg)
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
   [9.4/10]
 
-### R.A.P. Ferreira - Purple Moonlight Pages
+## R.A.P. Ferreira - Purple Moonlight Pages
 
   ![](https://f4.bcbits.com/img/a3502677951_10.jpg)
 
@@ -25,7 +25,7 @@ tags: music and stuff
 
   [9.0/10]
 
-### Olan Monk - Love/Dead
+## Olan Monk - Love/Dead
 
   ![](https://f4.bcbits.com/img/a0059717039_10.jpg)
 
@@ -35,7 +35,7 @@ tags: music and stuff
 
   [8.8/10]
 
-### Blu & Exile - Miles
+## Blu & Exile - Miles
 
   ![](https://f4.bcbits.com/img/a1814921150_10.jpg)
 
@@ -45,7 +45,7 @@ tags: music and stuff
 
   [8.7/10]
 
-### Jme - Grime MC
+## Jme - Grime MC
 
   ![](https://townsquare.media/site/838/files/2020/05/jme-grime-mc.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89)
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Kassel Jaeger - Swamps/Things
+## Kassel Jaeger - Swamps/Things
 
   ![](https://f4.bcbits.com/img/a0643755344_10.jpg)
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Alva Noto - Xerrox, Vol. 4
+## Alva Noto - Xerrox, Vol. 4
 
   ![](https://assets.boomkat.com/spree/products/659225/large/5057805471202.jpg)
 
@@ -75,7 +75,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Speaker Music - Black Nationalist Sonic Weaponry
+## Speaker Music - Black Nationalist Sonic Weaponry
 
   ![](https://f4.bcbits.com/img/a1819018917_10.jpg)
 
@@ -85,7 +85,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Gabor Lazar - Source
+## Gabor Lazar - Source
 
   ![](https://f4.bcbits.com/img/a2041328271_10.jpg)
 
@@ -95,7 +95,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Mechatok - Defective Holiday OST
+## Mechatok - Defective Holiday OST
 
   ![](https://f4.bcbits.com/img/a2322763402_10.jpg)
 
@@ -105,7 +105,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Masaki Batoh - Smile Jesus Loves You
+## Masaki Batoh - Smile Jesus Loves You
 
   ![](https://f4.bcbits.com/img/a2506772783_10.jpg)
 
@@ -115,7 +115,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### JAF Trio - JAF Trio
+## JAF Trio - JAF Trio
 
   ![](https://f4.bcbits.com/img/a1385750709_10.jpg)
 
@@ -125,7 +125,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Bill Nace - Both
+## Bill Nace - Both
 
   ![](https://f4.bcbits.com/img/a2302910173_10.jpg)
 
@@ -135,7 +135,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### тпсб - Whities 031
+## тпсб - Whities 031
 
   ![](https://f4.bcbits.com/img/a0808530894_10.jpg)
 
@@ -145,7 +145,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Asher Gamedze - Dialectic Soul
+## Asher Gamedze - Dialectic Soul
 
   ![](https://f4.bcbits.com/img/a2422404092_10.jpg)
 
@@ -155,7 +155,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Josey Rebelle - Josey In Space
+## Josey Rebelle - Josey In Space
 
   ![](https://f4.bcbits.com/img/a3238075294_10.jpg)
 
@@ -165,7 +165,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Mohammad Reza Mortazavi, Burnt Friedman - Yek 2
+## Mohammad Reza Mortazavi, Burnt Friedman - Yek 2
 
   ![](https://nonplace.de/lib/2020/03/NON52_digital.jpg)
 
@@ -175,7 +175,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Pinch - Reality Tunnels
+## Pinch - Reality Tunnels
 
   ![](https://f4.bcbits.com/img/a2416437851_10.jpg)
 
@@ -185,7 +185,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Gia Margaret - Mia Gargaret
+## Gia Margaret - Mia Gargaret
 
   ![](https://f4.bcbits.com/img/a0230377238_10.jpg)
 
@@ -195,7 +195,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Various Artists - Stimulus Swim
+## Various Artists - Stimulus Swim
 
   ![](https://f4.bcbits.com/img/a3802937056_10.jpg)
 
@@ -205,7 +205,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Croatian Amor - All In The Same Breath
+## Croatian Amor - All In The Same Breath
 
   ![](https://f4.bcbits.com/img/a0672838377_10.jpg)
 
@@ -215,7 +215,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Armand Hammer - Shrines
+## Armand Hammer - Shrines
 
   ![](https://f4.bcbits.com/img/a3328934518_10.jpg)
 
@@ -225,7 +225,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Blawan - Immulsion
+## Blawan - Immulsion
 
   ![](https://f4.bcbits.com/img/a3472139649_10.jpg)
 
@@ -235,7 +235,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Phoebe Bridges - Punisher
+## Phoebe Bridges - Punisher
 
   ![](https://f4.bcbits.com/img/a1836607637_10.jpg)
 
@@ -245,7 +245,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Annanan, Space Afrika - LL.M. 002
+## Annanan, Space Afrika - LL.M. 002
 
   ![](https://f4.bcbits.com/img/a1423757603_10.jpg)
 
@@ -255,7 +255,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Arca - KiCk i
+## Arca - KiCk i
 
   ![](https://static.stereogum.com/uploads/2020/06/arca-kick-i-1592319012-640x640.jpg)
 
@@ -265,7 +265,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Nazar - Guerrilla
+## Nazar - Guerrilla
 
   ![](https://f4.bcbits.com/img/a2577958090_10.jpg)
 
@@ -275,7 +275,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Heather Leigh - Glory Days
+## Heather Leigh - Glory Days
 
   ![](https://assets.boomkat.com/spree/products/670469/large/Cover.jpg)
 
@@ -285,7 +285,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Shinichi Atobe - Yes
+## Shinichi Atobe - Yes
 
   ![](https://www.residentadvisor.net/images/reviews/2020/dds042-shinichi-atobe.jpg)
 
@@ -295,7 +295,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### 박혜진 Park Hye Jin - How Can I
+## 박혜진 Park Hye Jin - How Can I
 
   ![](https://f4.bcbits.com/img/a2078891847_10.jpg)
 
@@ -305,7 +305,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Shifted - The Dirt On Our Hands
+## Shifted - The Dirt On Our Hands
 
   ![](https://f4.bcbits.com/img/a2505010224_10.jpg)
 
@@ -315,7 +315,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Bolt Gun - Begotten
+## Bolt Gun - Begotten
 
   ![](https://f4.bcbits.com/img/a0488022450_10.jpg)
 
@@ -325,7 +325,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Kemba - The World Is Watching
+## Kemba - The World Is Watching
 
   ![](https://f4.bcbits.com/img/a2172802790_10.jpg)
 
@@ -335,7 +335,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Amnesia Scanner - Tearless
+## Amnesia Scanner - Tearless
 
   ![](https://f4.bcbits.com/img/a2476340931_10.jpg)
 
@@ -345,7 +345,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Chloe x Halle - Ungodly Hour
+## Chloe x Halle - Ungodly Hour
 
   ![](https://weedynews.com/static/images/61/halle-bailey.png)
 
@@ -355,7 +355,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Illuminati Hotties - Free I.H: This Is Not The One You've Been Waiting For
+## Illuminati Hotties - Free I.H: This Is Not The One You've Been Waiting For
 
   ![](https://f4.bcbits.com/img/a1280693923_10.jpg)
 
@@ -365,7 +365,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Sekwence - Essentials 2 (Purgatory)
+## Sekwence - Essentials 2 (Purgatory)
 
   ![](https://e.snmc.io/i/600/w/58539c779d2aa59b938e8352832546d0/8001499)
 
@@ -375,7 +375,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### 100 Gecs - 1000 Gecs And The Tree Of Clues
+## 100 Gecs - 1000 Gecs And The Tree Of Clues
 
   ![](https://i.kfs.io/album/global/80152114,0v1/fit/500x500.jpg)
 
@@ -385,7 +385,7 @@ tags: music and stuff
 
   [7.1/10]
 
-### Jay Glass Dubs - Soma
+## Jay Glass Dubs - Soma
 
   ![](https://f4.bcbits.com/img/a0185882726_10.jpg)
 
@@ -395,7 +395,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Haim - Women In Music Pt. III
+## Haim - Women In Music Pt. III
 
   ![](https://www.udiscovermusic.com/wp-content/uploads/2020/03/HAIM_WIMP3_10x10.jpg)
 
@@ -405,7 +405,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Vile Creature - Glory, Glory! Apathy Took Helm!
+## Vile Creature - Glory, Glory! Apathy Took Helm!
 
   ![](https://f4.bcbits.com/img/a4014851458_10.jpg)
 
@@ -415,7 +415,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Hedvig Mollestad - Ekhidna
+## Hedvig Mollestad - Ekhidna
 
   ![](https://cdn.shopify.com/s/files/1/0409/4807/2609/products/37978_18_720x.jpg?v=1592842844)
 
@@ -425,7 +425,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Kamaal Williams - Wu Hen
+## Kamaal Williams - Wu Hen
 
   ![](https://f4.bcbits.com/img/a3033305661_10.jpg)
 
@@ -435,7 +435,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### Early Adopted - Tarred & Feathered
+## Early Adopted - Tarred & Feathered
 
   ![](https://f4.bcbits.com/img/a3957195206_10.jpg)
 
@@ -445,7 +445,7 @@ tags: music and stuff
 
   [6.7/10]
 
-### Wire - 10:20
+## Wire - 10:20
 
   ![](http://spillmagazine.com/wp-content/uploads/2020/06/Wire.jpg)
 
@@ -455,7 +455,7 @@ tags: music and stuff
 
   [6.5/10]
 
-### The Streets - None Of Us Are Getting Out Of This Life Alive
+## The Streets - None Of Us Are Getting Out Of This Life Alive
 
   ![](https://media.pitchfork.com/photos/5f08db2d3145eda8a1c27922/1:1/w_600/None%20Of%20Us%20Are%20Getting%20Out%20Of%20This%20Life%20Alive_The%20Streets.jpg)
 
@@ -465,7 +465,7 @@ tags: music and stuff
 
   [6.3/10]
 
-### Paysage D'Hiver - Im Wald
+## Paysage D'Hiver - Im Wald
 
   ![](https://f4.bcbits.com/img/a0868412336_10.jpg)
 
@@ -475,7 +475,7 @@ tags: music and stuff
 
   [6.2/10]
 
-### Cotoba - Name Of The Seasons
+## Cotoba - Name Of The Seasons
 
   ![](https://www.koreanindie.com/wp-content/uploads/2020/07/cotoba-name-of-the-seasons.jpg)
 
@@ -485,7 +485,7 @@ tags: music and stuff
 
   [6.0/10]
 
-### Taylor Swift - Folklore
+## Taylor Swift - Folklore
 
   ![](https://ichef.bbci.co.uk/news/976/cpsprodpb/10BBB/production/_113593586_swift.jpg)
 
@@ -495,7 +495,7 @@ tags: music and stuff
 
   [5.5/10]
 
-### Khurangbin - Mordechai
+## Khurangbin - Mordechai
 
   ![](https://f4.bcbits.com/img/a0911513519_10.jpg)
 
@@ -505,7 +505,7 @@ tags: music and stuff
 
   [5.0/10]
 
-### Hum - Inlet
+## Hum - Inlet
 
   ![](https://f4.bcbits.com/img/a4126716193_10.jpg)
 
@@ -515,7 +515,7 @@ tags: music and stuff
 
   [4.3/10]
 
-### Cheriton - Parallel
+## Cheriton - Parallel
 
   ![](https://atwoodmagazine.com/wp-content/uploads/2020/01/Parallel-Single-580x580.jpg)
 
@@ -525,7 +525,7 @@ tags: music and stuff
 
   [3.0/10]
 
-### Silvana Estrada, Charlie Hunter - Lo Sagrado
+## Silvana Estrada, Charlie Hunter - Lo Sagrado
 
   ![](https://modernjazz.gr/wp/wp-content/uploads/2018/01/Silvana-Estrada.jpg)
 
@@ -535,7 +535,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### The Streets - A Grand Don't Come For Free
+## The Streets - A Grand Don't Come For Free
 
   ![](https://media.pitchfork.com/photos/5929a5875e6ef95969320b0d/1:1/w_600/3748194f.jpg)
 
@@ -545,7 +545,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Kevin Drumm - Shut In
+## Kevin Drumm - Shut In
 
   ![](https://assets.boomkat.com/spree/products/77864/large/original.jpg)
 
@@ -555,7 +555,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Gia Margaret - There's Always Glimmer
+## Gia Margaret - There's Always Glimmer
 
   ![](https://f4.bcbits.com/img/a3789179044_10.jpg)
 
@@ -565,7 +565,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Smerz - Have Fun
+## Smerz - Have Fun
 
   ![](https://assets.boomkat.com/spree/products/487812/large/191404088159_T38929977000054.jpg)
 
@@ -575,7 +575,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Jonnine - Super Natural
+## Jonnine - Super Natural
 
   ![](https://f4.bcbits.com/img/a1483906682_10.jpg)
 
@@ -585,7 +585,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Sleaford Mods - Eton Alive
+## Sleaford Mods - Eton Alive
 
   ![](https://i.kfs.io/album/global/48467343,0v1/fit/500x500.jpg)
 
@@ -595,7 +595,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Gesellschaft Zur Emanzipation Des Samples - Circulations
+## Gesellschaft Zur Emanzipation Des Samples - Circulations
 
   ![](https://f4.bcbits.com/img/a2521348881_10.jpg)
 
@@ -605,7 +605,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Black Ark Players - Black Ark In Dub
+## Black Ark Players - Black Ark In Dub
 
   ![](https://assets.boomkat.com/spree/products/665650/large/181868.jpg)
 
@@ -615,7 +615,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Ganser - You Must Be New Here
+## Ganser - You Must Be New Here
 
   ![](https://f4.bcbits.com/img/a0612857955_10.jpg)
 
@@ -625,7 +625,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Lord Mantis - Universal Death Church
+## Lord Mantis - Universal Death Church
 
   ![](https://f4.bcbits.com/img/a1610251004_10.jpg)
 
@@ -635,7 +635,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Anne Bakker - Vox/Viola
+## Anne Bakker - Vox/Viola
 
   ![](https://f4.bcbits.com/img/a3941594196_10.jpg)
 
@@ -645,7 +645,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Ø - Kantamoinen
+## Ø - Kantamoinen
 
   ![](https://assets.boomkat.com/spree/products/360912/large/BKEDIT013_Dist_Preview.jpg)
 
@@ -655,7 +655,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Annette Brisset - Love Power
+## Annette Brisset - Love Power
 
   ![](https://assets.boomkat.com/spree/products/526561/large/R-12428563-1535110938-7979.jpeg.jpg)
 
@@ -665,7 +665,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Karkait - Yekum // Kiyum
+## Karkait - Yekum // Kiyum
 
   ![](https://f4.bcbits.com/img/a2952926757_10.jpg)
 
@@ -675,7 +675,7 @@ tags: music and stuff
 
   [6.2/10]
 
-### Adoy - Vivid
+## Adoy - Vivid
 
   ![](https://www.koreanindie.com/wp-content/uploads/2020/02/adoy-vivid.jpg)
 
@@ -685,7 +685,7 @@ tags: music and stuff
 
   [4.0/10]
 
-### The Pom-Poms - I Was On The News
+## The Pom-Poms - I Was On The News
 
   ![](https://f4.bcbits.com/img/a2028847466_10.jpg)
 

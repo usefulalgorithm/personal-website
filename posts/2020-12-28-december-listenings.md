@@ -5,7 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-### William Basinski - Lamentations
+## William Basinski - Lamentations
 
   ![](https://f4.bcbits.com/img/a2967895462_10.jpg)
 
@@ -13,7 +13,7 @@ tags: music and stuff
 
   Release date: 2020-05-01
 
-### Meitei - Kofū
+## Meitei - Kofū
 
   ![](https://f4.bcbits.com/img/a3633290297_10.jpg)
 
@@ -23,7 +23,7 @@ tags: music and stuff
 
   [8.9/10]
 
-### Pyrrhon - Abscess Time
+## Pyrrhon - Abscess Time
 
   ![](https://f4.bcbits.com/img/a1103101609_10.jpg)
 
@@ -33,7 +33,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Asetias - False Peace
+## Asetias - False Peace
 
   ![](https://f4.bcbits.com/img/a0210308449_10.jpg)
 
@@ -43,7 +43,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Phew - Vertigo KO
+## Phew - Vertigo KO
 
   ![](https://f4.bcbits.com/img/a3753488872_10.jpg)
 
@@ -53,7 +53,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### FUJI||||||||||TA - Iki
+## FUJI||||||||||TA - Iki
 
   ![](https://f4.bcbits.com/img/a4135375055_10.jpg)
 
@@ -63,7 +63,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Jessie Ware - What's Your Pleasure?
+## Jessie Ware - What's Your Pleasure?
 
   ![](https://static.stereogum.com/uploads/2020/06/jessie-ware-1593205314.jpeg)
 
@@ -73,7 +73,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Loma - Don’t Shy Away
+## Loma - Don’t Shy Away
 
   ![](https://f4.bcbits.com/img/a3976337506_10.jpg)
 
@@ -83,7 +83,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### The Koreantown Oddity - Little Dominiques Nosebleed
+## The Koreantown Oddity - Little Dominiques Nosebleed
 
   ![](https://f4.bcbits.com/img/a1484090135_16.jpg)
 
@@ -93,7 +93,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Drew McDowall - Agalma
+## Drew McDowall - Agalma
 
   ![](https://f4.bcbits.com/img/a3339804330_10.jpg)
 
@@ -103,7 +103,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### MIKE - Weight Of The World
+## MIKE - Weight Of The World
 
   ![](https://f4.bcbits.com/img/a1764027466_16.jpg)
 
@@ -113,7 +113,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Black Wing - No Moon
+## Black Wing - No Moon
 
   ![](https://f4.bcbits.com/img/a0327304830_10.jpg)
 
@@ -123,7 +123,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Sturgil Simpson - Cuttin' Grass Vol. 2
+## Sturgil Simpson - Cuttin' Grass Vol. 2
 
   ![](https://f4.bcbits.com/img/a1334122426_10.jpg)
 
@@ -133,7 +133,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### They hate change - 666 Central Ave.
+## They hate change - 666 Central Ave.
 
   ![](https://f4.bcbits.com/img/a1792643548_10.jpg)
 
@@ -143,7 +143,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### U - Lowlands
+## U - Lowlands
 
   ![](https://f4.bcbits.com/img/a1107200968_10.jpg)
 
@@ -153,7 +153,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### JPEGMAFIA - EP!
+## JPEGMAFIA - EP!
 
   ![](https://f4.bcbits.com/img/a2219405675_10.jpg)
 
@@ -163,7 +163,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### 萬能青年旅店 - 冀西南林路行
+## 萬能青年旅店 - 冀西南林路行
 
   ![](https://blow.streetvoice.com/wp-content/uploads/2020/12/132418123_208354917527943_7734680450421899002_o-768x768.jpg)
 
@@ -175,7 +175,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Kelly Moran & Prurient - Chain Reaction At Dusk
+## Kelly Moran & Prurient - Chain Reaction At Dusk
 
   ![](https://f4.bcbits.com/img/a0924858981_10.jpg)
 
@@ -185,7 +185,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Riki - Riki
+## Riki - Riki
 
   ![](https://f4.bcbits.com/img/a0220070547_16.jpg)
 
@@ -195,7 +195,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Unwed sailor - Look Alive
+## Unwed sailor - Look Alive
 
   ![](https://f4.bcbits.com/img/a3154750242_10.jpg)
 
@@ -205,7 +205,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Inter Arma - Garber Days Revisited
+## Inter Arma - Garber Days Revisited
 
   ![](https://f4.bcbits.com/img/a3768799376_16.jpg)
 
@@ -215,7 +215,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Crippled Black Phoenix - Ellengæst
+## Crippled Black Phoenix - Ellengæst
 
   ![](https://f4.bcbits.com/img/a0860546796_10.jpg)
 
@@ -225,7 +225,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Primitive Man - Immersion
+## Primitive Man - Immersion
 
   ![](https://f4.bcbits.com/img/a0160033873_10.jpg)
 
@@ -235,7 +235,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Various Artists - Nick Luscombe Presents Tokyo Dreaming
+## Various Artists - Nick Luscombe Presents Tokyo Dreaming
 
   ![](https://d1c4rk9le5opln.cloudfront.net/7b342bc1b5e5f95c5bb4c6e32799d88c.jpg)
 
@@ -245,7 +245,7 @@ tags: music and stuff
 
   [6.7/10]
 
-### Ruby Fatale - 彼岸
+## Ruby Fatale - 彼岸
 
   ![](https://i.kfs.io/album/global/89167859,0v1/fit/500x500.jpg)
 
@@ -255,7 +255,7 @@ tags: music and stuff
 
   [6.7/10]
 
-### Pinegrove - Marigold
+## Pinegrove - Marigold
 
   ![](https://f4.bcbits.com/img/a3643784525_10.jpg)
 
@@ -265,7 +265,7 @@ tags: music and stuff
 
   [6.5/10]
 
-### Kid Cudi - Man On The Moon III: The Chosen
+## Kid Cudi - Man On The Moon III: The Chosen
 
   ![](https://static.highsnobiety.com/thumbor/DcghSQivI_KbG6EGmt5R3kQer2E=/1600x1600/static.highsnobiety.com/wp-content/uploads/2020/12/11163845/kid-cudi-man-moon-iii-chosen-main.jpg)
 
@@ -275,7 +275,7 @@ tags: music and stuff
 
   [6.4/10]
 
-### Pallbearer - Forgotten Days
+## Pallbearer - Forgotten Days
 
   ![](https://f4.bcbits.com/img/a3740156325_10.jpg)
 

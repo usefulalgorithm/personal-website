@@ -5,7 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-### Grischa Lichtenberger - Re:Phgrp
+## Grischa Lichtenberger - Re:Phgrp
 
   ![](https://f4.bcbits.com/img/a3672540726_10.jpg)
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
   [8.8/10]
 
-### Jenny Hval - The Practice Of Love
+## Jenny Hval - The Practice Of Love
 
   ![](https://f4.bcbits.com/img/a1356483119_10.jpg)
 
@@ -25,7 +25,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### FKA Twigs - Magdalene
+## FKA Twigs - Magdalene
 
   ![](https://images.genius.com/22137811fba80fb115438ebb3e0ef365.1000x1000x1.jpg)
 
@@ -35,7 +35,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Uniform & The Body - Everything That Dies Someday Comes Back
+## Uniform & The Body - Everything That Dies Someday Comes Back
 
   ![](https://f4.bcbits.com/img/a1452803260_10.jpg)
 
@@ -45,7 +45,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Joy Orbison - Slipping
+## Joy Orbison - Slipping
 
   ![](https://f4.bcbits.com/img/a1830492759_10.jpg)
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Special Request - Bedroom Tapes
+## Special Request - Bedroom Tapes
 
   ![](https://f4.bcbits.com/img/a3988140470_10.jpg)
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Imaginary Softwoods - Gold Fiction Loop Garden
+## Imaginary Softwoods - Gold Fiction Loop Garden
 
   ![](https://f4.bcbits.com/img/a4265072499_10.jpg)
 
@@ -75,7 +75,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Various Artists - EQUIPMENT
+## Various Artists - EQUIPMENT
 
   ![](http://www.st.rim.or.jp/~chainon/gif_f/cd_g_f/eqp.gif)
 
@@ -85,7 +85,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Andy Stott - It Should Be Us
+## Andy Stott - It Should Be Us
 
   ![](https://assets.boomkat.com/spree/products/622025/large/Cover.jpg)
 
@@ -95,7 +95,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Liturgy - H.A.Q.Q.
+## Liturgy - H.A.Q.Q.
 
   ![](https://f4.bcbits.com/img/a2767654837_10.jpg)
 
@@ -105,7 +105,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### A Winged Victory For The Sullen - The Undivided Five
+## A Winged Victory For The Sullen - The Undivided Five
 
   ![](https://f4.bcbits.com/img/a3702110673_10.jpg)
 
@@ -115,7 +115,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### ⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ - ʅ͡͡͡͡͡͡͡͡͡͡͡​(​ƟӨ​)​ʃ͡͡͡͡͡͡͡͡͡͡ ꐑ​(​ཀ ඊູ ఠీੂ೧ູ࿃ूੂ✧ළඕั࿃ूੂ࿃ूੂੂ࿃ूੂළඕั✧ı̴̴̡ ̡̡͡​|​̲̲̲͡ ̲̲̲͡͡π̲̲͡͡ ɵੂ≢࿃ूੂ೧ູఠీੂ ඊູཀ ꐑ​(​ʅ͡͡͡͡͡͡͡͡͡͡͡​(​ƟӨ​)​ʃ͡͡͡͡͡͡͡͡͡͡
+## ⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ - ʅ͡͡͡͡͡͡͡͡͡͡͡​(​ƟӨ​)​ʃ͡͡͡͡͡͡͡͡͡͡ ꐑ​(​ཀ ඊູ ఠీੂ೧ູ࿃ूੂ✧ළඕั࿃ूੂ࿃ूੂੂ࿃ूੂළඕั✧ı̴̴̡ ̡̡͡​|​̲̲̲͡ ̲̲̲͡͡π̲̲͡͡ ɵੂ≢࿃ूੂ೧ູఠీੂ ඊູཀ ꐑ​(​ʅ͡͡͡͡͡͡͡͡͡͡͡​(​ƟӨ​)​ʃ͡͡͡͡͡͡͡͡͡͡
 
   ![](https://f4.bcbits.com/img/a4201403549_10.jpg)
 
@@ -125,7 +125,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Blood Incantation - Hidden History Of The Human Race
+## Blood Incantation - Hidden History Of The Human Race
 
   ![](https://f4.bcbits.com/img/a0485761639_10.jpg)
 
@@ -135,7 +135,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Drab Majesty - Modern Mirror
+## Drab Majesty - Modern Mirror
 
   ![](https://f4.bcbits.com/img/a4190738787_10.jpg)
 
@@ -145,7 +145,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Planetary Assault Systems - Plantae
+## Planetary Assault Systems - Plantae
 
   ![](https://f4.bcbits.com/img/a3615695996_10.jpg)
 
@@ -155,7 +155,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Sunn O))) - Pyroclasts
+## Sunn O))) - Pyroclasts
 
   ![](https://f4.bcbits.com/img/a0470628539_10.jpg)
 
@@ -165,7 +165,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Jessica Pratt - Quiet Signs
+## Jessica Pratt - Quiet Signs
 
   ![](https://f4.bcbits.com/img/a3502216320_10.jpg)
 
@@ -175,7 +175,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Tune Of Negation, Shackleton - Reach The Endless Sea
+## Tune Of Negation, Shackleton - Reach The Endless Sea
 
   ![](https://f4.bcbits.com/img/a3119923355_10.jpg)
 
@@ -185,7 +185,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Hand Habits - Placeholder
+## Hand Habits - Placeholder
 
   ![](https://f4.bcbits.com/img/a2333065947_10.jpg)
 
@@ -195,7 +195,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### DEBBY FRIDAY - DEATH DRIVE
+## DEBBY FRIDAY - DEATH DRIVE
 
   ![](https://f4.bcbits.com/img/a1633806476_10.jpg)
 
@@ -205,7 +205,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Young Marco - Bahasa
+## Young Marco - Bahasa
 
   ![](https://f4.bcbits.com/img/a0636059926_10.jpg)
 
@@ -215,7 +215,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Cate Le Bon - Reward
+## Cate Le Bon - Reward
 
   ![](https://f4.bcbits.com/img/a1051581971_10.jpg)
 
@@ -225,7 +225,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### E-Saggila - My World My Way
+## E-Saggila - My World My Way
 
   ![](https://f4.bcbits.com/img/a3544291921_10.jpg)
 
@@ -235,7 +235,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Not Waving, Dark Mark - Downwelling
+## Not Waving, Dark Mark - Downwelling
 
   ![](https://f4.bcbits.com/img/a3502216320_10.jpg)
 
@@ -245,7 +245,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Lapalux - Amnioverse
+## Lapalux - Amnioverse
 
   ![](https://f4.bcbits.com/img/a0924488326_10.jpg)
 
@@ -255,7 +255,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Swans - leaving meaning.
+## Swans - leaving meaning.
 
   ![](https://cdn.shopify.com/s/files/1/0397/1609/products/chipboard_YG63_grande.jpg?v=1571438771)
 
@@ -265,7 +265,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Kim Gordon - No Home Record
+## Kim Gordon - No Home Record
 
   ![](https://store.matadorrecords.com/media/catalog/product/cache/4/image/500x/85e4522595efc69f496374d01ef2bf13/k/i/kimgordon_nohomerecord.jpg)
 
@@ -275,7 +275,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Devendra Banhart - Ma
+## Devendra Banhart - Ma
 
   ![](https://f4.bcbits.com/img/a2002100258_10.jpg)
 
@@ -285,7 +285,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Michael Vincent Waller - Moments
+## Michael Vincent Waller - Moments
 
   ![](https://f4.bcbits.com/img/a3154283276_10.jpg)
 
@@ -295,7 +295,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Project Pablo - Sofware
+## Project Pablo - Sofware
 
   ![](https://f4.bcbits.com/img/a0940380732_10.jpg)
 
@@ -305,7 +305,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Lori Goldston - Things Opening
+## Lori Goldston - Things Opening
 
   ![](https://f4.bcbits.com/img/a0117975417_10.jpg)
 
@@ -315,7 +315,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Kindohm - Meme Booth
+## Kindohm - Meme Booth
 
   ![](https://assets.boomkat.com/spree/products/620495/large/CON027.jpg)
 
@@ -325,7 +325,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Ondness - Not Really Now Not Any More
+## Ondness - Not Really Now Not Any More
 
   ![](https://f4.bcbits.com/img/a2148205070_10.jpg)
 
@@ -335,7 +335,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Various Artists - Cairo Concepts
+## Various Artists - Cairo Concepts
 
   ![](https://f4.bcbits.com/img/a2829425510_10.jpg)
 
@@ -345,7 +345,7 @@ tags: music and stuff
 
   [7.1/10]
 
-### Fly Pan Am - C’est ça
+## Fly Pan Am - C’est ça
 
   ![](https://f4.bcbits.com/img/a2782215947_10.jpg)
 
@@ -355,7 +355,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Pinkish Black - Concept Unification
+## Pinkish Black - Concept Unification
 
   ![](https://f4.bcbits.com/img/a3800203582_10.jpg)
 
@@ -365,7 +365,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### Torche - Admission
+## Torche - Admission
 
   ![](https://f4.bcbits.com/img/a3181089603_10.jpg)
 
@@ -375,7 +375,7 @@ tags: music and stuff
 
   [6.4/10]
 
-### 9m88 - 平庸之上
+## 9m88 - 平庸之上
 
   ![](https://yuebeifan.files.wordpress.com/2019/08/9m88.jpg?w=1050&h=)
 
@@ -385,7 +385,7 @@ tags: music and stuff
 
   [6.1/10]
 
-### Alcest - Spiritual Instinct
+## Alcest - Spiritual Instinct
 
   ![](https://f4.bcbits.com/img/a3962441999_10.jpg)
 
@@ -395,7 +395,7 @@ tags: music and stuff
 
   [6.0/10]
 
-### Varials - In Darkness
+## Varials - In Darkness
 
   ![](https://new-transcendence.com/wp-content/uploads/2019/10/Indark2.jpg)
 
@@ -405,7 +405,7 @@ tags: music and stuff
 
   [5.9/10]
 
-### 老王樂隊 - 吾日三省吾身
+## 老王樂隊 - 吾日三省吾身
 
   ![](https://i.kfs.io/album/global/64220449,0v1/fit/500x500.jpg)
 
@@ -415,7 +415,7 @@ tags: music and stuff
 
   [4.5/10]
 
-### Rodan - Hat Factory '93
+## Rodan - Hat Factory '93
 
   ![](https://f4.bcbits.com/img/a1479464799_10.jpg)
 
@@ -423,7 +423,7 @@ tags: music and stuff
 
   Release date: 2019-11-01
 
-### Labradford - Labradford
+## Labradford - Labradford
 
   ![](https://f4.bcbits.com/img/a1778999598_10.jpg)
 
@@ -433,7 +433,7 @@ tags: music and stuff
 
   [9.1/10]
 
-### H. Takahashi - Low Power
+## H. Takahashi - Low Power
 
   ![](https://f4.bcbits.com/img/a1280258474_10.jpg)
 
@@ -443,7 +443,7 @@ tags: music and stuff
 
   [8.8/10]
 
-### Porter Ricks - Biokinetics
+## Porter Ricks - Biokinetics
 
   ![](https://assets.boomkat.com/spree/products/141544/large/original.jpg)
 
@@ -453,7 +453,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### AGF - A Deep Mysterious Tone
+## AGF - A Deep Mysterious Tone
 
   ![](https://f4.bcbits.com/img/a1890446529_10.jpg)
 
@@ -463,7 +463,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Yoshiaki Ochi - Natural Sonic
+## Yoshiaki Ochi - Natural Sonic
 
   ![](https://i2.wp.com/www.fondsound.com/wp-content/uploads/2017/10/Natural-Sonic.jpg?w=600&ssl=1)
 
@@ -473,7 +473,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Shiho Yabuki - The Body Is A Message Of The Universe
+## Shiho Yabuki - The Body Is A Message Of The Universe
 
   ![](http://www.subliminalsounds.se/wp-content/uploads/2018/04/sub-122-lp_jpeg_800px.jpg)
 
@@ -483,7 +483,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Thuja - All Strange Beasts Of The Past
+## Thuja - All Strange Beasts Of The Past
 
   ![](https://assets.boomkat.com/spree/products/236531/large/original.jpg)
 
@@ -493,7 +493,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Brain Eno - Apollo
+## Brain Eno - Apollo
 
   ![](https://www.udiscovermusic.com/wp-content/uploads/2019/07/Brian-Eno-Apollo-Atmospheres-And-Soundtracks-Extended-Edition-packshot-820.jpg)
 
@@ -503,7 +503,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Pinkcourtesyphone - Indelicate Slices
+## Pinkcourtesyphone - Indelicate Slices
 
   ![](https://f4.bcbits.com/img/a4122068721_10.jpg)
 
@@ -513,7 +513,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Guzz - An Elephant In The Jungle
+## Guzz - An Elephant In The Jungle
 
   ![](https://f4.bcbits.com/img/a0839264384_10.jpg)
 
@@ -523,7 +523,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Jesus Piece - Only Self
+## Jesus Piece - Only Self
 
   ![](https://f4.bcbits.com/img/a2985474853_10.jpg)
 
@@ -533,7 +533,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Joseph Nothing - Dreamland Idle Orchestra
+## Joseph Nothing - Dreamland Idle Orchestra
 
   ![](https://assets.boomkat.com/spree/products/230445/large/original.jpg)
 
@@ -543,7 +543,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Mark Pritchard - Lock Off
+## Mark Pritchard - Lock Off
 
   ![](https://www.residentadvisor.net/images/reviews/2013/warprecords-349.jpg)
 
@@ -553,7 +553,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Wiardon - Windbreaker Music
+## Wiardon - Windbreaker Music
 
   ![](https://f4.bcbits.com/img/a0738780898_10.jpg)
 
@@ -563,7 +563,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Courtney Marie Andrews - May Your Kindness Remain
+## Courtney Marie Andrews - May Your Kindness Remain
 
   ![](https://f4.bcbits.com/img/a4286792715_10.jpg)
 

@@ -5,7 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-### Kareem - Zones Of Significant Time
+## Kareem - Zones Of Significant Time
 
   ![](https://f4.bcbits.com/img/a0933861285_10.jpg)
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Exael - Flowered Knife Shadows
+## Exael - Flowered Knife Shadows
 
   ![](https://f4.bcbits.com/img/a1858629917_10.jpg)
 
@@ -25,7 +25,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Abul Mogard - In Immobile Air
+## Abul Mogard - In Immobile Air
 
   ![](https://f4.bcbits.com/img/a0873077042_10.jpg)
 
@@ -35,7 +35,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Tassos Chalkias - Divine Reeds
+## Tassos Chalkias - Divine Reeds
 
   ![](https://f4.bcbits.com/img/a1629176144_16.jpg)
 
@@ -45,7 +45,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Yu Su - Yellow River Blue
+## Yu Su - Yellow River Blue
 
   ![](https://f4.bcbits.com/img/a1249436636_10.jpg)
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Emptiness - Vide
+## Emptiness - Vide
 
   ![](https://f4.bcbits.com/img/a3179719810_16.jpg)
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Atom TM - 0.9
+## Atom TM - 0.9
 
   ![](https://f4.bcbits.com/img/a1144678622_16.jpg)
 
@@ -75,7 +75,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### Liquid Son - Garden Of Eden
+## Liquid Son - Garden Of Eden
 
   ![](https://f4.bcbits.com/img/a3695451375_10.jpg)
 
@@ -85,7 +85,7 @@ tags: music and stuff
 
   [6.3/10]
 
-### Weezer - OK Human
+## Weezer - OK Human
 
   ![](https://i.kfs.io/album/global/103026131,2v1/fit/500x500.jpg)
 
@@ -95,7 +95,7 @@ tags: music and stuff
 
   [5.8/10]
 
-### 王立 - 我是貓，沒有名字
+## 王立 - 我是貓，沒有名字
 
   ![](https://i.kfs.io/album/global/104882883,0v1/fit/500x500.jpg)
 
@@ -105,7 +105,7 @@ tags: music and stuff
 
   [4.4/10]
 
-### Mogwai - As The Love Continues
+## Mogwai - As The Love Continues
 
   ![](https://f4.bcbits.com/img/a1064671397_16.jpg)
 
@@ -115,7 +115,7 @@ tags: music and stuff
 
   [4.0/10]
 
-### Lugh - Re Munus
+## Lugh - Re Munus
 
   ![](https://f4.bcbits.com/img/a2166690561_10.jpg)
 
@@ -125,7 +125,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Various Artists - Sharpen, Moving
+## Various Artists - Sharpen, Moving
 
   ![](https://f4.bcbits.com/img/a2163956216_10.jpg)
 
@@ -135,7 +135,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Bonnie Prince Billy - I Made A Place
+## Bonnie Prince Billy - I Made A Place
 
   ![](https://f4.bcbits.com/img/a3691238933_16.jpg)
 
@@ -145,7 +145,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Uthullun - Dirges For The Void
+## Uthullun - Dirges For The Void
 
   ![](https://f4.bcbits.com/img/a0673459105_16.jpg)
 
@@ -155,7 +155,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Voldy Moyo - Liberty City
+## Voldy Moyo - Liberty City
 
   ![](https://f4.bcbits.com/img/a3106289296_10.jpg)
 
@@ -165,7 +165,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### mu tate - Static
+## mu tate - Static
 
   ![](https://f4.bcbits.com/img/a2603740279_10.jpg)
 
@@ -175,7 +175,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Chris Abrahams - Appearance
+## Chris Abrahams - Appearance
 
   ![](https://f4.bcbits.com/img/a1794101669_10.jpg)
 
@@ -185,7 +185,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### NikNak - Bashi
+## NikNak - Bashi
 
   ![](https://f4.bcbits.com/img/a0479804151_16.jpg)
 
@@ -195,7 +195,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Raspberry Bulbs - Before The Age Of Mirrors
+## Raspberry Bulbs - Before The Age Of Mirrors
 
   ![](https://f4.bcbits.com/img/a4279676239_16.jpg)
 
@@ -205,7 +205,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### JPEGMAFIA - EP2!
+## JPEGMAFIA - EP2!
 
   ![](https://f4.bcbits.com/img/a1479548042_10.jpg)
 
@@ -215,7 +215,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### Sam McQueen - Dreams In Sepia
+## Sam McQueen - Dreams In Sepia
 
   ![](https://f4.bcbits.com/img/a2291014737_10.jpg)
 
@@ -225,7 +225,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Lugh - Hélico
+## Lugh - Hélico
 
   ![](https://f4.bcbits.com/img/a2459101898_10.jpg)
 
@@ -235,7 +235,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Dawn Ray'd - A Thorn, A Blight
+## Dawn Ray'd - A Thorn, A Blight
 
   ![](https://f4.bcbits.com/img/a3282616226_16.jpg)
 

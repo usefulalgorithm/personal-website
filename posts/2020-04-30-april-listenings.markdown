@@ -5,7 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-### Ulcerate - Stare Into Death And Be Still
+## Ulcerate - Stare Into Death And Be Still
 
   ![](https://f4.bcbits.com/img/a0118737312_10.jpg)
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
   [9.5/10]
 
-### Yaeji - What We Drew
+## Yaeji - What We Drew
 
   ![](https://www.residentadvisor.net/images/reviews/2020/yaeji_what-we-drew_mixtape.jpg)
 
@@ -25,7 +25,7 @@ tags: music and stuff
 
   [8.7/10]
 
-### Farwarmth - Momentary Glow
+## Farwarmth - Momentary Glow
 
   ![](https://f4.bcbits.com/img/a3220871233_10.jpg)
 
@@ -35,7 +35,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Shabazz Palaces - The Don Of Diamond Dreams
+## Shabazz Palaces - The Don Of Diamond Dreams
 
   ![](https://f4.bcbits.com/img/a0977926780_10.jpg)
 
@@ -45,7 +45,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Laura Marling - Song For Our Daughter
+## Laura Marling - Song For Our Daughter
 
   ![](https://static.stereogum.com/uploads/2020/04/laura-marling-song-for-our-daughter-1586186134.jpg)
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Evan Caminiti - Varispeed Hydra
+## Evan Caminiti - Varispeed Hydra
 
   ![](https://f4.bcbits.com/img/a1729379420_10.jpg)
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Iceblink - Carpet Cocoon
+## Iceblink - Carpet Cocoon
 
   ![](https://f4.bcbits.com/img/a3085061054_10.jpg)
 
@@ -75,7 +75,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Midwife - Forever
+## Midwife - Forever
 
   ![](https://f4.bcbits.com/img/a1938563710_16.jpg)
 
@@ -85,7 +85,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### DJ Trystero - High Speed Wind
+## DJ Trystero - High Speed Wind
 
   ![](https://f4.bcbits.com/img/a4129561306_10.jpg)
 
@@ -95,7 +95,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Mamaleek - Come & See
+## Mamaleek - Come & See
 
   ![](https://f4.bcbits.com/img/a0687484033_10.jpg)
 
@@ -105,7 +105,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Felicia Atkinson - Everything Evaporate
+## Felicia Atkinson - Everything Evaporate
 
   ![](https://f4.bcbits.com/img/a3701844598_10.jpg)
 
@@ -115,7 +115,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Yves Tumor - Heaven To A Tortured Mind
+## Yves Tumor - Heaven To A Tortured Mind
 
   ![](https://f4.bcbits.com/img/a0934507009_10.jpg)
 
@@ -125,7 +125,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### downy - 第七作品集『無題』
+## downy - 第七作品集『無題』
 
   ![](https://i.kfs.io/album/global/70008969,0v1/fit/500x500.jpg)
 
@@ -135,7 +135,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### DJ Python - Mas Amable
+## DJ Python - Mas Amable
 
   ![](https://f4.bcbits.com/img/a1285541562_10.jpg)
 
@@ -145,7 +145,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Waclaw Zimpel - Massive Oscillations
+## Waclaw Zimpel - Massive Oscillations
 
   ![](https://f4.bcbits.com/img/a4063250716_10.jpg)
 
@@ -155,7 +155,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Lyra Pramuk - Fountain
+## Lyra Pramuk - Fountain
 
   ![](https://f4.bcbits.com/img/a2386861821_10.jpg)
 
@@ -165,7 +165,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### D.K. - The Goddess Is Dancing
+## D.K. - The Goddess Is Dancing
 
   ![](https://f4.bcbits.com/img/a4114687325_10.jpg)
 
@@ -175,7 +175,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Rina Sawayama - Sawayama
+## Rina Sawayama - Sawayama
 
   ![](https://i2.wp.com/fulfillthedreams.com/wp-content/uploads/2020/04/rina-sawayama.jpg?fit=600%2C600&ssl=1)
 
@@ -187,7 +187,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Laurel Halo - Possessed
+## Laurel Halo - Possessed
 
   ![](https://f4.bcbits.com/img/a4097218049_10.jpg)
 
@@ -197,7 +197,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Electric Indigo - Ferrum
+## Electric Indigo - Ferrum
 
   ![](https://f4.bcbits.com/img/a2172751518_10.jpg)
 
@@ -207,7 +207,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Arca - @@@@@
+## Arca - @@@@@
 
   ![](https://www.residentadvisor.net/images/reviews/2020/arca-at.jpg)
 
@@ -217,7 +217,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Nathan Fake - Blizzards
+## Nathan Fake - Blizzards
 
   ![](https://f4.bcbits.com/img/a2597194388_10.jpg)
 
@@ -227,7 +227,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Thundercat - It Is What It Is
+## Thundercat - It Is What It Is
 
   ![](https://f4.bcbits.com/img/a3223710997_10.jpg)
 
@@ -237,7 +237,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Higher Intelligence Agency - Preform
+## Higher Intelligence Agency - Preform
 
   ![](https://f4.bcbits.com/img/a2740145258_10.jpg)
 
@@ -247,7 +247,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Daniel Avery, Alessandro Cortini - Illusion Of Time
+## Daniel Avery, Alessandro Cortini - Illusion Of Time
 
   ![](https://f4.bcbits.com/img/a2731564252_10.jpg)
 
@@ -257,7 +257,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Old Man Gloom - Seminar IX: Darkness Of Being
+## Old Man Gloom - Seminar IX: Darkness Of Being
 
   ![](https://f4.bcbits.com/img/a0687781846_10.jpg)
 
@@ -267,7 +267,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Gil Scott-Heron, Makaya McCraven - We’re New Again: A Reimagining by Makaya McCraven
+## Gil Scott-Heron, Makaya McCraven - We’re New Again: A Reimagining by Makaya McCraven
 
   ![](https://i.guim.co.uk/img/media/ed411242a8099b679a72637c3ced179d9b228c89/0_11_1000_989/master/1000.jpg?width=1920&quality=85&auto=format&fit=max&s=4e3b49a9a25888439ff6c4a934398771)
 
@@ -277,7 +277,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Witch Prophet - DNA Activation
+## Witch Prophet - DNA Activation
 
   ![](https://f4.bcbits.com/img/a3494376495_10.jpg)
 
@@ -287,7 +287,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Menzi - Impazamo
+## Menzi - Impazamo
 
   ![](https://f4.bcbits.com/img/a0595211791_10.jpg)
 
@@ -297,7 +297,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Dean Blunt - Roaches 2012-2019
+## Dean Blunt - Roaches 2012-2019
 
   ![](https://www.residentadvisor.net/images/reviews/2020/dean-blunt-roaches.jpg)
 
@@ -307,7 +307,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Knxwledge - 1988
+## Knxwledge - 1988
 
   ![](https://f4.bcbits.com/img/a2337467203_10.jpg)
 
@@ -317,7 +317,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Ohyung - Protector
+## Ohyung - Protector
 
   ![](https://f4.bcbits.com/img/a1895134906_10.jpg)
 
@@ -327,7 +327,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### P22 - Human Snake
+## P22 - Human Snake
 
   ![](https://f4.bcbits.com/img/a1088025982_10.jpg)
 
@@ -337,7 +337,7 @@ tags: music and stuff
 
   [6.7/10]
 
-### Nghtcrwlr - Let The Children Scream
+## Nghtcrwlr - Let The Children Scream
 
   ![](https://f4.bcbits.com/img/a2278590743_10.jpg)
 
@@ -347,7 +347,7 @@ tags: music and stuff
 
   [6.5/10]
 
-### The Strokes - The New Abnormal
+## The Strokes - The New Abnormal
 
   ![](https://fordhamobserver.com/wp-content/uploads/2020/04/Nyckole-Lopez-ram-jams.jpeg)
 
@@ -359,7 +359,7 @@ tags: music and stuff
 
   [6.3/10]
 
-### Fiona Apple - Fetch The Bolt Cutters
+## Fiona Apple - Fetch The Bolt Cutters
 
   ![](https://i.guim.co.uk/img/media/4372ae558d5cbc5dac55a07b147b42ab34b94d83/0_0_2200_2200/master/2200.jpg?width=1920&quality=85&auto=format&fit=max&s=e4f529883137d437345e219288a938d7)
 
@@ -369,7 +369,7 @@ tags: music and stuff
 
   [6.0/10]
 
-### Suhjan Stevens, Lowell Brams - Aporia
+## Suhjan Stevens, Lowell Brams - Aporia
 
   ![](https://f4.bcbits.com/img/a4097984798_10.jpg)
 
@@ -379,7 +379,7 @@ tags: music and stuff
 
   [6.0/10]
 
-### Jon Hassell - Vernal Equinox
+## Jon Hassell - Vernal Equinox
 
   ![](https://f4.bcbits.com/img/a3647274627_10.jpg)
 
@@ -389,7 +389,7 @@ tags: music and stuff
 
   [8.7/10]
 
-### American Grandma - Superdog
+## American Grandma - Superdog
 
   ![](https://f4.bcbits.com/img/a0428839596_10.jpg)
 
@@ -399,7 +399,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Move D, Benjamin Brunn - Let's Call It A Day
+## Move D, Benjamin Brunn - Let's Call It A Day
 
   ![](https://f4.bcbits.com/img/a1231250279_10.jpg)
 
@@ -409,7 +409,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Cremation Lily - The Processes And Instruments Of Normal People
+## Cremation Lily - The Processes And Instruments Of Normal People
 
   ![](https://f4.bcbits.com/img/a0383221734_10.jpg)
 
@@ -419,7 +419,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Yazz Ahmed - Polyhymnia
+## Yazz Ahmed - Polyhymnia
 
   ![](https://f4.bcbits.com/img/a2273370542_10.jpg)
 
@@ -429,7 +429,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### John Roberts - Can Thought Exist Without The Body
+## John Roberts - Can Thought Exist Without The Body
 
   ![](https://f4.bcbits.com/img/a1480127512_10.jpg)
 
@@ -439,7 +439,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### 100 Gecs - 1000 Gecs
+## 100 Gecs - 1000 Gecs
 
   ![](https://f4.bcbits.com/img/a2604863078_10.jpg)
 

@@ -5,7 +5,7 @@ comments: true
 tags: music and stuff
 ---
 
-### Regular Citizen - Patsy Hangdog
+## Regular Citizen - Patsy Hangdog
 
   ![](https://f4.bcbits.com/img/a1005281490_10.jpg)
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
   [9.0/10]
 
-### Joyfultalk - A Seperation Of Being
+## Joyfultalk - A Seperation Of Being
 
   ![](https://f4.bcbits.com/img/a1209897880_10.jpg)
 
@@ -25,7 +25,7 @@ tags: music and stuff
 
   [8.7/10]
 
-### Nyx - Aux Pieds De La Nuit
+## Nyx - Aux Pieds De La Nuit
 
   ![](https://f4.bcbits.com/img/a0476797929_10.jpg)
 
@@ -35,7 +35,7 @@ tags: music and stuff
 
   [8.6/10]
 
-### Fontaines D.C. - A Hero's Death
+## Fontaines D.C. - A Hero's Death
 
   ![](https://f4.bcbits.com/img/a3772806156_10.jpg)
 
@@ -45,7 +45,7 @@ tags: music and stuff
 
   [8.5/10]
 
-### Shackleton, Wacław Zimpel - Primal Forms
+## Shackleton, Wacław Zimpel - Primal Forms
 
   ![](https://f4.bcbits.com/img/a2519594284_10.jpg)
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Seamus Blake - Guardians Of The Heart Machine
+## Seamus Blake - Guardians Of The Heart Machine
 
   ![](https://f4.bcbits.com/img/a3883468019_10.jpg)
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
   [8.4/10]
 
-### Croatian Amor & Varg2™ - Body Of Lila
+## Croatian Amor & Varg2™ - Body Of Lila
 
   ![](https://f4.bcbits.com/img/a0649250718_10.jpg)
 
@@ -75,7 +75,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Yukika - Soul Lady
+## Yukika - Soul Lady
 
   ![](https://i.kfs.io/album/global/82198336,0v1/fit/500x500.jpg)
 
@@ -85,7 +85,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Bibio - Sleep On The Wing
+## Bibio - Sleep On The Wing
 
   ![](https://assets.boomkat.com/spree/products/659207/large/unnamed.jpg)
 
@@ -95,7 +95,7 @@ tags: music and stuff
 
   [8.3/10]
 
-### Lianne La Havas - Lianne La Havas
+## Lianne La Havas - Lianne La Havas
 
   ![](https://www.liannelahavas.com/graphics/LianneAlbumCover.png)
 
@@ -105,7 +105,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Patricia - Maxyboy
+## Patricia - Maxyboy
 
   ![](https://f4.bcbits.com/img/a1840052382_10.jpg)
 
@@ -115,7 +115,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### LEYA - Flood Dream
+## LEYA - Flood Dream
 
   ![](https://f4.bcbits.com/img/a0373707075_10.jpg)
 
@@ -125,7 +125,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Cucina Povera, ELS - The Oystercatcher
+## Cucina Povera, ELS - The Oystercatcher
 
   ![](https://f4.bcbits.com/img/a3486460083_10.jpg)
 
@@ -135,7 +135,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Giuseppe Ielasi - Five Wooden Frames
+## Giuseppe Ielasi - Five Wooden Frames
 
   ![](https://f4.bcbits.com/img/a1256388007_10.jpg)
 
@@ -145,7 +145,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Duma - Duma
+## Duma - Duma
 
   ![](https://f4.bcbits.com/img/a3289675772_10.jpg)
 
@@ -155,7 +155,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Jun Kamoda - Escape The Night
+## Jun Kamoda - Escape The Night
 
   ![](https://f4.bcbits.com/img/a3205456153_10.jpg)
 
@@ -165,7 +165,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Irreversible Entanglements - Who Sent You?
+## Irreversible Entanglements - Who Sent You?
 
   ![](https://f4.bcbits.com/img/a0424693587_10.jpg)
 
@@ -175,7 +175,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Kate NV - Room For The Moon
+## Kate NV - Room For The Moon
 
   ![](https://f4.bcbits.com/img/a2857861786_10.jpg)
 
@@ -185,7 +185,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Cory Smythe - Accelerate Every Voice
+## Cory Smythe - Accelerate Every Voice
 
   ![](https://f4.bcbits.com/img/a2865864548_10.jpg)
 
@@ -195,7 +195,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Jasmine Guffond - Microphone Permission
+## Jasmine Guffond - Microphone Permission
 
   ![](https://f4.bcbits.com/img/a2170065173_10.jpg)
 
@@ -205,7 +205,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Stuck - Change Is Bad
+## Stuck - Change Is Bad
 
   ![](https://f4.bcbits.com/img/a0562563247_10.jpg)
 
@@ -215,7 +215,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Various Artists - Join The Future: UK Bleep & Bass 1988-91
+## Various Artists - Join The Future: UK Bleep & Bass 1988-91
 
   ![](https://f4.bcbits.com/img/a2155654623_10.jpg)
 
@@ -225,7 +225,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### India Jordan - For You
+## India Jordan - For You
 
   ![](https://f4.bcbits.com/img/a0266626104_10.jpg)
 
@@ -235,7 +235,7 @@ tags: music and stuff
 
   [7.9/10]
 
-### Elias Stemeseder, Max Andrzejewski - Light / Tied
+## Elias Stemeseder, Max Andrzejewski - Light / Tied
 
   ![](https://f4.bcbits.com/img/a3789891425_10.jpg)
 
@@ -245,7 +245,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Trevor - Becoming A Bed
+## Trevor - Becoming A Bed
 
   ![](https://f4.bcbits.com/img/a0120080861_10.jpg)
 
@@ -255,7 +255,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Imperial Triumphant - Alphaville
+## Imperial Triumphant - Alphaville
 
   ![](http://www.imperial-triumphant.com/couch/uploads/image/imperial-triumphant-crop.jpg)
 
@@ -265,7 +265,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Rhodri Davies - Telyn Rawn
+## Rhodri Davies - Telyn Rawn
 
   ![](https://f4.bcbits.com/img/a1360141894_10.jpg)
 
@@ -275,7 +275,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Ulthar - Providence
+## Ulthar - Providence
 
   ![](https://f4.bcbits.com/img/a3012301573_16.jpg)
 
@@ -285,7 +285,7 @@ tags: music and stuff
 
   [7.6/10]
 
-### Guedra Guedra كدرة كدرة  - Son Of Sun
+## Guedra Guedra كدرة كدرة  - Son Of Sun
 
   ![](https://f4.bcbits.com/img/a3358675395_10.jpg)
 
@@ -295,7 +295,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Realize - Demolition
+## Realize - Demolition
 
   ![](https://f4.bcbits.com/img/a2962386076_10.jpg)
 
@@ -305,7 +305,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Feu St-Antoine - L'eau Par La Soif
+## Feu St-Antoine - L'eau Par La Soif
 
   ![](https://f4.bcbits.com/img/a1736223421_10.jpg)
 
@@ -315,7 +315,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Wake - Devouring Ruin
+## Wake - Devouring Ruin
 
   ![](https://f4.bcbits.com/img/a2083204522_10.jpg)
 
@@ -325,7 +325,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Ann Margaret Hogan - Honeysuckle Burials
+## Ann Margaret Hogan - Honeysuckle Burials
 
   ![](https://f4.bcbits.com/img/a3143810304_10.jpg)
 
@@ -335,7 +335,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### The Fall Of Troy - Mukiltearth
+## The Fall Of Troy - Mukiltearth
 
   ![](https://f4.bcbits.com/img/a0050301723_10.jpg)
 
@@ -345,7 +345,7 @@ tags: music and stuff
 
   [7.3/10]
 
-### Kelly Lee Owens - Inner Song
+## Kelly Lee Owens - Inner Song
 
   ![](https://f4.bcbits.com/img/a1503838412_10.jpg)
 
@@ -355,7 +355,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Grey Host - The Barrow Path
+## Grey Host - The Barrow Path
 
   ![](https://f4.bcbits.com/img/a2679641587_10.jpg)
 
@@ -365,7 +365,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Floral - Floral
+## Floral - Floral
 
   ![](https://f4.bcbits.com/img/a2118984224_10.jpg)
 
@@ -375,7 +375,7 @@ tags: music and stuff
 
   [7.2/10]
 
-### Aversio Humanitatis - Behold The Silent Dwellers
+## Aversio Humanitatis - Behold The Silent Dwellers
 
   ![](https://f4.bcbits.com/img/a4015228574_10.jpg)
 
@@ -385,7 +385,7 @@ tags: music and stuff
 
   [7.1/10]
 
-### Regis - Hidden In This Is The Light That You Miss
+## Regis - Hidden In This Is The Light That You Miss
 
   ![](https://f4.bcbits.com/img/a1768886957_10.jpg)
 
@@ -395,7 +395,7 @@ tags: music and stuff
 
   [7.1/10]
 
-### Julianna Barwick - Healing Is A Miracle
+## Julianna Barwick - Healing Is A Miracle
 
   ![](https://f4.bcbits.com/img/a1016046330_10.jpg)
 
@@ -405,7 +405,7 @@ tags: music and stuff
 
   [7.1/10]
 
-### Oded Tzur - Here Be Dragons
+## Oded Tzur - Here Be Dragons
 
   ![](https://cdn2.jazztimes.com/2020/03/10_OdedTzur-1000x887.jpg)
 
@@ -415,7 +415,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Greg Fox - Contact
+## Greg Fox - Contact
 
   ![](https://f4.bcbits.com/img/a0193334592_10.jpg)
 
@@ -425,7 +425,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### E.M.M.A. - Indigo Dream
+## E.M.M.A. - Indigo Dream
 
   ![](https://f4.bcbits.com/img/a3739234083_10.jpg)
 
@@ -435,7 +435,7 @@ tags: music and stuff
 
   [6.9/10]
 
-### Jockstrap - Wicked City
+## Jockstrap - Wicked City
 
   ![](https://d1rgjmn2wmqeif.cloudfront.net/r/g/188166-4.jpg)
 
@@ -445,7 +445,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### Infant Island - Beneath
+## Infant Island - Beneath
 
   ![](https://f4.bcbits.com/img/a1756856940_10.jpg)
 
@@ -455,7 +455,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### Behold... The Arctopus - Hapeleptic Overtrove
+## Behold... The Arctopus - Hapeleptic Overtrove
 
   ![](https://cdn.shopify.com/s/files/1/0278/0151/8154/products/behold_1024x1024@2x.jpg?v=1593282927)
 
@@ -465,7 +465,7 @@ tags: music and stuff
 
   [6.5/10]
 
-### Cut Worms - Unnatural Disaster
+## Cut Worms - Unnatural Disaster
 
   ![](https://f4.bcbits.com/img/a4178474904_10.jpg)
 
@@ -475,7 +475,7 @@ tags: music and stuff
 
   [6.5/10]
 
-### An Autumn For Crippled Children - Went Quiet
+## An Autumn For Crippled Children - Went Quiet
 
   ![](https://f4.bcbits.com/img/a2067507619_10.jpg)
 
@@ -485,7 +485,7 @@ tags: music and stuff
 
   [6.0/10]
 
-### Algiers - There Is No Year
+## Algiers - There Is No Year
 
   ![](https://s3.amazonaws.com/broadtime_photo/418461810906)
 
@@ -495,7 +495,7 @@ tags: music and stuff
 
   [6.0/10]
 
-### James Dean Bradfield - Even In Exile
+## James Dean Bradfield - Even In Exile
 
   ![](https://cdn.smehost.net/manicstreetpreacherscom-ukprod/wp-content/uploads/2020/07/Even_In_Exlile_Album_Cover.jpg)
 
@@ -505,7 +505,7 @@ tags: music and stuff
 
   [5.5/10]
 
-### Washed Out - Purple Noon
+## Washed Out - Purple Noon
 
   ![](https://www.magneticmag.com/.image/t_share/MTczNjM4OTEyMTg1NTQyNDIx/washedout-purplenoon-cover-3000x3000.jpg)
 
@@ -515,7 +515,7 @@ tags: music and stuff
 
   [4.0/10]
 
-### Ulver - Flowers Of Evil
+## Ulver - Flowers Of Evil
 
   ![](https://f4.bcbits.com/img/a2131534361_10.jpg)
 
@@ -525,7 +525,7 @@ tags: music and stuff
 
   [2.5/10]
 
-### Lamb Of God - Lamb Of God
+## Lamb Of God - Lamb Of God
 
   ![](https://consequenceofsound.net/wp-content/uploads/2020/06/Lamb-of-God-Self-Titled.jpg)
 
@@ -535,7 +535,7 @@ tags: music and stuff
 
   [2.0/10]
 
-### Space Afrika - Somewhere Decent To Live
+## Space Afrika - Somewhere Decent To Live
 
   ![](https://f4.bcbits.com/img/a1137618719_10.jpg)
 
@@ -545,7 +545,7 @@ tags: music and stuff
 
   [8.7/10]
 
-### Barney McAll - Mother Of Dreams And Secrets
+## Barney McAll - Mother Of Dreams And Secrets
 
   ![](https://f4.bcbits.com/img/a3442874330_10.jpg)
 
@@ -555,7 +555,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Helena Hauff - Discreet Desires
+## Helena Hauff - Discreet Desires
 
   ![](https://f4.bcbits.com/img/a1656694513_10.jpg)
 
@@ -565,7 +565,7 @@ tags: music and stuff
 
   [8.2/10]
 
-### Maggi Payne - Ahh-Ahh
+## Maggi Payne - Ahh-Ahh
 
   ![](https://f4.bcbits.com/img/a3828926910_10.jpg)
 
@@ -575,7 +575,7 @@ tags: music and stuff
 
   [8.1/10]
 
-### Cuong Vu, Pat Metheny - Cuong Vu Trio Meets Pat Metheny
+## Cuong Vu, Pat Metheny - Cuong Vu Trio Meets Pat Metheny
 
   ![](https://img.secure.cdn2.wmgecom.com/media/catalog/product/cache/1134/image/1200x/9df78eab33525d08d6e5fb8d27136e95/0/7/075597946673.jpg)
 
@@ -585,7 +585,7 @@ tags: music and stuff
 
   [8.0/10]
 
-### Quantec - Cauldron Subsidence
+## Quantec - Cauldron Subsidence
 
   ![](https://assets.boomkat.com/spree/products/205650/large/original.jpg)
 
@@ -595,7 +595,7 @@ tags: music and stuff
 
   [7.8/10]
 
-### Akira Rabelais - CXVI
+## Akira Rabelais - CXVI
 
   ![](https://assets.boomkat.com/spree/products/565429/large/BKEDIT018_Dist_Preview.jpg)
 
@@ -605,7 +605,7 @@ tags: music and stuff
 
   [7.7/10]
 
-### Alex G - House Of Sugar
+## Alex G - House Of Sugar
 
   ![](https://f4.bcbits.com/img/a0886287496_10.jpg)
 
@@ -615,7 +615,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Geist & the Sacred Ensemble - Within
+## Geist & the Sacred Ensemble - Within
 
   ![](https://f4.bcbits.com/img/a3544643765_10.jpg)
 
@@ -625,7 +625,7 @@ tags: music and stuff
 
   [7.5/10]
 
-### Less Art - Strangled Light
+## Less Art - Strangled Light
 
   ![](https://f4.bcbits.com/img/a2391621140_10.jpg)
 
@@ -635,7 +635,7 @@ tags: music and stuff
 
   [7.4/10]
 
-### Roger Robinson - Illclectica
+## Roger Robinson - Illclectica
 
   ![](https://f4.bcbits.com/img/a0463672623_10.jpg)
 
@@ -645,7 +645,7 @@ tags: music and stuff
 
   [7.0/10]
 
-### Botanist - Ecosystem
+## Botanist - Ecosystem
 
   ![](https://f4.bcbits.com/img/a2440025988_10.jpg)
 
@@ -655,7 +655,7 @@ tags: music and stuff
 
   [6.8/10]
 
-### White Ward - Love Exchange Failure
+## White Ward - Love Exchange Failure
 
   ![](https://f4.bcbits.com/img/a3449550015_10.jpg)
 
