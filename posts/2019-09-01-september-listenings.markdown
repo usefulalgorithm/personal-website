@@ -5,13 +5,13 @@ comments: true
 tags: music and stuff
 ---
 
-## 2019 Releases
-
 ### They Hate Change - Juices Run Clear
 
   ![](https://f4.bcbits.com/img/a0570189926_10.jpg)
 
   One of the best hip hop acts in 2019 strikes again.
+
+  Release date: 
 
   [9.0/10]
 
@@ -21,6 +21,8 @@ tags: music and stuff
 
   I LOVE IT
 
+  Release date: 2019-06-28
+
   [8.9/10]
 
 ### Anne Imhof - Faust
@@ -28,6 +30,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a4173800633_10.jpg)
 
   A soundtrack for an opera piece performed in some year's Venice Biennale. Hopefully one day I'll get to see the piece... this album is phenomenal.
+
+  Release date: 2021-04-23
 
   [8.8/10]
 
@@ -37,6 +41,8 @@ tags: music and stuff
 
   Stellar ambient music.
 
+  Release date: 2019-04-19
+
   [8.6/10]
 
 ### Ed Balloon - The Dubs
@@ -44,6 +50,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a2796550103_10.jpg)
 
   At first listen I was pretty indifferent to this one but once I decided to spend some time to actually focus on it I changed my mind. This is easily one of the best pop-rap albums this year. Maybe calling it pop-rap doesn't really do this album justice... the lyrics are pretty dope too.
+
+  Release date: 1962
 
   [8.6/10]
 
@@ -53,6 +61,8 @@ tags: music and stuff
 
   I've been lowkey smack talking about how I don't really get why everyone's been so hyped up about Charli XCX, but now I shall repent. Honestly I still like Rina Sawayama more than I like Charli, but I definitely can see why people's been raving about the latter... because I am too.
 
+  Release date: 2019-09-13
+
   [8.5/10]
 
 ### H-Fusion - H-Fusion
@@ -60,6 +70,8 @@ tags: music and stuff
   ![](https://assets.boomkat.com/spree/products/545983/large/0804551303777.jpg)
 
   Really cool techno... I dig it!
+
+  Release date: 
 
   [8.5/10]
 
@@ -69,6 +81,8 @@ tags: music and stuff
 
   Psyched-out nu jazz / jazz fusion. I like this a lot more than I like Kamasi Washington. The sax player also played with Sons of Kemet.
 
+  Release date: 2019-03-15
+
   [8.4/10]
 
 ### Ellen Arkbro - CHORDS
@@ -76,6 +90,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a0633098293_10.jpg)
 
   Not as captivating as her 2017 album, but still a magnificent album.
+
+  Release date: 2004-11-02
 
   [8.2/10]
 
@@ -85,6 +101,8 @@ tags: music and stuff
 
   Another nicely done ambient release from Home Normal. Definitely check them out!
 
+  Release date: 2019-04-09
+
   [8.1/10]
 
 ### Burial - Claustro / State Forest
@@ -92,6 +110,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a2252348569_10.jpg)
 
   Half-assed release... c'mon man.
+
+  Release date: 2019-06-14
 
   [8.0/10]
 
@@ -101,6 +121,8 @@ tags: music and stuff
 
   Russian IDM. The first song is super dope.
 
+  Release date: 2011-10-10
+
   [8.0/10]
 
 ### Leo Svirsky - River Without Banks
@@ -108,6 +130,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a1390018712_10.jpg)
 
   Soothing piano based classical ambient music.
+
+  Release date: 2019-08-23
 
   [7.9/10]
 
@@ -117,6 +141,8 @@ tags: music and stuff
 
   The production on this album is killer. The instrumentals are very nujabe-esque, and the featured guests are all big names. People say the lyricism is top tier but I haven't got the time to actually figure out what he's rapping about. Maybe some other time...
 
+  Release date: 
+
   [7.8/10]
 
 ### Felicia Atkinson - The Flower And The Vessel
@@ -124,6 +150,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a3253079313_10.jpg)
 
   Decent ambient / electronic. Intimate.
+
+  Release date: 2019-07-05
 
   [7.7/10]
 
@@ -133,6 +161,8 @@ tags: music and stuff
 
   張揚愛團, chillwave / ambient. The sound becomes more vibrant / cheery towards the end of this album.
 
+  Release date: 2019-08-02
+
   [7.7/10]
 
 ### Jane Weaver - Loops In The Secret Society
@@ -140,6 +170,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a1449748852_10.jpg)
 
   Pretty cool electronic music. Sounds like a less flashy Stereolab.
+
+  Release date: 2019-06-21
 
   [7.7/10]
 
@@ -149,6 +181,8 @@ tags: music and stuff
 
   Too long... I like the original album better.
 
+  Release date: 2019-09-06
+
   [7.6/10]
 
 ### Octo Octa - Resonant Body
@@ -156,6 +190,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a2005771687_10.jpg)
 
   Club / house / breakbeat. The music is upbeat and festive, and from the track titles it's quite obvious this is a work that celebrates the queer bodies and inclinations. Not really into this type of  music recently but I definitely can see techno lovers digging this.
+
+  Release date: 2019-09-06
 
   Ecstatic Beat is one helluva track though!
 
@@ -167,6 +203,8 @@ tags: music and stuff
 
   Not really as disappointing as the Tool album (duh), but still... I guess it's disappointing just because his previous stuff are just too outstanding? The instrumentals are much tamer than his previous records, making this album somewhat lacking in energy and edge. The lyrics still slay though.
 
+  Release date: 2019-09-13
+
   [7.4/10]
 
 ### Ekin Fil - Heavy
@@ -174,6 +212,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a0766026964_10.jpg)
 
   An even more drowned-in-reverb version of Cocteau Twins.
+
+  Release date: 2019-12-13
 
   [7.4/10]
 
@@ -183,6 +223,8 @@ tags: music and stuff
 
   OK IDM album.
 
+  Release date: 2019-06-07
+
   [7.2/10]
 
 ### Iona Fortune - Tao Of I Volume 2
@@ -190,6 +232,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a1337714215_10.jpg)
 
   Ambient with a lot of Chinese influence, with instruments like Guzheng or stuff present. I think the said influence is way too overwhelming sometimes, if it's a bit more subtle and more nuanced maybe I'd like it more.
+
+  Release date: 2019-09-06
 
   [7.2/10]
 
@@ -199,6 +243,8 @@ tags: music and stuff
 
   Visceral ambient music.
 
+  Release date: 2020-12-08
+
   [7.1/10]
 
 ### BABii - HiiDE
@@ -206,6 +252,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a3556179400_10.jpg)
 
   Electro-pop album. Reminds me of earlier Grimes records.
+
+  Release date: 2019-07-05
 
   [7.1/10]
 
@@ -215,6 +263,8 @@ tags: music and stuff
 
   Dark sounding techno.
 
+  Release date: 2019-11-20
+
   [7.0/10]
 
 ### Dis Fantasy - Dis Fantasy
@@ -222,6 +272,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a2034638259_10.jpg)
 
   The flows don't really do much to me. Overall a pretty sleek but not really a super-memorable album.
+
+  Release date: 2020-04-30
 
   [7.0/10]
 
@@ -231,6 +283,8 @@ tags: music and stuff
 
   R&B with a twist. Some songs have great instrumentals but the others aren't as captivating.
 
+  Release date: 2019-09-06
+
   [7.0/10]
 
 ### DJ Haram - Grace EP
@@ -238,6 +292,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a0205550859_10.jpg)
 
   Club music with Middle East influences. The song Body Count is pretty fun but the rest IMO are just alright.
+
+  Release date: 2019-07-05
 
   [7.0/10]
 
@@ -247,6 +303,8 @@ tags: music and stuff
 
   Ambient that lacks memorable moments. Seems to be theory-heavy? But I guess it's like seeing installation arts that don't make a lot of sense in appearance and have absurdly abstract names. Of course I'm not saying the artist is obliged to come up with a statement for the artwork, but then is there any point to just shove the songs in people's faces and tell them to figure things out themselves...
 
+  Release date: 2019-09-13
+
   [6.5/10]
 
 ### Kedr Livanskiy - Your Need
@@ -254,6 +312,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a1100809650_10.jpg)
 
   Dub-ish & club-ish techno music.
+
+  Release date: 2019-05-03
 
   [6.2/10]
 
@@ -263,6 +323,8 @@ tags: music and stuff
 
   2SOFT
 
+  Release date: 2019-05-24
+
   [6.0/10]
 
 ### IDK - Is He Real?
@@ -270,6 +332,8 @@ tags: music and stuff
   ![](https://images.complex.com/complex/images/c_limit,dpr_auto,q_90,w_720/fl_lossy,pg_1/gohzl92of5eglu52cade/idk-is-he-real)
 
   2NAGGIN. No he isn't real.
+
+  Release date: 2019-09-04
 
   [5.5/10]
 
@@ -279,15 +343,17 @@ tags: music and stuff
 
   This one is more lackluster than their previous album. The creative riffs and passages in their earlier stuff is nowhere to be found on this album... :(
 
-  [5.5/10]
+  Release date: 2021-03-13
 
-## Non-2019 Releases
+  [5.5/10]
 
 ### w00dy - RNBW
 
   ![](https://f4.bcbits.com/img/a0273375760_10.jpg)
 
   Insanely awesome deconstructed pop music. Masterpiece.
+
+  Release date: 2019-04-11
 
   [9.0/10]
 
@@ -297,6 +363,8 @@ tags: music and stuff
 
   Crazy good techno. Sugar $\gg$ salt.
 
+  Release date: 2018-09-26
+
   [8.9/10]
 
 ### Pan-American - For Waiting, For Chasing
@@ -304,6 +372,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a1620538680_10.jpg)
 
   They're releasing a new album this year! Yay!
+
+  Release date: 
 
   [8.7/10]
 
@@ -313,6 +383,8 @@ tags: music and stuff
 
   Lively and vibrant techno EP. I dig it!
 
+  Release date: 2008-06-27
+
   [8.5/10]
 
 ### True Neutral Crew - Soft Rules
@@ -320,6 +392,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a1921858756_10.jpg)
 
   Another new challenger in the experimental hip hop game... this one is more controlled and coherent than a lot of artists out there. I like it.
+
+  Release date: 
 
   [8.4/10]
 
@@ -329,6 +403,8 @@ tags: music and stuff
 
   Dope electronica. Sounds like some soundtrack to some John Carpenter's movie.
 
+  Release date: 2021-05-14
+
   [8.2/10]
 
 ### Elucid - Save Yourself
@@ -336,6 +412,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a1988935017_10.jpg)
 
   Thoughtful abstract hip hop.
+
+  Release date: 2020-11-06
 
   [8.1/10]
 
@@ -345,6 +423,8 @@ tags: music and stuff
 
   Seriously... They Hate Change has got to be one of the best hip hop acts nowadays.
 
+  Release date: 2021-04-14
+
   [8.1/10]
 
 ### Topdown Dialectic - Topdown Dialectic
@@ -352,6 +432,8 @@ tags: music and stuff
   ![](https://imagescdn.juno.co.uk/full/CS697951-01A-BIG.jpg)
 
   Minimal techno. Great to put on repeat.
+
+  Release date: 2018-06-08
 
   [8.0/10]
 
@@ -361,6 +443,8 @@ tags: music and stuff
 
   Quirky yet absurdly catchy pop punk. Lean and mean!
 
+  Release date: 
+
   [8.0/10]
 
 ### Stanislav Tolkachev - Why Are You So Frightened
@@ -368,6 +452,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/0011514446_10.jpg)
 
   Pretty dope techno. Great if put it on infinite repeat.
+
+  Release date: 2011-08-01
 
   [8.0/10]
 
@@ -377,6 +463,8 @@ tags: music and stuff
 
   Groovy electronica with a distinct SE Asian flavor to it.
 
+  Release date: 2018-06-20
+
   [7.9/10]
 
 ### P. Adrix - Álbum Desconhecido
@@ -384,6 +472,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a3271702577_10.jpg)
 
   I don't really dig other kuduro albums, but this one sound more modernized and is actually quite pleasing.
+
+  Release date: 2018-03-02
 
   [7.6/10]
 
@@ -393,6 +483,8 @@ tags: music and stuff
 
   A compilation of short but pretty chill hip hop tracks.
 
+  Release date: 2018-07-06
+
   [7.2/10]
 
 ### D.Dan - Covert Operation
@@ -401,6 +493,8 @@ tags: music and stuff
 
   Club-ish techno.
 
+  Release date: 2018-10-05
+
   [7.0/10]
 
 ### Naaahhh - Themes
@@ -408,5 +502,7 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a1142999029_10.jpg)
 
   Murky ambient / experimental electronic music.
+
+  Release date: 2017-11-10
 
   [6.8/10]

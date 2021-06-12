@@ -5,13 +5,13 @@ comments: true
 tags: music and stuff
 ---
 
-## 2021 Releases
-
 ### Floating Points, Pharoah Sanders, London Symphony Orchestra - Promises
 
   ![](https://f4.bcbits.com/img/a2975740667_16.jpg)
 
   <3 <3 <3
+
+  Release date: 2018-08-17
 
   [8.8/10]
 
@@ -21,6 +21,8 @@ tags: music and stuff
 
   Modern composition / new age. I can play this all day.
 
+  Release date: 2021-01-22
+
   [8.6/10]
 
 ### Emeka Ogboh - Beyond The Yellow Haze
@@ -28,6 +30,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a4036206990_16.jpg)
 
   Slithering, funky techno / downtempo. Good stuff.
+
+  Release date: 2021-01-15
 
   [8.4/10]
 
@@ -37,6 +41,8 @@ tags: music and stuff
 
   UK grime / trap. I think this is the first hip-hop release from this year that I actually enjoy...
 
+  Release date: 2021-02-12
+
   [8.1/10]
 
 ### Dialect - Under~Between
@@ -44,6 +50,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a1547261430_10.jpg)
 
   Zen electronic ambient music. Bubbly sounds!
+
+  Release date: 2021-03-19
 
   [7.8/10]
 
@@ -53,6 +61,8 @@ tags: music and stuff
 
   Wife said she had a nightmare when I played this whiloe she was sleeping. Mystical left-field pop songs.
 
+  Release date: 2021-01-22
+
   [7.7/10]
 
 ### William Doyle - Great Spans Of Muddy Time
@@ -60,6 +70,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a2916077999_16.jpg)
 
   While not as mesmerizing as his late 2019 album, this album is more droning and dissonant.
+
+  Release date: 2021-03-19
 
   [7.2/10]
 
@@ -69,9 +81,9 @@ tags: music and stuff
 
   The only one who gets a pass for singing like they're breathing is named Kate Bush.
 
-  [6.8/10]
+  Release date: 2021-03-19
 
-## 2020 Releases
+  [6.8/10]
 
 ### Daniel Lentz, Ian William Craig - FRKWYS Vol. 16: In a Word
 
@@ -79,11 +91,15 @@ tags: music and stuff
 
   [8.7/10]
 
+  Release date: 2020-11-20
+
 ### Priscilla Ermel - Origens Da Luz
 
   ![](https://f4.bcbits.com/img/a0933860178_10.jpg)
 
   Brazilian folk music. The singer was very much influenced by... Tai-Chi? FFO Ichiko Aoba.
+
+  Release date: 2020-02-20
 
   [8.6/10]
 
@@ -93,6 +109,8 @@ tags: music and stuff
 
   ... easy-listening glitch? Their Bandcamp page says so. Minimalistic musical bliss.
 
+  Release date: 2019-09-12
+
   [8.6/10]
 
 ### Robert Hood - Mirror Man
@@ -100,6 +118,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a1230317271_16.jpg)
 
   Dude may be old but dude be goin' on strong as ever.
+
+  Release date: 2020-03-30
 
   [8.4/10]
 
@@ -109,6 +129,8 @@ tags: music and stuff
 
   Dub techno.
 
+  Release date: 2020-11-20
+
   [8.1/10]
 
 ### Sam Prekop - Comma
@@ -116,6 +138,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a2706703589_16.jpg)
 
   Minimalistic indietronica / pop-techno by former member of The Sea And The Cake. Pretty approachable stuff.
+
+  Release date: 2009-08-04
 
   [7.7/10]
 
@@ -125,6 +149,8 @@ tags: music and stuff
 
   Off-kilter alternative hip-hop. Fun to listen to.
 
+  Release date: 2008-09-16
+
   [7.6/10]
 
 ### Mark Lanegan - Straight Songs Of Sorrow
@@ -133,9 +159,9 @@ tags: music and stuff
 
   Wife hates this QQ, the song Internal Hourglass Discussion is pretty decent though.
 
-  [7.0/10]
+  Release date: 2020-05-08
 
-## 2019 Releases
+  [7.0/10]
 
 ### Karenn - Grapefruit Regret
 
@@ -143,9 +169,9 @@ tags: music and stuff
 
   彈跳 techno，很讚
 
-  [8.3/10]
+  Release date: 2019-11-08
 
-## 2017 Releases
+  [8.3/10]
 
 ### Jazz Doummunisters - Cupid & Bataille, Dirty Microphone
 
@@ -153,14 +179,16 @@ tags: music and stuff
 
   Weird spoken-word / jazz-hop by two Japanese middle aged men. One of them played in Cowboy Bebop's OST and Ground Zero, the other is a columnist and (I think) a visiting scholar in Keio university. Really weird stuff, but in the best way possible.
 
-  [8.8/10]
+  Release date: 2017-06-07
 
-## 2016 Releases
+  [8.8/10]
 
 ### Moe And Ghosts x 空間現代 - Rap Phenomenon
 
   ![](https://img.discogs.com/itK6xhwAALZoVeZGfoYNHzIqmYA=/fit-in/600x600/filters:strip_icc():format(webp):mode_rgb():quality(90)/discogs-images/R-12486345-1536244664-8075.jpeg.jpg)
 
   Math rock-noise-rap? 感覺有點像玉手初美
+
+  Release date: 2016-04-06
 
   [6.8/10]

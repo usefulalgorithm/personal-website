@@ -5,13 +5,13 @@ comments: true
 tags: music and stuff
 ---
 
-## 2020 Releases
-
 ### Regular Citizen - Patsy Hangdog
 
   ![](https://f4.bcbits.com/img/a1005281490_10.jpg)
 
   Minimalistic ambient arp music. Sublime..............
+
+  Release date: 
 
   [9.0/10]
 
@@ -21,6 +21,8 @@ tags: music and stuff
 
   I did not expect Constellation to deliver this kind of electronica stuff whatsoever. Pretty kraut-ish if you ask me.
 
+  Release date: 
+
   [8.7/10]
 
 ### Nyx - Aux Pieds De La Nuit
@@ -28,6 +30,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a0476797929_10.jpg)
 
   Ambient + jazzy drums + vocals drenched in reverb + soundscape. He was the vocalist in Arab Strap, but this album is anything but slowcore. Hazy dream music.
+
+  Release date: 2020-02-14
 
   [8.6/10]
 
@@ -37,6 +41,8 @@ tags: music and stuff
 
   Quality post-punk. Wife digs this.
 
+  Release date: 2020-07-31
+
   [8.5/10]
 
 ### Shackleton, Wacław Zimpel - Primal Forms
@@ -44,6 +50,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a2519594284_10.jpg)
 
   Their Bandcamp page puts it best: shaman music. Shackleton is known for tribal music-influenced meditative jazz / electronic music (not your typical chill-out jazztronica... his stuff is an entirely different kind of beast), and Wacław Zimpel has been one of my favorite musicians for like two years, cf. his stuff on Instant Classic and his Long Weekend EP earlier this year.
+
+  Release date: 2020-07-31
 
   [8.4/10]
 
@@ -53,6 +61,8 @@ tags: music and stuff
 
   Nu jazz / contemporary hard-bop. I definitely do not consider myself a jazz head, but this is one that even I enjoy and can see myself coming back to it. Harmonious.
 
+  Release date: 2019-03-15
+
   [8.4/10]
 
 ### Croatian Amor & Varg2™ - Body Of Lila
@@ -60,6 +70,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a0649250718_10.jpg)
 
   Bleak industrial techno / ambient album. I like the ambient tracks like Moraine more, but still this is a pretty dope record. FFO Tzusing.
+
+  Release date: 2020-05-08
 
   [8.3/10]
 
@@ -69,6 +81,8 @@ tags: music and stuff
 
   The pinnacle of Korean retro-pop / chillwave. Wonderfully executed. 歌很好聽 MV 卻拍得有點失敗... 希望更多人能聽到他的音樂！雖說某種程度上是在高仿竹內瑪麗亞，但要做到完成度這麼高配器這麼好聽真的不是說想做就可以做到的
 
+  Release date: 2020-07-21
+
   [8.3/10]
 
 ### Bibio - Sleep On The Wing
@@ -76,6 +90,8 @@ tags: music and stuff
   ![](https://assets.boomkat.com/spree/products/659207/large/unnamed.jpg)
 
   Indietronica / electro-folk. Nostalgic lo-fi sound! Like this a lot.
+
+  Release date: 2020-06-12
 
   [8.3/10]
 
@@ -85,6 +101,8 @@ tags: music and stuff
 
   Pretty awesome neo-soul.
 
+  Release date: 2020-07-17
+
   [8.2/10]
 
 ### Patricia - Maxyboy
@@ -92,6 +110,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a1840052382_10.jpg)
 
   Deep minimal techno. Groooooveeeey.
+
+  Release date: 2020-06-26
 
   [8.2/10]
 
@@ -101,6 +121,8 @@ tags: music and stuff
 
   Hypnagogic ambient music. Very sad music... which is good.
 
+  Release date: 2020-03-06
+
   [8.2/10]
 
 ### Cucina Povera, ELS - The Oystercatcher
@@ -108,6 +130,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a3486460083_10.jpg)
 
   Haunting stripped-down electronic music. Very ethereal. If you haven't heard of Cucina Povera yet then you should do so as soon as possible.
+
+  Release date: 2020-05-22
 
   [8.1/10]
 
@@ -117,6 +141,8 @@ tags: music and stuff
 
   Modern classical composition / ambient. Unnerving, shifting melodies abound. It's pretty mind boggling to me that this entire album was done with an acoustic guitar... what kind of sick person plays the instrument like that?
 
+  Release date: 
+
   [8.1/10]
 
 ### Duma - Duma
@@ -124,6 +150,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a3289675772_10.jpg)
 
   Kenyan experimental electronic grindcore / noise. Insane stuff, it's like Full Of Hell does a collab with Aphex Twin and WaqWaq Kingdom... I mean, what???
+
+  Release date: 2020-11-20
 
   [8.1/10]
 
@@ -133,6 +161,8 @@ tags: music and stuff
 
   Very funky retro disco house / vaporwave-y city pop. Two songs are not enough though.
 
+  Release date: 2018-05-14
+
   [8.1/10]
 
 ### Irreversible Entanglements - Who Sent You?
@@ -140,6 +170,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a0424693587_10.jpg)
 
   Jazz band fronted by Moor Mother. Stream of consciousness style afro-jazz, super abrasive stuff. 喜歡 Matana Roberts 的話可聽
+
+  Release date: 2020-03-20
 
   [8.1/10]
 
@@ -149,6 +181,8 @@ tags: music and stuff
 
   Avant-pop from Russia. Lots of synth-pop elements. Dig it.
 
+  Release date: 2020-06-12
+
   [8.1/10]
 
 ### Cory Smythe - Accelerate Every Voice
@@ -156,6 +190,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a2865864548_10.jpg)
 
   Unsettling experimental modern classical, featuring operatic vocal choir, a-capella and atonal piano. Eerie stuff not suited for the faint of heart.
+
+  Release date: 
 
   [8.0/10]
 
@@ -165,6 +201,8 @@ tags: music and stuff
 
   Experimental computer music / electronic. Unsettling.
 
+  Release date: 
+
   [8.0/10]
 
 ### Stuck - Change Is Bad
@@ -172,6 +210,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a0562563247_10.jpg)
 
   Sounds like Pissed Jeans + Pile's first two albums. Who wouldn't like this kind of stuff...
+
+  Release date: 2020-04-03
 
   [7.9/10]
 
@@ -181,6 +221,8 @@ tags: music and stuff
 
   So this is a compilation of proto-UK Bass music. History lesson: https://daily.bandcamp.com/features/uk-bleep-and-bass-feature
 
+  Release date: 2020-03-27
+
   [7.9/10]
 
 ### India Jordan - For You
@@ -188,6 +230,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a0266626104_10.jpg)
 
   Dance / club. Very retro stuff.
+
+  Release date: 2020-03-27
 
   [7.9/10]
 
@@ -197,6 +241,8 @@ tags: music and stuff
 
   Dissonant improvised modern jazz.
 
+  Release date: 
+
   [7.8/10]
 
 ### Trevor - Becoming A Bed
@@ -204,6 +250,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a0120080861_10.jpg)
 
   Experimental techno / drum & bass.
+
+  Release date: 2020-11-06
 
   [7.8/10]
 
@@ -213,6 +261,8 @@ tags: music and stuff
 
   Avant-gard jazz + black / death metal. This is more playful (albeit in a twisted way) than their previous stuff. TBH I like Vile Luxury more... still I'd recommend this to whoever looking for challenging metal music.
 
+  Release date: 1984-09-27
+
   [7.7/10]
 
 ### Rhodri Davies - Telyn Rawn
@@ -220,6 +270,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a1360141894_10.jpg)
 
   Modern classical with medieval harp. FFO Laura Cannell.
+
+  Release date: 2020-07-31
 
   [7.7/10]
 
@@ -229,6 +281,8 @@ tags: music and stuff
 
   Unrelenting death metal. Surprisingly melodic.
 
+  Release date: 2016-02-05
+
   [7.6/10]
 
 ### Guedra Guedra كدرة كدرة  - Son Of Sun
@@ -236,6 +290,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a3358675395_10.jpg)
 
   Afro-bass from Morocco. RA says this one has a lot of Bedouin themes, which I'm not really familiar with.
+
+  Release date: 2021-04-20
 
   [7.5/10]
 
@@ -245,6 +301,8 @@ tags: music and stuff
 
   Sounds like Godflesh in A World Lit On Fire but less fun.
 
+  Release date: 2021-04-23
+
   [7.4/10]
 
 ### Feu St-Antoine - L'eau Par La Soif
@@ -252,6 +310,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a1736223421_10.jpg)
 
   Hallucination-inducing ambient / modern classical / hauntology music. Lotsa sci-fi synths.
+
+  Release date: 
 
   [7.4/10]
 
@@ -261,6 +321,8 @@ tags: music and stuff
 
   Black / death metal. I think there are some metalcore influences going on here...
 
+  Release date: 2020-03-27
+
   [7.3/10]
 
 ### Ann Margaret Hogan - Honeysuckle Burials
@@ -268,6 +330,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a3143810304_10.jpg)
 
   Modern piano classical music.
+
+  Release date: 2020-02-28
 
   [7.3/10]
 
@@ -277,6 +341,8 @@ tags: music and stuff
 
   Some pretty awesome riffs here, but the falsettos still put me off. Also the bass could be louder in the mix IMO. 他真的是很會編那種介於煩跟屌之間的吉他 riff，但他唱歌就真的是有點煩了
 
+  Release date: 2020-08-07
+
   [7.3/10]
 
 ### Kelly Lee Owens - Inner Song
@@ -284,6 +350,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a1503838412_10.jpg)
 
   Ambient pop / electronica. The self-titled album is better IMO.
+
+  Release date: 2020-08-28
 
   [7.2/10]
 
@@ -293,6 +361,8 @@ tags: music and stuff
 
   Old school stoner doom.
 
+  Release date: 
+
   [7.2/10]
 
 ### Floral - Floral
@@ -300,6 +370,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a2118984224_10.jpg)
 
   Chon on steroids / Polyphia without being overtly obnoxious. 硬要說的話 Chon > Floral >> Polyphia
+
+  Release date: 2012-09-18
 
   [7.2/10]
 
@@ -309,6 +381,8 @@ tags: music and stuff
 
   Modern black metal. Songs are above average but overall doesn't really bring a lot of new ideas to the table.
 
+  Release date: 2020-06-19
+
   [7.1/10]
 
 ### Regis - Hidden In This Is The Light That You Miss
@@ -316,6 +390,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a1768886957_10.jpg)
 
   Industrial techno. While still pretty hard-hitting this one doesn't feel all that creative.
+
+  Release date: 2020-05-22
 
   [7.1/10]
 
@@ -325,6 +401,8 @@ tags: music and stuff
 
   Ambient-pop / ethereal post-rock-y pop. While it is indeed a very calming record it lacks depth when compared with The Magic Place or Nepenthe, two of Barwick's best records in my opinion. If there's a cafe that puts this on repeat it'd be pretty dope though. 之前的比較好
 
+  Release date: 2020-07-10
+
   [7.1/10]
 
 ### Oded Tzur - Here Be Dragons
@@ -332,6 +410,8 @@ tags: music and stuff
   ![](https://cdn2.jazztimes.com/2020/03/10_OdedTzur-1000x887.jpg)
 
   Lounge jazz. Very easy listening.
+
+  Release date: 2016-03-31
 
   [7.0/10]
 
@@ -341,6 +421,8 @@ tags: music and stuff
 
   His last album was much more interesting than this one. Check out Eli Keszler btw.
 
+  Release date: 2021-01-16
+
   [7.0/10]
 
 ### E.M.M.A. - Indigo Dream
@@ -348,6 +430,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a3739234083_10.jpg)
 
   Cinematic retro-synth music / club. Got a bunch of synth sounds that wouldn't feel out of place if they're in a John Carpenter movie, but the composition on a whole is pretty standard stuff.
+
+  Release date: 2019-08-30
 
   [6.9/10]
 
@@ -357,6 +441,8 @@ tags: music and stuff
 
   Weird pop music. 聽無
 
+  Release date: 2020-06-19
+
   [6.8/10]
 
 ### Infant Island - Beneath
@@ -364,6 +450,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a1756856940_10.jpg)
 
   Screamo / metalcore.
+
+  Release date: 2015-06-05
 
   [6.8/10]
 
@@ -373,6 +461,8 @@ tags: music and stuff
 
   Avant-gard instrumental metal? Anyway this stuff is too much for me... super weird music. Gets a bunch of style points from me for the shreds though. 聽無
 
+  Release date: 2020-06-12
+
   [6.5/10]
 
 ### Cut Worms - Unnatural Disaster
@@ -380,6 +470,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a4178474904_10.jpg)
 
   Soft country + indie rock.
+
+  Release date: 2020-07-02
 
   [6.5/10]
 
@@ -389,6 +481,8 @@ tags: music and stuff
 
   Post-black metal. I find it pretty confounding and funny how these black metal bands call themselves "experimental" while all they've done is simply inserting shoegaze-ish major chords into their songs.
 
+  Release date: 2020-05-01
+
   [6.0/10]
 
 ### Algiers - There Is No Year
@@ -396,6 +490,8 @@ tags: music and stuff
   ![](https://s3.amazonaws.com/broadtime_photo/418461810906)
 
   Gospel + post-punk. This is my first time checking out their music... so they're known for blending soul music vocals with post-punk instrumentations? On this album it almost sounds like the vocalist had zero regard about what his other bandmates were playing - all these crooning vocals just don't resonate with the rest of the band. As for the instrumentations they're pretty bland, nothing really that memorable. Maybe spend more time writing the album next time? 真的是對他們沒愛，但好像也不是說這張沒有新意或是什麼的 - 這是我第一次聽他們的音樂，而是說他唱歌的感覺很煩... 很想在他唱得最投入的時候朝他頭巴下去
+
+  Release date: 2020-01-17
 
   [6.0/10]
 
@@ -405,6 +501,8 @@ tags: music and stuff
 
   Outdated britpop in tribute to Chilean activist. I have the utmost respect for the Manics but man the songwriting on this album is just insufferable...
 
+  Release date: 2020-08-14
+
   [5.5/10]
 
 ### Washed Out - Purple Noon
@@ -412,6 +510,8 @@ tags: music and stuff
   ![](https://www.magneticmag.com/.image/t_share/MTczNjM4OTEyMTg1NTQyNDIx/washedout-purplenoon-cover-3000x3000.jpg)
 
   Radio-friendly, empty-on-the-inside indie pop. Or make out music par excellence for year 2020? 美國版 deca joins，一樣是被人叫浪漫音樂但浪漫在哪卻也沒幾個人講得出所以然的樂團
+
+  Release date: 2020-08-07
 
   [4.0/10]
 
@@ -421,6 +521,8 @@ tags: music and stuff
 
   The sad story of Ulver: how a band devolved from black metal overlords to the perfect (or should I say the most miserable) demonstration of how not to make post-punk music. Corny.
 
+  Release date: 2020-08-28
+
   [2.5/10]
 
 ### Lamb Of God - Lamb Of God
@@ -429,15 +531,17 @@ tags: music and stuff
 
   I mean they can definitely play, but this kind of stuff just no longer appeals to me... couldn't listen to this without nervously cringe smiling. 真的很強！但也真的聽不下去
 
-  [2.0/10]
+  Release date: 2020-06-19
 
-## Non-2020 Releases
+  [2.0/10]
 
 ### Space Afrika - Somewhere Decent To Live
 
   ![](https://f4.bcbits.com/img/a1137618719_10.jpg)
 
   Dub ambient / minimal house. FFO Jan Jelinek.
+
+  Release date: 2018-03-08
 
   [8.7/10]
 
@@ -447,6 +551,8 @@ tags: music and stuff
 
   Afro-cuban jazz. Like this a lot.
 
+  Release date: 
+
   [8.2/10]
 
 ### Helena Hauff - Discreet Desires
@@ -454,6 +560,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a1656694513_10.jpg)
 
   Fun yet spooky industrial techno. It's got a bunch of super old synth sounds and 808 beats on it. Pretty cool.
+
+  Release date: 2015-09-04
 
   [8.2/10]
 
@@ -463,6 +571,8 @@ tags: music and stuff
 
   New age / ambient.
 
+  Release date: 2020-05-18
+
   [8.1/10]
 
 ### Cuong Vu, Pat Metheny - Cuong Vu Trio Meets Pat Metheny
@@ -470,6 +580,8 @@ tags: music and stuff
   ![](https://img.secure.cdn2.wmgecom.com/media/catalog/product/cache/1134/image/1200x/9df78eab33525d08d6e5fb8d27136e95/0/7/075597946673.jpg)
 
   From what I remembered Pat Matheny is a smooth jazz guy - listened to some of his stuff in highschool and never really connected. But this one, which Metheny did with his long time collaborator sax player Cuong Vu, is anything but smooth jazz, yet still manages to maintain a sense of melodic progression. 請追蹤 @ginjazzyology
+
+  Release date: 2016-05-06
 
   [8.0/10]
 
@@ -479,6 +591,8 @@ tags: music and stuff
 
   Deep dub techno. The last track is pretty dope.
 
+  Release date: 2009-10-12
+
   [7.8/10]
 
 ### Akira Rabelais - CXVI
@@ -486,6 +600,8 @@ tags: music and stuff
   ![](https://assets.boomkat.com/spree/products/565429/large/BKEDIT018_Dist_Preview.jpg)
 
   Sound design. Museum music.
+
+  Release date: 2021-04-21
 
   [7.7/10]
 
@@ -495,6 +611,8 @@ tags: music and stuff
 
   I'm super late to the party... indie rock. I suppose this is many people's AOTY for 2019? I'm not really into this one though. I do like the abundant presence of math rock elements on this album, but why wouldn't I just say go grab EEIWALE or Penfold? 這好像很多人推
 
+  Release date: 2019-09-13
+
   [7.5/10]
 
 ### Geist & the Sacred Ensemble - Within
@@ -502,6 +620,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a3544643765_10.jpg)
 
   These guys must've loved Swans a lot. Doom folk reminiscent of To Be Kind.
+
+  Release date: 2021-04-21
 
   [7.5/10]
 
@@ -511,6 +631,8 @@ tags: music and stuff
 
   Thrice + Kowloon Walled City + Curl Up And Die. Sounds like Thrice and La Dispute mashed together. There are some riffs that totally slay, but the vocals could be stronger IMO.
 
+  Release date: 2017-07-28
+
   [7.4/10]
 
 ### Roger Robinson - Illclectica
@@ -518,6 +640,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a0463672623_10.jpg)
 
   Outsider hip-hop / downtempo.
+
+  Release date: 2005-10-03
 
   [7.0/10]
 
@@ -527,6 +651,8 @@ tags: music and stuff
 
   Post-black metal with zither. Still dig their first and second album more.
 
+  Release date: 2011-11-30
+
   [6.8/10]
 
 ### White Ward - Love Exchange Failure
@@ -534,5 +660,7 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a3449550015_10.jpg)
 
   Post-black metal. The second song even features a sax solo... but to me the album name could be reduced to contain just the last of the three words really. Bland.
+
+  Release date: 2019-09-20
 
   [5.0/10]

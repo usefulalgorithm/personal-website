@@ -5,13 +5,13 @@ comments: true
 tags: music and stuff
 ---
 
-## 2020 Releases
-
 ### Duval Timothy - Help
 
   ![](https://f4.bcbits.com/img/a3770508916_16.jpg)
 
   Piano music / jazz. If you don't like this then you have no heart.
+
+  Release date: 1965-08-06
 
   [9.0/10]
 
@@ -21,6 +21,8 @@ tags: music and stuff
 
   Fans of Tim Hecker and William Basinski would love this one. I love this one. Droning ambient goodness.
 
+  Release date: 1995-09-26
+
   [8.6/10]
 
 ### Sprain - As Lost Through Collision
@@ -28,6 +30,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a2571838157_10.jpg)
 
   I thought it's going to be another pretty good but not really memorable slowcore release but I was very wrong... think Slint + Horseback + Unwound and Sprain's last album. Wonderful stuff.
+
+  Release date: 2020-09-04
 
   [8.5/10]
 
@@ -37,6 +41,8 @@ tags: music and stuff
 
   TBH I like this one even more than Cenizas and AAL 2017-2019. Intricate yet fuzzy electronic ambient music.
 
+  Release date: 2020-02-07
+
   [8.4/10]
 
 ### Anna Von Hausswolff - All Thoughts Fly
@@ -44,6 +50,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a3179211438_10.jpg)
 
   Ambient / modern classical. 看封面很難想像這張有這麼療癒... 很好聽的環境音樂。喜歡 Ellen Arkbro 或是 Kali Malone 的話應該也會覺得這張很讚。
+
+  Release date: 2020-09-25
 
   [8.4/10]
 
@@ -53,6 +61,8 @@ tags: music and stuff
 
   Grandiose contemporary baroque-pop (? I feel like that term best captures the theme of the entire thing, but at the same time this does not sound like Cocteau Twins whatsoever...) album. Is there a term to call this kind of modern gothic & artsy avant-pop music like this, Anohni and Yves Tumor?
 
+  Release date: 2020-05-15
+
   [8.4/10]
 
 ### Sarah Davachi - Cantus, Descant
@@ -60,6 +70,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a2370665043_10.jpg)
 
   Ethereal ambient music for late night leetcode sessions. Makes the hard questions so much more bearable.
+
+  Release date: 2020-09-18
 
   [8.3/10]
 
@@ -69,6 +81,8 @@ tags: music and stuff
 
   雖然說好像不能這樣比？但這張比起年初的 Tame Impala 感覺有誠意很多。印象中之前 Fleet Foxes 花草得蠻徹底的，但這張除了嗓音還是保持一貫的 indie rock 感之外，編曲上多了不少其他元素，而不是像其他可惜團如 Real Estate 跟 Wild Nothing 那樣自我重複。像倒數第二首歌那種整個配器滿到炸裂的做法我就覺得，還蠻讚的，跟想像中會出現的東西很不一樣。好聽！
 
+  Release date: 2018-05-04
+
   [8.3/10]
 
 ### Ghostpoet - I Grow Tired But Dare Not Fall Asleep
@@ -76,6 +90,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a0645315485_10.jpg)
 
   Downtempo plus post-punk. People say his earlier stuff is better? I think this one is already a pretty stellar album though.
+
+  Release date: 2020-05-01
 
   [8.2/10]
 
@@ -85,6 +101,8 @@ tags: music and stuff
 
   Experimental chamber pop. Wonderful gothic music.
 
+  Release date: 2019-05-08
+
   [8.2/10]
 
 ###  Blacksea Não Maya - Máquina de Vénus
@@ -92,6 +110,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a2146924715_10.jpg)
 
   Sprawling kuduro / footwork. Very intimidating yet engaging, good stuff. Also just subscribed to Príncipe's mailing list.
+
+  Release date: 2020-09-04
 
   [8.2/10]
 
@@ -101,6 +121,8 @@ tags: music and stuff
 
   Soundtrack to Cyclonopedia. So much bass.
 
+  Release date: 2020-09-18
+
   [8.2/10]
 
 ### Phelimuncasi - Phelimuncasi: 2013-2019
@@ -108,6 +130,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a0500182775_10.jpg)
 
   Sprawling dark African club music, or maybe just call it Gqom?
+
+  Release date: 2020-09-17
 
   [8.1/10]
 
@@ -117,6 +141,8 @@ tags: music and stuff
 
   What if Jon Hassell does lo-fi ambient?
 
+  Release date: 2020-09-04
+
   [8.1/10]
 
 ### Otto - Clam Day
@@ -124,6 +150,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a0431904602_10.jpg)
 
   Bedroom club music. 滿古錐的，奇怪的 indietronica。
+
+  Release date: 2020-09-23
 
   [8.1/10]
 
@@ -133,6 +161,8 @@ tags: music and stuff
 
   ASMR pop FFO FKA Twigs and Sega Bodega (but then I don't think there's anybody besides me that's a Sega Bodega fan). As the album progresses into the latter tracks the instrumentation becomes more crowded than the earlier ones like Shabrang and Habibi.
 
+  Release date: 2020-08-28
+
   [8.0/10]
 
 ### Elaquent - Forever Is A Pretty Long Time
@@ -140,6 +170,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a3443214996_10.jpg)
 
   Decent chill-hop.
+
+  Release date: 2020-02-21
 
   [8.0/10]
 
@@ -149,6 +181,8 @@ tags: music and stuff
 
   Hypnotic techno... think more futuristic Tsuzing.
 
+  Release date: 2020-09-04
+
   [7.9/10]
 
 ### Silvia Tarozzi - Mi Specchio E Rifletto
@@ -156,6 +190,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a1080321341_10.jpg)
 
   Mystical folk FFO Laura Cannell. The track Domina stands out the most IMO.
+
+  Release date: 2020-07-31
 
   [7.9/10]
 
@@ -165,6 +201,8 @@ tags: music and stuff
 
   Playful techno music.
 
+  Release date: 2019-11-01
+
   [7.8/10]
 
 ### JK Flesh - Depersonalization
@@ -172,6 +210,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a1144601650_10.jpg)
 
   Industrial techno / body music. Pretty dope, but I like 2018's New Horizon more.
+
+  Release date: 2021-05-13
 
   [7.8/10]
 
@@ -181,6 +221,8 @@ tags: music and stuff
 
   I vaguely recall having read that jazz noir is an actual musical genre... psychedelic jazz maybe? The album feels a bit stagnating at times but there are also plenty of immensely engaging passages. Also these are the guys that play in Rakta, which I dig a lot.
 
+  Release date: 2020-03-29
+
   [7.7/10]
 
 ### Tangents - Timeslips
@@ -188,6 +230,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a3680952533_10.jpg)
 
   Jazz + electronic music. Think jazzy IDM records but much more jazz oriented.
+
+  Release date: 2020-09-04
 
   [7.7/10]
 
@@ -197,6 +241,8 @@ tags: music and stuff
 
   Not as cool as the self-titled. Still pretty dope though.
 
+  Release date: 2020-07-24
+
   [7.6/10]
 
 ### Dark0 - Zero2
@@ -204,6 +250,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a2004089459_10.jpg)
 
   Trance / drill. I thought I wasn't going to like this one when I started listening to this one, but surprisingly this one doesn't feel all that irritating. The track Hardwire is pretty cool.
+
+  Release date: 2020-08-21
 
   [7.6/10]
 
@@ -213,6 +261,8 @@ tags: music and stuff
 
   Jazzy R&B / rap. I like the abrupt speed and chord changes. Looking forward to her future outputs.
 
+  Release date: 2020-01-29
+
   [7.6/10]
 
 ### Protomartyr - Ultimate Success Today
@@ -220,6 +270,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a1390858493_10.jpg)
 
   Post-punk. I like Fontaines D.C. more, but this one is alright. I suspect Anthony Fantano probably just dislikes every post-punk band.
+
+  Release date: 2020-07-17
 
   [7.5/10]
 
@@ -229,6 +281,8 @@ tags: music and stuff
 
   Soothing indie folk.
 
+  Release date: 2018-11-08
+
   [7.5/10]
 
 ### Spirit Possession - Spirit Possession
@@ -236,6 +290,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a0461618833_10.jpg)
 
   Gnarly, grim black metal. Some riffs are pretty hardhitting.
+
+  Release date: 2020-07-24
 
   [7.4/10/10]
 
@@ -245,6 +301,8 @@ tags: music and stuff
 
   Shimmery soul album. Not a fan of the drum machine big beats on Josef and Helio, but the track The Snow Dance reminds me of some weird but awesome video game soundtracks I've heard somewhere else...
 
+  Release date: 2020-03-13
+
   [7.3/10]
 
 ### Tricky - Fall To Pieces
@@ -252,6 +310,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a2429396272_10.jpg)
 
   Downtempo pop, basically what you'd expect from him. Imma stick with Nearly God though.
+
+  Release date: 2021-06-04
 
   [7.2/10]
 
@@ -261,6 +321,8 @@ tags: music and stuff
 
   Stoner rock. Heavy stuff, but the riffs do get a bit repetitive and isn't all that groovy.
 
+  Release date: 2020-04-03
+
   [7.1/10]
 
 ### Lucrecia Dalt - No Era Sólida
@@ -268,6 +330,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a0939535455_10.jpg)
 
   有幾首的最後面聲音超爆大== 聽的時候要注意
+
+  Release date: 2020-09-11
 
   [7.0/10]
 
@@ -277,6 +341,8 @@ tags: music and stuff
 
   Trap-rap. It's alright but 1992 Deluxe is more engaging IMO.
 
+  Release date: 2020-02-26
+
   [7.0/10]
 
 ### A. G. Cook - 7G
@@ -284,6 +350,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a2301019621_10.jpg)
 
   Future pop compilation from PC Music mastermind. 真的太長了... 有些歌是還不錯，但聽到一半就有點麻木了
+
+  Release date: 2020-08-12
 
   [7.0/10]
 
@@ -293,6 +361,8 @@ tags: music and stuff
 
   Art-pop that feels somewhat melodramatic...
 
+  Release date: 2020-04-29
+
   [6.8/10]
 
 ### Stanley J. Zappa - Muster Point
@@ -300,6 +370,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a4118009565_10.jpg)
 
   Meandering free jazz / spiritual jazz.
+
+  Release date: 
 
   [6.8/10]
 
@@ -309,6 +381,8 @@ tags: music and stuff
 
   瑪丹娜後繼有人
 
+  Release date: 2021-05-26
+
   [6.6/10]
 
 ### Insect Ark - The Vanishing
@@ -316,6 +390,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a2549609707_10.jpg)
 
   Bleak but monotonous post-metal.
+
+  Release date: 1993-05-07
 
   [6.5/10]
 
@@ -325,6 +401,8 @@ tags: music and stuff
 
   Electro-post-rock. I don't like this kind of stuff a lot as of late.
 
+  Release date: 2019-09-07
+
   [6.3/10]
 
 ### Sufjan Stevens - The Ascension
@@ -332,6 +410,8 @@ tags: music and stuff
   ![](https://static1.squarespace.com/static/5ed9a6e4ac98c616d2691cea/t/5ef95fcbe2b6dd59a61b438e/1593401304883/AKR150---Digital-Cover-Art_3000.jpg)
 
   Indie synthpop. Just listen to Dan Deacon instead...
+
+  Release date: 2013-09-24
 
   [6.2/10]
 
@@ -341,6 +421,8 @@ tags: music and stuff
 
   Psychedelic garage rock. Lots of weird chromatic scales. Not my jam though.
 
+  Release date: 2020-09-18
+
   [6.1/10]
 
 ### Dua Lipa - Future Nostalgia
@@ -348,6 +430,8 @@ tags: music and stuff
   ![](https://i0.wp.com/fulfillthedreams.com/wp-content/uploads/2020/02/dua-lipa-future-nostalgia.jpg?fit=600%2C600&ssl=1)
 
   Disco / pop funk. The first track is infectiously groovy but the rest of them are rather bland.
+
+  Release date: 2020-03-27
 
   [6.0/10]
 
@@ -357,15 +441,17 @@ tags: music and stuff
 
   Sounds like A Perfect Circle wrote this album and told Deftones to play them.
 
-  [5.5/10]
+  Release date: 2020-09-25
 
-## Non-2020 Releases
+  [5.5/10]
 
 ### Long Fin Killie - Houdini
 
   ![](https://imagescdn.junodownload.com/full/CS2917187-02A-BIG.jpg)
 
   Too Pure art rock outfits' finest release IMO.
+
+  Release date: 1993-08-31
 
   [9.4/10]
 
@@ -375,6 +461,8 @@ tags: music and stuff
 
   Deep house + acid jazz + nu-jazz + jazz-hop + dub. I was 9 yo in 2000. I would've loved this album just as much as I dig it at 2020. I bet a bunch of chic (pronounced as corny) European restaurants or high-brow (and pretentious) cocktail bars would play this stuff non-stop though, and whoever decided to put this record on repeat would have zero idea about the concept behind it nor would care for the musicianship behind it.
 
+  Release date: 2010-02-17
+
   [9.3/10]
 
 ### Eric B. & Rakim - Paid In Full
@@ -382,6 +470,8 @@ tags: music and stuff
   ![](https://cdn11.bigcommerce.com/s-x9mj03usar/images/stencil/500x659/products/258/480/R-106617-1387590846-7818.jpeg__10369.1533411463.jpg?c=2)
 
   Shit's considered a timeless classic for a reason.
+
+  Release date: 1987
 
   [8.9/10]
 
@@ -391,6 +481,8 @@ tags: music and stuff
 
   When you read Laika you should know it pronounces as underrated. This one is much more dub influenced than I remembered. Stereolab music.
 
+  Release date: 1997-02-24
+
   [8.9/10]
 
 ### Billy Woods - Today, I Wrote Nothing
@@ -398,6 +490,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a3391638186_10.jpg)
 
   I like this more than Hiding Places. The beats are twisted (in a good way).
+
+  Release date: 2015-03-31
 
   [8.3/10]
 
@@ -407,6 +501,8 @@ tags: music and stuff
 
   Indie pop / art pop / baroque pop. The good kind of pop music, if you will.
 
+  Release date: 2018-05-25
+
   [8.2/10]
 
 ### Moodymann - Forevernevermore
@@ -414,6 +510,8 @@ tags: music and stuff
   ![](https://assets.boomkat.com/spree/products/158689/large/original.jpg)
 
   A definitive house record they say. It is pretty good though.
+
+  Release date: 2000-01-01
 
   [8.1/10]
 
@@ -423,6 +521,8 @@ tags: music and stuff
 
   A very compact chill-hop release. Followed.
 
+  Release date: 2014-09-29
+
   [8.0/10]
 
 ### Kaidi Tatham - In Search Of Hope
@@ -430,6 +530,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a0668307539_10.jpg)
 
   Jazz-hop beat record. Kinda like a grainier version of Eric Lau.
+
+  Release date: 2008-11-16
 
   [8.0/10]
 
@@ -439,6 +541,8 @@ tags: music and stuff
 
   FFO Tortoise, Jeff Parker's solo stuff and Bill Frisell.
 
+  Release date: 
+
   [7.8/10]
 
 ### Vatican Shadow - Remember Your Black Day
@@ -446,6 +550,8 @@ tags: music and stuff
   ![](https://www.residentadvisor.net/images/reviews/2013/hospitalproductions-399new.jpg)
 
   Bleak industrial techno. When I think of Prurient the word "melodic" would be one of the last words that come to mind, but this is exactly how I would describe this album. The song Enter Paradise even has black metal guitars in it.
+
+  Release date: 2013-10-21
 
   [7.8/10]
 
@@ -455,6 +561,8 @@ tags: music and stuff
 
   Footwork. There's a track with a pretty significant volume boost, so don't crank it too much.
 
+  Release date: 2019-10-25
+
   [7.8/10]
 
 ### Ka - Grief Pedigree
@@ -462,6 +570,8 @@ tags: music and stuff
   ![](https://www.runforcover.dk/shared/53/277/lper-ka-grief-pedigree-lp_460x634m.jpg)
 
   Downtempo-ish conscious rap.
+
+  Release date: 2012-02-11
 
   [7.6/10]
 
@@ -471,6 +581,8 @@ tags: music and stuff
 
   Post-punk / proto-britpop.
 
+  Release date: 1988-06
+
   [7.5/10]
 
 ### Mariss Nadler, Stephen Brodsky - Droneflower
@@ -478,6 +590,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a0575450462_10.jpg)
 
   I like this more than stuff by Chelsea Wolfe or Emma Ruth Rundle...
+
+  Release date: 2019-04-26
 
   [7.3/10]
 
@@ -487,6 +601,8 @@ tags: music and stuff
 
   Post-punk. Pretty good but nothing too out of the ordinary.
 
+  Release date: 1970-04-17
+
   [7.1/10]
 
 ### Billy Woods - Terror Management
@@ -494,6 +610,8 @@ tags: music and stuff
   ![](https://f4.bcbits.com/img/a2551338764_10.jpg)
 
   This is his least interesting album to date. Granted some beats are pretty dope but overall the album is a notch below Hiding Places or Today, I Wrote Nothing.
+
+  Release date: 2019-10-04
 
   [7.0/10]
 
@@ -503,6 +621,8 @@ tags: music and stuff
 
   Bedroom dream pop with guests like Quelle Chris and Jeremiah Jae. I think I've grown out of the jangle pop genre...
 
+  Release date: 2018-04-26
+
   [6.9/10]
 
 ### Rui Ho - In Pursuit Of The Sun
@@ -511,6 +631,8 @@ tags: music and stuff
 
   Trance / club / dance music. 這種音樂我就真的沒很愛... 聽超過五分鐘就會開始覺得煩了
 
+  Release date: 2019-08-16
+
   [6.1/10]
 
 ### 夢離子 - Time Flows By
@@ -518,5 +640,7 @@ tags: music and stuff
   ![](https://i.kfs.io/album/global/64390784,0v1/fit/500x500.jpg)
 
   Uninspiring dream pop / Instagram indie pop. The vocals on these tracks are just gross...
+
+  Release date: 
 
   [3.3/10]
