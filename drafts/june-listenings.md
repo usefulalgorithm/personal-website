@@ -69,3 +69,58 @@ tags: music and stuff
 
   [8.7/10]
 
+## Arca - Madre
+
+  ![]()
+
+  It's kind of annoying.
+
+  [6.2/10]
+
+## Lanark Artefax - Whities 001
+
+  ![]()
+
+  Not as abrasive and memorable as the outstanding Corra Linn from 2019, but still pretty good.
+
+  [7.8/10]
+
+## Miriam Makeba - Keep Me In Mind
+
+  ![](https://f4.bcbits.com/img/a3470282908_16.jpg)
+
+  Root / pop from 1974 just got reissued. The songs are pretty good but it's just not something I'd listen to on a regular basis. Maybe people who dig the retro R&B / pop sound would enjoy this more? That being said the lady is very revolutionary, and her story is truly incredible, would very much recommend the viewer to read up on her biography.
+
+  [7.6/10]
+
+## Veld Hans - The Becalming
+
+  ![]()
+
+  Lo-fi freak folk. Pretty good, pretty weird.
+
+  [8.0/10]
+
+## Eomac - Cracks
+
+  ![](https://f4.bcbits.com/img/a3503474868_10.jpg)
+
+  Techno / IDM.
+
+  [7.5/10]
+
+## Dean Blunt - Black Metal 2
+
+  ![]()
+
+  Hypnagogic indie-pop / cloud hip-hop. Comparing this to Black Metal feels like pitting The Matrix 2 against the obviously vasly superior first film.
+
+  [6.5/10]
+
+## The Body - I've Seen All I Want To See
+
+  ![]()
+
+  Anthony Fantano is right in saying that despite this album is the duo's most stripped down album to date, it is also their nastiest album. I'd still say this isn't as good as their collab albums with other groups like Thou, Full Of Hell, and Uniform, but still this is their best so far.
+
+  [7.7/10]
