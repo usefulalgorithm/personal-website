@@ -13,6 +13,14 @@ tags: music and stuff
 
   [8.8/10]
 
+## Boo Hiss - Sike Roc
+
+  ![](https://f4.bcbits.com/img/a0394747746_16.jpg)
+  
+  Cut-n-paste sample music? Anyway I like this.
+
+  [8.3/10]
+
 ## Black Midi - Cavalcade
 
   ![]()
