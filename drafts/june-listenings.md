@@ -16,7 +16,7 @@ tags: music and stuff
 ## Boo Hiss - Sike Roc
 
   ![](https://f4.bcbits.com/img/a0394747746_16.jpg)
-  
+
   Cut-n-paste sample music? Anyway I like this.
 
   [8.3/10]
@@ -132,3 +132,43 @@ tags: music and stuff
   Anthony Fantano is right in saying that despite this album is the duo's most stripped down album to date, it is also their nastiest album. I'd still say this isn't as good as their collab albums with other groups like Thou, Full Of Hell, and Uniform, but still this is their best so far.
 
   [7.7/10]
+
+## Death Is Not The End - Death Is Not The End
+
+  ![]()
+
+  So apparently one of the record labels that specialize in preserving sounds from the past decides to make music... I like this a lot, dreamy lo-fi music, FFO The Caretaker.
+
+  [8.2/10]
+
+## YL Hooi - Untitled
+
+  ![](https://f4.bcbits.com/img/a0192973536_10.jpg)
+
+  Hazy ambientronica / dub-ish bedroom music. Pretty good, it's something while not mindblowingly good still really enjoyable.
+
+  [7.7/10]
+
+## 東京事変 - 音楽
+
+  ![](https://cdn.japan-walker.net/hk/images/articles/2618/img_6082498621c55.jpeg)
+
+  Very lackluster. They can play but musically speaking there's nothing new in this album. And the mixing and production on this album is so bad, whoever did these should be ashamed of themselves...
+
+  [3.3/10]
+
+## Kenny Segal - Indoors
+
+  ![]()
+
+  One of the best beatmakers in the game strikes again.  Lo-fi jazz-hop goodiness.
+
+  [8.4/10]
+
+## Pandit Pam Pam - Quarto Relatorio Anual
+
+  ![](https://f4.bcbits.com/img/a3634736051_10.jpg)
+
+  Dub ambient / techno.
+
+  [8.3/10]
