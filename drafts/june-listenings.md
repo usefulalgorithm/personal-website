@@ -161,7 +161,7 @@ tags: music and stuff
 
   ![]()
 
-  One of the best beatmakers in the game strikes again.  Lo-fi jazz-hop goodiness.
+  One of the best beatmakers in the game strikes again.  Lo-fi jazz-hop goodness.
 
   [8.4/10]
 
@@ -172,3 +172,25 @@ tags: music and stuff
   Dub ambient / techno.
 
   [8.3/10]
+
+## Senyawa, Black To Comm - Alkisah Versi Hitam
+
+  ![](https://www.normanrecords.com/artwork/medium/82/187332-senyawa-vs-black-to-comm-alkisah-versi-hitam.jpg)
+
+  [7.5/10]
+
+## Peder Mannerfelt - And The Band Played On
+
+  ![](https://f4.bcbits.com/img/a0850111470_16.jpg)
+
+  Danceable, wonky percussive techno. Gets a bit tired after a while though, except for the last track which is dissonant and chaotic, full granular synth bliss.
+
+  [7.4/10]
+
+## The Alchemist - This Thing Of Ours
+
+  ![]()
+
+  Jazz-hop EP from one of the most well-known beatmakers in the game, featuring a bunch of big names like Pink Siifu and Earl Sweatshirt. That being said, this is not really all that memorable, and the songs are just OK.
+
+  [7.0/10]
