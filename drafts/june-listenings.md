@@ -218,3 +218,11 @@ tags: music and stuff
   Japanese ambient / new-age. Meditative sound, delicate stuff.
 
   [8.4/10]
+
+## Steven R. Smith - In The Spires
+
+  ![](https://f4.bcbits.com/img/a1512355904_16.jpg)
+
+  Sounds like the soundtrack to Red Dead Redemption or something. Somber old western music.
+
+  [7.6/10]
