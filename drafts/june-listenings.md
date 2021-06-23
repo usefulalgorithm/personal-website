@@ -194,3 +194,27 @@ tags: music and stuff
   Jazz-hop EP from one of the most well-known beatmakers in the game, featuring a bunch of big names like Pink Siifu and Earl Sweatshirt. That being said, this is not really all that memorable, and the songs are just OK.
 
   [7.0/10]
+
+## Chihei Hatakeyama - Late Spring
+
+  ![](https://f4.bcbits.com/img/a1938248117_16.jpg)
+
+  This one might be my favorite amongst all his stuff...
+
+  [8.5/10]
+
+## Basic Rhythm - Electronic Labyrinth
+
+  ![](https://f4.bcbits.com/img/a0420424914_16.jpg)
+
+  Bouncy techno / grime. Love the tracks Electronic Labyrinth and Larkin Around.
+
+  [8.2/10]
+
+## Sugai Ken - On The Quakefish
+
+  ![](https://f4.bcbits.com/img/a0206012711_10.jpg)
+
+  Japanese ambient / new-age. Meditative sound, delicate stuff.
+
+  [8.4/10]
