@@ -161,7 +161,7 @@ tags: music and stuff
 
   ![]()
 
-  One of the best beatmakers in the game strikes again.  Lo-fi jazz-hop goodness.
+  One of the best beatmakers in the game strikes again. Lo-fi jazz-hop goodness.
 
   [8.4/10]
 
@@ -176,6 +176,8 @@ tags: music and stuff
 ## Senyawa, Black To Comm - Alkisah Versi Hitam
 
   ![](https://www.normanrecords.com/artwork/medium/82/187332-senyawa-vs-black-to-comm-alkisah-versi-hitam.jpg)
+
+  Experimental noise music. This doesn't sound like Black To Comm's own music, and this is the only Senyawa project I've had so far, so not sure how to react to this... it is indeed very abrasive, but other than that I don't think this album has too much to offer.
 
   [7.5/10]
 
@@ -226,3 +228,35 @@ tags: music and stuff
   Sounds like the soundtrack to Red Dead Redemption or something. Somber old western music.
 
   [7.6/10]
+
+## upsammy - Zoom
+
+  ![](https://f4.bcbits.com/img/a0956424764_16.jpg)
+
+  Airy ambient / IDM. FFO Pantha Du Prince.
+
+  [8.2/10]
+
+## Spivak - Μετά Το Ρέιβ
+
+  ![](https://assets.boomkat.com/spree/products/704139/large/cover.jpg)
+
+  This is like Actress + The Other People Place, pretty chill dub techno.
+
+  [7.8/10]
+
+## Current Value - The All Attracting
+
+  ![]()
+  
+  Dubstep / drum & bass. Pretty nasty stuff.
+
+  [8.1/10]
+
+## Lil Jabba - Grotto
+
+  ![](https://f4.bcbits.com/img/a0457539580_16.jpg)
+
+  Great footwork / grime album. Every track on this album is highly enjoyable.
+
+  [8.5/10]
