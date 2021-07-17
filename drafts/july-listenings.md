@@ -92,3 +92,19 @@ tags: music and stuff
   Techno. Pretty diverse album in terms of musical style and texture, or you could say it kind of lacks focus, which is sort of how I feel about this album.
 
   [7.0/10]
+
+## Moin - Moot!
+
+  ![]()
+  
+  Math rock. I am not a huge fan of the drums on this album - it could have been done in a much more subtle way. Now it's way too full and kind of distracting.
+
+  [6.8/10]
+
+## Suzanne Kraft - About You
+
+  ![]()
+
+  Dream pop. Feels kinda generic...
+
+  [6.5/10]
