@@ -108,3 +108,43 @@ tags: music and stuff
   Dream pop. Feels kinda generic...
 
   [6.5/10]
+
+## Malcolm Pardon - Hello Death
+
+  ![]()
+
+  Somber keyboard music. I know they're very different, but I kind of feel like this and Masayoshi Fujita's Apologue both have the same solemn, nostalgic mood going on. Good stuff.
+
+  [8.4/10]
+
+## Midwife - Luminol
+
+  ![]()
+
+  Best sadcore album I've heard this year. Even wife thinks this is pretty good music.
+
+  [8.8/10]
+
+## Lilla - Soundness Of Mind
+
+  ![](https://f4.bcbits.com/img/a1792213513_16.jpg)
+
+  Meditative new-age electronic music. These two dudes met in a Zen monastary... Very oriental sounding at times.
+
+  [7.6/10]
+
+## Hightide Hotel - Naturally
+
+  ![]()
+
+  I am too old for punk rock. I prefer Nothing Was Missing, Except Me to this one.
+
+  [6.7/10]
+
+## Satomimagae - Hanazono
+
+  ![](https://f4.bcbits.com/img/a3270919930_16.jpg)
+
+  Ambient / indie-folk. Very reverb heavy, kind of reminds me of Julianna Barwick (well kind of...)
+
+  [7.8/10]
