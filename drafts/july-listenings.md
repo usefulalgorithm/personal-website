@@ -11,7 +11,7 @@ tags: music and stuff
 
   Museum music. More specifically, the soundtrack to a documentary piece you see in the art museum, the piece being about some extremely slow movements, viewed from infinitely many perspectives. Chilling music.
 
-  [8.2/10]
+  [8.3/10]
 
 ## Eli Keszler - Icons
 
@@ -96,7 +96,7 @@ tags: music and stuff
 ## Moin - Moot!
 
   ![]()
-  
+
   Math rock. I am not a huge fan of the drums on this album - it could have been done in a much more subtle way. Now it's way too full and kind of distracting.
 
   [6.8/10]
@@ -148,3 +148,43 @@ tags: music and stuff
   Ambient / indie-folk. Very reverb heavy, kind of reminds me of Julianna Barwick (well kind of...)
 
   [7.8/10]
+
+## Year Of No Light - Consolamentum
+
+  ![]()
+
+  It's either this album simply isn't that good, or I just no longer enjoy post-metal anymore... Every song on this album sounds the same, and the riffs aren't really heavy.
+
+  [6.1/10]
+
+## Perila - Everything Is Already There
+
+  ![]()
+
+  This one is pretty dope too.
+
+  [8.2/10]
+
+## Claire Rousay - A Softer Focus
+
+  ![]()
+
+  Soothing field recording / minimal ambient music.
+
+  [7.7/10]
+
+## Salamanda - Glass Cage
+
+  ![](https://f4.bcbits.com/img/a1294252377_16.jpg)
+
+  New-age music from Korea. Is actually pretty nice!
+
+  [7.8/10]
+
+## The Field Mice - Snowball
+
+  ![](https://f4.bcbits.com/img/a1080826840_16.jpg)
+
+  Jangle pop. It's decent, but I bet there are a bunch of bands that are like this.
+
+  [7.4/10]
