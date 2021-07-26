@@ -188,3 +188,11 @@ tags: music and stuff
   Jangle pop. It's decent, but I bet there are a bunch of bands that are like this.
 
   [7.4/10]
+
+## Wanton Witch - Wanton Witch
+
+  ![](https://f4.bcbits.com/img/a0161540288_16.jpg)
+
+  Industrial techno / hardcore from Bangkok. I guess this is something that would be much more impressive if played through high quality PA system in a club or livehouse than my bluetooth speakers...
+
+  [7.3/10]
