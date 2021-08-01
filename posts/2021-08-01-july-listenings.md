@@ -41,7 +41,7 @@ tags: music and stuff
 
   Subterranean club music. I dig it.
 
-  Release date: 2013-06-18
+  Release date: 2020-12-15
 
   [8.6/10]
 
@@ -251,7 +251,7 @@ tags: music and stuff
 
   Art rock / post-punk. Angular guitar tones and hyper energetic vocals. I found this band after I watch the movie Pom Poko, sick anime movie...
 
-  Release date: 2021-07-29
+  Release date: 2021-01-15
 
   [7.2/10]
 
@@ -321,7 +321,7 @@ tags: music and stuff
 
   I am too old for punk rock. I prefer Nothing Was Missing, Except Me to this one.
 
-  Release date: 1970-01-01
+  Release date: 2014-09-16
 
   [6.3/10]
 
