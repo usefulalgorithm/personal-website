@@ -36,3 +36,19 @@ tags: music and stuff
   I have never heard of Cradle Of Filth. I imagine this is what CoF sounds like, or if CoF listened to a lot of Arcturus... The high pitched clean vocals are really too silly.
 
   [6.3/10]
+
+## Koeosaeme - Sonorant
+
+  ![]()
+
+  Futuristic breakcore / cut-n-paste electronic music. Pretty cool.
+
+  [7.6/10]
+
+## Sharkula, Mukqs - Take Caution On The Beach
+
+  ![](https://f4.bcbits.com/img/a1866850706_16.jpg)
+
+  Experimental hip-hop. Really weird stuff, but I guess what else would you expect from a Hausu Mountain release? I like the wonky instrumentals but the vocals are really throwing me off.
+
+  [7.2/10]
