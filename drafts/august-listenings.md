@@ -52,3 +52,11 @@ tags: music and stuff
   Experimental hip-hop. Really weird stuff, but I guess what else would you expect from a Hausu Mountain release? I like the wonky instrumentals but the vocals are really throwing me off.
 
   [7.2/10]
+
+## Mika Vainio - 25082016235210179 (Live at Berlin Atonal)
+
+  ![](https://f4.bcbits.com/img/a0717980544_16.jpg)
+
+  I don't understand... Sparwling drone / noise music and occasional loud feedback sounds.
+
+  [6.8/10]
