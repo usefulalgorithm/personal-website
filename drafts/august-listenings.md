@@ -60,3 +60,19 @@ tags: music and stuff
   I don't understand... Sparwling drone / noise music and occasional loud feedback sounds.
 
   [6.8/10]
+
+## King Woman - Celestial Blues
+
+  ![](https://f4.bcbits.com/img/a2710254350_16.jpg)
+
+  Doom metal / heavy rock. I dig it.
+
+  [8.1/10]
+
+## Oxhy - Respite Unoffered
+
+  ![](https://i.scdn.co/image/ab67616d0000b273c487507f54a60d0fca6291ff)
+
+  Eerie deconstructed club / hardcore. Pretty cool sound.
+
+  [7.8/10]
