@@ -76,3 +76,27 @@ tags: music and stuff
   Eerie deconstructed club / hardcore. Pretty cool sound.
 
   [7.8/10]
+
+## Not Waving, Romance - Eyes Of Fate
+
+  ![]()
+
+  Serene modern classical / ambient. I love it.
+
+  [8.6/10]
+
+## Black Thought, Salaam Remi - Streams Of Thought Vol. 2
+
+  ![]()
+
+  Old school hip-hop.
+
+  [7.1/10]
+
+## Kanye West - 808s & Heartbreak
+
+  ![]()
+
+  This is actually the first time I heard this album... the instrumentals are alright, but the lyrics is what makes this project such a disappointment - it is at best silly, at worst straight up idiotic. The autotune-d vocals does not help at all.
+
+  [5.3/10]
