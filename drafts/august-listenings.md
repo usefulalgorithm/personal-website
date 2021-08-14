@@ -100,3 +100,11 @@ tags: music and stuff
   This is actually the first time I heard this album... the instrumentals are alright, but the lyrics is what makes this project such a disappointment - it is at best silly, at worst straight up idiotic. The autotune-d vocals does not help at all.
 
   [5.3/10]
+
+## Body Sculptures - A Body Turns To Eden
+
+  ![](https://f4.bcbits.com/img/a3042064643_16.jpg)
+
+  Industrial ambient / drone music.
+
+  [8.3/10]
