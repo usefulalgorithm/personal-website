@@ -108,3 +108,27 @@ tags: music and stuff
   Industrial ambient / drone music.
 
   [8.3/10]
+
+## Moritz Von Oswald Trio - Dissent
+
+  ![](https://assets.boomkat.com/spree/products/750908/large/MVOT_Dissent-4000x4000-min.jpg)
+
+  Dub techno with a lot of jazz influence. Laurel Halo plays in this one.
+
+  [8.2/10]
+
+## Lantlôs - Wildhund
+
+  ![](https://f4.bcbits.com/img/a0834029993_16.jpg)
+
+  When post-black metal goes beyond shoegaze... it becomes alternative rock.
+
+  [6.7/10]
+
+## Deafheaven - In Blur
+
+  ![]()
+
+  I don't think this sounds anything like their stuff before, but at the same time paradoxically I feel like this is probably what people have always expected them to do. I mean it's still prety good modern shoegaze music...
+
+  [7.2/10]
