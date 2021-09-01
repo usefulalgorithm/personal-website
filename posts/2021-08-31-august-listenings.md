@@ -7,7 +7,7 @@ tags: music and stuff
 
 ## Krallice - Demonic Wealth
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3171080892_16.jpg)
 
   Less prog-oriented and more traditional black metal / thrash sounding. I appreciate the proggier side of them more though. Sometimes it sounds like Botanist?
 
@@ -23,7 +23,7 @@ tags: music and stuff
 
 ## Tomasz Bednarczyk - Nothing Much Happens
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a4239710368_16.jpg)
 
   Ambient. If you don't like this I don't know what to say...
 
@@ -39,7 +39,7 @@ tags: music and stuff
 
 ## Koeosaeme - Sonorant
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a0715980851_16.jpg)
 
   Futuristic breakcore / cut-n-paste electronic music. Pretty cool.
 
@@ -79,7 +79,7 @@ tags: music and stuff
 
 ## Not Waving, Romance - Eyes Of Fate
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3262663473_16.jpg)
 
   Serene modern classical / ambient. I love it.
 
@@ -87,7 +87,7 @@ tags: music and stuff
 
 ## Black Thought, Salaam Remi - Streams Of Thought Vol. 2
 
-  ![]()
+  ![](https://i.scdn.co/image/ab67616d0000b27393e980ed055d39afac24c509)
 
   Old school hip-hop.
 
@@ -95,7 +95,7 @@ tags: music and stuff
 
 ## Kanye West - 808s & Heartbreak
 
-  ![]()
+  ![](https://images-na.ssl-images-amazon.com/images/I/51v8Vm3ij3L._SL1200_.jpg)
 
   This is actually the first time I heard this album... the instrumentals are alright, but the lyrics is what makes this project such a disappointment - it is at best silly, at worst straight up idiotic. The autotune-d vocals does not help at all.
 
@@ -135,7 +135,7 @@ tags: music and stuff
 
 ## Lingua Ignota - Sinner Get Ready
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a0262531552_16.jpg)
 
   Screeching chamber music. I didn't really like her previous album but this one I actually dig. Make sure you listen to this on a set of headphones, when played through a single mono speaker it is much less powerful.
 
@@ -143,7 +143,7 @@ tags: music and stuff
 
 ## Protest The Hero - Palimpsest
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3630387140_16.jpg)
 
   You play prog metal long enough to see yourself become a Dream Theater clone (well with much better singing and riffing, but still...) I expected them to sound closer to their first three albums than this one, but that wasn't even close. Songs on this album have those cheesy, annoying symphonic synths, which I really dislike, and the riffs feel like they were done in a way that when the band finished writing the riffs they stopped caring about them.
 
@@ -151,7 +151,7 @@ tags: music and stuff
 
 ## Sikth - The Future In Whose Eyes
 
-  ![]()
+  ![](https://pelagic-records.com/wp-content/uploads/2020/04/sikth-The-Future-In-Whose-Eyes.jpg)
 
   Overall weaker than their magnum opus, The Trees Are Dead And Dried Out. The guitart tone is pretty tight though.
 
@@ -159,7 +159,7 @@ tags: music and stuff
 
 ## Karate - In Place Of Real Insight
 
-  ![]()
+  ![](https://cdn.shopify.com/s/files/1/0573/1650/7846/products/atom-1617649193_d1ce1c48-bbcb-44b4-91b7-1938f4a9ac04_720x.jpg?v=1626881889)
 
   Emo + slow core. Slow core songs are alright, emo songs have run of the mill riggs and are just meh.
 
@@ -175,7 +175,7 @@ tags: music and stuff
 
 ## Portrayal Of Guilt & Chat Pile - Split
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3856490238_16.jpg)
 
   PoG is (still) kind of disappointing on this one. Chat pile is pretty cool though, kind of like Pissed Jeans. Looking forward to their full length LP.
 
@@ -183,7 +183,7 @@ tags: music and stuff
 
 ## Deafheaven - Infinite Granite
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3286857940_16.jpg)
 
   The first half is pretty approachable shoegaze with wailing guitar, the last track Mombasa is the only track on this album that is reminiscent of the Sunbather era Deafheaven. But then it's not as strong as any of the tracks on Sunbather...
 
@@ -191,7 +191,7 @@ tags: music and stuff
 
 ## Between The Buried And Me - Colors II
 
-  ![]()
+  ![](https://www.rocksins.com/wp-content/uploads/2021/08/1000x1000.jpg)
 
   If incohesion is an album this would be it. Of course it is hard to play, and their technicality is definitely there, but the album as a whole is just a bunch of undeveloped musical ideas forced into songs. And the fact that the songs are all connected (i.e. no stops between songs) does not help one bit.
 
@@ -199,8 +199,72 @@ tags: music and stuff
 
 ## Ghost Box - Trial and Deleted Scenes
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3273238782_16.jpg)
 
   R&B beat under a thin layer of old tape noise. I do believe in Ghost Box.
 
   [8.1/10]
+
+## Pataphysical - Periphera
+
+  ![](https://f4.bcbits.com/img/a1970258963_10.jpg)
+
+  Dream like, cosmic ambient / electronic music. Love this stuff.
+
+  [8.7/10]
+
+## Backxwash - I LIE HERE BURIED WITH MY RINGS AND MY DRESSES
+
+  ![](https://f4.bcbits.com/img/a2666809861_16.jpg)
+
+  好吵... industrial rap.
+
+  [6.3/10]
+
+## Various Artists - I Stumble And Then I Fall
+
+  ![](https://f4.bcbits.com/img/a3470777919_16.jpg)
+
+  It is as if ghosts are capable of playing music, and these are benevolent but sad ghosts, so the songs they play turn you into a ghost as well. Chilling and abstract experimental music.
+
+  [8.7/10]
+
+## 96 Back - 9696 Dream
+
+  ![](https://f4.bcbits.com/img/a3991740915_10.jpg)
+
+  IDM. Kind of like how Pantha Du Prince would sound like if he decides to do club music.
+
+  [7.8/10]
+
+## SMTK - SIREN PROPAGANDA
+
+  ![](https://i.scdn.co/image/ab67616d0000b273c821b2f8a139be422c4630bb)
+
+  Free jazz / prog music with a bunch of rap features. Maybe one could call thius prog rap? Dos Monos also appears on this KLP. Really like this stuff, the track Diablo is dope.
+
+  [8.3/10]
+
+## Loveshadow - Loveshadow
+
+  ![](https://f4.bcbits.com/img/a1501868893_16.jpg)
+
+  City pop / new-age. Retro stuff.
+
+  [7.4/10]
+
+## Rian Treanor - Obstacle Scattering
+
+  ![](https://f4.bcbits.com/img/a0537601082_16.jpg)
+
+  Rhytmic electronic music. I especially like the last track - sounds like a bunch of little explosions in a metal pipe.
+
+  [7.8/10]
+
+## Space Afrika - Honest Labour
+
+  ![](https://assets.boomkat.com/spree/products/747760/large/011586671850_T75275044080054.jpg)
+
+  Downtempo. FFO Dean Blunt and Actress.
+
+  [8.8/10]
