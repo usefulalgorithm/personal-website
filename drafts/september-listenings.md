@@ -185,3 +185,52 @@ tags: music and stuff
 
   [7.2/10]
 
+## Dos Monos - Larderello
+
+  ![]()
+
+  The first track is bomb. Overall the previous one has more bangers but this one is still pretty fire.
+
+  [8.2/10]
+
+## A Country Western - Birdfeeder
+
+  ![]()
+
+  It is as if the band Hood released a new album in 2021. I love this sound.
+
+  [8.3/10]
+
+## UMAN - Chaleur Humaine
+
+  ![](https://z9j9e3w7.stackpathcdn.com/wp-content/uploads/Chaleur-Humaine.jpg)
+
+  New-age / world music from 1992.
+
+  [7.8/10]
+
+## Bendik Giske - Cracks
+
+  ![](https://f4.bcbits.com/img/a2473267443_16.jpg)
+
+  Good stuff.
+
+  [8.4/10]
+
+## Low - Hey What
+
+  ![](https://f4.bcbits.com/img/a3711717483_16.jpg)
+
+  I played this through a speaker a bunch of times but wasn't really paying attention to it. Then on the plane back to Taiwan I listened to the album again, this time much less distracted. Initially I wasn't really that into their sound for the last two albums - instead of guitar-heavy slowcore music, they've incorporated more more electronic / noise elements, and I kind of miss the more minimalisitic sound of their older stuff. But on this album the vocals are done meticulously, and blends extremely well with the swirling electronic pads and screechs.
+
+  I like it!
+
+  [8.3/10]
+
+## Devi - Popp
+
+  ![](https://f4.bcbits.com/img/a0455624059_16.jpg)
+
+  World / percussion music. Pretty interesting sound, much more fun than Eli Keszler IMO haha.
+
+  [7.6/10]
