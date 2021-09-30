@@ -234,3 +234,19 @@ tags: music and stuff
   World / percussion music. Pretty interesting sound, much more fun than Eli Keszler IMO haha.
 
   [7.6/10]
+
+## Iceage - Seek Shelter
+
+  ![]()
+
+  Britpop. Overall on the uninspiring side, except for the last track which is pretty dope.
+
+  [6.3/10]
+
+## Lolina - Smoke
+
+  ![]()
+
+  Trippy bedroom indietronica. Or indie-grime / indie-trap? Is that a thing?
+
+  [7.3/10]
