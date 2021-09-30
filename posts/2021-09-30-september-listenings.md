@@ -11,7 +11,7 @@ tags: music and stuff
 
   Ambient. I like.
 
-  Release date: 2020-03-13
+  Release date: 2021-06-25
 
   [8.5/10]
 
@@ -21,7 +21,7 @@ tags: music and stuff
 
   Good stuff.
 
-  Release date: 2017-10-22
+  Release date: 2021-08-27
 
   [8.4/10]
 
@@ -63,7 +63,7 @@ tags: music and stuff
 
   Drill / pop. It's not like this is AOTY material but I enjoy this one quite a bit.
 
-  Release date: 2019-05-17
+  Release date: 2020-10-29
 
   [8.2/10]
 
@@ -143,7 +143,7 @@ tags: music and stuff
 
   New-age / world music from 1992.
 
-  Release date: 2014-06-02
+  Release date: 2021-09-17
 
   [7.8/10]
 
@@ -163,7 +163,7 @@ tags: music and stuff
 
   Old school new wave (an oxymoron? lol) and rock & roll. Pretty interesting music.
 
-  Release date:
+  Release date: 2021-03-17
 
   [7.6/10]
 
@@ -183,7 +183,7 @@ tags: music and stuff
 
   World / percussion music. Pretty interesting sound, much more fun than Eli Keszler IMO haha.
 
-  Release date: 2017-10-06
+  Release date: 2021-07-09
 
   [7.6/10]
 
@@ -193,7 +193,7 @@ tags: music and stuff
 
   Industrial grime.
 
-  Release date: 2011-04-26
+  Release date: 2021-09-01
 
   [7.5/10]
 
@@ -223,7 +223,7 @@ tags: music and stuff
 
   Ghostly gothic indie pop.
 
-  Release date: 2009-01-01
+  Release date: 2021-09-25
 
   [7.4/10]
 
@@ -233,7 +233,7 @@ tags: music and stuff
 
   Trippy bedroom indietronica. Or indie-grime / indie-trap? Is that a thing?
 
-  Release date: 2015-10-30
+  Release date: 2018-03-14
 
   [7.3/10]
 
@@ -263,7 +263,7 @@ tags: music and stuff
 
   Sounds like gothic pop female singers like Spellling or Nhasa decides to do half crass, half catchy pop songs.
 
-  Release date: 2020-03-13
+  Release date: 2021-03-13
 
   [7.1/10]
 
@@ -273,7 +273,7 @@ tags: music and stuff
 
   Slick house / club. Feels a bit one dimensional...
 
-  Release date: 2019-01-11
+  Release date: 2021-04-09
 
   [6.8/10]
 
