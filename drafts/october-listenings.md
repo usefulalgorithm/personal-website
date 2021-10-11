@@ -36,3 +36,49 @@ tags: music and stuff
   Pop mixtape from Indian / Swiss artist. A lot of Indian sounding elements on this album.
 
   [6.7/10]
+
+## Tara Clerkin Trio - In Spring
+
+  ![](https://f4.bcbits.com/img/a4036176491_16.jpg)
+
+  Lo-fi chamber noir-jazz / downtempo.
+
+  [8.1/10]
+
+## Joyer - Perfect Gray
+
+  ![](https://f4.bcbits.com/img/a3007159989_16.jpg)
+
+  Slowcore. I feel like it's all the same song on the entire album...
+
+  [6.5/10]
+
+## Sarah Davachi - Antiphonals
+
+  ![](https://f4.bcbits.com/img/a4039785823_16.jpg)
+
+  Drone / modern composition. Think taking a walk in an abandoned temple that has yet to decay into a ruin, and this is the music you'd hear in your head even if there's really no one else around you.
+
+  [8.5/10]
+
+## Call Super - Cherry Drops I
+
+  ![](https://f4.bcbits.com/img/a0849479265_16.jpg)
+
+  Techno / house. Sounds like floating in mid air. I like it way better than last year's full length LP.
+
+  [8.4/10]
+
+## Two Shell - SoulCity EP
+
+  ![](https://f4.bcbits.com/img/a1886135320_16.jpg)
+
+  Techno / bass. I like the second track Soft Core the most, the others aren't really that impressive. Must be total bangers in a club though.
+
+  [7.3/10]
+
+## Kit Downes, Lucy Railton - Subaerial
+
+  ![](https://f4.bcbits.com/img/a1357394912_16.jpg)
+
+  Modern composition. This is some spooky music...
