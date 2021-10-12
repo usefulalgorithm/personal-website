@@ -81,4 +81,14 @@ tags: music and stuff
 
   ![](https://f4.bcbits.com/img/a1357394912_16.jpg)
 
-  Modern composition. This is some spooky music...
+  Modern composition. This is some spooky music... But the more I listen to it the more I feel drawn to it.
+
+  [8.1/10]
+
+## M. Sage with The Spinnaker Ensemble - The Wind Of Things
+
+  ![](https://f4.bcbits.com/img/a3042589163_16.jpg)
+
+  Organic, brooding ambient / field recording.
+
+  [7.8/10]
