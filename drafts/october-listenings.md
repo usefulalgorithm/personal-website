@@ -92,3 +92,19 @@ tags: music and stuff
   Organic, brooding ambient / field recording.
 
   [7.8/10]
+
+## h hunt - Playing Piano for Dad
+
+  ![](https://i.kfs.io/album/global/16022837,0v1/fit/500x500.jpg)
+
+  Piano solo music. Found this through the recommended list for Duval Timothy. Played it through a speaker with a lot of low end, the thump he made when he hit the keys kind of reminds me Bendik Giske, but the noise on piano is much more subtle than hitting the sax keys.
+
+  [8.3/10]
+
+## Catherine Wheel - Chrome
+
+  ![](https://i.kfs.io/album/global/62696301,0v1/fit/500x500.jpg)
+
+  I imagined this to be more like Cocteau Twins but it's more like Failure / Hum. Pretty cool alt rock.
+
+  [7.4/10]
