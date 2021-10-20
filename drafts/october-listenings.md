@@ -148,3 +148,11 @@ tags: music and stuff
   Before I listened to this I thought this was the seminal Japanese psych-ambient pop album, but turns out it's just radio friendly pop music that gets stale pretty quickyly. Maybe my expectation was too high.
 
   [6.8/10]
+
+## Tarotplane - Horizontology
+
+  ![]()
+
+  Mystical new-age / ambient.
+
+  [8.3/10]
