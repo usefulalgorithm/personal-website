@@ -151,8 +151,24 @@ tags: music and stuff
 
 ## Tarotplane - Horizontology
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a0097814924_16.jpg)
 
   Mystical new-age / ambient.
 
   [8.3/10]
+
+## Black Country, New Road - For The First Time
+
+  ![](https://f4.bcbits.com/img/a1090225129_16.jpg)
+
+  A less abrasive, less shredy, more post-punk-y Black Midi.
+  
+  [7.1/10]
+
+## Perila, Ulla - Memories Of Log
+
+  ![](https://f4.bcbits.com/img/a1497118610_16.jpg)
+
+  Degraded tape / ambient. Warbly sounds, should be longer though.
+
+  [7.9/10]
