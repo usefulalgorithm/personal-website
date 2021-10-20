@@ -108,3 +108,43 @@ tags: music and stuff
   I imagined this to be more like Cocteau Twins but it's more like Failure / Hum. Pretty cool alt rock.
 
   [7.4/10]
+
+## Explosions In The Sky - Big Bend (An Original Soundtrack for Public Television)
+
+  ![](https://f4.bcbits.com/img/a1744752931_16.jpg)
+
+  Don't feel like they've brought anything new to the table.
+
+  [6.7/10]
+
+## Jü - III
+
+  ![](https://f4.bcbits.com/img/a2728943309_16.jpg)
+
+  Math-ish jazz-rock with a lot of ethnic music influences, like gamelan scales or Japanese mode. Pretty cool sound. Kind of sounds like a more rock-based Horse Lord.
+
+  [7.8/10]
+
+## Vanishing Twin - Ookii Gekkou
+
+  ![](https://f4.bcbits.com/img/a0084253713_16.jpg)
+
+  FFO Stereolab and Sun Ra. Psychedelic jazztronica / krautrock. Personally I like the jazzier cuts on this album than the psych pop ones.
+
+  [7.3/10]
+
+## Benoît Pioulard - Sylva
+
+  ![](https://f4.bcbits.com/img/a2824280870_16.jpg)
+
+  Ambient pop. Maybe this would be a more immersive and holistic experience if paired with the companion photo book instead of doing housework, but I gotta mop the floor so there ya go.
+
+  [7.5/10]
+
+## 佐井好子 - 萬花鏡
+
+  ![](https://light-in-the-attic.s3.amazonaws.com/uploads/release_image/27502/image/tmp_2F1612291381017-oiwlb8fxra-aa93859d506024bc3fa77e448080c7cb_2Fplp7123.jpg)
+
+  Before I listened to this I thought this was the seminal Japanese psych-ambient pop album, but turns out it's just radio friendly pop music that gets stale pretty quickyly. Maybe my expectation was too high.
+
+  [6.8/10]
