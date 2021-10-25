@@ -172,3 +172,11 @@ tags: music and stuff
   Degraded tape / ambient. Warbly sounds, should be longer though.
 
   [7.9/10]
+
+## JPEGMAFIA - LP!
+
+  ![]()
+
+  Glorious!
+
+  [8.7/10]
