@@ -115,7 +115,7 @@ tags: music and stuff
 
   Don't feel like they've brought anything new to the table.
 
-  [6.7/10]
+  [6.3/10]
 
 ## Jü - III
 
@@ -175,8 +175,24 @@ tags: music and stuff
 
 ## JPEGMAFIA - LP!
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a0570552185_16.jpg)
 
-  Glorious!
+  Glorious! Might his best one yet.
 
   [8.7/10]
+
+## Picnic - Picnic
+
+  ![](https://f4.bcbits.com/img/a2437090055_16.jpg)
+
+  FFO Roman Poirier and KMRU. Or basically anyone that likes music.
+
+  [9.1/10]
+
+## To Rococo Rot - Kölner Brett
+
+  ![](https://f4.bcbits.com/img/a2184616885_16.jpg)
+
+  Minimal techno masters do an soundtrack collection for a house. Underrated album for sure.
+
+  [8.6/10]
