@@ -45,6 +45,22 @@ tags: music and stuff
 
   [8.1/10]
 
+## Portrayal of Guilt - CHRISTFUCKER
+
+  ![](https://f4.bcbits.com/img/a0619008894_16.jpg)
+
+  Another lackluster release from once-promising hardcore band... maybe this is what should've been expected all along...
+
+  [5.8/10]
+
+## 當代電影大師 - 告訴我他們都在本來的什麼地方
+
+  ![](https://i.kfs.io/album/global/141162911,0v1/fit/500x500.jpg)
+
+  There is a pretty drastic improvement from their EP to this one. I still dislike the vocals (and the lyrics... man are they cringey), and overall the songs are all lacking in the bass frequencies, though this is due to Spotify shitting on qualities of uploaded songs... But the songs where they appropriated other bands like 草東 or 透明雜誌 are fun to listen to.
+
+  [6.3/10]
+
 ## Marina Rosenfeld - Teenage Lontano
 
   ![](https://f4.bcbits.com/img/a0252419004_16.jpg)
