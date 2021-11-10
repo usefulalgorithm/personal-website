@@ -37,6 +37,14 @@ tags: music and stuff
 
   [7.5/10]
 
+## Phase Selector Sound - Disassemble Dub
+
+  ![](https://f4.bcbits.com/img/a2647605047_16.jpg)
+
+  I've been looking for a dub record like this for so long, and it's just sitting there in the drawer the whole time...
+
+  [8.8/10]
+
 ## Soho Rezanejad - Honesty Without Compassion is Brutality, Vol. 2
 
   ![](https://f4.bcbits.com/img/a2784097236_16.jpg)
