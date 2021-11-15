@@ -29,6 +29,22 @@ tags: music and stuff
 
   [7.2/10]
 
+## Breakwater - Five 7"
+
+  ![](https://img.discogs.com/rsBEPe37lwolx1M3mSkgdl3BRIk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2427437-1421761724-9241.jpeg.jpg)
+
+  Obscure emo / screamo gem. Pretty dope.
+
+  [7.8/10]
+
+## snd - Tenderlove
+
+  ![](https://assets.boomkat.com/spree/products/202640/large/original.jpg)
+
+  Minimal techno like how it should be. Pretty good. And I snatched it for 5 bucks...
+
+  [8.1/10]
+
 ## BADBADNOTGOOD - Talk Memory
 
   ![](https://f4.bcbits.com/img/a0196386795_16.jpg)
@@ -44,6 +60,22 @@ tags: music and stuff
   I've been looking for a dub record like this for so long, and it's just sitting there in the drawer the whole time...
 
   [8.8/10]
+
+## Modern Love - The Stranger
+
+  ![](https://f4.bcbits.com/img/a4239985214_16.jpg)
+
+  Evil Caretaker be like.
+
+  [8.4/10]
+
+## Christophe De Babalon - 044 (Hilf Dir Selbst!)
+
+  ![](https://f4.bcbits.com/img/a2769895167_16.jpg)
+
+  Gothic drum & bass. Man this is tight.
+
+  [8.6/10]
 
 ## Soho Rezanejad - Honesty Without Compassion is Brutality, Vol. 2
 
