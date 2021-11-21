@@ -67,7 +67,7 @@ tags: music and stuff
 
   Evil Caretaker be like.
 
-  [8.4/10]
+  [8.1/10]
 
 ## Christophe De Babalon - 044 (Hilf Dir Selbst!)
 
@@ -83,7 +83,7 @@ tags: music and stuff
 
   Dramatic experimental pop music. On this album her vocal prowess is on full display - sometimes it sounds like Jenny Hval, sometimes it sounds like King Woman.
 
-  [8.1/10]
+  [7.8/10]
 
 ## Portrayal of Guilt - CHRISTFUCKER
 
@@ -100,6 +100,14 @@ tags: music and stuff
   There is a pretty drastic improvement from their EP to this one. I still dislike the vocals (and the lyrics... man are they cringey), and overall the songs are all lacking in the bass frequencies, though this is due to Spotify shitting on qualities of uploaded songs... But the songs where they appropriated other bands like 草東 or 透明雜誌 are fun to listen to.
 
   [6.3/10]
+
+## Various Artists - Sound Storing Machines: The First 78rpm Records from Japan, 1903 1912
+
+  ![](https://s9.limitedrun.com/images/1499631/v600_SF115-promo-cover.jpg)
+
+  A compilation of really ancient Japanese music recordings. A sublime listen.
+
+  [8.4/10]
 
 ## Marina Rosenfeld - Teenage Lontano
 
