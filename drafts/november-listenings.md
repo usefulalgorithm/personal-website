@@ -118,3 +118,75 @@ tags: music and stuff
   The [Bandcamp page](https://room40.bandcamp.com/album/teenage-lontano) for the album contains a lot more information, such as the locations and the meanings of those pieces.
 
   [7.8/10]
+
+## Various Artists - "I Could Go Anywhere But Again I Go With You"
+
+  ![](https://f4.bcbits.com/img/a3834878114_16.jpg)
+
+  The music you hear when you enter a shrine in Breath of the Wild.
+
+  [8.2/10]
+
+## Full Of Hell - Garden of Burning Apparitions
+
+  ![](https://f4.bcbits.com/img/a0377815917_16.jpg)
+
+  The guitar tone in this album sounds more like alt rock than death metal... which I kind of enjoy. Some songs are less powerful than others but the ones that are good are really pretty good.
+
+  [7.5/10]
+
+## Kid Koala - Carpal Tunnel Syndrome
+
+  ![](https://i.kfs.io/album/global/34133739,0v1/fit/500x500.jpg)
+
+  Eccentric lo-fi hip-hop. Lots of fun to listen to.
+
+  [8.1/10]
+
+## aya - im hole
+
+  ![](https://f4.bcbits.com/img/a1852362800_16.jpg)
+
+  Eerie experimental electronic pop. Claustrophobic stuff, and yet it is so good...
+
+  [8.3/10]
+
+## Leah Dou - GSG MIXTAPE
+
+  ![]()
+
+  Chill-hop. Not bad but not really my mood.
+
+  [7.3/10]
+
+## Kidcrash - Jokes
+
+  ![](https://f4.bcbits.com/img/a0311275015_16.jpg)
+
+  Screamo-ish math rock. The riffs are pretty cool.
+
+  [7.8/10]
+
+## Curd Duca - Waves 2
+
+  ![](https://f4.bcbits.com/img/a4023416576_16.jpg)
+
+  Sequel to last year's fantastic `Waves 1`, and just as exhilarating to listen to.
+
+  [8.5/10]
+
+## Grouper - Shade
+
+  ![](https://f4.bcbits.com/img/a3255860031_16.jpg)
+
+  Hypnotic bedroom pop / folk. Very stripped back yet powerful.
+
+  [8.3/10]
+
+## Novi_sad - Κεραυνός
+
+  ![](https://f4.bcbits.com/img/a2901662245_16.jpg)
+
+  Organic ambient music.
+
+  [8.2/10]
