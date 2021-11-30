@@ -21,6 +21,30 @@ tags: music and stuff
 
   [6.3/10]
 
+## The Body, BIG|BRAVE - Leaving None But Small Birds
+
+  ![](https://f4.bcbits.com/img/a0192481808_16.jpg)
+
+  This is more folk than doom, the track `Oh Sinner` sounds like it could be from a recent Earth album. The last two tracks feature grinding doom guitar riffs, but still retain a lot of the old time blues / country feel. Pretty good, I feel like The Body is better when they're collaborating with other artists than doing their own thing...
+
+  [7.6/10]
+
+## Youth Novel - Youth Novel
+
+  ![](https://f4.bcbits.com/img/a0893406462_16.jpg)
+
+  Screamo. In terms of song structures this one isn't exactly groundbreaking, but it does have some pretty decent riffs.
+
+  [7.3/10]
+
+## Succumb - XXI
+
+  ![](https://www.treblezine.com/wp-content/uploads/2021/10/succumb-xxi-1.jpg)
+
+  Death metal. Pretty filthy stuff.
+
+  [7.7/10]
+
 ## Trustfall - Trustfall
 
   ![](https://f4.bcbits.com/img/a2656247263_16.jpg)
