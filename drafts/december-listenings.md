@@ -7,9 +7,9 @@ tags: music and stuff
 
 ## Klein - Harmattan
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2844532200_16.jpg)
 
-  
+  Modern composition. Eerie stuff, 
 
   [/10]
 
@@ -28,3 +28,11 @@ tags: music and stuff
   This feels like it's the link between `KicK iii` and `KiCk I`. I like the track `Confianza` a lot but the others feel a bit tame (compared with `KicK iii`.)
 
   [7.8/10]
+
+## Fluxion - Parallel Moves
+
+  ![](https://f4.bcbits.com/img/a1654347739_16.jpg)
+
+  OK dub techno.
+
+  [7.2/10]
