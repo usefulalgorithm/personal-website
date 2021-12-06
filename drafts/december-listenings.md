@@ -36,3 +36,11 @@ tags: music and stuff
   OK dub techno.
 
   [7.2/10]
+
+## Susumu Yokota - Magic Thread
+
+  ![]()
+
+  I always thought he only did ambient work, turns out this is a really decent minimal techno record... FFO Jan Jelinek.
+
+  [8.8/10]
