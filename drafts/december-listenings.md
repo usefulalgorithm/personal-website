@@ -5,6 +5,30 @@ comments: true
 tags: music and stuff
 ---
 
+## Steve Hauschildt - Strands
+
+  ![](https://f4.bcbits.com/img/a1321067222_16.jpg)
+
+  Minimalist electronic ambient music. The perfect music to wake up to.
+
+  [8.3/10]
+
+## Killie - 犯罪者が犯した罪の再審始まる
+
+  ![](https://i.kfs.io/album/global/97200876,1v1/fit/500x500.jpg)
+
+  Legendary Japanese screamo band finally issued their first proper full length album. This one feels more cohesive than their previous stuff. It's got a lot of melodic punk influence, but not to the point where it becomes too iritating to listen to.
+
+  [8.1/10]
+
+## This Mortal Coil - It'll End In Tears
+
+  ![](https://i.kfs.io/album/tw/413912,0v1/fit/500x500.jpg)
+
+  Monumental dream pop album. To me the vocals feel too grandiose, but then I should probably give this a bit more spins to fully understand why people love this album so much...
+
+  [7.6/10]
+
 ## Klein - Harmattan
 
   ![](https://f4.bcbits.com/img/a2844532200_16.jpg)
