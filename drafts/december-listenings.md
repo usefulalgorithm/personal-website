@@ -75,4 +75,12 @@ tags: music and stuff
 
   Not as bombastic as his previous record, but still pretty dope.
 
-  [8.1/10]
+  [7.7/10]
+
+## Molero - Ficciones Del Trópico
+
+  ![](https://f4.bcbits.com/img/a1427422830_16.jpg)
+
+  Magical synth music. FFO Mort Garson.
+
+  [8.7/10]
