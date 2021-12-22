@@ -53,6 +53,30 @@ tags: music and stuff
 
   [7.6/10]
 
+## END - Splinters from an Ever-Changing Face
+
+  ![](https://f4.bcbits.com/img/a0538522401_16.jpg)
+
+  Nails-esque metalcore. But not as good as Nails...
+
+  [6.9/10]
+
+## Princess Diana of Wales - Princess Diana of Wales
+
+  ![](https://assets.boomkat.com/spree/products/778315/large/4251804130820_2500-2.jpg)
+
+  Sad ghosts playing dream pop music, or something.
+
+  [8.3/10]
+
+## Vacant Position - Luna
+
+  ![](https://f4.bcbits.com/img/a1422727972_16.jpg)
+
+  Saw this nice little screamo release on Reddit. Straight up screamo stuff, sounds pretty tight but too short.
+
+  [7.2/10]
+
 ## Rival Consoles - Overflow
 
   ![](https://f4.bcbits.com/img/a0190906826_16.jpg)
@@ -84,3 +108,19 @@ tags: music and stuff
   Magical synth music. FFO Mort Garson.
 
   [8.7/10]
+
+## Meitei - Kofu II
+
+  ![](https://f4.bcbits.com/img/a0612322967_16.jpg)
+
+  Is he listening to more funk records nowadays?
+
+  [8.3/10]
+
+## Plebeian Grandstand - Rien ne suffit
+
+  ![](https://f4.bcbits.com/img/a0241042140_16.jpg)
+
+  Avant-garde black metal. Sounds real nasty.
+
+  [8.1/10]
