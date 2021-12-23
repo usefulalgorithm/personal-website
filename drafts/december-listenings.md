@@ -5,6 +5,22 @@ comments: true
 tags: music and stuff
 ---
 
+## The Armed - Ultrapop
+
+  ![]()
+
+  Noise rock (the highly enjoyable kind). Gorin! AOTY material.
+
+  [9.1/10]
+
+## Celestial - I Had Too Much to Dream Last Night
+
+  ![]()
+
+  Soothing guitar ambient music. Kind of like Roy Montgomery, but less reliant on reverb and more emphasis on lo-fi aesthetics.
+
+  [7.9/10]
+
 ## Steve Hauschildt - Strands
 
   ![](https://f4.bcbits.com/img/a1321067222_16.jpg)
