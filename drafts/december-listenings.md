@@ -7,7 +7,7 @@ tags: music and stuff
 
 ## The Armed - Ultrapop
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3250444278_16.jpg)
 
   Noise rock (the highly enjoyable kind). Gorin! AOTY material.
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
 ## Celestial - I Had Too Much to Dream Last Night
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a0428433111_16.jpg)
 
   Soothing guitar ambient music. Kind of like Roy Montgomery, but less reliant on reverb and more emphasis on lo-fi aesthetics.
 
@@ -49,9 +49,9 @@ tags: music and stuff
 
   ![](https://f4.bcbits.com/img/a2844532200_16.jpg)
 
-  Modern composition. Eerie stuff, 
+  Modern composition. I don't think I fully understand this music... it is indeed very eerie though. Something that should definitely be revisited.
 
-  [/10]
+  [7.6/10]
 
 ## Arca - KicK iii
 
@@ -63,7 +63,7 @@ tags: music and stuff
 
 ## Arca - KICK ii
 
-  ![]()
+  ![](https://i.kfs.io/album/global/145907733,0v1/fit/500x500.jpg)
 
   This feels like it's the link between `KicK iii` and `KiCk I`. I like the track `Confianza` a lot but the others feel a bit tame (compared with `KicK iii`.)
 
@@ -147,7 +147,7 @@ tags: music and stuff
 
   Magical synth music. FFO Mort Garson.
 
-  [8.7/10]
+  [8.5/10]
 
 ## Meitei - Kofu II
 
@@ -155,7 +155,7 @@ tags: music and stuff
 
   Is he listening to more funk records nowadays?
 
-  [8.3/10]
+  [8.1/10]
 
 ## Plebeian Grandstand - Rien ne suffit
 
