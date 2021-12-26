@@ -11,7 +11,7 @@ tags: music and stuff
 
   Dark, cold, sprawling hip-hop / electronica. I love this shit. Dissonant yet engaging stuff.
 
-  Release date: 
+  Release date: 2021-01-07
 
   [8.5/10]
 
@@ -121,7 +121,7 @@ tags: music and stuff
 
   Don't sleep on this guy...
 
-  Release date: 2002-08-08
+  Release date: 2020-10-23
 
   [8.5/10]
 
@@ -151,7 +151,7 @@ tags: music and stuff
 
   Pretty nasty black metal, kind of like Emperor + Deathspell Omega and a dose of old school heavy metal stuff.
 
-  Release date: 
+  Release date: 2020-11-13
 
   [7.9/10]
 
@@ -161,7 +161,7 @@ tags: music and stuff
 
   ... ambient trap? What?
 
-  Release date: 2021-04-02
+  Release date: 2020-12-01
 
   [7.8/10]
 
@@ -171,7 +171,7 @@ tags: music and stuff
 
   Glitchy electronic music.
 
-  Release date: 2013-10-15
+  Release date: 2019-11-08
 
   [7.7/10]
 
@@ -181,7 +181,7 @@ tags: music and stuff
 
   Brooding solo piano modern classical music.
 
-  Release date: 2021-03-24
+  Release date: 2020-11-20
 
   [7.6/10]
 
@@ -211,7 +211,7 @@ tags: music and stuff
 
   LP! WHEN! 老實說一直出 EP 蠻沒誠意的
 
-  Release date: 2017-11-03
+  Release date: 2021-02-12
 
   [6.8/10]
 
