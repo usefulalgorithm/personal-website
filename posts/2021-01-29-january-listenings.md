@@ -31,7 +31,7 @@ tags: music and stuff
 
   This one is more experimental and noisy than his 2018 album, which I like very much. This one contains more element of electronic music, and while the tracks are all pretty solid I do wish this is a full length album rather than a 10-minute EP.
 
-  Release date: 2020-05-26
+  Release date: 2020-12-04
 
   [8.1/10]
 
@@ -101,7 +101,7 @@ tags: music and stuff
 
   Techno + IDM + footwork. Ｑ彈電音，讚
 
-  Release date: 2006-01-01
+  Release date: 2020-10-30
 
   [8.4/10]
 
@@ -121,7 +121,7 @@ tags: music and stuff
 
   Jungle + IDM. Groovy stuff, 張揚表示不錯聽
 
-  Release date: 
+  Release date: 2020-08-06
 
   [8.4/10]
 
@@ -151,17 +151,17 @@ tags: music and stuff
 
   Modern composition / ambient / field recording. Music to listen to when you're alone.
 
-  Release date: 
+  Release date: 2020-10-02
 
   [8.3/10]
 
-## Hideki Umezawa - Andrew Peklar - Two Views Of Amami Oshima
+## Hideki Umezawa & Andrew Peklar - Two Views Of Amami Oshima
 
   ![](https://f4.bcbits.com/img/a1125457222_16.jpg)
 
   Mystical ambient. Love this stuff.
 
-  Release date: 
+  Release date: 2020-12-10
 
   [8.3/10]
 
@@ -211,7 +211,7 @@ tags: music and stuff
 
   Mathy screamo. Like a mathier La Dispute.
 
-  Release date: 2006-12-06
+  Release date: 2020-02-14
 
   [7.5/10]
 
@@ -221,7 +221,7 @@ tags: music and stuff
 
   This feels more like a billy woods album with cameo appearance from Moor Mother than a collaberation between them. The tracks are alright but not as good as what I expected it to be.
 
-  Release date: 2021-06-10
+  Release date: 2020-12-18
 
   [7.2/10]
 
