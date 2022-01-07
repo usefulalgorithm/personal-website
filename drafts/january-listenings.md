@@ -15,3 +15,31 @@ tags: music and stuff
 
   [8.7/10]
 
+## Helm - Axis
+
+  ![](https://f4.bcbits.com/img/a4050396776_16.jpg)
+
+  Industrial electronic music. Don't remember much about his last album `Chemical Flowers`, but this one definitely puts him on the map for me. The last track `Tower` sounds like a track out of the OST of some John Carpenter movie. All in all this is a very melodic album.
+
+  [8.3/10]
+
+## Ripatti - Fun Is Not A Straight Line
+
+  ![](https://f4.bcbits.com/img/a0521425493_16.jpg)
+
+  Footwork. I only knew this is actually Vladislav Delay after I checked out the Bandcamp page... Always thought he's an ambient dub techno guy but no idea he's this good at this kind of music. A bunch of rap samples cut up and reassembled, there really is no weak track on this album.
+
+  [8.4/10]
+
+## Madteo - Head Gone Wrong By Noise
+
+  ![](https://f4.bcbits.com/img/a1269595279_16.jpg)
+
+  []
+
+## Hanno Leichtmann - Loop Music
+
+  ![]()
+
+>>>>>>> Stashed changes
+
