@@ -35,11 +35,26 @@ tags: music and stuff
 
   ![](https://f4.bcbits.com/img/a1269595279_16.jpg)
 
+  Downtempo / 
+
   []
 
 ## Hanno Leichtmann - Loop Music
 
   ![]()
 
->>>>>>> Stashed changes
+## Love Lost But Not Forgotten - Love Lost But Not Forgotten
 
+  ![]()
+
+  Screamo. Not a huge fan of the high pitched shrieks, but there really aren't a lot of band that still get this kind of raw energy in their records.
+
+  [7.5/10]
+
+## Midori Takada - Through The Looking Glass
+
+  ![](https://f4.bcbits.com/img/a2568768212_16.jpg)
+
+  Exotic ambient / world. It is alright.
+
+  [7.8/10]
