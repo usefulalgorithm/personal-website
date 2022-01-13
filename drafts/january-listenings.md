@@ -15,6 +15,22 @@ tags: music and stuff
 
   [8.7/10]
 
+## Various Artists - 滾石40撞樂隊 40團拼經典
+
+  ![](https://i.kfs.io/playlist/global/72234487v2/cropresize/600x600.jpg)
+
+  There are 30 songs in this album but only 5 of them are good... I like Sunset Rollercoaster's cover a lot though, the bassist played his mind out on that track.
+
+  [6.1/10]
+
+## Rothko - A Continual Search For Origins
+
+  ![](https://i.kfs.io/album/global/162865,0v1/fit/500x500.jpg)
+
+  The beauty of this album is that everything is so restrained, yet through this restraint everything gets brought to the foreground. A magnificent post-rock album.
+
+  [9.2/10]
+
 ## Helm - Axis
 
   ![](https://f4.bcbits.com/img/a4050396776_16.jpg)
