@@ -51,13 +51,17 @@ tags: music and stuff
 
   ![](https://f4.bcbits.com/img/a1269595279_16.jpg)
 
-  Downtempo / 
+
 
   []
 
 ## Hanno Leichtmann - Loop Music
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a0943744638_16.jpg)
+
+  FFO Mort Garson. Electronic music loops.
+
+  [8.3/10]
 
 ## Love Lost But Not Forgotten - Love Lost But Not Forgotten
 
@@ -74,3 +78,27 @@ tags: music and stuff
   Exotic ambient / world. It is alright.
 
   [7.8/10]
+
+## Takuma Watanabe - Last Afternoon
+
+  ![](https://f4.bcbits.com/img/a2746983448_16.jpg)
+
+  Really good ambient music.
+
+  [8.2/10]
+
+## HTRK - Rhinestones
+
+  ![](https://f4.bcbits.com/img/a1451820867_16.jpg)
+
+  Minimalistic gothic dream-pop / sadcore. This is Boomkat's AOTY 2021. Sad music for sad people.
+
+  [7.8/10]
+
+## Joyul - Earwitness
+
+  ![](https://i.kfs.io/album/global/142844766,0v1/fit/500x500.jpg)
+
+  Ambient / dream-pop. There are tracks that are ethereal and also ones that are eerie. A really good debut album.
+
+  [8.3/10]
