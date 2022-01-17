@@ -102,3 +102,11 @@ tags: music and stuff
   Ambient / dream-pop. There are tracks that are ethereal and also ones that are eerie. A really good debut album.
 
   [8.3/10]
+
+## Four Tet - Parallel
+
+  ![](https://f4.bcbits.com/img/a0041033511_16.jpg)
+
+  The first track is a 26 minutes long ambient track, most of which is pretty good but the last bit with vocal samples kind of makes it a bit goofy. The others are more club friendly house tracks, among them my fav is probably `Parallel 7`.
+
+  [7.7/10]
