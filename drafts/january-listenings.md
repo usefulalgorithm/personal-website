@@ -19,7 +19,7 @@ tags: music and stuff
 
   ![](https://i.kfs.io/playlist/global/72234487v2/cropresize/600x600.jpg)
 
-  There are 30 songs in this album but only 5 of them are good... I like Sunset Rollercoaster's cover a lot though, the bassist played his mind out on that track.
+  There are 30 songs in this album but only 5 of them are good... I like Sunset Rollercoaster's cover a lot though, the bassist played his mind out on that track. (Update: there are 40. I can't be bothered.)
 
   [6.1/10]
 
@@ -51,9 +51,9 @@ tags: music and stuff
 
   ![](https://f4.bcbits.com/img/a1269595279_16.jpg)
 
+  I don't really know what to make of it... this sounds like the club / jungle music you'd hear on a late night radio station. IIRC his last album is more impressive than this.
 
-
-  []
+  [7.4/10]
 
 ## Hanno Leichtmann - Loop Music
 
@@ -65,7 +65,7 @@ tags: music and stuff
 
 ## Love Lost But Not Forgotten - Love Lost But Not Forgotten
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1522713369_16.jpg)
 
   Screamo. Not a huge fan of the high pitched shrieks, but there really aren't a lot of band that still get this kind of raw energy in their records.
 
@@ -110,3 +110,11 @@ tags: music and stuff
   The first track is a 26 minutes long ambient track, most of which is pretty good but the last bit with vocal samples kind of makes it a bit goofy. The others are more club friendly house tracks, among them my fav is probably `Parallel 7`.
 
   [7.7/10]
+
+## Alex Twomey - Days Off
+
+  ![](https://f4.bcbits.com/img/a1743963378_16.jpg)
+
+  Easy listening ambient with post-rock vibes. Feel like the mood on this one is kind of akin to the really over the top, really tiring post-rock big names. Not really that into it...
+
+  [6.6/10]
