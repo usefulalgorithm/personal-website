@@ -129,7 +129,7 @@ tags: music and stuff
 
 ## Burial - Antidawn EP
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3285829469_16.jpg)
 
   I was really looking forward to this one, but it turns out this is much less memorable than I was expecting.
 
@@ -150,3 +150,51 @@ tags: music and stuff
   Bombastic techno. IMO it'd be nicer if it had more tracks.
 
   [8.0/10]
+
+## Koji Nakamura, foodman, Takashi Numazawa - Humanity
+
+  ![](https://cdn2.albumoftheyear.org/500x/album/457707-humanity.jpg)
+
+  Footwork fusion? Dope stuff.
+
+  [8.6/10]
+
+## Charlie Hunter, Lucy Woodward - I'm A Stranger Here
+
+  ![](https://images.squarespace-cdn.com/content/v1/52c456a3e4b07ef824cc498b/1624643789461-4GS6E5MUN8P8N1GDJBHE/Stranger+Final.jpg?format=2500w)
+
+  This one is not as catchy as `Music! Music! Music`.
+
+  [7.4/10]
+
+## Boris - W
+
+  ![](https://f4.bcbits.com/img/a2457243056_16.jpg)
+
+  I didn't really pay much attention to their last couple of releases, but this one I do enjoy quite a bit. It's got grainy lo-fi pop tracks that lead straight into raging doom metal tracks, yet it does not sound out of place. I also like Wata's cooing vocals on this album.
+
+  [8.3/10]
+
+## 黃雨晴 - 化為人形
+
+  ![](https://i.kfs.io/album/global/151461949,0v1/fit/500x500.jpg)
+
+  Is this a candidate for AOTY 2022? Maybe... Lo-fi pyschedelic bedroom pop.
+
+  [8.8/10]
+
+## 珂拉琪 - MEmento·MORI
+
+  ![](https://i.kfs.io/album/global/149014162,0v1/fit/500x500.jpg)
+
+  The production is pretty good but it sounds like your average Japanese pop-heavy punk bands with occasional growls... This is actually the first time I've heard their music, not really sold though.
+
+  [6.6/10]
+
+## Cold Dew - 欲欲
+
+  ![](https://i.kfs.io/album/global/140762559,0v1/fit/500x500.jpg)
+
+  I love their live shows, and their album slays as well. Really awesome psych rock.
+
+  [8.3/10]
