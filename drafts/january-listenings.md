@@ -118,3 +118,35 @@ tags: music and stuff
   Easy listening ambient with post-rock vibes. Feel like the mood on this one is kind of akin to the really over the top, really tiring post-rock big names. Not really that into it...
 
   [6.6/10]
+
+## Sky H1 - Azure
+
+  ![](https://f4.bcbits.com/img/a0172129100_16.jpg)
+
+  IDM. This one would have been a strong candidate for AOTY 2021 if I caught it when it just came out...
+
+  [8.6/10]
+
+## Burial - Antidawn EP
+
+  ![]()
+
+  I was really looking forward to this one, but it turns out this is much less memorable than I was expecting.
+
+  [7.4/10]
+
+## Wild Adoration - EP2
+
+  ![](https://f4.bcbits.com/img/a3371026163_16.jpg)
+
+  Gothic, minimalistic electro-pop. Looking forward to a longer album!
+
+  [7.8/10]
+
+## Container - Creamer
+
+  ![](https://f4.bcbits.com/img/a3653930742_16.jpg)
+
+  Bombastic techno. IMO it'd be nicer if it had more tracks.
+
+  [8.0/10]
