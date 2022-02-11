@@ -52,3 +52,33 @@ tags: music and stuff
   I like this just as much as I like his last year's album, `The Crashing Sound of How It Goes`.
 
   [8.4/10]
+
+## DJ Python - Club Sentimientos Vol. 2
+
+  ![](https://f4.bcbits.com/img/a1257468602_16.jpg)
+
+  This is much tamer than his 2020 masterpiece, `Mas Amable`.
+
+  [7.3/10]
+
+## yeule - Glitch Princess
+
+  ![](https://f4.bcbits.com/img/a2971522590_16.jpg)
+
+  Post-apocalyptic pop. Way better than Poppy, way better than GFOTY, way better than those two combined.
+
+  [8.1/10]
+
+## Celeste - Assassine(s)
+
+  ![](https://f4.bcbits.com/img/a2298190935_16.jpg)
+
+  This is probably my favorite release of theirs. I've always felt their stuff is a bit one dimensional, but this one incorporates more screamo elements, which I dig.
+
+  [8.4/10]
+
+## Emma Ruth Rundle - Some Heavy Ocean
+
+  ![](https://f4.bcbits.com/img/a3964655753_16.jpg)
+
+  [7.6/10]
