@@ -81,4 +81,38 @@ tags: music and stuff
 
   ![](https://f4.bcbits.com/img/a3964655753_16.jpg)
 
-  [7.6/10]
+  I didn't know she's in Red Sparrowes, and I never really paid attention to Marriage, but maybe I should... I like the song `Run Forever` a lot, but overall these songs gets a bit tiring after a while.
+
+  [7.4/10]
+
+## Piotr Kurek - World Speaks
+
+  ![](https://f4.bcbits.com/img/a2405479523_16.jpg)
+
+  Chamber music / minimal modern classical. Unsettling and thoroughly awesome.
+
+  [8.5/10]
+  
+## Shinichi Atobe - Love of Plastic
+
+  ![](https://assets.boomkat.com/spree/products/786227/large/unnamed-6-3.jpg)
+
+  This feels a lot weaker than the more minimalist albums from before. Never really a big fan of balearic house...
+
+  [6.7/10]
+
+## Nueen - Circular Sequence
+
+  ![](https://f4.bcbits.com/img/a4072282675_16.jpg)
+
+  Minimalistic electronica. I like this a lot, whoever that likes Ulla would love this too.
+
+  [8.6/10]
+
+## Earthless - Night Parade of One Hundred Demons
+
+  ![]()
+
+  I like the track `Death To The Red Sun`, but others have too much Japanese scale runs in them, and it sounds kind of silly...
+
+  [7.4/10]
