@@ -92,7 +92,7 @@ tags: music and stuff
   Chamber music / minimal modern classical. Unsettling and thoroughly awesome.
 
   [8.5/10]
-  
+
 ## Shinichi Atobe - Love of Plastic
 
   ![](https://assets.boomkat.com/spree/products/786227/large/unnamed-6-3.jpg)
@@ -116,3 +116,19 @@ tags: music and stuff
   I like the track `Death To The Red Sun`, but others have too much Japanese scale runs in them, and it sounds kind of silly...
 
   [7.4/10]
+
+## Francesco Cavaliere - Xylomania
+
+  ![](https://f4.bcbits.com/img/a1705323302_16.jpg)
+
+  Abstract modern composition / ambient. Tingling sounds, listened through it a bunch of times before finally deciding that I am digging this quite a bit.
+
+  [8.2/10]
+
+## Orphx, Kareem - As Your Skies Are Fading Away
+
+  ![](https://f4.bcbits.com/img/a1502214096_16.jpg)
+
+  Industrial techno. Kareem's `Zones of Significance` was one of my favorite albums from 2021. This one is more techno and less ambient / experimental than that one.
+
+  [7.8/10]
