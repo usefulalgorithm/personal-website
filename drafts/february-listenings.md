@@ -101,6 +101,36 @@ tags: music and stuff
 
   [6.7/10]
 
+## Bloodmoney Perez, Messiah Musik - Second Hand Accounts
+
+  ![]()
+
+  Dope conscious rap.
+
+  [8.3/10]
+
+## Undo K From Hot - G.A.S. Get A Star
+
+  ![](https://f4.bcbits.com/img/a2566969169_16.jpg)
+
+  Erractic industrial experimental rock. A bit too much for me.
+
+  [7.2/10]
+
+## Debit - The Long Count
+
+  ![]()
+
+  []
+
+## Mark Lanegan - Blues Funeral
+
+  ![]()
+
+  Bluesy indie rock. RIP Mark Lanegan.
+
+  [8.1/10]
+
 ## Nueen - Circular Sequence
 
   ![](https://f4.bcbits.com/img/a4072282675_16.jpg)
