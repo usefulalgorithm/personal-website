@@ -162,3 +162,60 @@ tags: music and stuff
   Industrial techno. Kareem's `Zones of Significance` was one of my favorite albums from 2021. This one is more techno and less ambient / experimental than that one.
 
   [7.8/10]
+
+## Converge, Chelsea Wolfe - Bloodmoon: I
+
+  ![](https://f4.bcbits.com/img/a1660259071_16.jpg)
+
+  1. I am never really that fond of Chelsea Wolfe.
+  2. Sounds like Converge is going into dad rock territory...
+
+  [6.4/10]
+
+## Eiko Ishibashi - Drive My Car OST
+
+  ![](https://f4.bcbits.com/img/a1445340457_16.jpg)
+
+  Jazz / new-age. This soundtrack is better than the actual movie by a long shot.
+
+  [8.0/10]
+
+## Simon Farintosh - Aphex Twin for Guitar
+
+  ![](https://i.kfs.io/album/global/105209661,0v1/fit/500x500.jpg)
+
+  Fun little EP for Aphex Twin covers. I thought `Avril 14th` was a cover of Kanye's `Blame Game` though, did he really sample Aphex Twin on that one?
+
+  [7.5/10]
+
+## Múm - Yesterday Was Dramatic - Today Is OK
+
+  ![](https://f4.bcbits.com/img/a1581854139_16.jpg)
+
+  Indietronica. I've always imagined them to be a post-rock band that sounds extremely similar to Sigur Ros, but this is actually a lot more interesting than that. This one even got some drum & bass beats.
+
+  [8.5/10]
+
+## Cikada - Lamplighter
+
+  ![]()
+
+  Sludgy doom metal. Knew about them when scrolling through IG and saw Thou's post about Imperial Triumphant's show in New Orleans. This slays.
+
+  [8.2/10]
+
+## 問題總部 It's Your Fault - BLUE LEAK / 水體
+
+  ![]()
+
+  Not as cool nor as memorable as their last album. With all the flash gone it's just a pretty standard nu jazz record.
+
+  [6.8/10]
+
+## Aerial - M
+
+  ![]()
+
+  Classic math rock album. What's most impressive is that they're able to create moods just by experimenting with arrangements and interspersing different chords. Awesome stuff.
+
+  [9.2/10]
