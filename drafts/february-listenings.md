@@ -103,7 +103,7 @@ tags: music and stuff
 
 ## Bloodmoney Perez, Messiah Musik - Second Hand Accounts
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a0609358430_16.jpg)
 
   Dope conscious rap.
 
@@ -119,13 +119,15 @@ tags: music and stuff
 
 ## Debit - The Long Count
 
-  ![]()
+  ![](https://www.loudandquiet.com/files/2022/02/debit-love121-cover-artwork-1280x1277.jpg)
 
-  []
+  Man this is some weird stuff. Mayan music instruments? What?
+
+  [8.1/10]
 
 ## Mark Lanegan - Blues Funeral
 
-  ![]()
+  ![](https://media.pitchfork.com/photos/5929b359c0084474cd0c20ee/1:1/w_600/b1df9858.jpeg)
 
   Bluesy indie rock. RIP Mark Lanegan.
 
@@ -141,7 +143,7 @@ tags: music and stuff
 
 ## Earthless - Night Parade of One Hundred Demons
 
-  ![]()
+  ![](https://newnoisemagazine.com/wp-content/uploads/2022/01/Cover-Art-1024x1024.jpeg)
 
   I like the track `Death To The Red Sun`, but others have too much Japanese scale runs in them, and it sounds kind of silly...
 
@@ -198,7 +200,7 @@ tags: music and stuff
 
 ## Cikada - Lamplighter
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1460239367_16.jpg)
 
   Sludgy doom metal. Knew about them when scrolling through IG and saw Thou's post about Imperial Triumphant's show in New Orleans. This slays.
 
@@ -206,16 +208,24 @@ tags: music and stuff
 
 ## 問題總部 It's Your Fault - BLUE LEAK / 水體
 
-  ![]()
+  ![](https://i.kfs.io/album/global/155000060,0v1/fit/500x500.jpg)
 
   Not as cool nor as memorable as their last album. With all the flash gone it's just a pretty standard nu jazz record.
 
   [6.8/10]
 
-## Aerial - M
+## Aerial M - Aerial M
 
-  ![]()
+  ![](https://www.debaser.it/resize.aspx?path=/files/2015%2F42775.jpg&width=1200&crop=1&height=1200)
 
   Classic math rock album. What's most impressive is that they're able to create moods just by experimenting with arrangements and interspersing different chords. Awesome stuff.
 
   [9.2/10]
+
+## 宇多田光 - BADモード
+
+  ![](https://i.kfs.io/album/global/152781831,3v2/fit/500x500.jpg)
+
+  Alright J-pop. Dig the A.G. Cook feature, dislike the Skrillex feature.
+
+  [7.5/10]
