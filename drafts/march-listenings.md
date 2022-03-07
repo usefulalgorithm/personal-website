@@ -35,6 +35,24 @@ tags: music and stuff
 
   [8.0/10]
 
+## Rerekat - Balance Through Imbalance
+
+  ![](https://f4.bcbits.com/img/a0570717355_16.jpg)
+
+  Dancefloor friendly, hardhitting techno.
+
+  [7.5/10]
+
+## Misantrop - Reproaching the Absurd
+
+  ![](https://f4.bcbits.com/img/a2870201044_16.jpg)
+
+  Wonky noise / techno. Or when club music goes horribly wrong, when everyone's left the venue and it's only the things not from this world that are on the floor.
+
+  At times it is a bit too abrasive though, I dig the atmosphere but this is not something you'd want to put on repeat.
+
+  [7.8/10]
+
 ## Abul Mogard - In a Few Places Along the River
 
   ![](https://f4.bcbits.com/img/a2635090814_16.jpg)
