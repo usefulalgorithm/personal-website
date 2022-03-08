@@ -60,3 +60,19 @@ tags: music and stuff
   One day I was chilling on the couch, and wanted to play his earlier stuff on YouTube and just stare at the sky turn from bright to navy blue. But then whenever a song ends the UberEat commercial always popped up, so it's not exactly the most satisfying experience...
 
   [8.6/10]
+
+## Loscil - The Sails, Pt. 1
+
+  ![](https://f4.bcbits.com/img/a0218507437_16.jpg)
+
+  Pulsating ambient.
+
+  [7.5/10]
+
+## Tomu DJ - FEMINISTA
+
+  ![](https://f4.bcbits.com/img/a3097139372_16.jpg)
+
+  It's like The Field's `Cupid's Head` but even more organic and vibe-y.
+
+  [8.0/10]
