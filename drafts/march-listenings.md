@@ -31,7 +31,7 @@ tags: music and stuff
 
   ![](https://f4.bcbits.com/img/a1080116247_16.jpg)
 
-  Indie-folk. It's kind of like Ian William Craig doing midewest emo, if you can imagine that...
+  Indie-folk. It's kind of like Ian William Craig doing midewest emo, if you can imagine that.
 
   [8.0/10]
 
@@ -76,3 +76,11 @@ tags: music and stuff
   It's like The Field's `Cupid's Head` but even more organic and vibe-y.
 
   [8.0/10]
+
+## Krallice, Dave Edwardson - Loüm
+
+  ![](https://f4.bcbits.com/img/a2146799252_16.jpg)
+
+  This one has a lot of melodic passages, which I like a lot. The last track is something I think I'll learn when I have time.
+
+  [8.1/10]
