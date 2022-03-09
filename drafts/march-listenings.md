@@ -7,9 +7,11 @@ tags: music and stuff
 
 ## Huerco S. - Plonk
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3788152425_16.jpg)
 
-  []
+  At first I didn't really know what to make of it: is it better than Huerco S.'s last album from six years ago? And then several days went by and during which I've been listening to this album and could not decide whether I like it or not. Now one third into the month I think I actually like it, it is less ambient leaning and more club friendly, but still you probably can't really imagine someone dancing to this.
+
+  [8.3/10]
 
 ## o` - Moment Mist Glass Mayflower
 
@@ -39,9 +41,9 @@ tags: music and stuff
 
   ![](https://f4.bcbits.com/img/a0570717355_16.jpg)
 
-  Dancefloor friendly, hardhitting techno.
+  Dancefloor friendly, hardhitting techno. But not really something that I enjoy alal that much.
 
-  [7.5/10]
+  [7.0/10]
 
 ## Misantrop - Reproaching the Absurd
 
@@ -59,7 +61,7 @@ tags: music and stuff
 
   One day I was chilling on the couch, and wanted to play his earlier stuff on YouTube and just stare at the sky turn from bright to navy blue. But then whenever a song ends the UberEat commercial always popped up, so it's not exactly the most satisfying experience...
 
-  [8.6/10]
+  [8.3/10]
 
 ## Loscil - The Sails, Pt. 1
 
@@ -75,7 +77,7 @@ tags: music and stuff
 
   It's like The Field's `Cupid's Head` but even more organic and vibe-y.
 
-  [8.0/10]
+  [7.8/10]
 
 ## Krallice, Dave Edwardson - Loüm
 
@@ -84,3 +86,11 @@ tags: music and stuff
   This one has a lot of melodic passages, which I like a lot. The last track is something I think I'll learn when I have time.
 
   [8.1/10]
+
+## Phonophani - Kreken
+
+  ![](https://assets.boomkat.com/spree/products/190600/large/original-32.jpg)
+
+  Trippy electronic music. This is very good music... It's kind of like Bibio but more psychedelic and jazzier.
+
+  [8.7/10]
