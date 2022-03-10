@@ -91,6 +91,14 @@ tags: music and stuff
 
   ![](https://assets.boomkat.com/spree/products/190600/large/original-32.jpg)
 
-  Trippy electronic music. This is very good music... It's kind of like Bibio but more psychedelic and jazzier.
+  Trippy electronic music. This is very good music... It's kind of like Bibio but more psychedelic and jazzier. And I got it at Amoeba for less than 5 bucks.
+
+  [8.7/10]
+
+## Olivia Block - Innocent Passage in the Territorial Sea
+
+  ![](https://f4.bcbits.com/img/a0246903198_16.jpg)
+
+  Electro-acoustic modern classical music. This is really good synth music... don't miss it.
 
   [8.7/10]
