@@ -102,3 +102,35 @@ tags: music and stuff
   Electro-acoustic modern classical music. This is really good synth music... don't miss it.
 
   [8.7/10]
+
+## Societe Etrange - Chance
+
+  ![]()
+
+  Kind of sounds like Mong Tong.
+
+  [7.6/10]
+
+## Vein.fm - This World is Going to Ruin You
+
+  ![]()
+
+  Nu metal / metalcore. Flesh Juicer could become something like this but they went for the cheesier way instead.
+
+  [7.0/10]
+
+## Big Brave - Vital
+
+  ![]()
+
+  Doom metal. Like the first track, but as it approaches the end of the album it gets more dragging.
+
+  [7.6/10]
+
+## Pan-American - The Patience Fader
+
+  ![](https://f4.bcbits.com/img/a2808516610_16.jpg)
+
+  Brain Eno: "Duane Eddy playing Erik Satie". I think of Roy Montgomery plus Bill Frisell.
+
+  [7.7/10]
