@@ -134,3 +134,19 @@ tags: music and stuff
   Brain Eno: "Duane Eddy playing Erik Satie". I think of Roy Montgomery plus Bill Frisell.
 
   [7.7/10]
+
+## Hajj - Drag Me Into The Void
+
+  ![]()
+
+  This is much better than the `Antidawn EP` from Burial earlier this year IMO...
+
+  [8.2/10]
+
+## Pavel Milyakov, Yana Pavlova - Blue
+
+  ![](https://f4.bcbits.com/img/a3715238800_16.jpg)
+
+  Love it.
+
+  [8.6/10]
