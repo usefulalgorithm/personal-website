@@ -105,7 +105,7 @@ tags: music and stuff
 
 ## Societe Etrange - Chance
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2337377285_16.jpg)
 
   Kind of sounds like Mong Tong.
 
@@ -113,7 +113,7 @@ tags: music and stuff
 
 ## Vein.fm - This World is Going to Ruin You
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2743864766_16.jpg)
 
   Nu metal / metalcore. Flesh Juicer could become something like this but they went for the cheesier way instead.
 
@@ -121,7 +121,7 @@ tags: music and stuff
 
 ## Big Brave - Vital
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3761114486_16.jpg)
 
   Doom metal. Like the first track, but as it approaches the end of the album it gets more dragging.
 
@@ -137,7 +137,7 @@ tags: music and stuff
 
 ## Hajj - Drag Me Into The Void
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1308470992_16.jpg)
 
   This is much better than the `Antidawn EP` from Burial earlier this year IMO...
 
@@ -150,3 +150,28 @@ tags: music and stuff
   Love it.
 
   [8.6/10]
+
+## Charli XCX - Crash
+
+  ![](https://i.kfs.io/album/global/162006390,0v1/fit/500x500.jpg)
+
+  1. I've never seen the Cronenberg movie nor the Ballard novel.
+  2. This is still a decent pop album, but it's more conventional compared to her last two albums.
+
+  [7.5/10]
+
+## Soshi Takeda - Floating Mountains
+
+  ![](https://f4.bcbits.com/img/a0963174841_16.jpg)
+
+  When a club musician decides to use exclusively new-age sound textures in an album.
+
+  [7.8/10]
+
+## JK Flesh - New Religions Old Rules
+
+  ![](https://f4.bcbits.com/img/a2678502258_16.jpg)
+
+  New bangers old dude.
+
+  [8.4/10]
