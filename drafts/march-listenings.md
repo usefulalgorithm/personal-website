@@ -175,3 +175,51 @@ tags: music and stuff
   New bangers old dude.
 
   [8.4/10]
+
+## Ssaliva - I'm the One with No Soul
+
+  ![](https://f4.bcbits.com/img/a1661456532_16.jpg)
+
+  Hypnogogic pop / bedroom indietronica. FFO Dean Blunt.
+
+  [8.2/10]
+
+## No Love In The House Of Gold - there is no such thing as a jellyfish
+
+  ![]()
+
+  Kind of like Bedwetter but a bit easier to the ears.
+
+  [7.8/10]
+
+## Deathspell Omega - The Long Defeat
+
+  ![]()
+
+  The most recent band to decide to dabble in dad rock territory is Deathspell Omega, who would've thought.
+
+  [6.3/10]
+
+## Only Now - Indian Unclassical, Vol. 1
+
+  ![](https://f4.bcbits.com/img/a2348656935_16.jpg)
+
+  From the cover art I thought it's going to be a stoner / folk metal kind of album, but it's actually very nice drone / noise. Love it.
+
+  [8.4/10]
+
+## Yaya Kim - a.k.a YAYA
+
+  ![](https://i.kfs.io/album/tw/153727992,0v2/fit/500x500.jpg)
+
+  Mediocre jazz pop. And it's 2.5 hours long...
+
+  [5.8/10]
+
+## OKnice - Have You Tried Being Happy?
+
+  ![](https://f4.bcbits.com/img/a2014568556_16.jpg)
+
+  Underground rap. The lyrics are as honest as it gets.
+
+  [7.4/10]
