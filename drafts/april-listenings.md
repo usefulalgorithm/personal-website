@@ -57,7 +57,7 @@ tags: music and stuff
 
 ## They Hate Change - Blatant Localism
 
-  ![]()
+  ![](https://assets.boomkat.com/spree/products/797897/large/617308026665.jpg)
 
   I think their older tracks are much more fire than those three, when are they going to release a full length album though...
 
@@ -65,4 +65,32 @@ tags: music and stuff
 
 ## Saga Asad - New Man
 
+  ![](https://f4.bcbits.com/img/a3493974522_16.jpg)
+
+  Pretty smooth jazz-hop.
+
+  [7.3/10]
+
+## Teller Bank$, Ed Glorious - The Part & Parcel
+
+  ![](https://f4.bcbits.com/img/a1685381528_16.jpg)
+
+  Boom bap.
+
+  [7.5/10]
+
+## Booker Stardrum - CRATER
+
+  ![](https://f4.bcbits.com/img/a2642949384_16.jpg)
+
+  Abstract experimental electronic music from L.A. percussionist. Some of the sounds remind me of OPN's `Returnal`. The last track `Walking Through Still Air` is really nice.
+
+  [8.3/10]
+
+## Black Thought - Streams of Thought Vol. 1
+
   ![]()
+
+  I think this is definitely better than Vol. 2... Conscious rap.
+
+  [8.1/10]
