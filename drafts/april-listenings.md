@@ -19,7 +19,7 @@ tags: music and stuff
 
   Great contemporary jazz. The last track sounds like Gas with sax on top. Totally missed out on this one last year...
 
-  [8.3/10]
+  [8.5/10]
 
 ## Ikarus - Plasma
 
@@ -49,7 +49,7 @@ tags: music and stuff
 
 ## Chat Pile - Remove Your Skin Please
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1074154568_16.jpg)
 
   It's like Godflesh meets Pissed Jeans meets The Body, but different from all of those bands at the same time. Looking forward to their new stuff.
 
@@ -61,7 +61,7 @@ tags: music and stuff
 
   I think their older tracks are much more fire than those three, when are they going to release a full length album though...
 
-  [7.6/10]
+  [7.5/10]
 
 ## Saga Asad - New Man
 
@@ -69,7 +69,7 @@ tags: music and stuff
 
   Pretty smooth jazz-hop.
 
-  [7.3/10]
+  [7.1/10]
 
 ## Teller Bank$, Ed Glorious - The Part & Parcel
 
@@ -77,7 +77,7 @@ tags: music and stuff
 
   Boom bap.
 
-  [7.5/10]
+  [7.3/10]
 
 ## Booker Stardrum - CRATER
 
@@ -89,8 +89,48 @@ tags: music and stuff
 
 ## Black Thought - Streams of Thought Vol. 1
 
-  ![]()
+  ![](https://i.scdn.co/image/ab67616d0000b273aa3711fb2ed2e12a34bf1402)
 
   I think this is definitely better than Vol. 2... Conscious rap.
 
   [8.1/10]
+
+## Soul Glo - Diaspora Problems
+
+  ![](https://f4.bcbits.com/img/a3168552135_16.jpg)
+
+  Hardcore punk + rap... Hardcore rap?? Pretty fun stuff.
+
+  [7.2/10]
+
+## The Silver - Ward of Roses
+
+  ![](https://f4.bcbits.com/img/a3370981599_16.jpg)
+
+  Alright black metal. The tones are pretty decent, but in terms of songwriting it isn't exactly what I'd call innovative or refreshing.
+
+  [7.0/10]
+  
+## Patrick Shiroishi - Hidemi
+
+  ![](https://f4.bcbits.com/img/a2008197316_16.jpg)
+
+  Jazz concept album. Mesmerizing.
+
+  [8.2/10]
+
+## ROSALÍA - MOTOMAMI
+
+  ![](https://i.scdn.co/image/ab67616d0000b2730c179967a265de0fc76382fe)
+
+  Bombastic reggaeton.
+
+  [7.8/10]
+
+## Pixel - The Drive
+
+  ![](https://is5-ssl.mzstatic.com/image/thumb/Music/7d/5c/88/mzi.zqorawqk.tif/1200x1200bf-60.jpg)
+
+  Minimal electronic music from raster-noton. Normally when you see them publish something you should just check it out, chances are it's gonna be lit.
+
+  [8.5/10]
