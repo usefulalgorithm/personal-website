@@ -134,3 +134,35 @@ tags: music and stuff
   Minimal electronic music from raster-noton. Normally when you see them publish something you should just check it out, chances are it's gonna be lit.
 
   [8.5/10]
+
+## Yage - 3 17 October 1984
+
+  ![](https://cdn2.albumoftheyear.org/500x/album/413235-3-17-october-1984.jpg)
+
+  ~_~ I really like screamo music ~_~
+
+  [8.6/10]
+
+## Tomas Fujiwara's Triple Double - March
+
+  ![]()
+
+  Free jazz.
+
+  [7.5/10]
+
+## SeeYouSpaceCowboy - The Romance of Affliction
+
+  ![]()
+
+  And I thought everyone stopped doing pop metalcore a long time ago...
+
+  [4.0/10]
+
+## Ka Baird, Pekka Airaksinen - FRKWYS Vol. 17: Hungry Shells
+
+  ![](https://f4.bcbits.com/img/a1513811650_16.jpg)
+
+  Eerie experimental album. A bit difficult at first but gets better over repeated listening at work.
+
+  [7.8/10]
