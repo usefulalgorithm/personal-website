@@ -110,7 +110,7 @@ tags: music and stuff
   Alright black metal. The tones are pretty decent, but in terms of songwriting it isn't exactly what I'd call innovative or refreshing.
 
   [7.0/10]
-  
+
 ## Patrick Shiroishi - Hidemi
 
   ![](https://f4.bcbits.com/img/a2008197316_16.jpg)
@@ -166,3 +166,11 @@ tags: music and stuff
   Eerie experimental album. A bit difficult at first but gets better over repeated listening at work.
 
   [7.8/10]
+
+## Denzel Curry - Melt My Eyez See Your Future
+
+  ![]()
+
+  I never expected a jazz-hop album from him...
+
+  [8.2/10]
