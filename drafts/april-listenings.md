@@ -77,7 +77,7 @@ tags: music and stuff
 
   Boom bap.
 
-  [7.3/10]
+  [7.1/10]
 
 ## Booker Stardrum - CRATER
 
@@ -110,6 +110,30 @@ tags: music and stuff
   Alright black metal. The tones are pretty decent, but in terms of songwriting it isn't exactly what I'd call innovative or refreshing.
 
   [7.0/10]
+
+## Tangerine Dream - Raum
+
+  ![](https://f4.bcbits.com/img/a4168858506_16.jpg)
+
+  Cosmic synth ambient.
+
+  [8.0/10]
+
+## Jeff Parker - Forfolks
+
+  ![]()
+
+  Jazz guitar looping music.
+
+  [7.4/10]
+
+## Rex - Waltz
+
+  ![]()
+
+  Slowcore / country. Like it a lot, if there's a band in Taiwan that plays this kind of stuff I'd go to every single one of their shows.
+
+  [8.0/10]
 
 ## Patrick Shiroishi - Hidemi
 
@@ -149,7 +173,7 @@ tags: music and stuff
 
   Free jazz.
 
-  [7.5/10]
+  [7.3/10]
 
 ## SeeYouSpaceCowboy - The Romance of Affliction
 
