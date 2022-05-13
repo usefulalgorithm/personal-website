@@ -11,7 +11,7 @@ tags: music and stuff
 
   Techno filled with classical samples. It's probably the most observably playful album I've heard from him.
 
-  [8.0/10]
+  [8.4/10]
 
 ## Dean Hurley - Concrete Feather
 
@@ -19,7 +19,7 @@ tags: music and stuff
 
   Desolate ambient field recording. Somehow sounds like something that could be the soundtrack to Factorio...
 
-  [8.2/10]
+  [7.8/10]
 
 ## Alabaster DePlume - GOLD
 
@@ -76,3 +76,11 @@ tags: music and stuff
   FFO Charli XCX and Rina Sawayama's self-titled EP. Futuristic electro-pop... the not annoying kind.
 
   [8.2/10]
+
+## claire rousay - everything perfect is already here
+
+  ![](https://f4.bcbits.com/img/a3632847398_16.jpg)
+
+  Soothing ambient / field recording. Dig it.
+
+  [8.1/10]
