@@ -76,3 +76,19 @@ tags: music and stuff
   FFO Charli XCX and Rina Sawayama's self-titled EP. Futuristic electro-pop... the not annoying kind.
 
   [8.2/10]
+
+## Minoru Fushimi - Thanatos of Funk
+
+  ![](https://f4.bcbits.com/img/a2262826227_16.jpg)
+
+  Psych-funk / proto-hip-hop from Japan. A rare gem.
+
+  [7.4/10]
+
+## Gospel - The Loser
+
+  ![]()
+
+  Why do almost all rock bands I like all decided to do dad rock... Innovative progressive screamo band turns stale.
+
+  [5.0/10]
