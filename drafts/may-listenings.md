@@ -87,7 +87,7 @@ tags: music and stuff
 
 ## Gospel - The Loser
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1281987747_16.jpg)
 
   Why do almost all rock bands I like all decided to do dad rock... Innovative progressive screamo band turns stale.
 
@@ -100,3 +100,31 @@ tags: music and stuff
   Soothing ambient / field recording. Dig it.
 
   [8.1/10]
+
+## Ilia Belorukov - Someone Has Always Come
+
+  ![](https://f4.bcbits.com/img/a3575182657_16.jpg)
+
+  Drone music for haunted brutalist ruins.
+
+  [7.7/10]
+
+## Kendrick Lamar - Mr. Morale & The Big Steppers
+
+  ![](https://i.kfs.io/album/global/172948165,1v1/fit/500x500.jpg)
+
+  No one:
+  
+  Absolutely no one:
+
+  Me: To Pimp a Butterfly > Good Kid, M.A.A.D City >> Mr. Morale & The Big Stepers > DAMN.
+
+  [7.4/10]
+
+## Pataphysical - Hapticality
+
+  ![](https://f4.bcbits.com/img/a4249288100_16.jpg)
+
+  Synth heavy ambient / experimental electronic music. FFO Space Afrika & KMRU I guess?
+
+  [8.6/10]
