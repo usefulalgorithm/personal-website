@@ -128,3 +128,19 @@ tags: music and stuff
   Synth heavy ambient / experimental electronic music. FFO Space Afrika & KMRU I guess?
 
   [8.6/10]
+
+## Gabber Modus Operandi - PUXXXIMAXXX
+
+  ![](https://f4.bcbits.com/img/a3823147522_16.jpg)
+
+  Gamelan + hardcore techno. Pretty intense.
+
+  [7.3/10]
+
+## Conway the Machine - God Don't Make Mistakes
+
+  ![](https://i.scdn.co/image/ab67616d0000b273130fad2aec1c9c9763968d97)
+
+  This is more impressive than his last LP. Decent conscious hip-hop.
+
+  [8.0/10]
