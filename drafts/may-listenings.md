@@ -144,3 +144,27 @@ tags: music and stuff
   This is more impressive than his last LP. Decent conscious hip-hop.
 
   [8.0/10]
+
+## Black Country, New Road - Ants From Up There
+
+  ![](https://f4.bcbits.com/img/a3874459819_16.jpg)
+
+  Emo / post-punk / chamber pop. Feels much more approachable than their last one... don't hate it but I guess I like Modest Mouse more?
+
+  [7.0/10]
+
+## Jonny Nash, Ana Stamp - There Up, Behind the Moon
+
+  ![](https://f4.bcbits.com/img/a2456182175_16.jpg)
+
+  Mystical Romanian folk songs + lo-fi solo Joe Hisashi-ish piano (well not really).
+
+  [7.4/10]
+
+## Lee Gamble - A Million Pieces of You
+
+  ![](https://f4.bcbits.com/img/a1675491030_16.jpg)
+
+  Deconstructed club music is probably the best way to describe this. Dope stuff.
+
+  [8.2/10]
