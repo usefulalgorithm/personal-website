@@ -114,7 +114,7 @@ tags: music and stuff
   ![](https://i.kfs.io/album/global/172948165,1v1/fit/500x500.jpg)
 
   No one:
-  
+
   Absolutely no one:
 
   Me: To Pimp a Butterfly > Good Kid, M.A.A.D City >> Mr. Morale & The Big Stepers > DAMN.
@@ -168,3 +168,27 @@ tags: music and stuff
   Deconstructed club music is probably the best way to describe this. Dope stuff.
 
   [8.2/10]
+
+## Tarotplane - Light Self All Others
+
+  ![](https://f4.bcbits.com/img/a2802078501_16.jpg)
+
+  More new-age ambient than hauntology. Still pretty dope.
+
+  [8.0/10]
+
+## Rachika Nayar - fragments
+
+  ![](https://f4.bcbits.com/img/a3276698186_16.jpg)
+
+  Solo math-rock guitar / ambient. This is like Ichika but with less focus on showmanship and more on the textures and overall feel of the songs. I dig it. Normally I'd find stuff like this insufferable but definitely not this...
+
+  [7.8/10]
+
+## They Hate Change - Finally, New
+
+  ![](https://f4.bcbits.com/img/a0179899563_16.jpg)
+
+  If you want sick beats you listen to this.
+
+  [8.5/10]
