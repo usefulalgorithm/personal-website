@@ -85,6 +85,50 @@ tags: music and stuff
 
   [7.8/10]
 
-## Quelle Chris - Deathfame
+## Best Available Technology - Fixing Until Broke
 
+  ![]()
 
+  Ambient… or more precisely lo-do cloud rap tronica. Dope stuff.
+
+  [8.3/10]
+
+## Quells Chris - Deathfame
+
+  ![]()
+
+  Took me several listens to fully appreciate it… this is a good one.
+
+  [8.4/10]
+
+## Mach Hommy - HBO (Haitian Body Odor)
+
+  ![]()
+
+  This probably should’ve been his first album I listen to… a concept album centered around Haiti, very nicely executed east coast hip-hop with splendid jazz hop beats.
+
+  [8.2/10]
+
+## Cremation Lily - Dreams Drenched in Static
+
+  ![]()
+
+  Industrial noise-pop. Think less refined, less slithery Sega Bodega.
+
+  [7.4/10]
+
+## Ghais Guevara - Black Bolshevik
+
+  ![]()
+
+  Political hip-hop with JPEGMAFIA aspirations. The bars aren't that crazy though.
+
+  [6.6/10]
+
+## Whatever the Weather - Whatever the Weather
+
+  ![]()
+
+  ... I think this is probably my favorite LJ release? It's got ambient, minial techno, drum & bass, and then it sounds like one coherent album instead of a mish mash of things. Really good stuff.
+
+  [8.7/10]
