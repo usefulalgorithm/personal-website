@@ -132,3 +132,35 @@ tags: music and stuff
   ... I think this is probably my favorite LJ release? It's got ambient, minial techno, drum & bass, and then it sounds like one coherent album instead of a mish mash of things. Really good stuff.
 
   [8.7/10]
+
+## Boldy James, The Alchemist - Bo Jackson
+
+  ![]()
+
+  Griselda Records is on a strong streak these days... at first I didn't really pay attention to Boldy's lyrics, but damn these bars are really sick. The Alchemist on the other hand is doing his usual stuff: awesome beats that go flawlessly with the flow. Really good stuff.
+
+  [8.3/10]
+
+## Daniel Rossen - You Belong Here
+
+  ![]()
+
+  Freak folk / chamber pop. There are a bunch of quirky parts on this album, some even reminding me of earlier Richard Dawson stuff.
+
+  [8.2/10]
+
+## Sofie Birch - Holotropica
+
+  ![](https://f4.bcbits.com/img/a1325560746_16.jpg)
+
+  ... I guess I am really late to the party. Intricate, therapeutic ambient.
+
+  [8.5/10]
+
+## Luis - 057 (Schwyn)
+
+  ![](https://f4.bcbits.com/img/a1656797036_16.jpg)
+
+  Joyous IDM.
+
+  [7.7/10]
