@@ -164,3 +164,27 @@ tags: music and stuff
   Joyous IDM.
 
   [7.7/10]
+
+## Maxo - LIL BIG MAN
+
+  ![]()
+
+  Down jazz-rap.
+
+  [7.2/10]
+
+## Priori - Your Own Power
+
+  ![](https://f4.bcbits.com/img/a1345121876_16.jpg)
+
+  Cozy house / dub techno.
+
+  [7.8/10]
+
+## Ricardo Villalobos, Samuel Rohrer - Microgestures
+
+  ![](https://f4.bcbits.com/img/a3591773298_16.jpg)
+
+  Villalobos' `RE: ECM` felt way too abstract for me when I heard it a while back... this one in contrast is very enjoyable minial techno.
+
+  [8.1/10]
