@@ -31,9 +31,21 @@ tags: music and stuff
 
 ## cktrl - zero
 
+  ![](https://f4.bcbits.com/img/a2921109596_16.jpg)
+
+  Jazzy R&B / pop trap. I like the first and second tracks, but I feel like as the album goes on it gets increasingly influenced by pop trap music...
+
+  [7.0/10]
+
 ## Destroyer - LABYRINTHITIS
 
 ## Kelly Lee Owens - LP.8
+
+  ![](https://f4.bcbits.com/img/a1210404852_16.jpg)
+
+  I've listened to this album a bunch of times but it just does not click... this is her most ambient-ish album to date, and I guess making the comparison to the genre's giants is unfair but I would pick Laurel Halo over this any day of the week.
+
+  [6.8/10]
 
 ## Jenny Hval - Classic Objects
 
@@ -90,3 +102,13 @@ tags: music and stuff
   At first I thought this is what 珂拉琪 would sound like 10 years from now, but the more I listen to this one the worse it sounds...
 
   [4.4/10]
+
+## black midi - Hellfire
+
+  ![](https://f4.bcbits.com/img/a1041686626_16.jpg)
+
+  Though this is called `Hellfire` it feels more accessible than their previous album, which I like very much and prefer compared to this new album. This thing definitely is a fun album in its own way though. 
+
+  [7.7/10]
+
+## 
