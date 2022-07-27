@@ -111,4 +111,42 @@ tags: music and stuff
 
   [7.7/10]
 
-## 
+## To Be Gentle - Love is the Only Way Out
+
+  ![](https://f4.bcbits.com/img/a3506143986_10.jpg)
+
+  OK screamo / hardcore.
+
+  [6.8/10]
+
+## Scarcity - Aveilut
+
+  ![](https://f4.bcbits.com/img/a0924203936_16.jpg)
+
+  It sounds like Russian Circles (in their current, more atmospheric form rather than the mathier sound they're known before) decides to do black metal. This is pretty good.
+
+  [8.0/10]
+
+## Slow Fire Pistol - Rabbit Town Blues
+
+  ![](https://f4.bcbits.com/img/a0025277380_16.jpg)
+
+  Screamo. It's alright, but not the most memorable thing ever. They got plenty of coverage on the internet, which is always a nice thing to have for lesser known bands.
+
+  [7.3/10]
+
+## Vladislav Delay - Isoviha
+
+  ![](https://f4.bcbits.com/img/a0644915806_16.jpg)
+
+  This is quite gnarly.
+
+  [8.2/10]
+
+## Panopticon - Collapse
+
+  ![](https://f4.bcbits.com/img/a2133139007_16.jpg)
+
+  His second full-length album just got remastered. Songs on this album feel less polished or consistent than his later works, but this is still pretty good black metal nonetheless.
+
+  [7.4/10]
