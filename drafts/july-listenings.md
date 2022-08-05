@@ -7,7 +7,7 @@ tags: music and stuff
 
 ## Felicia Atkinson - Image Language
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2056346138_16.jpg)
 
   Stellar soothing ambient. Great as always.
 
@@ -37,8 +37,6 @@ tags: music and stuff
 
   [7.0/10]
 
-## Destroyer - LABYRINTHITIS
-
 ## Kelly Lee Owens - LP.8
 
   ![](https://f4.bcbits.com/img/a1210404852_16.jpg)
@@ -49,7 +47,7 @@ tags: music and stuff
 
 ## Jenny Hval - Classic Objects
 
-  ![]()
+  ![](https://i.scdn.co/image/ab67616d0000b273653563da2516c1edf706398c)
 
   In terms of songwriting this feels like one of her most accessible albums to date. Not saying it's bad, but I actually expect a bit more experimentation from this project. Lyrics wise this feels more introspective, but I really haven't spend that much time figuring out what she's singing on this album. Maybe I should revisit this one in the future...
 
@@ -57,7 +55,7 @@ tags: music and stuff
 
 ## Thou, Mizmor - Myopia
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2341892032_16.jpg)
 
   Really heavy doom metal. I am a sucker for anything Thou does.
 
@@ -81,7 +79,7 @@ tags: music and stuff
 
 ## Gospel - MVDM: The Magical Volumes Vol. 1: The Magick Volume of Dark Madder or the Magic Volume of Dark Matter
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a4256822995_16.jpg)
 
   Better than their full-length this year, still a far cry from `The Moon is a Dead World`.
 
@@ -97,7 +95,7 @@ tags: music and stuff
 
 ## Rolo Tomassi - Where Myth Becomes Mystery
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a0047102255_16.jpg)
 
   At first I thought this is what 珂拉琪 would sound like 10 years from now, but the more I listen to this one the worse it sounds...
 
@@ -141,7 +139,7 @@ tags: music and stuff
 
   This is quite gnarly.
 
-  [8.2/10]
+  [8.1/10]
 
 ## Panopticon - Collapse
 
@@ -150,3 +148,35 @@ tags: music and stuff
   His second full-length album just got remastered. Songs on this album feel less polished or consistent than his later works, but this is still pretty good black metal nonetheless.
 
   [7.4/10]
+
+## Pavel Milyakov, Richie Culver - A Change of Nothing
+
+  ![](https://assets.boomkat.com/spree/products/821190/large/996d52ca-720d-a65f-7b8a-86c87abe8149.jpg)
+
+  Visceral, abrasive ambient / electronic music. Hard-hitting.
+
+  [8.4/10]
+
+## Imperial Triumphant - Spirit of Ecstasy
+
+  ![](https://i.scdn.co/image/ab67616d0000b2737367339728fdf696ab732b45)
+
+  I feel like this one is more accessible than any of their previous albums: it even has friggin' Kenny G on `Merkurius Gilded`... the jazz influence is much more prevalent on this album. Dig it.
+
+  [8.0/10]
+
+## Racine - Amities
+
+  ![](https://f4.bcbits.com/img/a2877761617_16.jpg)
+
+  Post-industrial piano music. Very haunting music, I've been listening to this album for days...
+
+  [8.5/10]
+
+## Chat Pile - God's Country
+
+  ![](https://f4.bcbits.com/img/a2068121131_16.jpg)
+
+  OMG, the hype is really real...
+
+  [8.9/10]
