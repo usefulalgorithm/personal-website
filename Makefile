@@ -9,4 +9,4 @@ draft:
 finish:
 	$(eval date := $(shell echo "from datetime import datetime; print(datetime.now().date())" | python))
 	$(eval base := $(shell basename drafts/*-listenings.md))
-	mv drafts/$(base) posts/$(date)-$(base)
+	fillin-release-dates-exe drafts/$(base) > posts/$(date)-$(base)
