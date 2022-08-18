@@ -52,3 +52,19 @@ tags: music and stuff
   Another stellar release from KMRU. This one reminds me of Ben Frost's music more than his usual ambient output. Real heavy.
 
   [8.3/10]
+
+## Shackleton - The Majestic Yes
+
+  ![](https://f4.bcbits.com/img/a1502113690_16.jpg)
+
+  Jungle / dub. I find this to be a bit too repetitive to my likings, maybe it'll grow on me...
+
+  [7.2/10]
+
+## Hudson Mohawke - Cry Sugar
+
+  ![](https://f4.bcbits.com/img/a3366499892_16.jpg)
+
+  A hyper-pop album that's fun to listen to.
+
+  [8.1/10]
