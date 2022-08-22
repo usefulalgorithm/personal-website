@@ -15,7 +15,7 @@ tags: music and stuff
 
 ## Clube Tormanta - O Som Do Labirinto OST
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1607064804_16.jpg)
 
   Ambient OST for some experimental film. The ambient tracks are pretty spooky, and then there's one oddball heavy metal track. Not really sure why it's there but it's definitely an interesting choice.
 
@@ -68,3 +68,42 @@ tags: music and stuff
   A hyper-pop album that's fun to listen to.
 
   [8.1/10]
+
+## Harvey Sutherland - Boy
+
+  ![](https://f4.bcbits.com/img/a3582800648_16.jpg)
+
+  Upbeat disco / funk. Dig this stuff a lot, thoroughly enjoyable.
+
+  [8.2/10]
+
+## Russian Circles - Gnosis
+
+  ![](https://f4.bcbits.com/img/a3950455291_16.jpg)
+
+  Probably their most repetitive album to date, and it's not like I hold their last two albums in a high place or anything. Sad to see their creativity dip after the release of `Memorial` still continuing to this day.
+
+  [5.0/10]
+
+## Marina Herlop - Pripyat
+
+  ![](https://f4.bcbits.com/img/a3601398248_16.jpg)
+
+  Mystical, abstract vocal music / ambient. I like this a lot, and I bt whoever likes Jenny Hval and Lyra Pramuk would too.
+
+  [8.6/10]
+
+## Cheri Knight - American Rituals
+
+  ![](https://f4.bcbits.com/img/a2576469504_16.jpg)
+
+  Playful experimental music from the 80's. This is somewhat reminiscent of Yasuaki Shimizu's stuff... at least to me.
+
+  [7.7/10]
+
+## Various Artists - Sounds from the Iranian Ultraverse
+
+  ![]()
+
+  [/10]
+
