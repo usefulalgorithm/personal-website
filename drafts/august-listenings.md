@@ -103,7 +103,24 @@ tags: music and stuff
 
 ## Various Artists - Sounds from the Iranian Ultraverse
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1616873959_16.jpg)
 
-  [/10]
+  Techno compilation from artists with Iranian heritage. All of those are bangers, good stuff.
 
+  [8.3/10]
+
+## Modern Collapse - Anti-club Music Club
+
+  ![](https://f4.bcbits.com/img/a3296991217_16.jpg)
+
+  Glitchy club-music-inspired techno. I like the heavier, more intense tracks.
+
+  [7.8/10]
+
+## Kode9 - Escapology
+
+  ![](https://f4.bcbits.com/img/a2726602431_16.jpg)
+
+  Cyber-punk club music. To be honest I've never really been that big of a fan for Kode9, and this one does not change that attitude... To me there are simply too many filler songs in this album, maybe they make sense in the context of being the companion soundtrack to his sonic fiction, but without it they just feel unfocused.
+
+  [6.9/10]
