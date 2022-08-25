@@ -124,3 +124,11 @@ tags: music and stuff
   Cyber-punk club music. To be honest I've never really been that big of a fan for Kode9, and this one does not change that attitude... To me there are simply too many filler songs in this album, maybe they make sense in the context of being the companion soundtrack to his sonic fiction, but without it they just feel unfocused.
 
   [6.9/10]
+
+## Maria w Horn - Kontrapoetic
+
+  ![](https://f4.bcbits.com/img/a1085692103_16.jpg)
+
+  Somber, ceremonial synth music / noise. I don't dislike it but the songs feel a bit all too homogenous to me...
+
+  [7.4/10]
