@@ -20,3 +20,65 @@ tags: music and stuff
   This stuff is pretty good... improvised percussion music. While extremely minimalistic there's still a very strong sense of structure in the songs. It is very avant-garde but not at all hard to follow.
 
   [8.5/10]
+
+## Cucina Povera, Ben Vince - There I See Everything
+
+  ![](https://f4.bcbits.com/img/a0700565065_16.jpg)
+
+  Calm, sad ambient. This might be my favorite Cucina Povera release yet.
+
+  [8.0/10]
+
+## Sam Gendel - Superstore
+
+  ![](https://f4.bcbits.com/img/a0297013044_16.jpg)
+
+  Humorous modern jazz. This is pretty fun stuff, none of the songs really stand out but it's quite coherent overall.
+
+  [7.5/10]
+
+## Fontaines D.C. - Skinty Fia
+
+  ![](https://f4.bcbits.com/img/a2470443209_16.jpg)
+
+  Not as majestic as `A Hero's Death`.
+
+  [7.1/10]
+
+## Svaneborg Kardyb - Knob
+
+  ![](https://f4.bcbits.com/img/a2499948007_16.jpg)
+
+  Maybe it's just me but I feel like a lot of Nordic jazz bands remind me a lot of Jaga Jazzist... pretty neat jazz music.
+
+  [7.6/10]
+
+## Vladislav Delay, Eivind Aarest - Singles
+
+  ![]()
+
+  Grinding noise that kind of inherits the raw, slow burning energy of Vladislav Delay's `Rakka` series and `Isoviha`, but combined with more ambient elements and at a more galacial pace. I don't dislike it but I find this one a bit lacking in terms of highlights.
+
+  [7.0/10]
+
+## Om Unit - Acid Dub Studies II
+
+  ![](https://f4.bcbits.com/img/a1279450667_16.jpg)
+
+  Gotta love me some quality dub techno that leans much more on the dub side than the techno side.
+
+  [8.2/10]
+
+## Patricia Wolf - See Through
+
+  ![](https://f4.bcbits.com/img/a3705758829_16.jpg)
+
+  Brooding synth ambient. Immersive.
+
+  [8.4/10]
+
+## Kali Malone - Living Torch
+
+  ![]()
+
+  []
