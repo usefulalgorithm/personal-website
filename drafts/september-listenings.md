@@ -82,3 +82,17 @@ tags: music and stuff
   ![]()
 
   []
+
+## Time Wharp - Spiro World
+
+  ![](https://f4.bcbits.com/img/a1971162551_16.jpg)
+
+  It's like Tortoise meets Jaga Jazzist. I dig this.
+
+  [8.3/10]
+
+## 700 Bliss - 700 Bliss
+
+  ![](https://f4.bcbits.com/img/a3614686902_16.jpg)
+
+  []
