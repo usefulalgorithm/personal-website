@@ -77,11 +77,13 @@ tags: music and stuff
 
   [8.4/10]
 
-## Kali Malone - Living Torch
+## JID - The Forever Story
 
-  ![]()
+  ![](https://i.scdn.co/image/ab67616d0000b2736de37e432e720323f4e31edc)
 
-  []
+  Another killer release from JID. Really dig the way he raps.
+
+  [8.4/10]
 
 ## Time Wharp - Spiro World
 
@@ -95,4 +97,6 @@ tags: music and stuff
 
   ![](https://f4.bcbits.com/img/a3614686902_16.jpg)
 
-  []
+  Experimental hip-hop. I like Moor Mother a lot but while this is pretty fun to listen to (lots of self referential humor), it does not really have that moving power that's usually present on Moor Mother's albums...
+
+  [7.0/10]
