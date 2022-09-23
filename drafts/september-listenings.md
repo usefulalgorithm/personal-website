@@ -100,3 +100,19 @@ tags: music and stuff
   Experimental hip-hop. I like Moor Mother a lot but while this is pretty fun to listen to (lots of self referential humor), it does not really have that moving power that's usually present on Moor Mother's albums...
 
   [7.0/10]
+
+## Tomu DJ - Half Moon Bay
+
+  ![](https://f4.bcbits.com/img/a3107082408_16.jpg)
+
+  Chill, uplifting, enjoyable but actually kinda forgettable club techno.
+
+  [6.7/10]
+
+## Codeine - Dessau
+
+  ![](https://f4.bcbits.com/img/a1762213724_16.jpg)
+
+  Slowcore giant's sophomore album from 30 years ago just got unerathed and released. To be honest I am never really that into Codeine's stuff - they're not as emo as Red House Painters or cool as Duster. One thing for certain is that this one feels much more angular than `Frigid Stars`, but it's not like this release will change my opinion on them or anything... Maybe I should listen to `The White Birch`?
+
+  [7.2/10]
