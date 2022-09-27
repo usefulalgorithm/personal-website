@@ -116,3 +116,35 @@ tags: music and stuff
   Slowcore giant's sophomore album from 30 years ago just got unerathed and released. To be honest I am never really that into Codeine's stuff - they're not as emo as Red House Painters or cool as Duster. One thing for certain is that this one feels much more angular than `Frigid Stars`, but it's not like this release will change my opinion on them or anything... Maybe I should listen to `The White Birch`?
 
   [7.2/10]
+
+## Grace Ives - Janky Star
+
+  ![](https://i.kfs.io/album/global/176612223,1v1/fit/500x500.jpg)
+
+  Vintage voice meets modern pop music production. I'm kinda indifferent to this one...
+
+  [7.0/10]
+
+## Yaya Bey - Remember Your North Star
+
+  ![](https://f4.bcbits.com/img/a1660335418_16.jpg)
+
+  Jazzy R&B / hip-hop. I dunno, the lyrical theme is about something I'm very interested in but the music just does not feel all that interesting, and I was not really paying a lot of attention whenever I decided maybe I should give this a more serious listen...
+
+  [6.8/10]
+
+## Kali Malone - Living Touch
+
+  ![](https://f4.bcbits.com/img/a4077013277_16.jpg)
+
+  Kali Malone is still killer.
+
+  [8.3/10]
+
+## salute - Ultra Pool
+
+  ![](https://f4.bcbits.com/img/a0315675971_16.jpg)
+
+  Dancehall friendly, super glossy, rather annoying club house music.
+
+  [6.3/10]
