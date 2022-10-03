@@ -11,7 +11,7 @@ tags: music and stuff
 
   Trip-hop. Or as he said it himself, post-grime? I'm not really that familiar (nor really a fan) of grime music though...
 
-  Release date: 2019-12-08
+  Release date: 2022-09-09
 
   [8.6/10]
 
@@ -31,7 +31,7 @@ tags: music and stuff
 
   Brooding synth ambient. Immersive.
 
-  Release date: 2020-02-14
+  Release date: 2022-05-13
 
   [8.4/10]
 
@@ -121,7 +121,7 @@ tags: music and stuff
 
   Upbeat dance techno. Sounds alright, doesn't really click for me.
 
-  Release date: 2021-12-10
+  Release date: 2022-06-17
 
   [7.2/10]
 
