@@ -65,6 +65,18 @@ tags: music and stuff
 
   ![](https://f4.bcbits.com/img/a1589291795_16.jpg)
 
-  R&B / pop.
+  R&B / pop. This one is extremely well received but to be honest I really don't get the hype...
 
   [7.0/10]
+
+## Duval Timothy - Meeting with a Judas Tree
+
+  ![](https://f4.bcbits.com/img/a0471216186_16.jpg)
+
+  Wonky, warbly R&B solo piano. I dig this.
+
+  [8.4/10]
+
+## Daniel Avery - Ultra Truth
+
+
