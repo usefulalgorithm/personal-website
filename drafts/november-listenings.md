@@ -77,6 +77,34 @@ tags: music and stuff
 
   [8.4/10]
 
+## Horse Lords - Comradely Objects
+
+  ![](https://f4.bcbits.com/img/a0155432732_16.jpg)
+
+  This one feels a lot more conventional than their earlier stuff. Or maybe conventional is not the correct way to describe this, but that this is an album where you can find many similarity with a lot of other bands like Black Midi, The Comet is Coming and so on.
+
+  [7.7/10]
+
+## Moin - Paste
+
+  ![](https://f4.bcbits.com/img/a0190779692_16.jpg)
+
+  Math-rock / post-hardcore. Really glad there are still people making this kind of music.
+
+  [8.6/10]
+
+## Rival Consoles - Now Is
+
+  ![](https://f4.bcbits.com/img/a1538288243_16.jpg)
+
+  This is more fun than their album from last year.
+
+  [7.3/10]
+
 ## Daniel Avery - Ultra Truth
 
+  ![](https://f4.bcbits.com/img/a2631565452_16.jpg)
 
+  Club-friendly ambient techno. I can imagine me banging my head to it if I go to a club (I don't) and the DJ is playing this, but when I'm listening alone I'd stick with `Song for Alpha` instead of this.
+
+  [7.4/10]
