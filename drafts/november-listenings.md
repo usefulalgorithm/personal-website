@@ -140,3 +140,20 @@ tags: music and stuff
   Haven't really listened to any of his stuff other than the marvellous `Body Riddle`, but this is quite pleasant to listen to. The first several tracks are super fire, whereas the latter tracks are more atmospheric ambient tracks.
 
   [8.2/10]
+
+## Ulla - foam
+
+  ![](https://f4.bcbits.com/img/a2199026417_16.jpg)
+
+  This feels more lighthearted than her other stuff. Or just a bunch of pretty good samples stacked together...
+
+  [7.7/10]
+
+## Ulla - Limitless Frame
+
+  ![](https://f4.bcbits.com/img/a1660591416_16.jpg)
+  
+  Although I still think `Tumbling Towards a Wall` is her best work to date, this is nevertheless pretty solid ambient music. While the former focused more on the lo-fi, heavily degraded instrumental loops and glitches, this one wants to create an atmosphere that is at once warm and immersive. Or I guess I'm just trying to say this is more like traditional ambient music (which I enjoy) than TTaW...
+
+  [8.1/10]
+
