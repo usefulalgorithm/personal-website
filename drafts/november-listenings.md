@@ -108,3 +108,35 @@ tags: music and stuff
   Club-friendly ambient techno. I can imagine me banging my head to it if I go to a club (I don't) and the DJ is playing this, but when I'm listening alone I'd stick with `Song for Alpha` instead of this.
 
   [7.4/10]
+
+## Nas - King's Disease III
+
+  ![](https://i.scdn.co/image/ab67616d0000b27304072ea3871d4fea30e1f2c8)
+
+  I didn't expect this one to be this good... the beats are dope and the flows are nice, don't see what's not to like on this one.
+
+  [8.1/10]
+
+## Sarah Davachi - Two Sisters
+
+  ![](https://f4.bcbits.com/img/a3815953652_16.jpg)
+
+  Mood today: extreme gloom ambient pipe organ music...
+
+  [7.5/10]
+
+## Gloria de Olivia, Dean Hurley - Oceans of Time
+
+  ![](https://f4.bcbits.com/img/a2742479750_10.jpg)
+
+  Dean Hurley has always (or at least as far as I know of) been doing somewhat spooky electro-ambient, so this is definitely very different from that... Really really dreamy dream-pop. Sounds pretty good but doesn't have those kind of songs that make bands like Beach House great.
+
+  [7.1/10]
+
+## Clark - 05 10
+
+  ![](https://f4.bcbits.com/img/a0594522118_16.jpg)
+
+  Haven't really listened to any of his stuff other than the marvellous `Body Riddle`, but this is quite pleasant to listen to. The first several tracks are super fire, whereas the latter tracks are more atmospheric ambient tracks.
+
+  [8.2/10]
