@@ -51,4 +51,4 @@ tags: music and stuff
 
   House-rap is definitely something I didn't know I'd dig before I heard it. Also the queer theme is still quite prevalent on this one, which is always pretty cool to see.
 
-  [8.0/10]
+  [7.8/10]
