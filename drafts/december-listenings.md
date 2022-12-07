@@ -37,7 +37,18 @@ tags: music and stuff
 
   [7.2/10]
 
+## Pole - Tempus
+
+  ![](https://f4.bcbits.com/img/a1292958939_16.jpg)
+
+  Slippery ambient dub techno with piano. I enjoy this.
+
+  [8.1/10]
+
 ## Cakes da Killa - Svengali
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3379754975_16.jpg)
 
+  House-rap is definitely something I didn't know I'd dig before I heard it. Also the queer theme is still quite prevalent on this one, which is always pretty cool to see.
+
+  [8.0/10]
