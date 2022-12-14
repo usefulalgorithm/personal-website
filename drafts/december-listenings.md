@@ -52,3 +52,35 @@ tags: music and stuff
   House-rap is definitely something I didn't know I'd dig before I heard it. Also the queer theme is still quite prevalent on this one, which is always pretty cool to see.
 
   [7.8/10]
+
+## Ashenspire - Hostile Architecture
+
+  ![](https://f4.bcbits.com/img/a0719030390_16.jpg)
+
+  Avant-garde metal. I like the more straight up metal tracks more than the more classical-influenced ones.
+
+  [7.7/10]
+
+## Curd Duca - Waves 3
+
+  ![](https://f4.bcbits.com/img/a2332883899_16.jpg)
+
+  This one feels more random than the previous ones. Like a pretty good sample pack, but hard to figure out the overall theme.
+
+  [6.9/10]
+
+## Roman Flügel - Balmy Evening
+
+  ![](https://f4.bcbits.com/img/a0157255654_16.jpg)
+
+  IDM / minimal house. I enjoy the ambient tracks bu not so much the more upbeat techno tracks.
+
+  [6.8/10]
+
+## Leyland Kirby - The Death Of Rave (A partial flashback)
+
+  ![](https://f4.bcbits.com/img/a1960744180_16.jpg)
+
+  Unsettling ambient tracks sampled from rave tracks. Read an [article from Fact](https://www.factmag.com/2014/06/10/vvm-the-death-of-rave-a-partial-flashback/) that says this album was a dig at the rave scene , and was conceptualized when he went to a famous Berlin club... wild. That last track is very brutal.
+
+  [8.5/10]
