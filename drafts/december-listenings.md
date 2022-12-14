@@ -84,3 +84,29 @@ tags: music and stuff
   Unsettling ambient tracks sampled from rave tracks. Read an [article from Fact](https://www.factmag.com/2014/06/10/vvm-the-death-of-rave-a-partial-flashback/) that says this album was a dig at the rave scene , and was conceptualized when he went to a famous Berlin club... wild. That last track is very brutal.
 
   [8.5/10]
+
+## Precipitation - Glass Horizon
+
+  ![](https://f4.bcbits.com/img/a2151419550_16.jpg)
+
+  Ambient house. Quite unmemorable...
+
+  [6.0/10]
+
+## Richie Culver - I was born by the sea
+
+  ![](https://f4.bcbits.com/img/a4248256935_16.jpg)
+
+  Experimental ambient. At first I wasn't paying attention to the spoken word parts, and then I did, and then I realized how dope this thing is. [Boomkat's recommendation article on this album](https://boomkat.com/products/i-was-born-by-the-sea) is also a pretty good read. 
+
+  [8.4/10]
+
+## The Umlauts - Another Fact
+
+  ![](https://f4.bcbits.com/img/a2942429492_16.jpg)
+
+  Club influenced post-punk / synth pop. This wouldn't feel out of place if this is in the Cyberpunk anime series.
+
+  [6.7/10]
+
+  []
