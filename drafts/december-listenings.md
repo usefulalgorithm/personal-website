@@ -109,4 +109,18 @@ tags: music and stuff
 
   [6.7/10]
 
-  []
+## Floating Points - Someone Close
+
+  ![](https://f4.bcbits.com/img/a0142746980_16.jpg)
+
+  This one feels more club-friendly than the other ones from his discography...
+
+  [6.5/10]
+
+## SZA - SOS
+
+  ![](https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1)
+
+  Pop rap. The only song that I really like on this album is definitely `Kill Bill`. The rest are more miss than hit for me.
+
+  [6.3/10]
