@@ -124,3 +124,41 @@ tags: music and stuff
   Pop rap. The only song that I really like on this album is definitely `Kill Bill`. The rest are more miss than hit for me.
 
   [6.3/10]
+
+## TLF Trio - Sweet Harmony
+
+  ![](https://f4.bcbits.com/img/a1608211832_16.jpg)
+
+  Chamber music / jazz-noir / modern classical.
+
+  [6.8/10]
+
+## Galya Bisengalieva - Aralkum Aralas
+
+  ![](https://f4.bcbits.com/img/a3544094605_16.jpg)
+
+  Slick experimental electronic music. It's got Moor Mother, Jlin, Actress, Coby Sey on it... pretty wild stuff.
+
+  [8.1/10]
+
+## Asian Glow, Weatherday - Weatherglow
+
+  ![]()
+
+  No idea Weatherday had an EP this year... Really good indie rock. The production quality went up a lot on this one.
+
+  [8.4/10]
+
+## Ginger Root - Misemono
+
+  ![]()
+
+  Jazzy bedroom pop funk / city-pop. The chord progressions on this EP is mind blowing.
+
+  [8.2/10]
+
+## Loke Rahbek, Frederik Valetin - Together
+
+  ![]()
+
+  []
