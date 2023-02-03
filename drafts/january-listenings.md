@@ -7,7 +7,7 @@ tags: music and stuff
 
 ## Artificial Brain - Artificial Brain
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2049691384_16.jpg)
 
   Fiery tech death. To me I like it better if it's more on the heavier side (cf. Ulcerate), but this is still quite decent metal music.
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
 ## Designers - Designers
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1678632108_16.jpg)
 
   Delicate modern jazz music.
 
@@ -92,6 +92,14 @@ tags: music and stuff
   Dub techno. Dope sounds.
 
   [8.3/10]
+
+## Hildur Guðnadóttir & Sam Slater - Battlefield 2042
+
+  ![](https://i.scdn.co/image/ab67616d0000b2734af69ca25ca80f83e7765e4d)
+
+  I guess when you're playing FPS games and Pan Sonic is being played in the background it's gonna be pretty good? On its own it kind of feels a little too over the top though.
+
+  [7.1/10]
 
 ## Caroline Polachek - Welcome to My Island
 
