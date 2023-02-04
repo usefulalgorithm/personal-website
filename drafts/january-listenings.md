@@ -101,8 +101,50 @@ tags: music and stuff
 
   [7.1/10]
 
-## Caroline Polachek - Welcome to My Island
+## Blut Aus Nord - Disharmonium  Undreamable Abysses
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1144509702_16.jpg)
 
-  []
+  Psychedelic black metal. Insane stuff.
+
+  [8.5/10]
+
+## Hen Ogledd - Hen Ogledd
+
+  ![](https://f4.bcbits.com/img/a0609021128_16.jpg)
+
+  Noise music with distorted acoustic guitar and harp. It's easy to tell it's Richard Dawson playing the guitar, and there is definitely some good parts but overall this is kind of too all over the place.
+
+  [6.5/10]
+
+## Simon Raymonde - Solo Works 96 98
+
+  ![](https://f4.bcbits.com/img/a0105019432_16.jpg)
+
+  Dream-pop that is more pop than shimmery shoegaze from Cocteau Twinsmember.
+
+  [7.8/10]
+
+## Mister Water Wet - Top Natural Drum
+
+  ![](https://f4.bcbits.com/img/a3561191462_16.jpg)
+
+  This one feels more jazz than ambient to me. I dig this a lot!
+
+  [8.4/10]
+
+## Honour - Beg 4 Mercy
+
+  ![](https://f4.bcbits.com/img/a3796266867_16.jpg)
+
+  I like Dean Blunt and Cities Aviv so I like this EP.
+
+  [8.3/10]
+
+## Caroline Polachek - Welcome To My Island
+
+  ![](https://f4.bcbits.com/img/a0762644395_16.jpg)
+
+  Dance-pop. Not really feeling it...
+
+  [6.0/10]
