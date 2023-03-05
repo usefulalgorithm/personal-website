@@ -7,7 +7,7 @@ tags: music and stuff
 
 ## Meitei - Shiturai
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1331925154_16.jpg)
 
   Soothing but somewhat unmemorable ambient piano music. Hope he does another full-length album sooner than later...
 
@@ -19,7 +19,7 @@ tags: music and stuff
 
   Alternative country music. I love Adrianne Lenker but somehow Big Thief has always evaded me, or maybe it is the other way around.
 
-  [8.3/10]
+  [8.1/10]
 
 ## David Edren, H. Takahashi - Flow
 
@@ -27,12 +27,108 @@ tags: music and stuff
 
   Shimmery ambient. This is exactly the kind of music I enjoy.
 
-  [8.2/10]
+  [8.3/10]
 
 ## Atom™ - Nacht
 
   ![](https://f4.bcbits.com/img/a0097039424_16.jpg)
 
-  Sprawling, gnarly techno. Awesome stuff...
+  Sprawling, gnarly techno. Awesome stuff.
 
-  [8.4/10]
+  [8.0/10]
+
+## Drum & Lace - Frost
+
+  ![](https://f4.bcbits.com/img/a1276427690_16.jpg)
+
+  Ambient vocal music. Very soothing to listen to.
+
+  [7.5/10]
+
+## Young Fathers - Heavy Heavy
+
+  ![](https://f4.bcbits.com/img/a0737973087_16.jpg)
+
+  I've been following them since their first EP a while back, but I still haven't figured out what kind of music they make... Hip-hop / R&B / neo-psychedelic / gospel maybe? Someone on RYM said it's like This Heat does Animal Collective, which is actually quite on point.
+
+  [8.2/10]
+
+## Pavel Milyakov - project mirrors
+
+  ![](https://f4.bcbits.com/img/a3423116601_16.jpg)
+
+  Majestic experimental techno. Buttechno never disappoints.
+
+  [8.3/10]
+
+## Parannoul - After the Magic
+
+  ![](https://f4.bcbits.com/img/a2508246977_16.jpg)
+
+  Dream-pop from Korea. Some tracks are pretty good.
+
+  [7.4/10]
+
+## Kelly Lee Owens - LP.8.2
+
+  ![](https://f4.bcbits.com/img/a1987981430_16.jpg)
+
+  Minimalistic electronic / pop.
+
+  [6.8/10]
+
+## Paperclip Minimiser - Paperclip Minimiser
+
+  ![](https://f4.bcbits.com/img/a4167866992_16.jpg)
+
+  Dub techno. Alright but doesn’t really stand out.
+
+  [6.6/10]
+
+## Rian Treanor & Ocen James - Saccades
+
+  ![](https://f4.bcbits.com/img/a0755454409_10.jpg)
+
+  African traditional music meets experimental electronic music. This is probably my favorite among rian treanors discography, pretty awesome stuff.
+
+  [8.2/10]
+
+## Radioactive Man - Radioactive Man
+
+  ![](https://f4.bcbits.com/img/a1440584360_16.jpg)
+
+  Old school IDM.
+
+  [7.3/10]
+
+## Facta - Emeline
+
+  ![](https://f4.bcbits.com/img/a1779983238_16.jpg)
+
+  Bouncy, organic house music.
+
+  [7.1/10]
+
+## Farid El Atrache - Nagham Fi Hayati
+
+  ![](https://assets.boomkat.com/spree/products/855734/large/image002.png)
+
+  Mystical Arabian traditional music. Seems to be a soundtrack to a movie, would love to watch it someday.
+
+  [7.0/10]
+
+## Harmonious Thelonious - Cheapo Sounds
+
+  ![](https://f4.bcbits.com/img/a0353074791_16.jpg)
+
+  Hypnotic rhythmic synth loop album. Dig this kind of stuff.
+
+  [8.0/10]
+
+## Mdou Moctar - Afrique Victime
+
+  ![](https://f4.bcbits.com/img/a0967337603_16.jpg)
+
+  Psychedelic Saharan rock. The album fully captures the energy present in their KEXP live show video.
+
+  [8.0/10]
