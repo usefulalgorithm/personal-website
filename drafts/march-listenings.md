@@ -15,7 +15,7 @@ tags: music and stuff
 
 ## betcover!! - 時間
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a0527064750_16.jpg)
 
   Super psychedelic Japanese R&B. This one is really wild.
 
@@ -35,7 +35,32 @@ tags: music and stuff
 
 ## Kate NV - Wow
 
+  ![](https://f4.bcbits.com/img/a3771144374_16.jpg)
+
+  Left field synth pop. I like Nobukazu Takemura and Nyege Nyege Tapes so I like this.
+
+  [8.3/10]
+
+## King Tubby - The Best of Dub
+
   ![]()
 
-  []
+  It is indeed the best of dub.
 
+  [8.6/10]
+
+## Ibrahim Alfa Jnr - Sirius A
+
+  ![](https://f4.bcbits.com/img/a2820071275_16.jpg)
+
+  Wonky techno. At first it sounded pretty fresh, but as I finish the album I feel that the tracks are just way too similar to each other both in terms of sonic texture and speed.
+
+  [6.7/10]
+
+## Enon - Grass Geysers... Carbon Clouds
+
+  ![]()
+
+  Noise pop / indie rock. Very radio friendly... not really my thing.
+
+  [5.0/10]
