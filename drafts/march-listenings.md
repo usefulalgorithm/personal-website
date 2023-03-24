@@ -23,15 +23,11 @@ tags: music and stuff
 
 ## Ill Considered - Liminal State
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3345063251_16.jpg)
 
-  [7.6/10]
+  Modern spiritual jazz.
 
-## Portico Quartet - Monument
-
-  ![]()
-
-  []
+  [7.4/10]
 
 ## Kate NV - Wow
 
@@ -64,3 +60,49 @@ tags: music and stuff
   Noise pop / indie rock. Very radio friendly... not really my thing.
 
   [5.0/10]
+
+## Material Girl - i85mixx21 22
+
+  ![]()
+
+  Experimental cloud hip-hop / drum & bass. This is so good.
+
+  [8.4/10]
+
+## Gorgonn - Six Paths
+
+  ![](https://f4.bcbits.com/img/a2973359380_16.jpg)
+
+  Claustrophobic, somewhat monotonic industrial noise-dub. Probably great as DJ material though.
+
+  [6.6/10]
+  
+## Cecil Taylor Unit - Dark To Themselves
+
+  ![](https://i.scdn.co/image/ab67616d0000b273022566196f015bd5165e4cb1)
+
+  Free jazz. Holy balls this is some intense music...
+
+  [9.0/10]
+
+## Fever Ray - Radical Romantics
+
+  ![](https://f4.bcbits.com/img/a2669781793_16.jpg)
+
+  Sounds like Bjork...
+
+  [6.3/10]
+
+## The Necks - Travel
+
+  ![](https://f4.bcbits.com/img/a1007617714_16.jpg)
+
+  Jazz-noir. Too minimalistic, sparse, and not in an interesting way.
+
+  [6.8/10]
+
+## Portico Quartet - Monument
+
+  ![]()
+
+  []
