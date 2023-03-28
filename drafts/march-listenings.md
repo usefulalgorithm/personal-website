@@ -39,7 +39,7 @@ tags: music and stuff
 
 ## King Tubby - The Best of Dub
 
-  ![]()
+  ![](https://i.scdn.co/image/ab67616d0000b27360ac7fff16a6ad8515464090)
 
   It is indeed the best of dub.
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
 ## Enon - Grass Geysers... Carbon Clouds
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2728032656_16.jpg)
 
   Noise pop / indie rock. Very radio friendly... not really my thing.
 
@@ -63,7 +63,7 @@ tags: music and stuff
 
 ## Material Girl - i85mixx21 22
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1676757101_16.jpg)
 
   Experimental cloud hip-hop / drum & bass. This is so good.
 
@@ -99,10 +99,27 @@ tags: music and stuff
 
   Jazz-noir. Too minimalistic, sparse, and not in an interesting way.
 
-  [6.8/10]
+  [6.7/10]
+
+## JPEGMAFIA, Danny Brown - SCARING THE HOES
+
+  ![](https://i.guim.co.uk/img/media/6a8740ce71c25975c87c20eec54a6f1c1cb4fd92/0_0_3000_3000/master/3000.jpg?width=380&quality=45&dpr=2&s=none)
+
+  This feels more like a JPEG album with a Danny Brown feature. Bombastic left-field alternative rap.
+
+  [8.2/10]
+
+## Liturgy - 93696
+
+  ![](https://f4.bcbits.com/img/a0511623419_16.jpg)
+
+  This is a lot more black metal than `Origin of Alimonies`, while still retaining that dramatic sense with those operatic passages. The track `93696` reminds me of the band `Cobolt`.
+
+  [7.7/10]
 
 ## Portico Quartet - Monument
 
   ![]()
 
   []
+
