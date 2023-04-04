@@ -116,10 +116,3 @@ tags: music and stuff
   This is a lot more black metal than `Origin of Alimonies`, while still retaining that dramatic sense with those operatic passages. The track `93696` reminds me of the band `Cobolt`.
 
   [7.7/10]
-
-## Portico Quartet - Monument
-
-  ![]()
-
-  []
-
