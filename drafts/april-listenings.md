@@ -23,12 +23,38 @@ tags: music and stuff
 
 ## Tim Hecker - No Highs
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2157297652_16.jpg)
 
-  []
+  I like the sound on this album. Very subdued.
+
+  [8.1/10]
 
 ## Patrick Shiroishi - Evergreen
 
+  ![](https://f4.bcbits.com/img/a1004227371_16.jpg)
+
+  Ambient / field recording. To me this is much less focused than the marvellous `Hidemi` from 2021.
+
+  [6.7/10]
+
+## MJ Guider - Temporary Requiem
+
+  ![](https://f4.bcbits.com/img/a1984562409_16.jpg)
+
+  Doomy shoegaze.
+
+  [8.1/10]
+
+## Hedvig Mollestad Trio - Evil in Oslo
+
   ![]()
 
+  Blues rock / stoner rock. Guitar tone is quite chunky but the virtuosity is just not there IMO.
 
+  [6.0/10]
+
+## Chunky - Somebody's Child
+
+  ![]()
+
+  []
