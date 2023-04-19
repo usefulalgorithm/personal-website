@@ -53,8 +53,26 @@ tags: music and stuff
 
   [6.0/10]
 
+## Yves Tumor - Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds)
+
+  ![](https://f4.bcbits.com/img/a2855443234_16.jpg)
+
+  R&B / art-rock. With each album release their music gets more grandiose and stadium rock oriented. I don't dislike it but I'd say `Heaven to a Tortured Mind` is the album that achieves the most out of this kind of sound.
+
+  [7.6/10]
+
+## Piotr Kurek - Edena
+
+  ![](https://f4.bcbits.com/img/a3368907623_16.jpg)
+
+  Synth electronic loop music.
+
+  [8.1/10]
+
 ## Chunky - Somebody's Child
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2650126951_16.jpg)
 
-  []
+  UK rap. Not really feeling it...
+
+  [6.8/10]
