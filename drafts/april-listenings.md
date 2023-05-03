@@ -5,6 +5,14 @@ comments: true
 tags: music and stuff
 ---
 
+## Pile - All Fiction
+
+  ![]()
+
+  I feel like they've been on a trajectory since `A Hair Shirt of Purpose` from noisy indie rock band that occasionally does insanely catchy but still very playful songs, to right now where they discard that dissonance to a large degree and focus more on Rick's vocal lines.
+
+  [6.6/10]
+
 ## Lucinda Chua - Yian
 
   ![]()
