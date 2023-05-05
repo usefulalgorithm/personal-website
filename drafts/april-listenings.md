@@ -7,7 +7,7 @@ tags: music and stuff
 
 ## Pile - All Fiction
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2802966857_10.jpg)
 
   I feel like they've been on a trajectory since `A Hair Shirt of Purpose` from noisy indie rock band that occasionally does insanely catchy but still very playful songs, to right now where they discard that dissonance to a large degree and focus more on Rick's vocal lines.
 
@@ -15,7 +15,7 @@ tags: music and stuff
 
 ## Lucinda Chua - Yian
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3480717492_16.jpg)
 
   Wonderful minimalistic modern classical pop. This is so good...
 
@@ -55,7 +55,7 @@ tags: music and stuff
 
 ## Hedvig Mollestad Trio - Evil in Oslo
 
-  ![]()
+  ![](https://cdn.shopify.com/s/files/1/0409/4807/2609/products/37931_18_1000x.jpg?v=1592842567)
 
   Blues rock / stoner rock. Guitar tone is quite chunky but the virtuosity is just not there IMO.
 
@@ -84,3 +84,67 @@ tags: music and stuff
   UK rap. Not really feeling it...
 
   [6.8/10]
+
+## Yaeji - With a Hammer
+
+  ![](https://i.scdn.co/image/ab67616d0000b2737c384818e82bff27e3fb0d88)
+
+  I feel kind of similarto when I first heard Rina Sawayama's first full-length LP: they're both pretty good, but not really anywhere close to the EP that made me want to follow their discography. I just don't think it's as bombastic and catchy as the `What We Drew`.
+
+  [7.1/10]
+
+## Grant Chapman - Indentations
+
+  ![](https://f4.bcbits.com/img/a1343230186_16.jpg)
+
+  Ambient. It's like Meitei + Julianna Barwick. It is very good.
+
+  [8.2/10]
+
+## Binker & Moses - Feeding the Machine
+
+  ![](https://f4.bcbits.com/img/a1792117924_16.jpg)
+
+  Modern jazz. Instruments wise this is very stripped down, but it's overflowing with musical ideas. I enjoy the parts where they're just shredding or getting moody, the parts between those I feel is a bit less appealing and borderline forgettable.
+
+  [7.7/10]
+
+## Contact U - Dancing Inner Space, 1982 1984
+
+  ![](https://f4.bcbits.com/img/a2483654921_16.jpg)
+
+  Funk / dance. I can definitely recognize the sound on this LP from some records that I really like, but a record comprised of this and only this type of electronic funk is kind of numbing.
+
+  [6.6/10]
+
+## Dastardly Kids - Delinquent
+
+  ![](https://f4.bcbits.com/img/a0675742390_16.jpg)
+
+  Detroit hip-hop. The beats are quite nice, shame there's only fifteen minutes of it.
+
+  [7.6/10]
+
+## Joanne Robertson - Blue Car
+
+  ![](https://f4.bcbits.com/img/a2328132314_16.jpg)
+
+  Dreamy indie folk. FFO Cat Power and Grouper.
+
+  [8.1/10]
+
+## Fatima al Qadiri - Gumar
+
+  ![](https://f4.bcbits.com/img/a0447014978_16.jpg)
+
+  Minimal ambient-pop. Sprawling, suspensful middle eastern vibe.
+
+  [7.1/10]
+
+## Stephan Mathieu, David Sylvian - Wandermüde
+
+  ![](https://i.scdn.co/image/ab67616d0000b273ddb9b207c23042edee1bef0f)
+
+  Wonderful ambient tracks.
+
+  [8.2/10]
