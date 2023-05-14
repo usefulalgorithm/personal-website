@@ -7,13 +7,17 @@ tags: music and stuff
 
 ## Portrayal of Guilt - Devil Music
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3830043412_16.jpg)
 
-  [6.4/10]
+  It's as meh as it can be. The last chamber music suite is just... strange in a bad way.
+
+  [6.3/10]
 
 ## Christoph De Babalon - Leaving Time
 
   ![]()
+
+  This is tamer than his last several releases.
 
   [7.5/10]
 
@@ -21,11 +25,15 @@ tags: music and stuff
 
   ![]()
 
+  I wasn't expecting this to be more metal than doom... it's pretty good, hopefully they keep it going and tour a bit. I'd definitely go see.
+
   [7.8/10]
 
 ## billy woods, Kenny Segal - Maps
 
   ![]()
+
+  They're back at it.
 
   [8.1/10]
 
@@ -50,6 +58,14 @@ tags: music and stuff
   Why this can be so corny yet so much fun is beyond me...
 
   [8.0/10]
+
+## Kassem Mosse - Workshop 32
+
+  ![](https://f4.bcbits.com/img/a2290018590_16.jpg)
+
+  I think abstract house is the best term to describe this one.
+
+  [8.1/10]
 
 ## Caroline Polachek - Desire, I Want To Turn Into You
 
