@@ -37,23 +37,17 @@ tags: music and stuff
 
   [8.1/10]
 
-## CS + Kreme - Orange
-
-  ![]()
-
-  [7.3/10]
-
 ## Earth - Even Hell has its Heroes (Original Motion Picture Soundtrack)
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2967642796_10.jpg)
 
   Earth is one of those super rare bands whose discography is so consistently awesome.
 
-  [8.1/10]
+  [8.0/10]
 
-## 100 gecs - 10,000 gecs
+## 100 gecs - 10000 gecs
 
-  ![]()
+  ![](https://i.scdn.co/image/ab67616d0000b27323c7a7224c1378fc3e6427cb)
 
   Why this can be so corny yet so much fun at the same time is beyond me...
 
@@ -69,17 +63,47 @@ tags: music and stuff
 
 ## Caroline Polachek - Desire, I Want To Turn Into You
 
-  ![]()
+  ![](https://i.kfs.io/album/global/224875706,1v1/fit/500x500.jpg)
 
   Pop. I still don't get why people are so into her... to me it's quite mediocre.
 
   [5.5/10]
 
-## Hauschka, Hildur Guonadottir - Pan Tone
+## Midwife, Vyva Melinkolya - Orbweaving
+
+  ![](https://f4.bcbits.com/img/a1381864395_16.jpg)
+
+  Sadcore. I still think their best album is `Forever`, but this is also quite nice.
+
+  [8.3/10]
+
+## Rina Sawayama - Hold The Girl
+
+  ![](https://i.scdn.co/image/ab67616d0000b273104771507d9c63da11abb6dc)
+
+  This is probably her most accessible album to date.
+
+  [7.8/10]
+
+## The Space Lady - The Space Lady's Greatest Hits
+
+  ![](https://f4.bcbits.com/img/a1237549209_10.jpg)
+
+  Cosmic psychedelic outsider pop. To call this "outsider music" does not really do it justice, it's like calling off Stereolab as alt-rock and just leave it at that. The lady's story behind her oeuvre is also very fascinating.
+
+  [8.3/10]
+
+## Colorlist - Full Circle
+
+  ![](https://f4.bcbits.com/img/a0970750950_16.jpg)
+
+  Modern jazz / electronic. FFO of Tortoise. I enjoy this very much. The track `Kink in the Line` has some really sick drums.
+
+  [8.3/10]
+
+## Ecka Mordecai - Promise & Illusion
 
   ![]()
-
-  Modern classical.
 
   []
 
@@ -89,24 +113,19 @@ tags: music and stuff
 
   []
 
-## Midwife, Vyva Melinkolya - Orbweaving
+## CS + Kreme - Orange
 
   ![]()
 
-  Sadcore.
+  Jazz-noir + techno. I thought I didn't like it when I listened to it numerous times absentmindedly at work, but when I really did listen to it it's actually a banger.
 
-  [8.5/10]
+  [8.0/10]
 
-## Ecka Mordecai - Promise & Illusion
+## Hauschka, Hildur Guonadottir - Pan Tone
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a0018996632_16.jpg)
 
-  []
+  Modern classical / chamber post-rock.
 
-## Rina Sawayama - Hold The Girl
+  [7.1/10]
 
-  ![]()
-
-  This is probably her most accessible album to date.
-
-  [8.1/10]
