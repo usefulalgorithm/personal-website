@@ -101,17 +101,13 @@ tags: music and stuff
 
   [8.3/10]
 
-## Ecka Mordecai - Promise & Illusion
+## Richard Skelton - selenodesy
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2597056397_16.jpg)
 
-  []
+  It's kind of like GAS's more orchestral moments with Ben Frost-esque ambience. Dope stuff.
 
-## Flume - Things Don't Always Go The Way You Plan
-
-  ![]()
-
-  []
+  [8.5/10]
 
 ## CS + Kreme - Orange
 
@@ -128,4 +124,24 @@ tags: music and stuff
   Modern classical / chamber post-rock.
 
   [7.1/10]
+
+## Marissa Nadler - The Path of the Clouds
+
+  ![](https://f4.bcbits.com/img/a3156985101_16.jpg)
+
+  Dream-pop + gothic country... Dream-country?
+
+  [8.2/10]
+
+## Ecka Mordecai - Promise & Illusion
+
+  ![]()
+
+  []
+
+## Flume - Things Don't Always Go The Way You Plan
+
+  ![]()
+
+  []
 
