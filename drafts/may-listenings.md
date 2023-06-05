@@ -133,6 +133,30 @@ tags: music and stuff
 
   [8.2/10]
 
+## mudy on the 昨晚 - An Instrumental
+
+  ![]()
+
+  My favorite Japanese math rock released a new album after a hiatus of who knows how long. The louder songs still kick a lot of ass.
+
+  [7.8/10]
+
+## Ital Tek - Timeproof
+
+  ![](https://f4.bcbits.com/img/a0286948287_16.jpg)
+
+  Introspective, dark techno music. I like it.
+
+  [8.2/10]
+
+## Celestaphone - Paper Cut From the Obit
+
+  ![]()
+
+  Insanely good cut-up abstract jazz rap.
+
+  [8.8/10]
+
 ## Ecka Mordecai - Promise & Illusion
 
   ![]()
@@ -141,7 +165,15 @@ tags: music and stuff
 
 ## Flume - Things Don't Always Go The Way You Plan
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a0795925567_16.jpg)
+
+  Hyperpop. I actually don't dislike it, but it's not one of those spectacular albums that I'd go back to from time to time. People are criticizing it for being inconsistent, but I find it to be miles ahead of a bunch of K-pop and contemporary Taiwanese pop albums in terms of overall production quality. Maybe it's all a matter of comparison? But then it does pale in comparison to `Arrived Anxious, Left Bored`.
+
+  [7.0/10]
+
+## Flume - Arrived Anxious, Left Bored
+
+  ![](https://f4.bcbits.com/img/a2470713246_16.jpg)
 
   []
 
