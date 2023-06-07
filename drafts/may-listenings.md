@@ -135,7 +135,7 @@ tags: music and stuff
 
 ## mudy on the 昨晚 - An Instrumental
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a4266911963_16.jpg)
 
   My favorite Japanese math rock released a new album after a hiatus of who knows how long. The louder songs still kick a lot of ass.
 
@@ -151,17 +151,11 @@ tags: music and stuff
 
 ## Celestaphone - Paper Cut From the Obit
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a0345290599_16.jpg)
 
   Insanely good cut-up abstract jazz rap.
 
   [8.8/10]
-
-## Ecka Mordecai - Promise & Illusion
-
-  ![]()
-
-  []
 
 ## Flume - Things Don't Always Go The Way You Plan
 
@@ -171,9 +165,10 @@ tags: music and stuff
 
   [7.0/10]
 
-## Flume - Arrived Anxious, Left Bored
+## Blind Girls - Residue
 
-  ![](https://f4.bcbits.com/img/a2470713246_16.jpg)
+  ![]()
 
-  []
+  Violent screamo record. Quick and on point.
 
+  [8.1/10]
