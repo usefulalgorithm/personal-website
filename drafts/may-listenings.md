@@ -15,7 +15,7 @@ tags: music and stuff
 
 ## Christoph De Babalon - Leaving Time
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2247282394_16.jpg)
 
   This is tamer than his last several releases.
 
@@ -23,7 +23,7 @@ tags: music and stuff
 
 ## Black Math Horseman - Black Math Horseman
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a0222242523_10.jpg)
 
   I wasn't expecting this to be more metal than doom... it's pretty good, hopefully they keep it going and tour a bit. I'd definitely go see.
 
@@ -31,7 +31,7 @@ tags: music and stuff
 
 ## billy woods, Kenny Segal - Maps
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2712863742_16.jpg)
 
   Another banger from these two.
 
@@ -111,7 +111,7 @@ tags: music and stuff
 
 ## CS + Kreme - Orange
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a0373672906_16.jpg)
 
   Jazz-noir + techno. I thought I didn't like it when I listened to it numerous times absentmindedly at work, but when I really did listen to it it's actually a banger.
 
@@ -167,7 +167,7 @@ tags: music and stuff
 
 ## Blind Girls - Residue
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a2212622391_16.jpg)
 
   Violent screamo record. Quick and on point.
 
