@@ -20,3 +20,33 @@ tags: music and stuff
   Nostalgic dreams. Sampled ballads weaved into synths and orchestral music.
 
   [8.6/10]
+
+## bar italia - Tracey Denim
+
+  ![](https://f4.bcbits.com/img/a0987131267_16.jpg)
+
+  RYM puts this under the category of slacker rock, which I've never heard of before... Post-punk britpop / dream pop.
+
+  [8.4/10]
+
+## atameo - it sure is sad to hope for the best while expecting the worst
+
+  ![]()
+
+  Sadboi screamo. The chugs are pretty good.
+
+  [7.3/10]
+
+## Geld - Currency // Castration
+
+  ![](https://f4.bcbits.com/img/a1997046881_16.jpg)
+
+  Hardcore punk.
+
+  [6.8/10]
+
+## Khanate - To Be Cruel
+
+  ![](https://f4.bcbits.com/img/a3411741448_16.jpg)
+
+  []
