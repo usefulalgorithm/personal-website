@@ -49,4 +49,6 @@ tags: music and stuff
 
   ![](https://f4.bcbits.com/img/a3411741448_16.jpg)
 
-  []
+  Pretty heavy stuff. Not as gnarly as I'd like though.
+
+  [7.0/10]
