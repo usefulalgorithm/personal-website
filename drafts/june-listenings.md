@@ -31,7 +31,7 @@ tags: music and stuff
 
 ## atameo - it sure is sad to hope for the best while expecting the worst
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a1399645903_10.jpg)
 
   Sadboi screamo. The chugs are pretty good.
 
@@ -109,5 +109,74 @@ tags: music and stuff
 
   [5.7/10]
 
-## Squid - O Monolith
+## King Gizzard and Lizard Wizard - PetroDragonic Apocalypse
 
+  ![](https://f4.bcbits.com/img/a2805471381_16.jpg)
+
+  Psychedelic thrash metal. This entire album rips, so many great riffs and the drums are crispy and super menacing.
+
+  [8.4/10]
+
+## Caterina Barbieri - Myuthafoo
+
+  ![](https://f4.bcbits.com/img/a4231551779_16.jpg)
+
+  An album comprised entirely of arpeggiating synth sounds. I like the more melodic tracks like `Math of You` and `Myuthafoo`.
+
+  [7.7/10]
+
+## Sigur Rós - Átta
+
+  ![](https://f4.bcbits.com/img/a0854073127_16.jpg)
+
+  Wack. OST for Avatar the movie.
+
+  [3.0/10]
+
+## Clark - sus dog
+
+  ![](https://f4.bcbits.com/img/a3727646661_16.jpg)
+
+  Synth heavy indie electro-pop IDM. This is much less sonically impressive than `Body Riddle`. Quite forgettable.
+
+  [5.3/10]
+
+## Shame - Food for Worms
+
+  ![](https://f4.bcbits.com/img/a3572843218_16.jpg)
+
+  Catchy post-punk, although I really dig the track `different person` I find the majority of the rest of the album to be more miss than hit.
+
+  [5.7/10]
+
+## Boris, Uniform - Bright New Disease
+
+  ![](https://f4.bcbits.com/img/a3845512257_16.jpg)
+
+  ???
+
+  [4.5/10]
+
+## Ka - Languish Arts
+
+  ![](https://i.scdn.co/image/ab67616d0000b273b5843dd42cf02e80fae9e1e4)
+
+  Conscious hip hop. I think this is on par with `Honor Killed the Samurai`.
+
+  [8.1/10]
+
+## Mandy, Indiana - I’ve Seen a Way
+
+  ![](https://f4.bcbits.com/img/a2760412963_16.jpg)
+
+  Visceral noise / freak techno. I dig this one a lot.
+
+  [8.5/10]
+
+## Jessie Ware - That! Feels Good!
+
+  ![](https://f4.bcbits.com/img/a0584942997_16.jpg)
+
+  Last album is way better. This is just alright disco.
+
+  [6.6/10]
