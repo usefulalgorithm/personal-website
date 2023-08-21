@@ -15,7 +15,7 @@ tags: music and stuff
 
 ## Jockstrap - I Love You Jennifer B
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a0869591723_16.jpg)
 
   Awesome pop album.
 
@@ -44,3 +44,51 @@ tags: music and stuff
   Alternative R&B / electronica. It's very good.
 
   [8.4/10]
+
+## The Sound of Animals Fighting - Apeshit
+
+  ![]()
+
+  I still love `The Ocean and the Sun`, but this one is really... underwhelming.
+
+  [5.0/10]
+
+## Dustin Wong - Perpetual Morphosis
+
+  ![](https://f4.bcbits.com/img/a3525553174_16.jpg)
+
+  Loopy new-age ambient electronic. FFO Kankyo Ongaku.
+
+  [8.1/10]
+
+## Jan Jelinek - SEASCAPE polyptych
+
+  ![](https://f4.bcbits.com/img/a0725011226_16.jpg)
+
+  The maestro drops the latter word of minimal techno altogether and focuses on abstract museum music. I can appreciate this one more than the other abstract stuff he did in the past though.
+
+  [7.8/10]
+
+## Jeromes Dream - The Gray in Between
+
+  ![]()
+
+  On one hand it is great to see a band come back and is doing stuff just as raw and aggressive as before, on the other hand it sounds too much like Loma Prieta, especially the guitar noises.
+
+  [7.5/10]
+
+## Machine Woman - In the Basement of 83 Men
+
+  ![](https://f4.bcbits.com/img/a0472870516_16.jpg)
+
+  Minimal techno.
+
+  [6.8/10]
+
+## Headache - The Head Hurts but the Heart Knows the Truth
+
+  ![](https://f4.bcbits.com/img/a3814760352_16.jpg)
+
+  Spoken word / trip-hop. It's not the most complex lyrics ever but it fits quite well with the instrumentals. Vegyn certainly doesn't miss.
+
+  [8.1/10]
