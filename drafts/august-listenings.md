@@ -23,7 +23,7 @@ tags: music and stuff
 
 ## Blur - The Ballad of Darren
 
-  ![]()
+  ![](https://i.scdn.co/image/ab67616d0000b273fc24d1ba493032a046ffd68a)
 
   When middle age dudes want to prove their relevance by doing whatever they're doing when they're much younger it's called dad rock. Speaking in terms of music genre this is not dad rock, but aethestically this is exactly that.
 
@@ -31,7 +31,7 @@ tags: music and stuff
 
 ## Doon Kanda - Celeste
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3620004111_16.jpg)
 
   No wonky classically influenced dance floor music, just straight up solo classical piano on this one.
 
@@ -47,7 +47,7 @@ tags: music and stuff
 
 ## The Sound of Animals Fighting - Apeshit
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3307726895_16.jpg)
 
   I still love `The Ocean and the Sun`, but this one is really... underwhelming.
 
@@ -71,7 +71,7 @@ tags: music and stuff
 
 ## Jeromes Dream - The Gray in Between
 
-  ![]()
+  ![](https://f4.bcbits.com/img/a3699304143_16.jpg)
 
   On one hand it is great to see a band come back and is doing stuff just as raw and aggressive as before, on the other hand it sounds too much like Loma Prieta, especially the guitar noises.
 
@@ -92,3 +92,59 @@ tags: music and stuff
   Spoken word / trip-hop. It's not the most complex lyrics ever but it fits quite well with the instrumentals. Vegyn certainly doesn't miss.
 
   [8.1/10]
+
+## LA Timpa - Pity by One All Good Measure
+
+  ![](https://f4.bcbits.com/img/a1661194967_16.jpg)
+
+  Surreal dream-pop / trip-hop loops.
+
+  [8.3/10]
+
+## Celestial - Listen to the Sky
+
+  ![](https://f4.bcbits.com/img/a0714814814_16.jpg)
+
+  Folky ambient.
+
+  [7.7/10]
+
+## Shizuka - Heavenly Persona
+
+  ![](https://f4.bcbits.com/img/a1114088249_16.jpg)
+
+  Ghostly gothic dream-pop. I think I've read people being influenced by it but I never had the chance to listen to this until now.
+
+  [7.3/10]
+
+## Noname - Sundial
+
+  ![](https://i.scdn.co/image/ab67616d0000b2736e2a480f32d1825bbd89fc07)
+
+  Conscious jazz-hop. Musically it sounds pretty good, but honestly including Jay Electronica is just... makes it very difficult to take her lines as something that's been well thought out.
+
+  [4.6/10]
+
+## Ὁπλίτης - Τρωθησομένη
+
+  ![](https://f4.bcbits.com/img/a0978358551_16.jpg)
+
+  Chinese prog black / thrash. Sounds killer. Riffs hit hard as hard can be.
+
+  [8.2/10]
+
+## Larry June, The Alchemist - The Great Escape
+
+  ![](https://i.scdn.co/image/ab67616d0000b27360bc4a5255b323583cefe763)
+
+  The Alchemist is still great at making beats, but the flow does feel someone monotonic and what he has to say in his lyrics isn’t really interesting to me.
+  
+  [7.3/10]
+
+# Genesis Owusu - Struggler
+
+  ![](https://i.scdn.co/image/ab67616d0000b273b79995bb1505e8e4f5efae7e)
+
+  I was really into his freshman album, but this one feels more bland and just all crescendo without much buildup or restraint.
+
+  [6.5/10]
