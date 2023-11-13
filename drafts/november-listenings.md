@@ -1,7 +1,6 @@
 ---
-title: 2021 June Listenings
+title: 2023 November Listenings
 layout: post
 comments: true
 tags: music and stuff
 ---
-
