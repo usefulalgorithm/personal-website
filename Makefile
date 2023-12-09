@@ -3,8 +3,7 @@ site:
 	stack exec site watch
 
 draft:
-	$(eval month := $(shell echo "import calendar;print(calendar.month_name[calendar.datetime.datetime.now().month].lower())" | python3))
-	cp drafts/templates/listenings.md drafts/$(month)-listenings.md
+	@python ./scripts/make_post.py
 
 finish:
 	$(eval date := $(shell echo "from datetime import datetime; print(datetime.now().date())" | python3))
