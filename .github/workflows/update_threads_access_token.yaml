@@ -20,9 +20,9 @@ jobs:
           RESPONSE=$(curl -i -X GET "https://graph.threads.net/access_token?grant_type=th_exchange_token&client_secret=$APP_SECRET&access_token=$SHORT_LIVED_TOKEN")
           
           # Extract the long-lived access token from the response
-          LONG_LIVED_TOKEN=$(echo "$RESPONSE" | grep -oP '(?<=access_token":")[^"]*')
+          THREADS_ACCESS_TOKEN=$(echo "$RESPONSE" | grep -oP '(?<=access_token":")[^"]*')
 
-          if [ -z "$LONG_LIVED_TOKEN" ]; then
+          if [ -z "$THREADS_ACCESS_TOKEN" ]; then
             echo "Failed to retrieve long-lived token"
             exit 1  # Fail fast if the token isn't found
           fi
@@ -30,7 +30,8 @@ jobs:
           echo "Long-lived access token retrieved successfully."
 
           # Save the long-lived token as a GitHub secret
-          echo "THREADS_ACCESS_TOKEN=$LONG_LIVED_TOKEN" >> $GITHUB_ENV
+          echo "::add-mask::$THREADS_ACCESS_TOKEN" 
+          echo "THREADS_ACCESS_TOKEN=$THREADS_ACCESS_TOKEN" >> $GITHUB_ENV
       - uses: actions/setup-node@v3
         with:
           node-version: 20
