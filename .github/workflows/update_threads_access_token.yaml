@@ -31,15 +31,35 @@ jobs:
 
           # Save the long-lived token as a GitHub secret
           echo "THREADS_ACCESS_TOKEN=$LONG_LIVED_TOKEN" >> $GITHUB_ENV
-
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 20
+      - name: Install LibSodium
+        run: |
+          npm install --global sodium-native@4.0.4
+          echo "NODE_PATH=$(npm root -g)" >> $GITHUB_ENV
       - name: Update GitHub Secret with new token
         uses: actions/github-script@v7
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          result-encoding: string
+          github-token: ${{ secrets.UPDATE_THREADS_TOKEN_PAT }}  # Use the PAT here for updating secrets
           script: |
-            github.rest.actions.createOrUpdateRepoSecret({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              secret_name: "THREADS_ACCESS_TOKEN",
-              encrypted_value: process.env.THREADS_ACCESS_TOKEN
-            })
+            const sodium = require('sodium-native');
+            const { data: {key: publicKey, key_id: keyId} } = await github.rest.actions.getRepoPublicKey({...context.repo});
+            if (publicKey) {
+              const key = Buffer.from(publicKey, 'base64');
+              const message = Buffer.from(process.env.THREADS_ACCESS_TOKEN);
+              const ciphertext = Buffer.alloc(message.length + sodium.crypto_box_SEALBYTES);
+
+              sodium.crypto_box_seal(ciphertext, message, key);
+              const encryptedToken = ciphertext.toString('base64');
+
+              await github.rest.actions.createOrUpdateRepoSecret({
+                ...context.repo, 
+                secret_name: 'THREADS_ACCESS_TOKEN',
+                encrypted_value: encryptedToken,
+                key_id: keyId,
+              });
+            } else {
+              core.error('Failed to fetch the public key. Unable to update secret');
+            }
