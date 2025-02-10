@@ -1,0 +1,45 @@
+name: Update Threads Access Token
+
+on:
+  schedule:
+    - cron: "0 0 */10 * *"  # Runs every 10 days at midnight
+  workflow_dispatch:  # Allows manual triggering from GitHub Actions UI
+
+jobs:
+  update-token:
+    runs-on: ubuntu-latest
+    environment: deployment
+    steps:
+      - name: Get long-lived Threads access token
+        run: |
+          # Use your existing short-lived access token and app secret
+          SHORT_LIVED_TOKEN=${{ secrets.THREADS_ACCESS_TOKEN }}
+          APP_SECRET=${{ secrets.THREADS_APP_SECRET }}
+          
+          # Exchange short-lived token for a long-lived token
+          RESPONSE=$(curl -i -X GET "https://graph.threads.net/access_token?grant_type=th_exchange_token&client_secret=$APP_SECRET&access_token=$SHORT_LIVED_TOKEN")
+          
+          # Extract the long-lived access token from the response
+          LONG_LIVED_TOKEN=$(echo "$RESPONSE" | grep -oP '(?<=access_token":")[^"]*')
+
+          if [ -z "$LONG_LIVED_TOKEN" ]; then
+            echo "Failed to retrieve long-lived token"
+            exit 1  # Fail fast if the token isn't found
+          fi
+
+          echo "Long-lived access token retrieved successfully."
+
+          # Save the long-lived token as a GitHub secret
+          echo "THREADS_ACCESS_TOKEN=$LONG_LIVED_TOKEN" >> $GITHUB_ENV
+
+      - name: Update GitHub Secret with new token
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            github.rest.actions.createOrUpdateRepoSecret({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              secret_name: "THREADS_ACCESS_TOKEN",
+              encrypted_value: process.env.THREADS_ACCESS_TOKEN
+            })
